@@ -40,15 +40,16 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.17
+Data available since: UD v2.18
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: fiction
-Lemmas: automatic with manual corrections
-UPOS: automatic with manual corrections
-XPOS: automatic
-Features: automatic with manual corrections
-Relations: automatic with manual corrections
+Lemmas: automatic with corrections
+UPOS: converted with corrections
+XPOS: automatic with corrections
+Features: automatic with corrections
+Relations: automatic with corrections
 Contributors: Lobzhanidze, Irina
 Contributing: here
 Contact: irina_lobzhanidze@iliauni.edu.ge
