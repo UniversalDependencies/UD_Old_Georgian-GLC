@@ -1,41 +1,43 @@
 # sent_id = GLC_00001
 # text = თითოეულნი ჩუენ შორისთა საქმეთაგანნი რაჟამს მართლიად ვიდოდინ კანონებრივისა კეთილად წესიერებისაებრ, არცა ერთისა შფოთისა მიზეზი იშვების ჩუენდა, ხოლო მიჴსნიან ჩუენ ვიეთისამე განსაკითხაობისაგანცა, უფროჲსღა კეთილად გონიერთამიერისა ქებისა მომატყუებელ მექმნებიან.
 # translit = tʻitʻoeulni čʻuen šoristʻa sakʻmetʻaganni ražams martʻliad vidodin kanonebrivisa ketʻilad cesierebisaebr, arcʻa ertʻisa špʻotʻisa mizezi išvebis čʻuenda, xolo mix̣snian čʻuen vietʻisame gansakitʻxaobisagancʻa, upʻroysġa ketʻilad goniertʻamierisa kʻebisa momatquebel mekʻmnebian.
-1	თითოეულნი	თითოეულნი	NOUN	Noun	Case=Nom|Number=Sing	2	amod	_	Translit=tʻitʻoeulni
-2	ჩუენ	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	4	obl	_	Translit=čʻuen
-3	შორისთა	შორისი	ADP	Post	AdpType=Post|Case=Dat	2	case	_	Translit=šoristʻa
+1	თითოეულნი	თითოეული	PRON	Noun	Case=Nom|Number=Plur|PronType=Tot	8	nsubj	_	Translit=tʻitʻoeulni
+2	ჩუენ	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	3	nmod	_	Translit=čʻuen
+3	შორისთა	შორისი	NOUN	Noun	Case=Gen|Number=Plur	4	nmod	_	Translit=šoristʻa
 4-5	საქმეთაგანნი	_	_	_	_	_	_	_	_
-4	საქმეთა	საქმე	NOUN	Noun	Case=Gen|Number=Plur	8	nsubj	_	Translit=sakʻmetʻa
-5	განნი	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	_	Translit=ganni
-6	რაჟამს	რაჟამი	NOUN	Noun	Case=Dat|Number=Sing	2	obj	_	Translit=ražams
+4	საქმეთა	საქმე	NOUN	Noun	Case=Gen|Number=Plur	1	nmod	_	Translit=sakʻmetʻa
+5	განნი	გან	ADP	Post	AdpType=Post|Case=Gen	4	case	_	Translit=ganni
+6	რაჟამს	რაჟამს	SCONJ	Conj	AdvType=Rel	8	mark	_	Translit=ražams
 7	მართლიად	მართლიად	ADV	Adv	AdvType=Man	8	advmod	_	Translit=martʻliad
-8	ვიდოდინ	მიდის	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	0	root	_	Translit=vidodin
-9	კანონებრივისა	კანონებრივა	NOUN	Noun	Case=Gen|Number=Sing	10	nmod	_	Translit=kanonebrivisa
-10	კეთილად	კეთილად	ADV	Adv	AdvType=Man	11	advmod	_	Translit=ketʻilad
-11	წესიერებისაებრ	წესიერებისაებრი	ADJ	Adj	Case=Dat|Number=Sing	2	obl	_	SpaceAfter=No|Translit=cesierebisaebr
-12	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
-13	არცა	არ	SCONJ	Conj	_	22	mark	_	Translit=arcʻa
-14	ერთისა	ერთი	PRON	Pron	Case=Gen|Number=Sing|PronType=Rcp	15	det	_	Translit=ertʻisa
-15	შფოთისა	შფოთი	NOUN	Noun	Case=Gen|Number=Sing	17	nmod	_	Translit=špʻotʻisa
-16	მიზეზი	მიზეზი	ADJ	Adj	Case=Gen|Number=Sing	17	nsubj	_	Translit=mizezi
-17	იშვების	იშვა	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	8	conj	_	Translit=išvebis
-18	ჩუენდა	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	17	obl	_	SpaceAfter=No|Translit=čʻuenda
-19	,	,	PUNCT	F	PunctType=Comm	20	punct	_	Translit=,
-20	ხოლო	ხოლო	CCONJ	Conj	_	21	cc	_	Translit=xolo
-21	მიჴსნიან	ჴსნის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	Translit=mix̣snian
-22	ჩუენ	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	10	advcl	_	Translit=čʻuen
-23	ვიეთისამე	ვიეთისამე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	24	det	_	Translit=vietʻisame
-24-25	განსაკითხაობისაგანცა	_	_	_	_	_	_	_	SpaceAfter=No	
-24	განსაკითხაობისა	განსაკითხაობა	NOUN	Noun	Case=Nom|Number=Sing	30	obj	_	Translit=gansakitʻxaobisa
-25	განცა	გან	ADP	Post	AdpType=Post|Case=Gen	30	case	_	SpaceAfter=No|Translit=gancʻa
-26	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
-27	უფროჲსღა	უფროჲსღა	NOUN	Noun	Case=Nom|Number=Sing	32	nsubj	_	Translit=upʻroysġa
-28	კეთილად	კეთილი	ADJ	Adj	Case=Ess|Number=Sing	29	amod	_	Translit=ketʻilad
-29	გონიერთამიერისა	გონიერთამიერი	NOUN	Noun	Case=Gen|Number=Sing	30	nmod	_	Translit=goniertʻamierisa
-30	ქებისა	ქი	NOUN	Noun	Case=Gen|Number=Plur	32	nmod	_	Translit=kʻebisa
-31	მომატყუებელ	მომატყუებელი	ADJ	Adj	Case=Dat|Number=Sing	32	amod	_	Translit=momatquebel
-32	მექმნებიან	ქმნის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	21	ccomp	_	SpaceAfter=No|Translit=mekʻmnebian
-33	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
+8	ვიდოდინ	ვლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=1|Tense=Imp|VerbForm=Fin|Voice=Act	18	advcl	_	Translit=vidodin
+9	კანონებრივისა	კანონებრივი	ADJ	Adj	Case=Gen|Number=Sing	11	amod	_	Translit=kanonebrivisa
+10	კეთილად	კეთილად	ADV	Adv	AdvType=Man	8	advmod	_	Translit=ketʻilad
+10-11	წესიერებისაებრ	_	_	_	_	_	_	_	SpaceAfter=No
+11	წესიერებისა	წესიერება	NOUN	Noun	Case=Gen|Number=Sing	8	obl	_	Translit=cesierebisa
+12	ებრ	ებრ	ADP	Conj	AdpType=Post|Case=Gen	11	case	_	Translit=ebr
+13	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
+14	არცა	არცა	PART	Part	PartType=Neg	18	advmod:neg	_	Translit=arcʻa
+15	ერთისა	ერთი	PRON	Adj	Case=Gen|Number=Sing|PronType=Ind	17	det	_	Translit=ertʻisa
+16	შფოთისა	შფოთი	NOUN	Noun	Case=Gen|Number=Sing	17	nmod	_	Translit=špʻotʻisa
+17	მიზეზი	მიზეზი	NOUN	Noun	Case=Nom|Number=Sing	18	nsubj	_	Translit=mizezi
+18	იშვების	იშვება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=išvebis
+19	ჩუენდა	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	18	iobj	_	SpaceAfter=No|Translit=čʻuenda
+20	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
+21	ხოლო	ხოლო	CCONJ	Conj	_	22	cc	_	Translit=xolo
+22	მიჴსნიან	ხსნა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Plur|Number[subj]=Plur|Person[io]=1|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	Translit=mix̣snian
+23	ჩუენ	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	22	iobj	_	Translit=čʻuen
+24	ვიეთისამე	ვიეთიმე	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	25	det	_	Translit=vietʻisame
+25-26	განსაკითხაობისაგანცა	_	_		_	_	_	_	_
+25	განსაკითხაობისა	განსაკითხაობა	NOUN	Noun	Case=Gen|Number=Sing	22	obl	_	Translit=gansakitʻxaobisa
+26	განცა	განცა	ADP	Post	AdpType=Post|Case=Gen|PartType=Emp	25	case	_	SpaceAfter=No|Translit=gancʻa
+27	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
+28	უფროჲსღა	უფროჲსღა	ADV	Adv	AdvType=Deg|PartType=Emp	29	advmod:emph	_	Translit=upʻroysġa
+29	კეთილად	კეთილად	ADV	Adv	AdvType=Man	33	advmod	_	Translit=ketʻilad
+30	გონიერთამიერისა	გონიერი	NOUN	Noun	Case=Gen|Number=Plur	31	nmod	_	Translit=goniertʻamierisa
+31	ქებისა	ქება	NOUN	Noun	Case=Gen|Number=Sing	32	nmod	_	Translit=kʻebisa
+32	მომატყუებელ	მომატყუებელი	VERB	Verb	VerbForm=Part	33	xcomp	_	Translit=momatquebel
+33	მექმნებიან	ქმნა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Plur|Number[subj]=Plur|Person[io]=1|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	SpaceAfter=No|Translit=mekʻmnebian
+34	.	.	PUNCT	F	PunctType=Peri	18	punct	_	Translit=.
 
 # sent_id = GLC_00002
 # text = რამეთუ ვინ არა შეწყნარებით მიითუალოს გამორჩევაჲ თუალუხუავი, რაჟამს იქმნას ვისთჳმე სიმართლით?
