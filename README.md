@@ -34,6 +34,8 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 * 2026-14-18 v2.17
   * Update to README.md
   * Addition of 150 test utterances 
+
+* 2025-11-15 v2.17
   * Initial release in Universal Dependencies.
 
 <pre>
