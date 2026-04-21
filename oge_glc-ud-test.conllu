@@ -7,7 +7,7 @@
 4-5	საქმეთაგანნი	_	_	_	_	_	_	_	_
 4	საქმეთა	საქმე	NOUN	Noun	Case=Gen|Number=Plur	1	nmod	_	Translit=sakʻmetʻa
 5	განნი	გან	ADP	Post	AdpType=Post|Case=Gen	4	case	_	Translit=ganni
-6	რაჟამს	რაჟამს	SCONJ	Conj	AdvType=Rel	8	mark	_	Translit=ražams
+6	რაჟამს	რაჟამს	ADV	Adv	AdvType=Tim	8	mark	_	Translit=ražams
 7	მართლიად	მართლიად	ADV	Adv	AdvType=Man	8	advmod	_	Translit=martʻliad
 8	ვიდოდინ	ვლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=1|Tense=Imp|VerbForm=Fin|Voice=Act	18	advcl	_	Translit=vidodin
 9	კანონებრივისა	კანონებრივი	ADJ	Adj	Case=Gen|Number=Sing	11	amod	_	Translit=kanonebrivisa
@@ -214,7 +214,7 @@
 4-5	გულისჴმის-ყოფაჲ	_	_	_	_	_	_	_	_
 4	გულისჴმის	გულისჴმა	NOUN	Noun	Case=Gen|Number=Sing	5	nmod	_	Translit=gulisxmis
 5	ყოფაჲ	ყოფა	NOUN	Noun	Case=Nom|Number=Sing	3	nsubj	_	Translit=qopay
-6	მისიცა	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs|PartType=Emp	5	nmod	_	SpaceAfter=No|Translit=misicʻa
+6	მისიცა	მისი	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Prs	5	nmod	_	SpaceAfter=No|Translit=misicʻa
 7	,	,	PUNCT	F	PunctType=Comm	3	punct	_	Translit=,
 8	რომელსა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	9	obj	_	Translit=romelsa
 9	იტყჳს	თქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	Translit=itqws
