@@ -27,7 +27,7 @@
 21	მიჴსნიან	ხსნა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Plur|Number[subj]=Plur|Person[io]=1|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	Translit=mix̣snian
 22	ჩუენ	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	21	iobj	_	Translit=čʻuen
 23	ვიეთისამე	ვიეთიმე	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	24	det	_	Translit=vietʻisame
-24-25	განსაკითხაობისაგანცა	_	_		_	_	_	_	SpaceAfter=No
+24-25	განსაკითხაობისაგანცა	_	_	_	_	_	_	SpaceAfter=No
 24	განსაკითხაობისა	განსაკითხაობა	NOUN	Noun	Case=Gen|Number=Sing	21	obl	_	Translit=gansakitʻxaobisa
 25	განცა	განცა	ADP	Post	AdpType=Post|Case=Gen|PartType=Emp	24	case	_	Translit=gancʻa
 26	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
