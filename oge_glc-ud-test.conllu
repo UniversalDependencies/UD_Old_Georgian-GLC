@@ -3681,7 +3681,7 @@
 16	განლაღებულთა	განლაღებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	11	conj	_	Translit=ganlaġebultʻa
 17	და	და	CCONJ	Conj	_	20	cc	_	Translit=da
 18	სიცრუვისა	სიცრუვე	NOUN	Noun	Case=Gen|Number=Sing	19	nmod	_	Translit=sicʻruvisa
-19	სიმაღლედ	სიმაღლე	NOUN	Noun	Case=Advb|Number=Sing	20	obl	_	Translit=simaġled
+19	სიმაღლედ	სიმაღლე	NOUN	Noun	Case=Ess|Number=Sing	20	obl	_	Translit=simaġled
 20	მეტყუელთასა	მეტყუელი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	11	conj	_	SpaceAfter=No|Translit=metqueltʻasa
 21	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
