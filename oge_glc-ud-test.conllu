@@ -542,7 +542,7 @@
 37-38	განგებისათჳს	_	_	_	_	_	_	_	_
 37	განგებისა	განგება	NOUN	Noun	Case=Gen|Number=Sing	35	nmod	_	Translit=gangebisa
 38	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	37	case	_	Translit=tʻws
-39	ჴელმწიფებასა	ჴელმწიფება	NOUN	Noun	Case=Dat|Number=Sing	40	obl	_	Translit=x̣elmcipʻebasa
+39	ჴელმწიფებასა	ჴელმწიფება	NOUN	Noun	Case=Dat|Number=Sing	35	nmod	_	Translit=x̣elmcipʻebasa
 40	მათსა	მათი	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	39	det:poss	_	Translit=matʻsa
 41	ქუეშე	ქუეშე	ADP	Post	AdpType=Post|Case=Dat	42	case	_	Translit=kʻueše
 42	მყოფთა	მყოფი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Act	43	amod	_	Translit=mqopʻtʻa
