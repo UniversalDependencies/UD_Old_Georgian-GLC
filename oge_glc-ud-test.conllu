@@ -416,7 +416,7 @@
 31	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	34	case	_	Translit=tʻwnier
 32	გარნა	გარნა	CCONJ	Conj	_	34	cc	_	Translit=garna
 33	თუ	თუ	SCONJ	Conj	_	36	mark	_	Translit=tʻu
-34	ვიეთისამე	ვიეთიმე	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	36	obl	_	Translit=vietʻisame
+34	ვიეთისამე	ვიეთიმე	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	36	nmod	_	Translit=vietʻisame
 35	არა	არა	PART	Part	PartType=Neg	36	advmod:neg	_	Translit=ara
 36	ინებებდეს	ნებება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	57	advcl	_	Translit=inebebdes
 37	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	36	nsubj	_	SpaceAfter=No|Translit=igi
@@ -432,12 +432,12 @@
 47	არცა	არცა	PART	Part	PartType=Neg	54	advmod:neg	_	Translit=arcʻa
 48	ერთისა	ერთი	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	49	det	_	Translit=ertʻisa
 49	ვის	ვინ	PRON	Pron	Case=Gen|Number=Sing|PronType=Int	54	obl	_	Translit=vis
-50	ღმრთისმოყუარეთა	ღმრთისმოყუარე	NOUN	Noun	Case=Gen|Number=Plur	52	nmod	_	Translit=ġmrtʻismoquaretʻa
+50	ღმრთისმოყუარეთა	ღმრთისმოყუარე	NOUN	Noun	Case=Gen|Number=Plur	51	nmod	_	Translit=ġmrtʻismoquaretʻa
 51-52	ეპისკოპოსთაგანისა	_	_	_	_	_	_	_	_
 51	ეპისკოპოსთა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Plur	53	nmod	_	Translit=episkopostʻa
 52	განისა	გან	ADP	Post	AdpType=Post|Case=Gen	51	case	_	Translit=ganisa
 53	ძმისა	ძმა	NOUN	Noun	Case=Gen|Number=Sing	54	obl	_	Translit=żmisa
-54	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Gen	55	obl	_	Translit=mimartʻ
+54	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Gen	53	case	_	Translit=mimartʻ
 55	ქონებაჲ	ქონება	NOUN	Noun	Case=Nom|Number=Sing	57	obj	_	Translit=kʻonebay
 56	მტერობისაჲ	მტერობა	NOUN	Noun	Case=Gen|Number=Sing	55	nmod	_	Translit=mterobisay
 57	ვირწმუნოთ	რწმუნება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	SpaceAfter=No|Translit=vircmunotʻ
