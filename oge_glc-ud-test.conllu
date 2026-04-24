@@ -729,8 +729,8 @@
 # sent_id = OGLC_00018
 # text = მისივე ლიბიელთა და ხუთქალაქელთა ეპისკოპოსთა მიმართ.
 # translit = misive libieltʻa da xutʻkʻalakʻeltʻa episkopostʻa mimartʻ.
-1	მისივე	მისი	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Prs	4	nmod	_	Translit=misive
-2	ლიბიელთა	ლიბიელი	ADJ	Adj	Case=Gen|Number=Plur	4	amod	_	Translit=libieltʻa
+1	მისივე	მისი	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Prs	2	nmod	_	Translit=misive
+2	ლიბიელთა	ლიბიელი	ADJ	Adj	Case=Gen|Number=Plur	5	amod	_	Translit=libieltʻa
 3	და	და	CCONJ	Conj	_	4	cc	_	Translit=da
 4	ხუთქალაქელთა	ხუთქალაქელი	ADJ	Adj	Case=Gen|Number=Plur	2	conj	_	Translit=xutʻkʻalakʻeltʻa
 5	ეპისკოპოსთა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Plur	0	root	_	Translit=episkopostʻa
