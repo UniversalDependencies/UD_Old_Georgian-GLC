@@ -869,7 +869,7 @@
 12	მოუჴდებიან	მოუჴდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=moux̣debian
 13	ჴელთდასხმითა	ჴელთდასხმა	NOUN	Noun	Case=Ins|Number=Sing	12	obl	_	Translit=x̣eltʻdasxmitʻa
 14	და	და	CCONJ	Conj	_	18	cc	_	SpaceAfter=No|Translit=da
-15	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
+15	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
 16	მღდელ	მღდელი	NOUN	Noun	Case=Nom|Number=Sing	18	xcomp	_	Translit=mġdel
 17	იქმნენ	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	16	cop	_	Translit=ikʻmnen
 18	რაჲ	რაჲ	PART	Part	_	20	advmod	_	SpaceAfter=No|Translit=ray
@@ -900,7 +900,7 @@
 40	ამას	ეს	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	41	obj	_	Translit=amas
 41	ჰყოფენ	ყოფა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	SpaceAfter=No|Translit=hqopʻen
 42	,	,	PUNCT	F	PunctType=Comm	41	punct	_	Translit=,
-43	ვიდრემდის	ვიდრემდის	SCONJ	Conj	_	49	mark	_	SpaceAfter=No|Translit=vidremdis
+43	ვიდრემდის	ვიდრემდის	SCONJ	Conj	_	41	mark	_	SpaceAfter=No|Translit=vidremdis
 44	,	,	PUNCT	F	PunctType=Comm	49	punct	_	Translit=,
 45	რომელთა	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	46	nsubj	_	Translit=romeltʻa
 46	უწყოდიან	ცოდნა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	49	acl:relcl	_	Translit=ucqodian
