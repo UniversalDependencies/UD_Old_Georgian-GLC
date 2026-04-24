@@ -612,14 +612,14 @@
 # sent_id = OGLC_00016
 # text = ხოლო მღდელობისაგან ჯმნისა ქარტათა არა თჳსით ნებსით, არამედ იძულებისაგან და შიშისა და სიქადულისა ვიეთისამე იტყჳს მიცემასა და რამეთუ არცა საეკლესიოთა წესთა მოწამე არს საქმე ესე, რაჲთამცა ქარტაჲ ჯმნისაჲ მიეჴადებოდა ვიეთმე სამღდელოჲსა პატივისა ღირსქმნულთა, რამეთუ უკუეთუ ღირსნი არიან მის მსახურებისანი, ეგნენ მას შინა, ხოლო უკუეთუ უღირსნი – ნუ ჯმნისა მიერ უცხო იქმნებიან მისგან, არამედ უფროჲსღა განკითხულნი საქმეთა მათ ზედა, რომელთაზედა მრავალნი ვინმე ღაღადებაჲ იჴუმიოს, ვითარცა ყოვლისა წესიერებისაგან განვრდომით დაკლებულთათჳს.
 # translit = xolo mġdelobisagan jmnisa kʻartatʻa ara tʻwsitʻ nebsitʻ, aramed iżulebisagan da šišisa da sikʻadulisa vietʻisame itqws micʻemasa da rametʻu arcʻa saeklesiotʻa cestʻa mocame ars sakʻme ese, raytʻamcʻa kʻartay jmnisay miex̣adeboda vietʻme samġdeloysa pativisa ġirskʻmnultʻa, rametʻu ukuetʻu ġirsni arian mis msaxurebisani, egnen mas šina, xolo ukuetʻu uġirsni – nu jmnisa mier ucʻxo ikʻmnebian misgan, aramed upʻroysġa gankitʻxulni sakʻmetʻa matʻ zeda, romeltʻazeda mravalni vinme ġaġadebay ix̣umios, vitʻarcʻa qovlisa cesierebisagan ganvrdomitʻ daklebultʻatʻws.
-1	ხოლო	ხოლო	CCONJ	Conj	_	14	cc	_	Translit=xolo
+1	ხოლო	ხოლო	CCONJ	Conj	_	18	cc	_	Translit=xolo
 2-3	მღდელობისაგან	_	_	_	_	_	_	_	_
 2	მღდელობისა	მღდელობა	NOUN	Noun	Case=Gen|Number=Sing	18	nmod	_	Translit=mġdelobisa
 3	გან	გან	ADP	Post	AdpType=Post|Case=Gen	2	case	_	Translit=gan
 4	ჯმნისა	ჯმნა	NOUN	Noun	Case=Gen|Number=Sing	5	nmod	_	Translit=jmnisa
 5	ქარტათა	ქარტაჲ	NOUN	Noun	Case=Gen|Number=Plur	18	obj	_	Translit=kʻartatʻa
 6	არა	არა	PART	Part	PartType=Neg	18	advmod:neg	_	Translit=ara
-7	თჳსით	თჳსი	PRON	Pron	Case=Ins|Number=Sing|PronType=Prs	8	obl	_	Translit=tʻwsitʻ
+7	თჳსით	თჳსი	PRON	Pron	Case=Ins|Number=Sing|PronType=Prs	8	nmod	_	Translit=tʻwsitʻ
 8	ნებსით	ნება	NOUN	Noun	Case=Ins|Number=Sing	18	nmod	_	SpaceAfter=No|Translit=nebsitʻ
 9	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
 10	არამედ	არამედ	CCONJ	Conj	_	11	cc	_	Translit=aramed
