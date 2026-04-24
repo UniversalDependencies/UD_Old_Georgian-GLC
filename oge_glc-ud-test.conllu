@@ -405,7 +405,7 @@
 20	ცხად	ცხად	ADV	Adv	AdvType=Man	21	advmod	_	Translit=cʻxad
 21	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	parataxis	_	Translit=ars
 22	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
-23	ვითარმედ	ვითარმედ	SCONJ	Conj	_	34	mark	_	Translit=vitʻarmed
+23	ვითარმედ	ვითარმედ	SCONJ	Conj	_	36	mark	_	Translit=vitʻarmed
 24	ჴელსა	ჴელი	NOUN	Noun	Case=Dat|Number=Sing	25	obl	_	Translit=x̣elsa
 25	ქუეშე	ქუეშე	ADP	Post	AdpType=Post|Case=Dat	27	obl	_	Translit=kʻueše
 26	შენსა	შენი	PRON	Pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	25	nmod	_	Translit=šensa
@@ -418,7 +418,7 @@
 33	თუ	თუ	SCONJ	Conj	_	36	mark	_	Translit=tʻu
 34	ვიეთისამე	ვიეთიმე	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	36	obl	_	Translit=vietʻisame
 35	არა	არა	PART	Part	PartType=Neg	36	advmod:neg	_	Translit=ara
-36	ინებებდეს	ნებება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	34	acl	_	Translit=inebebdes
+36	ინებებდეს	ნებება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	57	advcl	_	Translit=inebebdes
 37	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	36	nsubj	_	SpaceAfter=No|Translit=igi
 38	,	,	PUNCT	F	PunctType=Comm	34	punct	_	Translit=,
 39	ვითარცა	ვითარცა	SCONJ	Conj	_	42	mark	_	Translit=vitʻarcʻa
@@ -438,7 +438,7 @@
 52	განისა	გან	ADP	Post	AdpType=Post|Case=Gen	51	case	_	Translit=ganisa
 53	ძმისა	ძმა	NOUN	Noun	Case=Gen|Number=Sing	54	obl	_	Translit=żmisa
 54	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Gen	55	obl	_	Translit=mimartʻ
-55	ქონებაჲ	ქონება	NOUN	Noun	Case=Nom|Number=Sing	56	obj	_	Translit=kʻonebay
+55	ქონებაჲ	ქონება	NOUN	Noun	Case=Nom|Number=Sing	57	obj	_	Translit=kʻonebay
 56	მტერობისაჲ	მტერობა	NOUN	Noun	Case=Gen|Number=Sing	55	nmod	_	Translit=mterobisay
 57	ვირწმუნოთ	რწმუნება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	SpaceAfter=No|Translit=vircmunotʻ
 58	.	.	PUNCT	F	PunctType=Peri	11	punct	_	Translit=.
