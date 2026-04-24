@@ -188,7 +188,7 @@
 17	ესრეთ	ესრეთ	ADV	Adv	AdvType=Man	13	acl:relcl	_	Translit=esretʻ
 18	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	Translit=ars
 19	ჭეშმარიტებით	ჭეშმარიტება	NOUN	Noun	Case=Ins|Number=Sing	17	obl	_	SpaceAfter=No|Translit=češmaritebitʻ
-20	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
+20	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
 21	რამეთუ	რამეთუ	SCONJ	Conj	_	25	mark	_	Translit=rametʻu
 22	რეცა	რეცა	PART	Part	_	25	advmod	_	Translit=recʻa
 23	შეწყალებასა	შეწყალება	NOUN	Noun	Case=Dat|Number=Sing	25	obj	_	Translit=šecqalebasa
