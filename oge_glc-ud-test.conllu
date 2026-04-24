@@ -839,7 +839,7 @@
 21	გამოძიებით	გამოძიება	NOUN	Noun	Case=Ins|Number=Sing	22	obl	_	Translit=gamożiebitʻ
 22	მითხრობისა	მითხრობა	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Vnoun	23	obl	_	Translit=mitʻxrobisa
 23	ჴელთდასხმულ	ჴელთდასხმული	VERB	Verb	VerbForm=Part|Voice=Pass	12	conj	_	Translit=x̣eltʻdasxmul
-24	იქმნებიან	ქმნა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	23	aux	_	Translit=ikʻmnebian
+24	იქმნებიან	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	23	aux	_	Translit=ikʻmnebian
 25	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	23	obl	_	Translit=matʻ
 26	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	25	case	_	Translit=mier
 27	მოყუსად	მოყუსი	NOUN	Noun	Case=Ess|Number=Sing	23	xcomp	_	SpaceAfter=No|Translit=moqusad
