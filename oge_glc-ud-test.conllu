@@ -694,7 +694,7 @@
 76	ვითარცა	ვითარცა	SCONJ	Conj	_	80	mark	_	Translit=vitʻarcʻa
 77	ყოვლისა	ყოველი	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	78	det	_	Translit=qovlisa
 78-79	წესიერებისაგან	_	_	_	_	_	_	_	_
-78	წესიერებისა	წესიერება	NOUN	Noun	Case=Gen|Number=Sing	80	obl	_	Translit=cesierebisa
+78	წესიერებისა	წესიერება	NOUN	Noun	Case=Gen|Number=Sing	80	nmod	_	Translit=cesierebisa
 79	გან	გან	ADP	Post	AdpType=Post|Case=Gen	78	case	_	Translit=gan
 80	განვრდომით	განვრდომა	NOUN	Noun	Case=Ins|Number=Sing	74	nmod	_	Translit=ganvrdomitʻ
 81-82	დაკლებულთათჳს	_	_	_	_	_	_	_	SpaceAfter=No
@@ -712,7 +712,7 @@
 4	თანასა	თანა	ADP	Post	AdpType=Post|Case=Dat	3	case	_	Translit=tanasa
 5	ძმობასა	ძმობა	NOUN	Noun	Case=Dat|Number=Sing	1	iobj	_	Translit=żmobasa
 6-7	ჩემგან	_	_	_	_	_	_	_	_
-6	ჩემ	მე	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	11	nmod	_	Translit=čʻem
+6	ჩემ	მე	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	13	nmod	_	Translit=čʻem
 7	გან	გან	ADP	Post	AdpType=Post|Case=Gen	6	case	_	Translit=gan
 8	და	და	CCONJ	Conj	_	11	cc	_	Translit=da
 9-10	ჩემთანათა	_	_	_	_	_	_	_	_
