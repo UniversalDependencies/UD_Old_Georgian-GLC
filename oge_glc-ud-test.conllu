@@ -901,12 +901,12 @@
 41	ჰყოფენ	ყოფა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	SpaceAfter=No|Translit=hqopʻen
 42	,	,	PUNCT	F	PunctType=Comm	41	punct	_	Translit=,
 43	ვიდრემდის	ვიდრემდის	SCONJ	Conj	_	41	mark	_	SpaceAfter=No|Translit=vidremdis
-44	,	,	PUNCT	F	PunctType=Comm	49	punct	_	Translit=,
+44	,	,	PUNCT	F	PunctType=Comm	46	punct	_	Translit=,
 45	რომელთა	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	46	nsubj	_	Translit=romeltʻa
 46	უწყოდიან	ცოდნა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	49	acl:relcl	_	Translit=ucqodian
 47	საქმენი	საქმე	NOUN	Noun	Case=Nom|Number=Plur	46	obj	_	Translit=sakʻmeni
 48	მათნი	ის	PRON	Pron	Case=Nom|Number=Plur|PronType=Prs	47	det	_	SpaceAfter=No|Translit=matʻni
-49	,	,	PUNCT	F	PunctType=Comm	51	punct	_	Translit=,
+49	,	,	PUNCT	F	PunctType=Comm	50	punct	_	Translit=,
 50	იჯმნიან	იჯმნის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	41	conj	_	Translit=ijmnian
 51-52	ჟამისწირვათაგანცა	_	_	_	_	_	_	_	_
 51	ჟამისწირვათა	ჟამისწირვა	NOUN	Noun	Case=Gen|Number=Plur	50	obl	_	Translit=žamiscirvatʻa
@@ -914,9 +914,9 @@
 53	და	და	CCONJ	Conj	_	59	cc	_	Translit=da
 54	რა	რა	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	55	obj	_	Translit=ra
 55-56	თავს-იდებენ	_	_	_	_	_	_	_	_
-55	თავს	თავი	NOUN	Noun	Case=Dat|Number=Sing	56	obj	_	Translit=tʻavs
-56	იდებენ	დებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	59	advcl	_	Translit=ideben
-57	ზიარებასა	ზიარება	NOUN	Noun	Case=Dat|Number=Sing	56	obj	_	SpaceAfter=No|Translit=ziarebasa
+55	თავს	თავი	NOUN	Noun	Case=Dat|ExtPos=NOUN|Number=Sing	56	advcl	_	Translit=tʻavs
+56	იდებენ	დებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	55	fixed	_	Translit=ideben
+57	ზიარებასა	ზიარება	NOUN	Noun	Case=Dat|Number=Sing	55	obj	_	SpaceAfter=No|Translit=ziarebasa
 58	,	,	PUNCT	F	PunctType=Comm	59	punct	_	Translit=,
 59	ჟამისმწირველობდენ	ჟამისმწირველობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	50	conj	_	Translit=žamismcirvelobden
 60	რაჲ	რაჲ	PART	Part	_	59	advmod	_	Translit=ray
