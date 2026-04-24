@@ -651,7 +651,7 @@
 35	სამღდელოჲსა	სამღდელოჲ	ADJ	Adj	Case=Gen|Number=Sing	36	amod	_	Translit=samġdeloysa
 36	პატივისა	პატივი	NOUN	Noun	Case=Gen|Number=Sing	37	nmod	_	Translit=pativisa
 37	ღირსქმნულთა	ღირსქმნული	VERB	Verb	Case=Dat|Number=Plur|VerbForm=Part|Voice=Pass	33	obl	_	SpaceAfter=No|Translit=ġirskʻmnultʻa
-38	,	,	PUNCT	F	PunctType=Comm	42	punct	_	Translit=,
+38	,	,	PUNCT	F	PunctType=Comm	39	punct	_	Translit=,
 39	რამეთუ	რამეთუ	SCONJ	Conj	_	56	mark	_	Translit=rametʻu
 40	უკუეთუ	უკუეთუ	SCONJ	Conj	_	41	mark	_	Translit=ukuetʻu
 41	ღირსნი	ღირსი	ADJ	Adj	Case=Nom|Number=Plur	33	advcl	_	Translit=ġirsni
@@ -673,9 +673,9 @@
 57	უცხო	უცხო	ADJ	Adj	Case=Nom|Number=Plur	58	xcomp	_	Translit=ucʻxo
 58	იქმნებიან	ქმნა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	46	conj	_	Translit=ikʻmnebian
 59-60	მისგან	_	_	_	_	_	_	_	SpaceAfter=No
-59	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	61	obl	_	Translit=mis
+59	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	58	obl	_	Translit=mis
 60	გან	გან	ADP	Post	AdpType=Post|Case=Gen	59	case	_	Translit=gan
-61	,	,	PUNCT	F	PunctType=Comm	63	punct	_	Translit=,
+61	,	,	PUNCT	F	PunctType=Comm	62	punct	_	Translit=,
 62	არამედ	არამედ	CCONJ	Conj	_	64	cc	_	Translit=aramed
 63	უფროჲსღა	უფროჲ	ADJ	Adj	Case=Gen|PartType=Emp	64	advmod:emph	_	Translit=upʻroysġa
 64	განკითხულნი	განკითხული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	58	conj	_	Translit=gankitʻxulni
@@ -696,7 +696,7 @@
 78-79	წესიერებისაგან	_	_	_	_	_	_	_	_
 78	წესიერებისა	წესიერება	NOUN	Noun	Case=Gen|Number=Sing	80	obl	_	Translit=cesierebisa
 79	გან	გან	ADP	Post	AdpType=Post|Case=Gen	78	case	_	Translit=gan
-80	განვრდომით	განვრდომა	NOUN	Noun	Case=Ins|Number=Sing	74	obl	_	Translit=ganvrdomitʻ
+80	განვრდომით	განვრდომა	NOUN	Noun	Case=Ins|Number=Sing	74	nmod	_	Translit=ganvrdomitʻ
 81-82	დაკლებულთათჳს	_	_	_	_	_	_	_	SpaceAfter=No
 81	დაკლებულთა	დაკლებული	NOUN	Noun	Case=Gen|Number=Plur	74	advcl	_	Translit=daklebultʻa
 82	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	81	case	_	Translit=tʻws
