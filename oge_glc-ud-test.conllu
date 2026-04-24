@@ -903,7 +903,7 @@
 43	ვიდრემდის	ვიდრემდის	SCONJ	Conj	_	41	mark	_	SpaceAfter=No|Translit=vidremdis
 44	,	,	PUNCT	F	PunctType=Comm	45	punct	_	Translit=,
 45	რომელთა	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	46	nsubj	_	Translit=romeltʻa
-46	უწყოდიან	ცოდნა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	49	acl:relcl	_	Translit=ucqodian
+46	უწყოდიან	ცოდნა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	50	acl:relcl	_	Translit=ucqodian
 47	საქმენი	საქმე	NOUN	Noun	Case=Nom|Number=Plur	46	obj	_	Translit=sakʻmeni
 48	მათნი	ის	PRON	Pron	Case=Nom|Number=Plur|PronType=Prs	47	det	_	SpaceAfter=No|Translit=matʻni
 49	,	,	PUNCT	F	PunctType=Comm	50	punct	_	Translit=,
@@ -983,10 +983,10 @@
 54	უკუეთუ	უკუეთუ	SCONJ	Conj	_	56	mark	_	Translit=ukuetʻu
 55	არა	არა	PART	Part	PartType=Neg	56	advmod:neg	_	Translit=ara
 56-57	განჴდილთაგანი	_	_	_	_	_	_	_	_
-56	განჴდილთა	განჴდილი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	56	nsubj	_	Translit=ganx̣diltʻa
+56	განჴდილთა	განჴდილი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	58	nmod	_	Translit=ganx̣diltʻa
 57	განი	გან	ADP	Post	AdpType=Post|Case=Gen	56	case	_	Translit=gani
-58	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	56	nmod	_	Translit=vinme
-59	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	56	cop	_	Translit=ars
+58	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	49	conj	_	Translit=vinme
+59	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	58	cop	_	Translit=ars
 60	ანუ	ანუ	CCONJ	Conj	_	63	cc	_	Translit=anu
 61	სხჳსა	სხჳსი	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	62	nmod	_	Translit=sxwsa
 62	ღმრთიმსახურისა	ღმრთიმსახური	NOUN	Noun	Case=Gen|Number=Sing	63	nmod	_	Translit=ġmrtʻimsaxurisa
@@ -1001,7 +1001,7 @@
 69	და	და	CCONJ	Conj	_	71	cc	_	Translit=da
 70	მაშინღა	მაშინღა	ADV	Adv	AdvType=Tim|PartType=Emp	71	advmod	_	Translit=mašinġa
 71	ჴელთდასხმულ	ჴელთდასხმული	VERB	Verb	VerbForm=Part|Voice=Pass	15	conj	_	Translit=x̣eltʻdasxmul
-72	იქმნებოდედ	ქმნა	AUX	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Pass	71	aux	_	SpaceAfter=No|Translit=ikʻmneboded
+72	იქმნებოდედ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Pass	71	aux	_	SpaceAfter=No|Translit=ikʻmneboded
 73	,	,	PUNCT	F	PunctType=Comm	71	punct	_	Translit=,
 74	უმიზეზოდ	უმიზეზოდ	ADV	Adv	AdvType=Man	76	advmod	_	Translit=umizezod
 75	რაჲ	რაჲ	PART	Part	_	76	advmod	_	Translit=ray
