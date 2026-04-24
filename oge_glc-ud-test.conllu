@@ -509,8 +509,8 @@
 5	პირთა	პირი	NOUN	Noun	Case=Gen|Number=Plur	3	obl	_	Translit=pirtʻa
 6	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	5	case	_	Translit=tʻwis
 7	:	:	PUNCT	F	PunctType=Colo	3	punct	_	Translit=:
-8	პირველად	პირველად	ADV	Adv	AdvType=Tim	21	advmod	_	Translit=pirvelad
-9	უკუე	უკუე	ADV	Adv	_	21	advmod	_	SpaceAfter=No|Translit=ukue
+8	პირველად	პირველად	ADV	Adv	AdvType=Tim	14	advmod	_	Translit=pirvelad
+9	უკუე	უკუე	ADV	Adv	_	14	advmod	_	SpaceAfter=No|Translit=ukue
 10	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
 11	რამეთუ	რამეთუ	SCONJ	Conj	_	21	mark	_	Translit=rametʻu
 12	არცა	არცა	PART	Part	PartType=Neg	14	advmod:neg	_	Translit=arcʻa
@@ -523,7 +523,7 @@
 18	ესევითარისაჲ	ესევითარი	ADJ	Adj	Case=Gen|Number=Sing	16	nmod	_	SpaceAfter=No|Translit=esevitʻarisay
 19	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
 20	რომელი	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	21	nsubj	_	Translit=romeli
-21	შეაწუხებს	შეწუხება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl	_	Translit=šeacuxebs
+21	შეაწუხებს	შეწუხება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	csubj	_	Translit=šeacuxebs
 22	ფრიად	ფრიად	ADV	Adv	AdvType=Man	21	advmod	_	Translit=pʻriad
 23	და	და	CCONJ	Conj	_	26	cc	_	Translit=da
 24	უკუანაჲსკნელსა	უკუანაჲსკნელი	ADJ	Adj	Case=Dat|Number=Sing	26	amod	_	Translit=ukuanaysknelsa
@@ -568,7 +568,7 @@
 61	სიტყუაჲ	სიტყუაჲ	NOUN	Noun	Case=Nom|Number=Sing	60	obj	_	Translit=sitquay
 62	მსაჯულსა	მსაჯული	NOUN	Noun	Case=Dat|Number=Sing	60	iobj	_	Translit=msajulsa
 63	ყოველთასა	ყოველი	PRON	Pron	Case=Gen|Number=Plur|PronType=Tot	62	nmod	_	SpaceAfter=No|Translit=qoveltʻasa
-64	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
+64	.	.	PUNCT	F	PunctType=Peri	14	punct	_	Translit=.
 
 # sent_id = OGLC_00015
 # text = ხოლო საჭურჭელსა უკუე ეკლესიისასა და სიწმიდისა სამსახურებელად ჭურჭელთა და უძრავთა საქონელთაჲ წარუგებელად და განუბნეველად ჯერ-არს დამარხვაჲ, ხოლო ჟამად-ჟამადთა შემოსავალთა და წარსაგებელთა განგებასა მინდობაჲ მათი, რომელთადა წმიდისა მღდელობისა მთავრობაჲ ჴელთდებულ იყოს.
