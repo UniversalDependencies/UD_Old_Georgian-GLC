@@ -470,12 +470,12 @@
 20-21	ჯერ-არს	_	_	_	_	_	_	_	_
 20	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	21	advmod	_	Translit=jer
 21	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=ars
-22	შესაკრბელსა	შესაკრბელი	NOUN	Noun	Case=Dat|Number=Sing	25	obl	_	Translit=šesakrbelsa
+22	შესაკრბელსა	შესაკრბელი	NOUN	Noun	Case=Dat|Number=Sing	25	nmod	_	Translit=šesakrbelsa
 23	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	22	det	_	Translit=mas
 24	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	22	case	_	Translit=šina
 25	ყოფაჲ	ყოფა	NOUN	Noun	Case=Nom|Number=Sing	21	nsubj	_	Translit=qopʻay
 26	მათი	მათი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	25	nmod	_	SpaceAfter=No|Translit=matʻi
-27	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
+27	,	,	PUNCT	F	PunctType=Comm	30	punct	_	Translit=,
 28	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	30	obl	_	Translit=romeltʻa
 29	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Gen	28	case	_	Translit=mimartʻ
 30	აქუნდეს	ქონება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	25	acl:relcl	_	Translit=akʻundes
@@ -490,7 +490,7 @@
 # translit = xolo usamartʻlod mitacʻebultʻa misgan sax̣martʻay kualadkʻcʻevay.
 1	ხოლო	ხოლო	CCONJ	Conj	_	7	cc	_	Translit=xolo
 2	უსამართლოდ	უსამართლო	ADV	Adv	AdvType=Man	3	advmod	_	Translit=usamartʻlod
-3	მიტაცებულთა	მიტაცებული	NOUN	Noun	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	7	amod	_	Translit=mitacʻebultʻa
+3	მიტაცებულთა	მიტაცებული	NOUN	Noun	Case=Gen|Number=Plur	7	amod	_	Translit=mitacʻebultʻa
 4-5	მისგან	_	_	_	_	_	_	_	_
 4	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	obl	_	Translit=mis
 5	გან	გან	ADP	Post	AdpType=Post|Case=Gen	4	case	_	Translit=gan
