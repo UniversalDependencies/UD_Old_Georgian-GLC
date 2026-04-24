@@ -878,7 +878,7 @@
 21	მონასტერთა	მონასტერი	NOUN	Noun	Case=Dat|Number=Plur	20	obl	_	Translit=monastertʻa
 22	მათ	ის	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	21	det	_	SpaceAfter=No|Translit=matʻ
 23	,	,	PUNCT	F	PunctType=Comm	26	punct	_	Translit=,
-24-25	რომელთაგანცა	_	_	_	_	_	_	_	SpaceAfter=No
+24-25	რომელთაგანცა	_	_	_	_	_	_	_	_
 24	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	26	obl	_	Translit=romeltʻa
 25	განცა	გან	ADP	Post	AdpType=Post|Case=Gen|PartType=Emp	24	case	_	Translit=gancʻa
 26	განისხნეს	განისხნა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	21	acl:relcl	_	SpaceAfter=No|Translit=ganisxnes
