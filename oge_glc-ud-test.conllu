@@ -98,7 +98,7 @@
 18	ყოვლად	ყოვლად	ADV	Adv	AdvType=Man	19	advmod	_	Translit=qovlad
 19	ღირსისა	ღირსი	ADJ	Adj	Case=Gen|Number=Sing	23	amod	_	Translit=ġirsisa
 20	და	და	CCONJ	Conj	_	21	cc	_	Translit=da
-21	უფროჲსადღა	ADJ	Adj	Case=Ess|Case[stack]=Gen|PartType=Emp	22	amod	_	Translit=upʻroysadġa
+21	უფროჲსადღა	უფროჲ	ADJ	Adj	Case=Ess|Case[stack]=Gen|PartType=Emp	22	amod	_	Translit=upʻroysadġa
 22	ღმრთისმოყუარისა	ღმრთისმოყუარე	NOUN	Noun	Case=Gen|Number=Sing	23	nmod	_	Translit=ġmrtʻismoquarisa
 23	ძმისა	ძმა	NOUN	Noun	Case=Gen|Number=Sing	31	obl	_	Translit=żmisa
 24	და	და	CCONJ	Conj	_	25	cc	_	Translit=da
@@ -157,17 +157,14 @@
 18	წინადგომასა	წინადგომა	VERB	Verb	VerbForm=Vnoun	16	xcomp	_	Translit=cinadgomasa
 19	საღმრთოჲსა	საღმრთოჲ	ADJ	Adj	Case=Gen|Number=Sing	20	amod	_	Translit=saġmrtʻoysa
 20	საკურთხეველისასა	საკურთხეველი	NOUN	Noun	Case=Gen|Number=Sing	18	nmod	_	SpaceAfter=No|Translit=sakurtʻxevelisasa
-21	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
-22-24	არცაღათუ	_	_	_	_	_	_	_	_
-22	არცა	არცა	PART	Part	PartType=Neg	28	advmod:neg	_	Translit=arcʻa
-23	ღა	ღა	PART	Part	PartType=Emp	22	fixed	_	Translit=ġa
-24	თუ	თუ	PART	Part	_	22	fixed	_	Translit=tʻu
-25	თჳთ	თჳთ	PART	Part	PartType=Emp	26	advmod:emph	_	Translit=tʻwtʻ
-26	წოდებითა	წოდება	NOUN	Noun	Case=Ins|Number=Sing	28	obl	_	Translit=codebitʻa
-27	ეპისკოპოსობისაჲთა	ეპისკოპოსობა	NOUN	Noun	Case=Ins|Number=Sing	26	nmod	_	Translit=episkoposobisaytʻa
-28	პატივსცემაჲ	პატივსცემაჲ	NOUN	Noun	Case=Nom|Number=Sing	16	conj	_	Translit=pativscʻemay
-29	მისი	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	28	det:poss	_	SpaceAfter=No|Translit=misi
-30	.	.	PUNCT	F	PunctType=Peri	11	punct	_	Translit=.
+21	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
+22	არცაღათუ	არცა	PART	Part	PartType=Neg	26	advmod:neg	_	Translit=arcʻaġatʻu
+23	თჳთ	თჳთ	PART	Part	PartType=Emp	24	advmod:emph	_	Translit=tʻwtʻ
+24	წოდებითა	წოდება	NOUN	Noun	Case=Ins|Number=Sing	26	obl	_	Translit=codebitʻa
+25	ეპისკოპოსობისაჲთა	ეპისკოპოსობა	NOUN	Noun	Case=Ins|Number=Sing	24	nmod	_	Translit=episkoposobisaytʻa
+26	პატივსცემაჲ	პატივსცემაჲ	NOUN	Noun	Case=Nom|Number=Sing	16	conj	_	Translit=pativscʻemay
+27	მისი	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	26	det:poss	_	SpaceAfter=No|Translit=misi
+28	.	.	PUNCT	F	PunctType=Peri	11	punct	_	Translit=.
 
 # sent_id = OGLC_00006
 # text = არამედ ნუუკუე და ფიცხლად და ძმათ უყუარულად აღუჩნდეს ღმრთისმოყუარებასა შენსა ჩემი ესე სიტყუაჲ, რომელი არა ესრეთ არს ჭეშმარიტებით, რამეთუ რეცა შეწყალებასა ვითამე ვჰგონებთ მოხუცებულისასა მხოლოდ სახელისა ოდენ დამტევებელნი მისდა.
