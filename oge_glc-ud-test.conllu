@@ -411,7 +411,7 @@
 26	შენსა	შენი	PRON	Pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	25	nmod	_	Translit=šensa
 27	მყოფთა	მყოფი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Act	29	amod	_	Translit=mqopʻtʻa
 28	ღმრთისმოშიშთა	ღმრთისმოშიში	ADJ	Adj	Case=Gen|Number=Plur	29	amod	_	Translit=ġmrtʻismošištʻa
-29	ეპისკოპოსთასა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Plur	34	obl	_	SpaceAfter=No|Translit=episkopostʻasa
+29	ეპისკოპოსთასა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Plur	34	nmod	_	SpaceAfter=No|Translit=episkopostʻasa
 30	,	,	PUNCT	F	PunctType=Comm	29	punct	_	Translit=,
 31	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	34	case	_	Translit=tʻwnier
 32	გარნა	გარნა	CCONJ	Conj	_	34	cc	_	Translit=garna
