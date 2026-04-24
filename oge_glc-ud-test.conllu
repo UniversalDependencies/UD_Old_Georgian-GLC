@@ -800,11 +800,11 @@
 26	მათთა	ის	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	25	det	_	SpaceAfter=No|Translit=matʻtʻa
 27	,	,	PUNCT	F	PunctType=Comm	28	punct	_	Translit=,
 28	მითხრეს	თქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	SpaceAfter=No|Translit=mitʻxres
-29	,	,	PUNCT	F	PunctType=Comm	33	punct	_	Translit=,
+29	,	,	PUNCT	F	PunctType=Comm	30	punct	_	Translit=,
 30	ვითარმედ	ვითარმედ	SCONJ	Conj	_	33	mark	_	Translit=vitʻarmed
-31	მრავალნი	მრავალი	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	33	nsubj	_	Translit=mravalni
+31	მრავალნი	მრავალი	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	32	nsubj	_	Translit=mravalni
 32	დაჰბრკოლდებიან	დაჰბრკოლდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Fut|VerbForm=Fin|Voice=Pass	28	ccomp	_	Translit=dahbrkoldebian
-33	ესევითარისა	ესევითარი	ADJ	Adj	Case=Gen|Number=Sing	35	amod	_	Translit=esevitʻarisa
+33	ესევითარისა	ესევითარი	ADJ	Adj	Case=Gen|Number=Sing	34	amod	_	Translit=esevitʻarisa
 34-35	მიზეზისათჳს	_	_	_	_	_	_	_	SpaceAfter=No
 34	მიზეზისა	მიზეზი	NOUN	Noun	Case=Gen|Number=Sing	32	obl	_	Translit=mizezisa
 35	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	34	case	_	Translit=tʻws
