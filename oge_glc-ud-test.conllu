@@ -537,7 +537,7 @@
 32	მყოფთა	მყოფი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Act	35	amod	_	Translit=mqopʻtʻa
 33	ღმრთისმოყუარეთა	ღმრთისმოყუარე	NOUN	Noun	Case=Gen|Number=Plur	35	nmod	_	Translit=ġmrtʻismoquaretʻa
 34	ეპისკოპოსთა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Plur	35	nmod	_	Translit=episkopostʻa
-35	მიჴდაჲ	მიჴდაჲ	NOUN	Noun	Case=Nom|Number=Sing	21	nsubj:outer	_	Translit=mix̣day
+35	მიჴდაჲ	მიჴდაჲ	NOUN	Noun	Case=Nom|Number=Sing	21	nsubj	_	Translit=mix̣day
 36	სიტყჳსაჲ	სიტყუაჲ	NOUN	Noun	Case=Nom|Number=Sing	35	nmod	_	Translit=sitqwsay
 37-38	განგებისათჳს	_	_	_	_	_	_	_	_
 37	განგებისა	განგება	NOUN	Noun	Case=Gen|Number=Sing	35	nmod	_	Translit=gangebisa
@@ -564,7 +564,7 @@
 57	ჩუენმან	ჩუენი	PRON	Pron	Case=Erg|Number=Plur|Person=1|PronType=Prs	56	nmod	_	Translit=čʻuenman
 58	თჳსსა	თჳსი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	59	det:poss	_	Translit=tʻwssa
 59	ჟამსა	ჟამი	NOUN	Noun	Case=Dat|Number=Sing	61	obl	_	Translit=žamsa
-60	მისცეს	მიცემა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Aor|VerbForm=Fin|Voice=Act	21	advcl	_	Translit=miscʻes
+60	მისცეს	მიცემა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	21	advcl	_	Translit=miscʻes
 61	სიტყუაჲ	სიტყუაჲ	NOUN	Noun	Case=Nom|Number=Sing	60	obj	_	Translit=sitquay
 62	მსაჯულსა	მსაჯული	NOUN	Noun	Case=Dat|Number=Sing	60	iobj	_	Translit=msajulsa
 63	ყოველთასა	ყოველი	PRON	Pron	Case=Gen|Number=Plur|PronType=Tot	62	nmod	_	SpaceAfter=No|Translit=qoveltʻasa
