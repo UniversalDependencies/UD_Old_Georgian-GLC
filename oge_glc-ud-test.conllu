@@ -279,7 +279,7 @@
 32	თავისუფალ	თავისუფალი	ADJ	Adj	Case=Nom|Number=Sing	33	xcomp	_	Translit=tʻavisupʻal
 33	ჰყოფს	ყოფა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	Translit=hqopʻs
 34-35	მათგან	_	_	_	_	_	_	_	_
-34	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	35	obl	_	Translit=matʻ
+34	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	33	obl	_	Translit=matʻ
 35	გან	გან	ADP	Post	AdpType=Post|Case=Gen	34	case	_	Translit=gan
 36	და	და	CCONJ	Conj	_	38	cc	_	Translit=da
 37	კუალად	კუალად	ADV	Adv	_	38	advmod	_	Translit=kualad
@@ -320,9 +320,9 @@
 17	მოწევნასა	მოწევნა	NOUN	Noun	Case=Dat|Number=Sing	15	obj	_	Translit=mocevnasa
 18	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	19	nmod	_	Translit=mis
 19	ზედა	ზედა	ADP	Post	AdpType=Post|Case=Gen	17	obl	_	Translit=zeda
-20	და	და	CCONJ	Conj	_	23	cc	_	Translit=da
-21	უწესოდ	უწესოდ	ADV	Adv	AdvType=Man	23	advmod	_	Translit=ucesod
-22	განდევნილობასა	განდევნილობა	NOUN	Noun	Case=Dat|Number=Sing	23	obj	_	Translit=gandevnilobasa
+20	და	და	CCONJ	Conj	_	24	cc	_	Translit=da
+21	უწესოდ	უწესოდ	ADV	Adv	AdvType=Man	24	advmod	_	Translit=ucesod
+22	განდევნილობასა	განდევნილობა	NOUN	Noun	Case=Dat|Number=Sing	24	obj	_	Translit=gandevnilobasa
 23	თჳსსა	თჳსი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	22	det:poss	_	Translit=tʻwssa
 24	იტყჳს	თქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	SpaceAfter=No|Translit=itqws
 25	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
@@ -347,7 +347,7 @@
 2	უკუე	უკუე	ADV	Adv	_	27	advmod	_	Translit=ukue
 3	ღირსებამან	ღირსება	NOUN	Noun	Case=Erg|Number=Sing	27	nsubj	_	Translit=ġirsebaman
 4	შენმან	შენი	PRON	Pron	Case=Erg|Number=Sing|Person=2|PronType=Prs	3	det:poss	_	SpaceAfter=No|Translit=šenman
-5	,	,	PUNCT	F	PunctType=Comm	27	punct	_	Translit=,
+5	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
 6	ვითარცა	ვითარცა	SCONJ	Conj	_	8	mark	_	Translit=vitʻarcʻa
 7	ზედამიწევნით	ზედამიწევნით	ADV	Adv	AdvType=Man	8	advmod	_	Translit=zedamicevnitʻ
 8	მეცნიერმან	მეცნიერი	ADJ	Adj	Case=Erg|Number=Sing	3	acl	_	Translit=mecʻnierman
