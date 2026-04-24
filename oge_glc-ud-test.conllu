@@ -659,7 +659,7 @@
 43	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	44	nmod	_	Translit=mis
 44	მსახურებისანი	მსახურება	NOUN	Noun	Case=Nom|Case[stack]=Gen|Number=Plur	41	nsubj	_	SpaceAfter=No|Translit=msaxurebisani
 45	,	,	PUNCT	F	PunctType=Comm	56	punct	_	Translit=,
-46	ეგნენ	ყოფა	VERB	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	56	conj	_	Translit=egnen
+46	ეგნენ	ყოფა	VERB	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	advcl	_	Translit=egnen
 47	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	48	obl	_	Translit=mas
 48	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	46	obl	_	SpaceAfter=No|Translit=šina
 49	,	,	PUNCT	F	PunctType=Comm	56	punct	_	Translit=,
