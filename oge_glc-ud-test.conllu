@@ -914,7 +914,7 @@
 53	და	და	CCONJ	Conj	_	55	cc	_	Translit=da
 54	რა	რა	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	55	nmod	_	Translit=ra
 55-56	თავს-იდებენ	_	_	_	_	_	_	_	_
-55	თავს	თავი	NOUN	Noun	Case=Dat|ExtPos=PRON|Number=Sing	50	conj	_	Translit=tʻavs
+55	თავს	თავი	PRON	Pron	Case=Dat|ExtPos=PRON|Number=Sing|Person=3|Poss=Yes|PronType=Prs	50	conj	_	Translit=tʻavs
 56	იდებენ	დებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	55	fixed	_	Translit=ideben
 57	ზიარებასა	ზიარება	NOUN	Noun	Case=Dat|Number=Sing	55	obj	_	SpaceAfter=No|Translit=ziarebasa
 58	,	,	PUNCT	F	PunctType=Comm	59	punct	_	Translit=,
