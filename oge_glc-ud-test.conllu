@@ -523,7 +523,7 @@
 18	ესევითარისაჲ	ესევითარი	ADJ	Adj	Case=Gen|Number=Sing	16	nmod	_	SpaceAfter=No|Translit=esevitʻarisay
 19	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
 20	რომელი	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	21	nsubj	_	Translit=romeli
-21	შეაწუხებს	შეწუხება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	csubj	_	Translit=šeacuxebs
+21	შეაწუხებს	შეწუხება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl	_	Translit=šeacuxebs
 22	ფრიად	ფრიად	ADV	Adv	AdvType=Man	21	advmod	_	Translit=pʻriad
 23	და	და	CCONJ	Conj	_	28	cc	_	Translit=da
 24	უკუანაჲსკნელსა	უკუანაჲსკნელი	ADJ	Adj	Case=Dat|Number=Sing	26	amod	_	Translit=ukuanaysknelsa
