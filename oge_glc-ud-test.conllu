@@ -754,7 +754,7 @@
 12	განმამტკიცებელსა	განმამტკიცებელი	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Part	9	conj	_	Translit=ganmamtkicʻebelsa
 13	ეკლესიათასა	ეკლესია	NOUN	Noun	Case=Gen|Number=Plur	12	obj	_	SpaceAfter=No|Translit=eklesiatʻasa
 14	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
-15	რამეთუ	რამეთუ	SCONJ	Conj	_	17	mark	_	Translit=rametʻu
+15	რამეთუ	რამეთუ	SCONJ	Conj	_	16	mark	_	Translit=rametʻu
 16	წერილ	წერილ	VERB	Verb	VerbForm=Part|Voice=Pass	3	advcl	_	Translit=ceril
 17	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	aux	_	SpaceAfter=No|Translit=ars
 18	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
@@ -771,19 +771,19 @@
 # text = რამეთუ მამანი მონასტერთანი სამთავროჲსაგან თიოველთაჲსა კაცნი განკრძალულნი და საკჳრველისა მოქალაქობისა მქონებელნი მო-რაჲ-ვიდეს ალექსანდრიად და იკითხვებოდეს ჩემ მიერ, თუ ვითარი დაწყნარებაჲ მოუგიეს მონასტერთა მათთა, მითხრეს, ვითარმედ მრავალნი დაჰბრკოლდებიან ესევითარისა მიზეზისათჳს.
 # translit = rametʻu mamani monastertʻani samtʻavroysagan tʻioveltʻaysa kacʻni gankrżalulni da sakwrvelisa mokʻalakʻobisa mkʻonebelni mo-ray-vides alekʻsandriad da ikitʻxvebodes čʻem mier, tʻu vitʻari dacqnarebay mougies monastertʻa matʻtʻa, mitʻxres, vitʻarmed mravalni dahbrkoldebian esevitʻarisa mizezisatʻws.
 1	რამეთუ	რამეთუ	SCONJ	Conj	_	11	mark	_	Translit=rametʻu
-2	მამანი	მამა	NOUN	Noun	Case=Nom|Number=Plur	11	nsubj	_	Translit=mamani
+2	მამანი	მამა	NOUN	Noun	Case=Nom|Number=Plur	13	nsubj	_	Translit=mamani
 3	მონასტერთანი	მონასტერი	NOUN	Noun	Case=Gen|Number=Plur	2	nmod	_	Translit=monastertʻani
 4-5	სამთავროჲსაგან	_	_	_	_	_	_	_	_
-4	სამთავროჲსა	სამთავრო	NOUN	Noun	Case=Gen|Number=Sing	11	obl	_	Translit=samtʻavroysa
+4	სამთავროჲსა	სამთავრო	NOUN	Noun	Case=Gen|Number=Sing	2	nmod	_	Translit=samtʻavroysa
 5	გან	გან	ADP	Post	AdpType=Post|Case=Gen	4	case	_	Translit=gan
 6	თიოველთაჲსა	თიოველი	ADJ	Adj	Case=Gen|Number=Sing	7	amod	_	Translit=tʻioveltʻaysa
 7	კაცნი	კაცი	NOUN	Noun	Case=Nom|Number=Plur	2	appos	_	Translit=kacʻni
-8	განკრძალულნი	განკრძალული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	2	acl	_	Translit=gankrżalulni
-9	და	და	CCONJ	Conj	_	10	cc	_	Translit=da
+8	განკრძალულნი	განკრძალული	ADJ	Adj	Case=Nom|Number=Sing	7	amod	_	Translit=gankrżalulni
+9	და	და	CCONJ	Conj	_	12	cc	_	Translit=da
 10	საკჳრველისა	საკჳრველი	NOUN	Noun	Case=Gen|Number=Sing	11	nmod	_	Translit=sakwrvelisa
-11	მოქალაქობისა	მოქალაქობა	NOUN	Noun	Case=Gen|Number=Sing	8	conj	_	Translit=mokʻalakʻobisa
+11	მოქალაქობისა	მოქალაქობა	NOUN	Noun	Case=Gen|Number=Sing	12	nmod	_	Translit=mokʻalakʻobisa
 12	მქონებელნი	მქონებელი	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part	8	conj	_	Translit=mkʻonebelni
-13-15	მო-რაჲ-ვიდეს	_	_	_	_	_	_	_	_
+13-14	მო-რაჲ-ვიდეს	_	_	_	_	_	_	_	_
 13	მოვიდეს	მოსვლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=movides
 14	რაჲ	რაჲ	PART	Part	_	13	advmod	_	Translit=ray
 15	ალექსანდრიად	ალექსანდრია	PROPN	Noun	Case=Advb|Number=Sing	13	obl	_	Translit=alekʻsandriad
