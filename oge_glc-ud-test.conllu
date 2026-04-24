@@ -793,7 +793,7 @@
 19	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	17	obl	_	SpaceAfter=No|Translit=mier
 20	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
 21	თუ	თუ	SCONJ	Conj	_	24	mark	_	Translit=tʻu
-22	ვითარი	ვითარი	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	24	nsubj	_	Translit=vitʻari
+22	ვითარი	ვითარი	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	23	nmod	_	Translit=vitʻari
 23	დაწყნარებაჲ	დაწყნარებაჲ	NOUN	Noun	Case=Nom|Number=Sing	24	nsubj	_	Translit=dacqnarebay
 24	მოუგიეს	მოგება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	17	ccomp	_	Translit=mougies
 25	მონასტერთა	მონასტერი	NOUN	Noun	Case=Dat|Number=Plur	24	iobj	_	Translit=monastertʻa
