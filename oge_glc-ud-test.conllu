@@ -754,7 +754,7 @@
 12	განმამტკიცებელსა	განმამტკიცებელი	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Part	9	conj	_	Translit=ganmamtkicʻebelsa
 13	ეკლესიათასა	ეკლესია	NOUN	Noun	Case=Gen|Number=Plur	12	obj	_	SpaceAfter=No|Translit=eklesiatʻasa
 14	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
-15	რამეთუ	რამეთუ	SCONJ	Conj	_	18	mark	_	Translit=rametʻu
+15	რამეთუ	რამეთუ	SCONJ	Conj	_	17	mark	_	Translit=rametʻu
 16	წერილ	წერილ	VERB	Verb	VerbForm=Part|Voice=Pass	3	advcl	_	Translit=ceril
 17	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	aux	_	SpaceAfter=No|Translit=ars
 18	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
@@ -786,30 +786,29 @@
 13-15	მო-რაჲ-ვიდეს	_	_	_	_	_	_	_	_
 13	მოვიდეს	მოსვლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=movides
 14	რაჲ	რაჲ	PART	Part	_	13	advmod	_	Translit=ray
-15	_	_	_	_	_	_	_	_	_
-16	ალექსანდრიად	ალექსანდრია	PROPN	Noun	Case=Advb|Number=Sing	13	obl	_	Translit=alekʻsandriad
-17	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
-18	იკითხვებოდეს	კითხულობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Pass	13	conj	_	Translit=ikitʻxvebodes
-19	ჩემ	მე	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	20	nmod	_	Translit=čʻem
-20	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	18	obl	_	SpaceAfter=No|Translit=mier
-21	,	,	PUNCT	F	PunctType=Comm	25	punct	_	Translit=,
-22	თუ	თუ	SCONJ	Conj	_	25	mark	_	Translit=tʻu
-23	ვითარი	ვითარი	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	25	nsubj	_	Translit=vitʻari
-24	დაწყნარებაჲ	დაწყნარებაჲ	NOUN	Noun	Case=Nom|Number=Sing	25	nsubj	_	Translit=dacqnarebay
-25	მოუგიეს	მოგება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	18	ccomp	_	Translit=mougies
-26	მონასტერთა	მონასტერი	NOUN	Noun	Case=Dat|Number=Plur	25	iobj	_	Translit=monastertʻa
-27	მათთა	ის	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	26	det	_	
-28	,	,	PUNCT	F	PunctType=Comm	29	punct	_	Translit=,
-29	მითხრეს	თქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	SpaceAfter=No|Translit=mitʻxres
-30	,	,	PUNCT	F	PunctType=Comm	34	punct	_	Translit=,
-31	ვითარმედ	ვითარმედ	SCONJ	Conj	_	34	mark	_	Translit=vitʻarmed
-32	მრავალნი	მრავალი	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	34	nsubj	_	Translit=mravalni
-33	დაჰბრკოლდებიან	დაჰბრკოლდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Fut|VerbForm=Fin|Voice=Pass	29	ccomp	_	Translit=dahbrkoldebian
-34	ესევითარისა	ესევითარი	ADJ	Adj	Case=Gen|Number=Sing	36	amod	_	Translit=esevitʻarisa
-35-36	მიზეზისათჳს	_	_	_	_	_	_	_	SpaceAfter=No
-35	მიზეზისა	მიზეზი	NOUN	Noun	Case=Gen|Number=Sing	33	obl	_	Translit=mizezisa
-36	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	35	case	_	Translit=tʻws
-37	.	.	PUNCT	F	PunctType=Peri	13	punct	_	Translit=.
+15	ალექსანდრიად	ალექსანდრია	PROPN	Noun	Case=Advb|Number=Sing	13	obl	_	Translit=alekʻsandriad
+16	და	და	CCONJ	Conj	_	17	cc	_	Translit=da
+17	იკითხვებოდეს	კითხულობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Pass	13	conj	_	Translit=ikitʻxvebodes
+18	ჩემ	მე	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	19	nmod	_	Translit=čʻem
+19	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	17	obl	_	SpaceAfter=No|Translit=mier
+20	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
+21	თუ	თუ	SCONJ	Conj	_	24	mark	_	Translit=tʻu
+22	ვითარი	ვითარი	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	24	nsubj	_	Translit=vitʻari
+23	დაწყნარებაჲ	დაწყნარებაჲ	NOUN	Noun	Case=Nom|Number=Sing	24	nsubj	_	Translit=dacqnarebay
+24	მოუგიეს	მოგება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	17	ccomp	_	Translit=mougies
+25	მონასტერთა	მონასტერი	NOUN	Noun	Case=Dat|Number=Plur	24	iobj	_	Translit=monastertʻa
+26	მათთა	ის	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	25	det	_	Translit=matʻtʻa
+27	,	,	PUNCT	F	PunctType=Comm	28	punct	_	Translit=,
+28	მითხრეს	თქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	SpaceAfter=No|Translit=mitʻxres
+29	,	,	PUNCT	F	PunctType=Comm	33	punct	_	Translit=,
+30	ვითარმედ	ვითარმედ	SCONJ	Conj	_	33	mark	_	Translit=vitʻarmed
+31	მრავალნი	მრავალი	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	33	nsubj	_	Translit=mravalni
+32	დაჰბრკოლდებიან	დაჰბრკოლდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Fut|VerbForm=Fin|Voice=Pass	28	ccomp	_	Translit=dahbrkoldebian
+33	ესევითარისა	ესევითარი	ADJ	Adj	Case=Gen|Number=Sing	35	amod	_	Translit=esevitʻarisa
+34-35	მიზეზისათჳს	_	_	_	_	_	_	_	SpaceAfter=No
+34	მიზეზისა	მიზეზი	NOUN	Noun	Case=Gen|Number=Sing	32	obl	_	Translit=mizezisa
+35	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	34	case	_	Translit=tʻws
+36	.	.	PUNCT	F	PunctType=Peri	13	punct	_	Translit=.
 
 # sent_id = OGLC_00021
 # text = ახლად ქორწინებულნი ვინმე და აწ ოდენ სასძლოთა კუბოთაგან გამომავალნი თანა-აღიტაცებენ ვიეთმე ღმრთისმოყუარეთა ეპისკოპოსთაგანთა და თჳნიერ საქმეთა მათთა გამოძიებით მითხრობისა ჴელთდასხმულ იქმნებიან მათ მიერ მოყუსად, ესე იგი არს ხუცად.
