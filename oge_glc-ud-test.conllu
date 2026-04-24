@@ -357,7 +357,7 @@
 12	და	და	CCONJ	Conj	_	14	cc	_	Translit=da
 13	თუ	თუ	PART	Part	_	14	advmod	_	Translit=tʻu
 14	რაჲ	რაჲ	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	3	conj	_	Translit=ray
-15	ჰშუენის	შუენა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=hšuenis
+15	ჰშუენის	შუენა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	Translit=hšuenis
 16	ეკლესიასა	ეკლესია	NOUN	Noun	Case=Dat|Number=Sing	15	iobj	_	Translit=eklesiasa
 17	და	და	CCONJ	Conj	_	19	cc	_	Translit=da
 18	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	19	nmod	_	Translit=mas
@@ -373,7 +373,7 @@
 28	ლმობიერქმნილმანცა	ლმობიერქმნილი	VERB	Verb	Case=Erg|Number=Sing|PartType=Emp|VerbForm=Part|Voice=Pass	29	advcl	_	Translit=lmobierkʻmnilmancʻa
 29	წიგნებითა	წიგნი	NOUN	Noun	Case=Ins|Number=Plur	32	obl	_	Translit=cignebitʻa
 30	ჩუენითა	ჩუენი	PRON	Pron	Case=Ins|Number=Plur|Person=1|PronType=Prs	29	det:poss	_	Translit=čʻuenitʻa
-31	დააცხრვენინ	დააცხრვენინ	VERB	Verb	Aspect=Perf|Mood=Imp|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=daacʻxrvenin
+31	დააცხრვენინ	დააცხრვენინ	VERB	Verb	Aspect=Perf|Mood=Imp|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	root	_	Translit=daacʻxrvenin
 32	ცრემლნი	ცრემლი	NOUN	Noun	Case=Nom|Number=Plur	31	obj	_	Translit=cʻremlni
 33	მოხუცებულებისანი	მოხუცებულება	NOUN	Noun	Case=Nom|Number=Plur	32	nmod	_	SpaceAfter=No|Translit=moxucʻebulebisani
 34	.	.	PUNCT	F	PunctType=Peri	31	punct	_	Translit=.
