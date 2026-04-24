@@ -547,8 +547,8 @@
 41	ქუეშე	ქუეშე	ADP	Post	AdpType=Post|Case=Dat	42	case	_	Translit=kʻueše
 42	მყოფთა	მყოფი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Act	43	amod	_	Translit=mqopʻtʻa
 43	წარსაგებელთაჲსა	წარსაგებელი	NOUN	Noun	Case=Gen|Number=Plur	35	nmod	_	SpaceAfter=No|Translit=carsagebeltʻaysa
-44	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
-45	გინათუ	გინათუ	SCONJ	Conj	_	48	mark	_	Translit=ginatʻu
+44	,	,	PUNCT	F	PunctType=Comm	49	punct	_	Translit=,
+45	გინათუ	გინათუ	SCONJ	Conj	_	47	mark	_	Translit=ginatʻu
 46	საეკლესიოთა	საეკლესიო	ADJ	Adj	Case=Gen|Number=Plur	47	amod	_	Translit=saeklesiotʻa
 47-48	შემოსავალთაგანნი	_	_	_	_	_	_	_	_
 47	შემოსავალთა	შემოსავალი	NOUN	Noun	Case=Gen|Number=Plur	49	nsubj	_	Translit=šemosavaltʻa
