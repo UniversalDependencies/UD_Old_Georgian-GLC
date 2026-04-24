@@ -304,9 +304,9 @@
 2	ვინაჲთ	ვინაჲთ	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	7	obl	_	Translit=vinaytʻ
 3	გან	გან	ADP	Post	AdpType=Post|Case=Gen	2	case	_	Translit=gan
 4	არარაჲ	არარაჲ	PRON	Pron	Case=Nom|Number=Sing|PronType=Neg	5	det	_	Translit=araray
-5	ქმნილ	ქმნილი	VERB	Verb	VerbForm=Part|Voice=Pass	7	xcomp	_	Translit=kʻmnil
+5	ქმნილ	ქმნილი	VERB	Verb	VerbForm=Part|Voice=Pass	7	nsubj	_	Translit=kʻmnil
 6	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	Translit=ars
-7	ესევითარი	ესევითარი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	5	nsubj	_	SpaceAfter=No|Translit=esevitʻari
+7	ესევითარი	ესევითარი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	10	advcl	_	SpaceAfter=No|Translit=esevitʻari
 8	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 9-10	ზედა-დაჰჴმობს	_	_	_	_	_	_	_	_
 9	ზედა	ზედა	ADV	Adv	_	10	advmod	_	Translit=zeda
