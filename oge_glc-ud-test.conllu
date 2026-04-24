@@ -516,14 +516,14 @@
 12	არცა	არცა	PART	Part	PartType=Neg	14	advmod:neg	_	Translit=arcʻa
 13-14	ჯერ-იყო	_	_	_	_	_	_	_	_
 13	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	14	advmod	_	Translit=jer
-14	იყო	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	21	cop	_	Translit=iqo
+14	იყო	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	3	advcl	_	Translit=iqo
 15	რაჲთურთით	რაჲთურთით	ADV	Adv	AdvType=Man	21	advmod	_	Translit=raytʻurtʻitʻ
 16	ქმნაჲ	ქმნა	NOUN	Noun	Case=Nom|Number=Sing	21	nsubj	_	Translit=kʻmnay
 17	რაჲსამე	რაჲმე	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	18	det	_	Translit=raysame
 18	ესევითარისაჲ	ესევითარი	ADJ	Adj	Case=Gen|Number=Sing	16	nmod	_	SpaceAfter=No|Translit=esevitʻarisay
 19	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
 20	რომელი	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	21	nsubj	_	Translit=romeli
-21	შეაწუხებს	შეწუხება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	Translit=šeacuxebs
+21	შეაწუხებს	შეწუხება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl	_	Translit=šeacuxebs
 22	ფრიად	ფრიად	ADV	Adv	AdvType=Man	21	advmod	_	Translit=pʻriad
 23	და	და	CCONJ	Conj	_	26	cc	_	Translit=da
 24	უკუანაჲსკნელსა	უკუანაჲსკნელი	ADJ	Adj	Case=Dat|Number=Sing	26	amod	_	Translit=ukuanaysknelsa
