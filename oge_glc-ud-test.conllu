@@ -255,7 +255,7 @@
 8	უეჭუელად	უეჭუელად	ADV	Adv	AdvType=Man	12	advmod	_	Translit=uečuelad
 9	მაშინ	მაშინ	ADV	Adv	_	12	advmod	_	Translit=mašin
 10	აღწერილთა	აღწერილი	VERB	Verb	VerbForm=Part|Voice=Pass	11	amod	_	Translit=aġceriltʻa
-11	მოსაჴსენებელთა	მოსაჴსენებელი	VERB	Verb	Case=Gen|Number=SingVerbForm=Part	12	nmod	_	Translit=mosax̣senebeltʻa
+11	მოსაჴსენებელთა	მოსაჴსენებელი	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part	12	nmod	_	Translit=mosax̣senebeltʻa
 12	სიმტკიცე	სიმტკიცე	NOUN	Noun	Case=Nom|Number=Sing	13	nsubj	_	Translit=simtkicʻe
 13	ამხილებს	ამხილებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=amxilebs
 14	მას	ის	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	13	obj	_	Translit=mas
@@ -307,7 +307,7 @@
 5	ქმნილ	ქმნილი	VERB	Verb	VerbForm=Part|Voice=Pass	7	xcomp	_	Translit=kʻmnil
 6	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	Translit=ars
 7	ესევითარი	ესევითარი	ADJ	Adj	Case=Nom|Number=Sing	14	advcl	_	SpaceAfter=No|Translit=esevitʻari
-8	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
+8	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 9-10	ზედა-დაჰჴმობს	_	_	_	_	_	_	_	_
 9	ზედა	ზედა	ADV	Adv	_	10	advmod	_	Translit=zeda
 10	დაჰჴმობს	დაჰჴმობა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=dahx̣mobs
@@ -328,7 +328,7 @@
 25	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
 26	რომლისა	რომელი	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	28	obl	_	Translit=romlisa
 27	თანა	თანა	ADP	Post	AdpType=Post|Case=Gen	26	case	_	Translit=tʻana
-28	ამასცა	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem|PartType=Emp	29	obj	_	Translit=amascʻa
+28	ამასცა	ესე	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Dem	29	obj	_	Translit=amascʻa
 29	დაჰრთავს	დაჰრთავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	conj	_	SpaceAfter=No|Translit=dahrtʻavs
 30	,	,	PUNCT	F	PunctType=Comm	29	punct	_	Translit=,
 31	ვითარმედ	ვითარმედ	SCONJ	Conj	_	33	mark	_	Translit=vitʻarmed
