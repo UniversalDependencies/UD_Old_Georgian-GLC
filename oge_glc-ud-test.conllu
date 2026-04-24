@@ -212,7 +212,7 @@
 4	გულისჴმის	გულისჴმა	NOUN	Noun	Case=Gen|Number=Sing	5	nmod	_	Translit=gulisxmis
 5	ყოფაჲ	ყოფა	NOUN	Noun	Case=Nom|Number=Sing	3	nsubj	_	Translit=qopay
 6	მისიცა	მისი	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Prs	5	nmod	_	SpaceAfter=No|Translit=misicʻa
-7	,	,	PUNCT	F	PunctType=Comm	3	punct	_	Translit=,
+7	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 8	რომელსა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	9	obj	_	Translit=romelsa
 9	იტყჳს	თქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	Translit=itqws
 10	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	9	nsubj	_	SpaceAfter=No|Translit=igi
@@ -255,8 +255,8 @@
 8	უეჭუელად	უეჭუელად	ADV	Adv	AdvType=Man	12	advmod	_	Translit=uečuelad
 9	მაშინ	მაშინ	ADV	Adv	_	12	advmod	_	Translit=mašin
 10	აღწერილთა	აღწერილი	VERB	Verb	VerbForm=Part|Voice=Pass	11	amod	_	Translit=aġceriltʻa
-11	მოსაჴსენებელთა	მოსაჴსენებელი	VERB	Verb	VerbForm=Part	12	nsubj	_	Translit=mosax̣senebeltʻa
-12	სიმტკიცე	სიმტკიცე	NOUN	Noun	Case=Nom|Number=Sing	0	root	_	Translit=simtkicʻe
+11	მოსაჴსენებელთა	მოსაჴსენებელი	VERB	Verb	Case=Gen|Number=SingVerbForm=Part	12	nmod	_	Translit=mosax̣senebeltʻa
+12	სიმტკიცე	სიმტკიცე	NOUN	Noun	Case=Nom|Number=Sing	13	nsubj	_	Translit=simtkicʻe
 13	ამხილებს	ამხილებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	Translit=amxilebs
 14	მას	ის	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	13	obj	_	Translit=mas
 15	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
