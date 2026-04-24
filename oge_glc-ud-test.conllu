@@ -848,11 +848,7 @@
 30	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	29	fixed	_	Translit=igi
 31	არს	არის	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	parataxis	_	Translit=ars
 32	ხუცად	ხუცი	NOUN	Noun	Case=Ess|Number=Sing	31	xcomp	_	SpaceAfter=No|Translit=xucʻad
-33	,	,	PUNCT	F	PunctType=Comm	35	punct	_	Translit=,
-34-35	მიზეზისათჳს	_	_	_	_	_	_	_	SpaceAfter=No
-34	მიზეზისა	მიზეზი	NOUN	Noun	Case=Gen|Number=Sing	31	obl	_	Translit=mizezisa
-35	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	34	case	_	Translit=tʻws
-36	.	.	PUNCT	F	PunctType=Peri	13	punct	_	Translit=.
+33	.	.	PUNCT	F	PunctType=Peri	13	punct	_	Translit=.
 
 # sent_id = OGLC_00022
 # text = ხოლო სხუანი ვინმე თჳთ მათ მონასტერთაგან უწესოებისათჳს განსხმულნი კუალად მოუჴდებიან ჴელთდასხმითა და, მღდელ იქმნენ რაჲ, შევლენ მონასტერთა მათ, რომელთაგანცა განისხნეს, და ჰნებავს ჟამისწირვაჲ და რაოდენისა-რაჲს სხჳსა ქმნაჲ წეს-არს მღდელთათჳს და ამას ჰყოფენ, ვიდრემდის, რომელთა უწყოდიან საქმენი მათნი, იჯმნიან ჟამისწირვათაგანცა და რა თავს-იდებენ ზიარებასა, ჟამისმწირველობდენ რაჲ იგინი.
