@@ -1940,14 +1940,14 @@
 # sent_id = OGLC_00041
 # text = რამეთუ ყოვლით კერძო სიტყჳერი მსახურებაჲ სჯულ-იდების და ყოვლად ნაყოფებად შეწირულ იქმნების და ღმერთი დაკლული და განყოფილი სულთა და ჴორცთა ჩუენთა თანა ერთბამად შეზავებითა ღმერთ ჰყოფს მიმღებელთა თჳსთა, რომლისა მიერ ეშმაკნი იდევნებიამ და სამღდელონი კრებანი კაცთა მორწმუნეთანი ეკლესიათა შინა საიდუმლოდ წმიდა იქმნებიან.
 # translit = rametʻu qovlitʻ kerżo sitqweri msaxurebay sjul-idebis da qovlad naqopʻebad šecirul ikʻmnebis da ġmertʻi dakluli da ganqopʻili sultʻa da x̣orcʻtʻa čʻuentʻa tʻana ertʻbamad šezavebitʻa ġmertʻ hqopʻs mimġebeltʻa tʻwstʻa, romlisa mier ešmakni idevnebiam da samġdeloni krebani kacʻtʻa morcmunetʻani eklesiatʻa šina saidumlod cmida ikʻmnebian.
-1	რამეთუ	რამეთუ	SCONJ	Conj	_	6	mark	_	Translit=rametʻu
+1	რამეთუ	რამეთუ	SCONJ	Conj	_	7	mark	_	Translit=rametʻu
 2	ყოვლით	ყოველი	PRON	Pron	Case=Ins|Number=Sing|PronType=Tot	3	det	_	Translit=qovlitʻ
-3	კერძო	კერძო	NOUN	Noun	Case=Ins|Number=Sing	6	obl	_	Translit=kerżo
+3	კერძო	კერძო	NOUN	Noun	Case=Ins|Number=Sing	7	obl	_	Translit=kerżo
 4	სიტყჳერი	სიტყჳერი	ADJ	Adj	Case=Nom|Number=Sing	5	amod	_	Translit=sitqweri
-5	მსახურებაჲ	მსახურება	NOUN	Noun	Case=Nom|Number=Sing	6	nsubj	_	Translit=msaxurebay
+5	მსახურებაჲ	მსახურება	NOUN	Noun	Case=Nom|Number=Sing	7	nsubj	_	Translit=msaxurebay
 6-7	სჯულ-იდების	_	_	_	_	_	_	_	_
-6	სჯულ	სჯული	NOUN	Noun	Case=Nom|Number=Sing	0	root	_	Translit=sjul
-7	იდების	დება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	cop	_	Translit=idebis
+6	სჯულ	სჯული	NOUN	Noun	Case=Nom|Number=Sing	7	obj	_	Translit=sjul
+7	იდების	დება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=idebis
 8	და	და	CCONJ	Conj	_	12	cc	_	Translit=da
 9	ყოვლად	ყოვლად	ADV	Adv	AdvType=Man	10	advmod	_	Translit=qovlad
 10	ნაყოფებად	ნაყოფი	NOUN	Noun	Case=Advb|Number=Sing	12	xcomp	_	Translit=naqopʻebad
