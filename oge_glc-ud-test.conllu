@@ -887,7 +887,7 @@
 29	ჰნებავს	ნება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	Translit=hnebavs
 30	ჟამისწირვაჲ	ჟამისწირვაჲ	NOUN	Noun	Case=Nom|Number=Sing	29	obj	_	Translit=žamiscirvay
 31	და	და	CCONJ	Conj	_	35	cc	_	Translit=da
-32-34	რაოდენისა-რაჲს	_	_	_	_	_	_	_	_
+32-33	რაოდენისა-რაჲს	_	_	_	_	_	_	_	_
 32	რაოდენისა	რაოდენი	PRON	Pron	Case=Gen|Number=Sing|PronType=Int	35	obj	_	Translit=raodenisa
 33	რაჲს	რაჲ	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	32	fixed	_	Translit=rays
 34	სხჳსა	სხჳა	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	35	nmod	_	Translit=sxwsa
