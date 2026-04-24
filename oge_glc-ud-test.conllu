@@ -109,7 +109,7 @@
 28	თანა	თანა	ADP	Post	AdpType=Post|Case=Dat	27	case	_	Translit=tʻana
 29	ეპისკოპოსად	ეპისკოპოსი	NOUN	Noun	Case=Advb|Number=Sing	31	xcomp	_	Translit=episkoposad
 30	უკუე	უკუე	ADV	Adv	_	31	advmod	_	Translit=ukue
-31	სახელსდებს	სახელსდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	Translit=saxelsdebs
+31	სახელსდებს	სახელსდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	Translit=saxelsdebs
 32	ფრიად	ფრიად	ADV	Adv	AdvType=Man	33	advmod	_	Translit=pʻriad
 33	განკრძალულსა	განკრძალული	ADJ	Adj	Case=Dat|Number=Sing	37	amod	_	Translit=gankrżalulsa
 34	და	და	CCONJ	Conj	_	36	cc	_	Translit=da
