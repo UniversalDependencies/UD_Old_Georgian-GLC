@@ -740,7 +740,7 @@
 # sent_id = OGLC_00019
 # text = ნამდჳლვე საჴმარ არს და საჭირო სათანადოდ ქმნაჲ ზრუნვასა აღმაშენებელსა ერთასა და განმამტკიცებელსა ეკლესიათასა, რამეთუ წერილ არს, ვითარმედ „განკრძალულ ჰყოფდით ძეთა ისრაელისათა“.
 # translit = namdwlve sax̣mar ars da sačiro satʻanadod kʻmnay zrunvasa aġmašenebelsa ertʻasa da ganmamtkicʻebelsa eklesiatʻasa, rametʻu ceril ars, vitʻarmed „gankrżalul hqopʻditʻ żetʻa israelisatʻa“.
-1	ნამდჳლვე	ნამდჳლვე	ADV	Adv	AdvType=Mod	3	advmod	_	Translit=namdwlve
+1	ნამდჳლვე	ნამდჳლვე	ADV	Adv	AdvType=Man	3	advmod	_	Translit=namdwlve
 2	საჴმარ	საჴმარ	ADJ	Adj	Case=Nom|Number=Sing	3	xcomp	_	Translit=sax̣mar
 3	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=ars
 4	და	და	CCONJ	Conj	_	5	cc	_	Translit=da
@@ -753,7 +753,7 @@
 11	და	და	CCONJ	Conj	_	12	cc	_	Translit=da
 12	განმამტკიცებელსა	განმამტკიცებელი	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Part	9	conj	_	Translit=ganmamtkicʻebelsa
 13	ეკლესიათასა	ეკლესია	NOUN	Noun	Case=Gen|Number=Plur	12	obj	_	SpaceAfter=No|Translit=eklesiatʻasa
-14	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
+14	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
 15	რამეთუ	რამეთუ	SCONJ	Conj	_	18	mark	_	Translit=rametʻu
 16	წერილ	წერილ	VERB	Verb	VerbForm=Part|Voice=Pass	3	advcl	_	Translit=ceril
 17	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	aux	_	SpaceAfter=No|Translit=ars
