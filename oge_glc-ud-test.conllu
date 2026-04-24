@@ -617,7 +617,7 @@
 2	მღდელობისა	მღდელობა	NOUN	Noun	Case=Gen|Number=Sing	18	nmod	_	Translit=mġdelobisa
 3	გან	გან	ADP	Post	AdpType=Post|Case=Gen	2	case	_	Translit=gan
 4	ჯმნისა	ჯმნა	NOUN	Noun	Case=Gen|Number=Sing	5	nmod	_	Translit=jmnisa
-5	ქარტათა	ქარტაჲ	NOUN	Noun	Case=Gen|Number=Plur	18	obj	_	Translit=kʻartatʻa
+5	ქარტათა	ქარტაჲ	NOUN	Noun	Case=Gen|Number=Plur	2	nmod	_	Translit=kʻartatʻa
 6	არა	არა	PART	Part	PartType=Neg	18	advmod:neg	_	Translit=ara
 7	თჳსით	თჳსი	PRON	Pron	Case=Ins|Number=Sing|PronType=Prs	8	nmod	_	Translit=tʻwsitʻ
 8	ნებსით	ნება	NOUN	Noun	Case=Ins|Number=Sing	18	nmod	_	SpaceAfter=No|Translit=nebsitʻ
@@ -642,7 +642,7 @@
 26	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	cop	_	Translit=ars
 27	საქმე	საქმე	NOUN	Noun	Case=Nom|Number=Sing	25	nsubj	_	Translit=sakʻme
 28	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	27	det	_	SpaceAfter=No|Translit=ese
-29	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
+29	,	,	PUNCT	F	PunctType=Comm	33	punct	_	Translit=,
 30	რაჲთამცა	რაჲთა	SCONJ	Conj	_	34	mark	_	Translit=raytʻamcʻa
 31	ქარტაჲ	ქარტაჲ	NOUN	Noun	Case=Nom|Number=Sing	34	nsubj	_	Translit=kʻartay
 32	ჯმნისაჲ	ჯმნა	NOUN	Noun	Case=Gen|Number=Sing	31	nmod	_	Translit=jmnisay
@@ -651,14 +651,14 @@
 35	სამღდელოჲსა	სამღდელოჲ	ADJ	Adj	Case=Gen|Number=Sing	36	amod	_	Translit=samġdeloysa
 36	პატივისა	პატივი	NOUN	Noun	Case=Gen|Number=Sing	37	nmod	_	Translit=pativisa
 37	ღირსქმნულთა	ღირსქმნული	VERB	Verb	Case=Dat|Number=Plur|VerbForm=Part|Voice=Pass	33	obl	_	SpaceAfter=No|Translit=ġirskʻmnultʻa
-38	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
+38	,	,	PUNCT	F	PunctType=Comm	42	punct	_	Translit=,
 39	რამეთუ	რამეთუ	SCONJ	Conj	_	56	mark	_	Translit=rametʻu
 40	უკუეთუ	უკუეთუ	SCONJ	Conj	_	41	mark	_	Translit=ukuetʻu
 41	ღირსნი	ღირსი	ADJ	Adj	Case=Nom|Number=Plur	33	advcl	_	Translit=ġirsni
 42	არიან	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	41	cop	_	Translit=arian
 43	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	44	nmod	_	Translit=mis
 44	მსახურებისანი	მსახურება	NOUN	Noun	Case=Nom|Case[stack]=Gen|Number=Plur	41	nsubj	_	SpaceAfter=No|Translit=msaxurebisani
-45	,	,	PUNCT	F	PunctType=Comm	56	punct	_	Translit=,
+45	,	,	PUNCT	F	PunctType=Comm	46	punct	_	Translit=,
 46	ეგნენ	ყოფა	VERB	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	advcl	_	Translit=egnen
 47	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	48	obl	_	Translit=mas
 48	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	46	obl	_	SpaceAfter=No|Translit=šina
