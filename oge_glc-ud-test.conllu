@@ -182,7 +182,7 @@
 11	ჩემი	ჩემი	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	det:poss	_	Translit=čʻemi
 12	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	13	det	_	Translit=ese
 13	სიტყუაჲ	სიტყუაჲ	NOUN	Noun	Case=Nom|Number=Sing	8	nsubj	_	SpaceAfter=No|Translit=sitquay
-14	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
+14	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
 15	რომელი	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	17	nsubj	_	Translit=romeli
 16	არა	არა	PART	Part	PartType=Neg	17	advmod:neg	_	Translit=ara
 17	ესრეთ	ესრეთ	ADV	Adv	AdvType=Man	13	acl:relcl	_	Translit=esretʻ
