@@ -844,7 +844,7 @@
 26	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	25	case	_	Translit=mier
 27	მოყუსად	მოყუსი	NOUN	Noun	Case=Ess|Number=Sing	23	xcomp	_	SpaceAfter=No|Translit=moqusad
 28	,	,	PUNCT	F	PunctType=Comm	31	punct	_	Translit=,
-29	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	31	nsubj	_	Translit=ese
+29	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem|ExtPos=PRON	31	nsubj	_	Translit=ese
 30	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	29	fixed	_	Translit=igi
 31	არს	არის	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	parataxis	_	Translit=ars
 32	ხუცად	ხუცი	NOUN	Noun	Case=Ess|Number=Sing	31	xcomp	_	SpaceAfter=No|Translit=xucʻad
