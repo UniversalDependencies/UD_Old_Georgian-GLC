@@ -869,9 +869,9 @@
 12	მოუჴდებიან	მოუჴდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=moux̣debian
 13	ჴელთდასხმითა	ჴელთდასხმა	NOUN	Noun	Case=Ins|Number=Sing	12	obl	_	Translit=x̣eltʻdasxmitʻa
 14	და	და	CCONJ	Conj	_	18	cc	_	SpaceAfter=No|Translit=da
-15	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
+15	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
 16	მღდელ	მღდელი	NOUN	Noun	Case=Nom|Number=Sing	18	xcomp	_	Translit=mġdel
-17	იქმნენ	ქმნა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	16	cop	_	Translit=ikʻmnen
+17	იქმნენ	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	16	cop	_	Translit=ikʻmnen
 18	რაჲ	რაჲ	PART	Part	_	20	advmod	_	SpaceAfter=No|Translit=ray
 19	,	,	PUNCT	F	PunctType=Comm	20	punct	_	Translit=,
 20	შევლენ	შესვლა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Fut|VerbForm=Fin|Voice=Act	12	conj	_	Translit=ševlen
@@ -882,13 +882,13 @@
 24	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	26	obl	_	Translit=romeltʻa
 25	განცა	გან	ADP	Post	AdpType=Post|Case=Gen|PartType=Emp	24	case	_	Translit=gancʻa
 26	განისხნეს	განისხნა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	21	acl:relcl	_	SpaceAfter=No|Translit=ganisxnes
-27	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
+27	,	,	PUNCT	F	PunctType=Comm	29	punct	_	Translit=,
 28	და	და	CCONJ	Conj	_	29	cc	_	Translit=da
 29	ჰნებავს	ნება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	Translit=hnebavs
 30	ჟამისწირვაჲ	ჟამისწირვაჲ	NOUN	Noun	Case=Nom|Number=Sing	29	obj	_	Translit=žamiscirvay
 31	და	და	CCONJ	Conj	_	35	cc	_	Translit=da
 32-33	რაოდენისა-რაჲს	_	_	_	_	_	_	_	_
-32	რაოდენისა	რაოდენი	PRON	Pron	Case=Gen|Number=Sing|PronType=Int	35	obj	_	Translit=raodenisa
+32	რაოდენისა	რაოდენი	PRON	Pron	Case=Gen|ExtPos=PRON|Number=Sing|PronType=Int	35	obj	_	Translit=raodenisa
 33	რაჲს	რაჲ	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	32	fixed	_	Translit=rays
 34	სხჳსა	სხჳა	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	35	nmod	_	Translit=sxwsa
 35	ქმნაჲ	ქმნა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	20	conj	_	Translit=kʻmnay
