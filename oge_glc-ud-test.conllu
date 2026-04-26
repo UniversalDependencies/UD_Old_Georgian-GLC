@@ -2151,7 +2151,7 @@
 160	ყვნეს	ყოფა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	144	conj	_	Translit=qvnes
 161	გზანი	გზა	NOUN	Noun	Case=Nom|Number=Plur	160	obj	_	Translit=gzani
 162	უფლისანი	უფალი	NOUN	Noun	Case=Nom|Case[stack]=Gen|Number=Plur	161	nmod	_	Translit=uplisani
-163	ერისათჳს	ერი	NOUN	Noun	Case=Gen|Number=Sing	162	obl	_	Translit=erisatʻws
+163	ერისათჳს	ერი	NOUN	Noun	Case=Gen|Number=Sing	160	obl	_	Translit=erisatʻws
 164	მისისა	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	163	det	_	SpaceAfter=No|Translit=misisa
 165	,	,	PUNCT	F	PunctType=Comm	173	punct	_	Translit=,
 166	რაჲთა	რაჲთა	SCONJ	Conj	_	173	mark	_	Translit=raytʻa
@@ -2168,9 +2168,9 @@
 177	რამეთუ	რამეთუ	SCONJ	Conj	_	178	mark	_	Translit=rametʻu
 178	უჴმდა	ჴმობა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	160	advcl	_	Translit=ux̣mda
 179	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	178	iobj	_	SpaceAfter=No|Translit=mas
-180	,	,	PUNCT	F	PunctType=Comm	187	punct	_	Translit=,
+180	,	,	PUNCT	F	PunctType=Comm	181	punct	_	Translit=,
 181-182	რომელმან-იგი	_	_	_	_	_	_	_	_
-181	რომელმან	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	183	nsubj	_	Translit=romelman
+181	რომელმან	რომელი	PRON	Pron	Case=Erg|ExtPos=PRON|Number=Sing|PronType=Rel	183	nsubj	_	Translit=romelman
 182	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	181	fixed	_	Translit=igi
 183	ყოფაჲ	ყოფაჲ	NOUN	Noun	Case=Nom|Number=Sing	184	obj	_	Translit=qopʻay
 184	მოგუმადლა	მადლება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	178	acl:relcl	_	Translit=mogumadla
