@@ -1077,8 +1077,8 @@
 18	ზედა	ზედა	ADP	Post	AdpType=Post|Case=Gen	17	case	_	Translit=zeda
 19	ბოსტრისასა	ბოსტრა	PROPN	Noun	Case=Gen|Number=Sing	17	nmod	_	Translit=bostrisasa
 20	ჳპატოსობასა	ჳპატოსობა	NOUN	Noun	Case=Dat|Number=Sing	15	obl	_	Translit=wpatosobasa
-21	კეთილად	კეთილად	ADV	Adv	AdvType=Man	22	advmod	_	Translit=ketʻilad
-22	მსახურთა	მსახური	NOUN	Noun	Case=Gen|Number=Plur	23	nmod	_	Translit=msaxurtʻa
+21	კეთილად	კეთილად	ADV	Adv	AdvType=Man	15	advmod	_	Translit=ketʻilad
+22	მსახურთა	მსახური	NOUN	Noun	Case=Gen|Number=Plur	15	nmod	_	Translit=msaxurtʻa
 23	და	და	CCONJ	Conj	_	24	cc	_	Translit=da
 24	ღმრთისმოყუარეთა	ღმრთისმოყუარე	NOUN	Noun	Case=Gen|Number=Plur	22	conj	_	Translit=ġmrtʻismoquaretʻa
 25	მეფეთა	მეფე	NOUN	Noun	Case=Gen|Number=Plur	22	nmod	_	Translit=mepʻetʻa
