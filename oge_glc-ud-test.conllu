@@ -2277,7 +2277,7 @@
 9	ქრისტემან	ქრისტე	PROPN	Noun	Case=Erg|Number=Sing	14	nsubj	_	Translit=kʻristeman
 10	ღმერთმან	ღმერთი	NOUN	Noun	Case=Erg|Number=Sing	9	appos	_	Translit=ġmertʻman
 11	ჩუენმან	ჩუენი	PRON	Pron	Case=Erg|Number=Sing|Person=1|PronType=Prs	10	det	_	Translit=čʻuenman
-12	შენ	შენ	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	obj	_	SpaceAfter=No|Translit=šen
+12	შენ	შენ	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	iobj	_	SpaceAfter=No|Translit=šen
 13	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
 14	აღმიდგინა	აღმოდგინება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=2|Person[subj]=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=brżeni
 15	ჩუენ	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	Translit=ege
@@ -2395,7 +2395,7 @@
 124	,	,	PUNCT	F	PunctType=Comm	126	punct	_	Translit=,
 125	რამეთუ	რამეთუ	SCONJ	Conj	_	126	mark	_	Translit=rametʻu
 126	გშუენოდა	შუენა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=2|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	100	advcl	_	Translit=gšuenoda
-127	ნამდჳლვე	ნამდჳლვე	ADV	Adv	AdvType=Mod	126	advmod	_	SpaceAfter=No|Translit=namdwlve
+127	ნამდჳლვე	ნამდჳლვე	ADV	Adv	AdvType=Man	126	advmod	_	SpaceAfter=No|Translit=namdwlve
 128	,	,	PUNCT	F	PunctType=Comm	130	punct	_	Translit=,
 129	ვითარცა	ვითარცა	SCONJ	Conj	_	130	mark	_	Translit=vitʻarcʻa
 130	საჭეთა	საჭე	NOUN	Noun	Case=Gen|Number=Plur	126	advcl	_	Translit=sačetʻa
