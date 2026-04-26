@@ -665,7 +665,7 @@
 49	,	,	PUNCT	F	PunctType=Comm	56	punct	_	Translit=,
 50	ხოლო	ხოლო	CCONJ	Conj	_	56	cc	_	Translit=xolo
 51	უკუეთუ	უკუეთუ	SCONJ	Conj	_	52	mark	_	Translit=ukuetʻu
-52	უღირსნი	უღირსი	ADJ	Adj	Case=Nom|Number=Plur	56	advcl	_	Translit=uġirsni
+52	უღირსნი	უღირსი	ADJ	Adj	Case=Nom|Number=Plur	58	nsubj	_	Translit=uġirsni
 53	–	–	PUNCT	F	PunctType=Dash	56	punct	_	Translit=–
 54	ნუ	ნუ	PART	Part	PartType=Neg	56	advmod:neg	_	Translit=nu
 55	ჯმნისა	ჯმნა	NOUN	Noun	Case=Gen|Number=Sing	56	obl	_	Translit=jmnisa
@@ -790,7 +790,7 @@
 16	და	და	CCONJ	Conj	_	17	cc	_	Translit=da
 17	იკითხვებოდეს	კითხულობს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Pass	13	conj	_	Translit=ikitʻxvebodes
 18	ჩემ	მე	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	19	nmod	_	Translit=čʻem
-19	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	17	case	_	SpaceAfter=No|Translit=mier
+19	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	18	case	_	SpaceAfter=No|Translit=mier
 20	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
 21	თუ	თუ	SCONJ	Conj	_	24	mark	_	Translit=tʻu
 22	ვითარი	ვითარი	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	23	nmod	_	Translit=vitʻari
