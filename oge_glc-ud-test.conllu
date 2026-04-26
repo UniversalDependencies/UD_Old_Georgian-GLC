@@ -1493,8 +1493,8 @@
 16	ვითარმედ	ვითარმედ	SCONJ	Conj	_	25	mark	_	Translit=vitʻarmed
 17	არა	არა	PART	Part	PartType=Neg	25	advmod:neg	_	Translit=ara
 18-19	ჯერ-არს	_	_	_	_	_	_	_	_
-18	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	19	advmod	_	Translit=jer
-19	არს	არის	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	cop	_	Translit=ars
+18	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	25	advmod	_	Translit=jer
+18	არს	არის	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	Translit=ars
 20	ორთა	ორი	NUM	Num	Case=Gen|Number=Plur	21	nummod	_	Translit=ortʻa
 21	ეპისკოპოსთა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Plur	22	obl	_	Translit=episkopostʻa
 22	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	25	case	_	Translit=mier
@@ -1508,7 +1508,7 @@
 29	ეპისკოპოსისაჲ	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Sing	28	nmod	_	SpaceAfter=No|Translit=episkoposisay
 30	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
 31	ვითარცა	ვითარცა	SCONJ	Conj	_	32	mark	_	Translit=vitʻarcʻa
-32	განასაზღვრებს	განსაზღვრა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	Translit=ganasazġvrebs
+32	განასაზღვრებს	განსაზღვრა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	advcl	_	Translit=ganasazġvrebs
 33	კრებაჲ	კრება	NOUN	Noun	Case=Nom|Number=Sing	32	nsubj	_	Translit=krebay
 34	ნიკიისაჲ	ნიკია	PROPN	Noun	Case=Gen|Number=Sing	33	nmod	_	SpaceAfter=No|Translit=nikiisay
 35	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
@@ -1614,11 +1614,11 @@
 52	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	53	det	_	Translit=mas
 53	განკუეთისასა	განკუეთა	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	51	nmod	_	Translit=gankuetʻisasa
 54	ცხად	ცხად	ADV	Adv	AdvType=Man	50	parataxis	_	Translit=cʻxad
-55	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	55	cop	_	SpaceAfter=No|Translit=ars
+55	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	54	cop	_	SpaceAfter=No|Translit=ars
 56	,	,	PUNCT	F	PunctType=Comm	59	punct	_	Translit=,
 57	ვითარმედ	ვითარმედ	SCONJ	Conj	_	59	mark	_	Translit=vitʻarmed
 58	სამსჯავროდ	სამსჯავრო	NOUN	Noun	Case=Ess|Number=Sing	59	obl	_	Translit=samsjavrod
-59	წარმოდგომილებასა	წარმოდგომილება	NOUN	Noun	Case=Dat|Number=Sing	55	ccomp	_	Translit=carmodgomilebasa
+59	წარმოდგომილებასა	წარმოდგომილება	NOUN	Noun	Case=Dat|Number=Sing	54	ccomp	_	Translit=carmodgomilebasa
 60	და	და	CCONJ	Conj	_	61	cc	_	Translit=da
 61	განკითხულობასა	განკითხულობა	NOUN	Noun	Case=Dat|Number=Sing	59	conj	_	Translit=gankitʻxulobasa
 62	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	59	case	_	Translit=šina
