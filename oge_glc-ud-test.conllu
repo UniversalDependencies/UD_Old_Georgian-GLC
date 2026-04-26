@@ -1238,7 +1238,7 @@
 52	აღაპის	აღაპი	PROPN	Noun	Case=Dat|Number=Sing	50	conj	_	SpaceAfter=No|Translit=aġapis
 53	,	,	PUNCT	F	PunctType=Comm	26	punct	_	Translit=,
 54	თითოეულსა	თითოეული	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	55	obl	_	Translit=tʻitʻoeulsa
-55	დაწყებაჲ	დაწყება	NOUN	Noun	Case=Nom|Number=Sing	26	nsubj	_	Translit=dacqebay
+55	დაწყებაჲ	დაწყება	NOUN	Noun	Case=Nom|Number=Sing	26	nmod	_	Translit=dacqebay
 56	ჭეშმარიტისა	ჭეშმარიტი	ADJ	Adj	Case=Gen|Number=Sing	57	amod	_	Translit=češmaritisa
 57	მსჯავრისაჲ	მსჯავრი	NOUN	Noun	Case=Gen|Number=Sing	55	nmod	_	SpaceAfter=No|Translit=msjavrisay
 58	.	.	PUNCT	F	PunctType=Peri	11	punct	_	Translit=.
