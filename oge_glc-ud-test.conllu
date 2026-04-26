@@ -1025,12 +1025,12 @@
 # sent_id = OGLC_00024
 # text = ხოლო უკუეთუ განყრილ იყვნენ ვიეთნიმე განკანონებითა ცოდვათა რათმე ზედა, ამისსა შემდგომად ეგულებოდის სიკუდილი და იყვნენ იგინი კათაკუმეველნი, მიეცინ მათ მადლი ნათლისღებისაჲ და.
 # translit = xolo ukuetʻu ganqril iqvnen vietʻnime gankanonebitʻa cʻodvatʻa ratʻme zeda, amissa šemdgomad egulebodis sikudili da iqvnen igini katʻakumevelni, miecʻin matʻ madli natʻlisġebisay da.
-1	ხოლო	ხოლო	CCONJ	Conj	_	4	cc	_	Translit=xolo
-2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	4	mark	_	Translit=ukuetʻu
+1	ხოლო	ხოლო	CCONJ	Conj	_	3	cc	_	Translit=xolo
+2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	3	mark	_	Translit=ukuetʻu
 3	განყრილ	განყრილი	VERB	Verb	VerbForm=Part|Voice=Pass	13	advcl	_	Translit=ganqril
 4	იყვნენ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	3	cop	_	Translit=iqvnen
-5	ვიეთნიმე	ვიეთნიმე	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	4	nsubj	_	Translit=vietʻnime
-6	განკანონებითა	განკანონება	NOUN	Noun	Case=Ins|Number=Sing	4	obl	_	Translit=gankanonebitʻa
+5	ვიეთნიმე	ვიეთნიმე	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	3	nsubj	_	Translit=vietʻnime
+6	განკანონებითა	განკანონება	NOUN	Noun	Case=Ins|Number=Sing	3	obl	_	Translit=gankanonebitʻa
 7	ცოდვათა	ცოდვა	NOUN	Noun	Case=Gen|Number=Plur	6	nmod	_	Translit=cʻodvatʻa
 8	რათმე	რაჲმე	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	7	det	_	Translit=ratʻme
 9	ზედა	ზედა	ADP	Post	AdpType=Post|Case=Gen	7	case	_	SpaceAfter=No|Translit=zeda
@@ -1264,7 +1264,7 @@
 15	პირველმოჴსენებულისა	პირველმოჴსენებული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Pass	17	amod	_	Translit=pirvelmox̣senebulisa
 16	ამის	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	17	det	_	Translit=amis
 17	ვაღადისსა	ვაღადისი	PROPN	Noun	Case=Dat|Number=Sing	14	nmod	_	SpaceAfter=No|Translit=vaġadissa
-18	,	,	PUNCT	F	PunctType=Comm	25	punct	_	Translit=,
+18	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
 19	რომელი	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	22	nsubj	_	Translit=romeli
 20	მხოლოდ	მხოლოდ	ADV	Adv	AdvType=Man	22	advmod	_	Translit=mxolod
 21	ორთა	ორი	NUM	Num	Case=Gen|Number=Plur	23	nummod	_	Translit=ortʻa
@@ -1280,7 +1280,7 @@
 31	და	და	CCONJ	Conj	_	33	cc	_	Translit=da
 32	არღარა	არღარა	ADV	Adv	AdvType=Tim|PartType=Neg	33	advmod	_	Translit=arġara
 33	დამთხუეულთა	დამთხუეული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	30	conj	_	Translit=damtʻxueultʻa
-34	ჟამსა	ჟამი	NOUN	Noun	Case=Dat|Number=Sing	25	nmod	_	Translit=žamsa
+34	ჟამსა	ჟამი	NOUN	Noun	Case=Dat|Number=Sing	24	nmod	_	Translit=žamsa
 35	ამის	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	36	det	_	Translit=amis
 36	კრებისასა	კრება	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	34	nmod	_	SpaceAfter=No|Translit=krebisasa
 37	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
