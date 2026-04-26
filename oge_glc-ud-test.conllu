@@ -2234,7 +2234,7 @@
 239	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	238	case	_	Translit=tʻws
 240	აწ	აწ	ADV	Adv	AdvType=Tim	243	advmod	_	Translit=ac
 241	ჩუენდა	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	245	iobj	_	Translit=čʻuenda
-242	თჳსისა	თჳსი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	243	obl	_	Translit=tʻwsisa
+242	თჳსისა	თჳსი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	243	nmod	_	Translit=tʻwsisa
 243	ცხორებისა	ცხორება	NOUN	Noun	Case=Gen|Number=Sing	245	obl	_	Translit=cʻxorebisa
 244	უდებებით	უდებება	NOUN	Noun	Case=Ins|Number=Plur	245	obl	_	Translit=udebebitʻ
 245	გარდამჴდელთა	გარდამჴდელი	VERB	Verb	Case=Dat|Number=Plur|VerbForm=Part|Voice=Act	235	advcl	_	Translit=gardamx̣deltʻa
@@ -2242,8 +2242,8 @@
 247	უქმებითა	უქმება	NOUN	Noun	Case=Ins|Number=Sing	245	conj	_	Translit=ukʻmebitʻa
 248	გულისსიტყუათაჲთა	გულისსიტყუა	NOUN	Noun	Case=Ins|Number=Plur	247	nmod	_	Translit=gulissitquatʻaytʻa
 249	მძინარეთა	მძინარე	VERB	Verb	Case=Dat|Number=Plur|VerbForm=Part|Voice=Act	245	conj	_	SpaceAfter=No|Translit=mżinaretʻa
-250	,	,	PUNCT	F	PunctType=Comm	257	punct	_	Translit=,
-251	რაჲთა	რაჲთა	SCONJ	Conj	_	257	mark	_	Translit=raytʻa
+250	,	,	PUNCT	F	PunctType=Comm	251	punct	_	Translit=,
+251	რაჲთა	რაჲთა	SCONJ	Conj	_	255	mark	_	Translit=raytʻa
 252	არა	არა	PART	Part	PartType=Neg	257	advmod:neg	_	Translit=ara
 253	განუკრძალველთა	განუკრძალველი	VERB	Verb	Case=Dat|Number=Plur|VerbForm=Part|Voice=Pass	257	obl	_	Translit=ganukrżalveltʻa
 254	მომართ	მომართ	ADP	Post	AdpType=Post|Case=Dat	253	case	_	Translit=momartʻ
@@ -2254,7 +2254,7 @@
 259	მტერი	მტერი	NOUN	Noun	Case=Nom|Number=Sing	255	nsubj	_	Translit=mteri
 260	და	და	CCONJ	Conj	_	263	cc	_	Translit=da
 261-262	მცირედ-მცირედ	_	_	_	_	_	_	_	_
-261	მცირედ	მცირედ	ADV	Adv	AdvType=Man	263	advmod	_	Translit=mcʻired
+261	მცირედ	მცირედ	ADV	Adv	AdvType=Man|ExtPos=ADV	263	advmod	_	Translit=mcʻired
 262	მცირედ	მცირედ	ADV	Adv	AdvType=Man	261	fixed	_	Translit=mcʻired
 263	წარპარვითა	წარპარვა	NOUN	Noun	Case=Ins|Number=Sing	267	obl	_	Translit=carparvitʻa
 264	სათნოებისაჲთა	სათნოება	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	263	nmod	_	Translit=satʻnoebisaytʻa
