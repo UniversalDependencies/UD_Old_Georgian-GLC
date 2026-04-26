@@ -1283,7 +1283,7 @@
 34	ჟამსა	ჟამი	NOUN	Noun	Case=Dat|Number=Sing	25	obl	_	Translit=žamsa
 35	ამის	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	36	det	_	Translit=amis
 36	კრებისასა	კრება	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	34	nmod	_	SpaceAfter=No|Translit=krebisasa
-37	.	.	PUNCT	F	PunctType=Peri	25	punct	_	Translit=.
+37	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
 
 # sent_id = OGLC_00028
 # text = არავიანე ეპისკოპოსმან ანკჳრიისამან თქუა: არა აწინდელისა ამის საბჭოჲსა, არამედ შემდგომითი-შემდგომად ყოვლისა ცხორებისათჳს კაცთაჲსა მოშიში ამისსა ვითხოვ აღსაარებასა წმიდისაგან კრებისა, შესაძლებელ არსა და ჯერ-არს ორთავე ეპისკოპოსთა მიერ ქმნაჲ განკუეთისაჲ, ანუ არა და არა მუნ მყოფისაჲ ჯერ-არსა, ანუ არა? 
