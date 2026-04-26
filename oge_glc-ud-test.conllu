@@ -1956,7 +1956,7 @@
 22	თანა	თანა	ADP	Post	AdpType=Post|Case=Gen	18	case	_	Translit=tʻana
 23	ერთბამად	ერთბამად	ADV	Adv	AdvType=Man	26	advmod	_	Translit=ertʻbamad
 24	შეზავებითა	შეზავება	NOUN	Noun	Case=Ins|Number=Sing	25	nmod	_	Translit=šezavebitʻa
-25	ღმერთ	ღმერთ	ADV	Adv	AdvType=Man	26	obj	_	Translit=ġmertʻ
+25	ღმერთ	ღმერთ	ADV	Adv	AdvType=Man	14	nmod	_	Translit=ġmertʻ
 26	ჰყოფს	ყოფა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	Translit=hqopʻs
 27	მიმღებელთა	მიმღებელი	VERB	Verb	Case=Dat|Number=Plur|VerbForm=Part|Voice=Act	26	obj	_	Translit=mimġebeltʻa
 28	თჳსთა	თჳსი	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	27	det	_	SpaceAfter=No|Translit=tʻwstʻa
