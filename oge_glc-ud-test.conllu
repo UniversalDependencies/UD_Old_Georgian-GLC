@@ -509,11 +509,11 @@
 5	პირთა	პირი	NOUN	Noun	Case=Gen|Number=Plur	2	obl	_	Translit=pirtʻa
 6	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	5	case	_	Translit=tʻwis
 7	:	:	PUNCT	F	PunctType=Colo	2	punct	_	Translit=:
-8	პირველად	პირველად	ADV	Adv	AdvType=Tim	14	advmod	_	Translit=pirvelad
-9	უკუე	უკუე	ADV	Adv	_	14	advmod	_	SpaceAfter=No|Translit=ukue
+8	პირველად	პირველად	ADV	Adv	AdvType=Tim	13	advmod	_	Translit=pirvelad
+9	უკუე	უკუე	ADV	Adv	_	13	advmod	_	SpaceAfter=No|Translit=ukue
 10	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
 11	რამეთუ	რამეთუ	SCONJ	Conj	_	21	mark	_	Translit=rametʻu
-12	არცა	არცა	PART	Part	PartType=Neg	14	advmod:neg	_	Translit=arcʻa
+12	არცა	არცა	PART	Part	PartType=Neg	13	advmod:neg	_	Translit=arcʻa
 13-14	ჯერ-იყო	_	_	_	_	_	_	_	_
 13	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	2	advcl	_	Translit=jer
 14	იყო	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	13	cop	_	Translit=iqo
@@ -568,7 +568,7 @@
 61	სიტყუაჲ	სიტყუაჲ	NOUN	Noun	Case=Nom|Number=Sing	60	obj	_	Translit=sitquay
 62	მსაჯულსა	მსაჯული	NOUN	Noun	Case=Dat|Number=Sing	60	iobj	_	Translit=msajulsa
 63	ყოველთასა	ყოველი	PRON	Pron	Case=Gen|Number=Plur|PronType=Tot	62	nmod	_	SpaceAfter=No|Translit=qoveltʻasa
-64	.	.	PUNCT	F	PunctType=Peri	14	punct	_	Translit=.
+64	.	.	PUNCT	F	PunctType=Peri	13	punct	_	Translit=.
 
 # sent_id = OGLC_00015
 # text = ხოლო საჭურჭელსა უკუე ეკლესიისასა და სიწმიდისა სამსახურებელად ჭურჭელთა და უძრავთა საქონელთაჲ წარუგებელად და განუბნეველად ჯერ-არს დამარხვაჲ, ხოლო ჟამად-ჟამადთა შემოსავალთა და წარსაგებელთა განგებასა მინდობაჲ მათი, რომელთადა წმიდისა მღდელობისა მთავრობაჲ ჴელთდებულ იყოს.
@@ -588,8 +588,8 @@
 13	და	და	CCONJ	Conj	_	14	cc	_	Translit=da
 14	განუბნეველად	განუბნეველი	ADJ	Adj	Case=Ess|Number=Sing	12	conj	_	Translit=ganubnevelad
 15-16	ჯერ-არს	_	_	_	_	_	_	_	_
-15	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	16	advmod	_	Translit=jer
-16	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	Translit=ars
+15	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	17	advmod	_	Translit=jer
+16	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	Translit=ars
 17	დამარხვაჲ	დამარხვაჲ	NOUN	Noun	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=damarxvay
 18	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
 19	ხოლო	ხოლო	CCONJ	Conj	_	25	cc	_	Translit=xolo
