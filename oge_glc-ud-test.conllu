@@ -2647,7 +2647,7 @@
 12	საქმეთა	საქმე	NOUN	Noun	Case=Gen|Number=Plur	14	obl	_	Translit=sakʻmetʻa
 13	გან	გან	ADP	Post	AdpType=Post|Case=Ins	12	case	_	Translit=gan
 14	განშორებულნი	განშორებული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	23	advcl	_	Translit=ganšorebulni
-15	ცხოველ	ცხოველ	ADV	Adv	AdvType=Man	7	ccomp	_	Translit=cʻxovel
+15	ცხოველ	ცხოველ	ADV	Adv	AdvType=Man	23	xcomp	_	Translit=cʻxovel
 16	ვიქმნებით	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Pass	15	cop	_	Translit=vikʻmnebitʻ
 17	და	და	CCONJ	Conj	_	21	cc	_	Translit=da
 18	ყოველსა	ყოველი	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	19	det	_	Translit=qovelsa
