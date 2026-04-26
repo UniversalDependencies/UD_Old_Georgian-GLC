@@ -1943,7 +1943,7 @@
 9	ყოვლად	ყოვლად	ADV	Adv	AdvType=Man	10	advmod	_	Translit=qovlad
 10	ნაყოფებად	ნაყოფი	NOUN	Noun	Case=Ess|Number=Sing	11	advmod	_	Translit=naqopʻebad
 11	შეწირულ	შეწირული	VERB	Verb	VerbForm=Part|Voice=Pass	7	conj	_	Translit=šecirul
-12	იქმნების	ქმნა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	11	cop	_	Translit=ikʻmnebis
+12	იქმნების	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	11	cop	_	Translit=ikʻmnebis
 13	და	და	CCONJ	Conj	_	25	cc	_	Translit=da
 14	ღმერთი	ღმერთი	NOUN	Noun	Case=Nom|Number=Sing	25	nsubj	_	Translit=ġmertʻi
 15	დაკლული	დაკლული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	14	acl	_	Translit=dakluli
@@ -1973,8 +1973,8 @@
 39	ეკლესიათა	ეკლესია	NOUN	Noun	Case=Dat|Number=Plur	41	obl	_	Translit=eklesiatʻa
 40	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	39	case	_	Translit=šina
 41	საიდუმლოდ	საიდუმლოდ	ADV	Adv	AdvType=Man	43	advmod	_	Translit=saidumlod
-42	წმიდა	წმიდა	ADJ	Adj	Case=Nom|Number=Plur	43	xcomp	_	Translit=cmida
-43	იქმნებიან	ქმნა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	33	conj	_	SpaceAfter=No|Translit=ikʻmnebian
+42	წმიდა	წმიდა	ADJ	Adj	Case=Nom|Number=Plur	33	conj	_	Translit=cmida
+43	იქმნებიან	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	42	cop	_	SpaceAfter=No|Translit=ikʻmnebian
 44	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
 
 # sent_id = OGLC_00042
