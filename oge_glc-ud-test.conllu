@@ -1280,7 +1280,7 @@
 31	და	და	CCONJ	Conj	_	33	cc	_	Translit=da
 32	არღარა	არღარა	ADV	Adv	AdvType=Tim|PartType=Neg	33	advmod	_	Translit=arġara
 33	დამთხუეულთა	დამთხუეული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	30	conj	_	Translit=damtʻxueultʻa
-34	ჟამსა	ჟამი	NOUN	Noun	Case=Dat|Number=Sing	25	obl	_	Translit=žamsa
+34	ჟამსა	ჟამი	NOUN	Noun	Case=Dat|Number=Sing	25	nmod	_	Translit=žamsa
 35	ამის	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	36	det	_	Translit=amis
 36	კრებისასა	კრება	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	34	nmod	_	SpaceAfter=No|Translit=krebisasa
 37	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
