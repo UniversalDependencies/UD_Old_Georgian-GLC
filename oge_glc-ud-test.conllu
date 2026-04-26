@@ -1628,7 +1628,7 @@
 # sent_id = OGLC_00036
 # text = ნეტარი ეპისკოპოსმან კოსტანტინოპილისამან თქუა: საღმრთოდ სჯულიერთა განწესებათა და სჯულთა კეთილისა წესიერებისა შედგომილად არა მიზეზითა პირთა ვიეთთაჲთამე ქმნილად უწყით ჩუენ ესევითართა ამათ სჯულიმდებელობაჲ, რამეთუ ვითარ-იგი უფროჲსად წმიდამან ეპისკოპოსმან არაბიანოს და წარმოთქუა შემდგომითი-შემდგომად ყოფადთა განკრძალვისა ნებებითა და მსგავსადვე მისსა და კაცთმოყუარედ ყოვლად ღირსისა ეპისკოპოსისა თეოფილეს განჩინებამან განასაზღვრა, ნუღარამცა ქმნილ-არს ამიერითგან ნუცა ორთაგან, ნუცა სამთა განსაკითხავისა ეპისკოპოსისა განკუეთაჲ, არამედ უფროჲსისა კრებისა ბჭობითა და მის სამთავროჲსა ეპისკოპოსთა განჩინებითა, ვითარცა სამოციქულომან განასაზღვრა კანონმან.
 # translit = netari episkoposman kostantinopilisaman tʻkʻua: saġmrtʻod sjuliertʻa gancesebatʻa da sjultʻa ketʻilisa cesierebisa šedgomilad ara mizezitʻa pirtʻa vietʻtʻaytʻame kʻmnilad ucqitʻ čʻuen esevitʻartʻa amatʻ sjulimdebelobay, rametʻu vitʻar-igi upʻroysad cmidaman episkoposman arabianos da carmotʻkʻua šemdgomitʻi-šemdgomad qopʻadtʻa gankrżalvisa nebebitʻa da msgavsadve missa da kacʻtʻmoquared qovlad ġirsisa episkoposisa tʻeopʻiles gančʻinebaman ganasazġvra, nuġaramcʻa kʻmnil-ars amieritʻgan nucʻa ortʻagan, nucʻa samtʻa gansakitʻxavisa episkoposisa gankuetʻay, aramed upʻroysisa krebisa bčobitʻa da mis samtʻavroysa episkopostʻa gančʻinebitʻa, vitʻarcʻa samocʻikʻuloman ganasazġvra kanonman.
-1	ნეკტარი	ნეკტარი	ADJ	Adj	Case=Erg|Number=Sing	2	nmod	_	Translit=nektari
+1	ნეტარი	ნეტარი	ADJ	Adj	Case=Erg|Number=Sing	2	nmod	_	Translit=nektari
 2	ეპისკოპოსმან	ეპისკოპოსი	NOUN	Noun	Case=Erg|Number=Sing	4	nsubj	_	Translit=episkoposman
 3	კოსტანტინოპილისამან	კოსტანტინოპილი	PROPN	Noun	Case=Erg|Case[stack]=Gen|Number=Sing	2	appos	_	Translit=kostantinopilisaman
 4	თქუა	თქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=tʻkʻua
@@ -1654,7 +1654,7 @@
 24	,	,	PUNCT	F	PunctType=Comm	39	punct	_	Translit=,
 25	რამეთუ	რამეთუ	SCONJ	Conj	_	39	mark	_	Translit=rametʻu
 26-27	ვითარ-იგი	_	_	_	_	_	_	_	_
-26	ვითარ	ვითარ	ADV	Adv	AdvType=Rel	31	advmod	_	Translit=vitʻar
+26	ვითარ	ვითარ	ADV	Adv	AdvType=Rel|ExtPos=ADV	31	advmod	_	Translit=vitʻar
 27	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	26	fixed	_	Translit=igi
 28	უფროჲსად	უფროჲ	ADJ	Adj	Case=Ess|Case[stack]=Gen|PartType=Emp	29	amod	_	Translit=upʻroysad
 29	წმიდამან	წმიდა	ADJ	Adj	Case=Erg|Number=Sing	30	amod	_	Translit=cmidaman
@@ -1663,7 +1663,7 @@
 32	და	და	CCONJ	Conj	_	33	cc	_	Translit=da
 33	წარმოთქუა	წარმოთქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	31	conj	_	Translit=carmotʻkʻua
 34-35	შემდგომითი-შემდგომად	_	_	_	_	_	_	_	_
-34	შემდგომითი	შემდგომითი	ADJ	Adj	Case=Gen|Number=Sing	39	advmod	_	Translit=šemdgomitʻi
+34	შემდგომითი	შემდგომითი	ADJ	Adj	Case=Gen|Number=Sing|ExtPos=ADV	39	advmod	_	Translit=šemdgomitʻi
 35	შემდგომად	შემდგომად	ADV	Adv	AdvType=Tim	34	fixed	_	Translit=šemdgomad
 36	ყოფადთა	ყოფადი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Act	37	amod	_	Translit=qopʻadtʻa
 37	განკრძალვისა	განკრძალვა	NOUN	Noun	Case=Gen|Number=Sing	39	obl	_	Translit=gankrżalvisa
