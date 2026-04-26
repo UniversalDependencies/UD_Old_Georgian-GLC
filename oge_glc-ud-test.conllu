@@ -662,7 +662,7 @@
 46	ეგნენ	ყოფა	VERB	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	advcl	_	Translit=egnen
 47	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	48	obl	_	Translit=mas
 48	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	46	obl	_	SpaceAfter=No|Translit=šina
-49	,	,	PUNCT	F	PunctType=Comm	51	punct	_	Translit=,
+49	,	,	PUNCT	F	PunctType=Comm	50	punct	_	Translit=,
 50	ხოლო	ხოლო	CCONJ	Conj	_	56	cc	_	Translit=xolo
 51	უკუეთუ	უკუეთუ	SCONJ	Conj	_	52	mark	_	Translit=ukuetʻu
 52	უღირსნი	უღირსი	ADJ	Adj	Case=Nom|Number=Plur	58	nsubj	_	Translit=uġirsni
@@ -1345,7 +1345,7 @@
 # sent_id = OGLC_00029
 # text = არა თუ აწინდელისა ამის მიზეზისათჳს ვიტყჳ ამას, არამედ მეშინის, ნუსადა მოსაჴსენებელთა ამათგან მიიღონ ვიეთმე მიზეზი ამის ჴელმწიფებისაჲ და მკადრებელ იქმნენ ესევითართა, რომლისათჳს გევედრები თქუენ, რაჲთა მომიგოთ.
 # translit = ara tʻu acindelisa amis mizezisatʻws vitqw amas, aramed mešinis, nusada mosax̣senebeltʻa amatʻgan miiġon vietʻme mizezi amis x̣elmcipʻebisay da mkadrebel ikʻmnen esevitʻartʻa, romlisatʻws gevedrebi tʻkʻuen, raytʻa momigotʻ.
-1	არა	არა	PART	Part	PartType=Neg	7	advmod:neg	_	Translit=ara
+1	არა	არა	PART	Part	PartType=Neg|ExtPos=ADV	7	advmod:neg	_	Translit=ara
 2	თუ	თუ	PART	Part	_	1	fixed	_	Translit=tʻu
 3	აწინდელისა	აწინდელი	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=acindelisa
 4	ამის	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	5	det	_	Translit=amis
@@ -1358,7 +1358,7 @@
 10	არამედ	არამედ	CCONJ	Conj	_	11	cc	_	Translit=aramed
 11	მეშინის	შიში	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	SpaceAfter=No|Translit=mešinis
 12	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
-13	ნუსადა	ნუსადა	SCONJ	Conj	PartType=Neg	18	mark	_	Translit=nusada
+13	ნუსადა	ნუსადა	SCONJ	Conj	_	18	mark	_	Translit=nusada
 14	მოსაჴსენებელთა	მოსაჴსენებელი	NOUN	Noun	Case=Gen|Number=Plur	18	obl	_	Translit=mosax̣senebeltʻa
 15-16	ამათგან	_	_	_	_	_	_	_	_
 15	ამათ	ესე	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	14	nmod	_	Translit=amatʻ
@@ -1370,7 +1370,7 @@
 21	ჴელმწიფებისაჲ	ჴელმწიფება	NOUN	Noun	Case=Gen|Number=Sing	19	nmod	_	Translit=x̣elmcipʻebisay
 22	და	და	CCONJ	Conj	_	24	cc	_	Translit=da
 23	მკადრებელ	მკადრებელი	ADJ	Adj	Case=Nom|Number=Plur	24	xcomp	_	Translit=mkadrebel
-24	იქმნენ	ქმნა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	17	conj	_	Translit=ikʻmnen
+24	იქმნენ	ქმნა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	17	conj	_	Translit=ikʻmnen
 25	ესევითართა	ესევითარი	PRON	Pron	Case=Dat|Number=Plur|PronType=Dem	24	iobj	_	SpaceAfter=No|Translit=esevitʻartʻa
 26	,	,	PUNCT	F	PunctType=Comm	29	punct	_	Translit=,
 27-28	რომლისათჳს	_	_	_	_	_	_	_	_
