@@ -2011,12 +2011,12 @@
 27	შვა	შობა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	Translit=šva
 28	ტკივილი	ტკივილი	NOUN	Noun	Case=Nom|Number=Sing	27	obj	_	Translit=tkivili
 29	განდგომიელბისაჲ	განდგომიელბა	NOUN	Noun	Case=Gen|Number=Sing	28	nmod	_	SpaceAfter=No|Translit=gandgomielbisay
-30	,	,	PUNCT	F	PunctType=Comm	35	punct	_	Translit=,
+30	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
 31	ვერ	ვერ	PART	Part	PartType=Neg	35	advmod:neg	_	Translit=ver
 32-33	თავს-იდებდა	_	_	_	_	_	_	_	SpaceAfter=No
 32	თავს	თავი	NOUN	Noun	Case=Dat|Number=Sing	33	obj	_	Translit=tʻavs
 33	იდებდა	დება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	18	conj	_	Translit=idebda
-34	,	,	PUNCT	F	PunctType=Comm	39	punct	_	Translit=,
+34	,	,	PUNCT	F	PunctType=Comm	36	punct	_	Translit=,
 35	რაჲთამცა	რაჲთა	SCONJ	Conj	_	39	mark	_	Translit=raytʻamcʻa
 36	მიხილნა	ხილვა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	advcl	_	Translit=mixilna
 37	ჩუენ	ჩუენ	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	36	obj	_	Translit=čʻuen
@@ -2025,7 +2025,7 @@
 40-41	დაცემისაგან	_	_	_	_	_	_	_	SpaceAfter=No
 40	დაცემისა	დაცემა	NOUN	Noun	Case=Gen|Number=Sing	38	obl	_	Translit=dacʻemisa
 41	გან	გან	ADP	Post	AdpType=Post|Case=Ins	40	case	_	Translit=gan
-42	,	,	PUNCT	F	PunctType=Comm	46	punct	_	Translit=,
+42	,	,	PUNCT	F	PunctType=Comm	45	punct	_	Translit=,
 43	რომლისა	რომელი	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	44	nmod	_	Translit=romlisa
 44	მიზეზ	მიზეზი	NOUN	Noun	Case=Nom|Number=Sing	46	xcomp	_	Translit=mizez
 45	იქმნა	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	18	conj	_	Translit=ikʻmna
@@ -2042,9 +2042,9 @@
 56	რომელ	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	58	nsubj	_	Translit=romel
 57	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	58	cop	_	Translit=ars
 58	ქრისტე	ქრისტე	PROPN	Noun	Case=Nom|Number=Sing	48	acl:relcl	_	SpaceAfter=No|Translit=kʻriste
-59	,	,	PUNCT	F	PunctType=Comm	63	punct	_	Translit=,
+59	,	,	PUNCT	F	PunctType=Comm	62	punct	_	Translit=,
 60-61	რომელმან-იგი	_	_	_	_	_	_	_	_
-60	რომელმან	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	63	nsubj	_	Translit=romelman
+60	რომელმან	რომელი	PRON	Pron	Case=Erg|ExtPos=PRON|Number=Sing|PronType=Rel	63	nsubj	_	Translit=romelman
 61	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	60	fixed	_	Translit=igi
 62	მისცა	მიცემა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	58	acl:relcl	_	Translit=miscʻa
 63	თავი	თავი	NOUN	Noun	Case=Nom|Number=Sing	62	obj	_	Translit=tʻavi
