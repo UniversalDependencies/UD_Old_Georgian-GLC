@@ -2138,7 +2138,7 @@
 148	ჩუენდა	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	149	nmod	_	Translit=čʻuenda
 149	მომართ	მომართ	ADP	Post	AdpType=Post|Case=Dat	150	obl	_	Translit=momartʻ
 150	მძლავრებაჲ	მძლავრებაჲ	NOUN	Noun	Case=Nom|Number=Sing	152	obj	_	Translit=mżlavrebay
-151	მისი	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	151	det	_	Translit=misi
+151	მისი	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	150	det	_	Translit=misi
 152	დაჰჴსნეს	დაჰჴსნა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	144	conj	_	Translit=dahx̣snes
 153	და	და	CCONJ	Conj	_	157	cc	_	Translit=da
 154	წინამძღუარ	წინამძღუარი	NOUN	Noun	Case=Ess|Number=Sing	157	xcomp	_	Translit=cinamżġuar
