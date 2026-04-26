@@ -1103,7 +1103,7 @@
 44	დასხდეს	დასხდომა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=dasxdes
 45	წმიდანი	წმიდანი	ADJ	Adj	Case=Nom|Number=Plur	46	amod	_	Translit=cmidani
 46	ეპისკოპოსნი	ეპისკოპოსი	NOUN	Noun	Case=Nom|Number=Plur	44	nsubj	_	SpaceAfter=No|Translit=episkoposni
-47	:	:	PUNCT	F	PunctType=Colo	44	punct	_	Translit=:
+47	:	:	PUNCT	F	PunctType=Colo	48	punct	_	Translit=:
 48	ნეკტარი	ნეკტარი	PROPN	Noun	Case=Nom|Number=Sing	46	appos	_	Translit=nektari
 49	თჳთ	თჳთ	PART	Part	PartType=Emp	48	advmod:emph	_	Translit=tʻwtʻ
 50	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	51	nmod	_	Translit=mis
@@ -1213,10 +1213,10 @@
 30	წმიდათა	წმიდა	ADJ	Adj	Case=Gen|Number=Plur	31	amod	_	Translit=cmidatʻa
 31	ძმათა	ძმა	NOUN	Noun	Case=Gen|Number=Plur	28	nmod	_	Translit=żmatʻa
 32	და	და	CCONJ	Conj	_	35	cc	_	Translit=da
-33-35	თანა-მწირველთა	_	_	_	_	_	_	_	_
+33-35	თანა-მწირველთა	_	_	_	_	_	_	_	SpaceAfter=No
 33	თანა	თანა	ADV	Adv	_	34	advmod	_	Translit=tʻana
 34	მწირველთა	მწირველი	NOUN	Noun	Case=Gen|Number=Plur	31	conj	_	Translit=mcirveltʻa
-35	ჩუენთა	ჩუენი	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	34	det	_	SpaceAfter=No|Translit=čʻuentʻa
+35	ჩუენთა	ჩუენი	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	34	det	_	Translit=čʻuentʻa
 36	,	,	PUNCT	F	PunctType=Comm	43	punct	_	Translit=,
 37-38	ვინაჲთგან	_	_	_	_	_	_	_	_
 37	ვინაჲთ	ვინაჲთ	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	43	obl	_	Translit=vinaytʻ
