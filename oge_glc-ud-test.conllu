@@ -2596,7 +2596,7 @@
 12	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
 13	რომლითა	რომელი	PRON	Pron	Case=Ins|Number=Sing|PronType=Rel	14	obl	_	Translit=romlitʻa
 14	განწმდა	განწმედა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	ccomp	_	SpaceAfter=No|Translit=gancmda
-15	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
+15	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
 16	ლიტონად	ლიტონად	ADV	Adv	AdvType=Man	17	advmod	_	Translit=litonad
 17	შემრაცხელი	შემრაცხელი	NOUN	Noun	Case=Nom|Number=Sing	8	conj	_	Translit=šemracʻxeli
 18	და	და	CCONJ	Conj	_	21	cc	_	Translit=da
@@ -2615,7 +2615,7 @@
 31	ქრისტესითა	ქრისტე	PROPN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	30	nmod	_	SpaceAfter=No|Translit=kʻristesitʻa
 32	,	,	PUNCT	F	PunctType=Comm	37	punct	_	Translit=,
 33-34	რომელმან-იგი	_	_	_	_	_	_	_	_
-33	რომელმან	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	37	nsubj	_	Translit=romelman
+33	რომელმან	რომელი	PRON	Pron	Case=Erg|ExtPos=PRON|Number=Sing|PronType=Rel	37	nsubj	_	Translit=romelman
 34	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	33	fixed	_	Translit=igi
 35	შეცთომილი	შეცთომილი	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Act	36	amod	_	Translit=šecʻtʻomili
 36	ცხოვარი	ცხოვარი	NOUN	Noun	Case=Nom|Number=Sing	37	obj	_	Translit=cʻxovari
