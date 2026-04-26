@@ -1941,9 +1941,9 @@
 7	იდების	დება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=idebis
 8	და	და	CCONJ	Conj	_	12	cc	_	Translit=da
 9	ყოვლად	ყოვლად	ADV	Adv	AdvType=Man	10	advmod	_	Translit=qovlad
-10	ნაყოფებად	ნაყოფი	NOUN	Noun	Case=Ess|Number=Sing	12	xcomp	_	Translit=naqopʻebad
-11	შეწირულ	შეწირული	VERB	Verb	VerbForm=Part|Voice=Pass	12	xcomp	_	Translit=šecirul
-12	იქმნების	ქმნა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	conj	_	Translit=ikʻmnebis
+10	ნაყოფებად	ნაყოფი	NOUN	Noun	Case=Ess|Number=Sing	11	advmod	_	Translit=naqopʻebad
+11	შეწირულ	შეწირული	VERB	Verb	VerbForm=Part|Voice=Pass	7	conj	_	Translit=šecirul
+12	იქმნების	ქმნა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	11	cop	_	Translit=ikʻmnebis
 13	და	და	CCONJ	Conj	_	25	cc	_	Translit=da
 14	ღმერთი	ღმერთი	NOUN	Noun	Case=Nom|Number=Sing	25	nsubj	_	Translit=ġmertʻi
 15	დაკლული	დაკლული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	14	acl	_	Translit=dakluli
