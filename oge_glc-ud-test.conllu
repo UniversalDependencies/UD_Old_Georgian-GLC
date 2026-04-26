@@ -205,22 +205,22 @@
 # sent_id = OGLC_00007
 # text = ხოლო საჴმარ არს გულისჴმის-ყოფაჲ მისიცა, რომელსა იტყჳს იგი, ვითარმედ შემძლებელ იყო იგი განმართლებად თავისა და უბრალოდ გამოჩინებად თჳსისა საეჭუელობისა, არამედ არავინ მისცა მას ჟამი სიტყჳსებისაჲ, არცა ადგილი კანონებრივისა სამართლობისაჲ.
 # translit = xolo sax̣mar ars gulisx̣mis-qopʻay misicʻa, romelsa itqws igi, vitʻarmed šemżlebel iqo igi ganmartʻlebad tʻavisa da ubralod gamočʻinebad tʻwsisa saečuelobisa,aramed aravin miscʻa mas žami sitqwsebisay, arcʻa adgili kanonebrivisa samartʻlobisay.
-1	ხოლო	ხოლო	CCONJ	Conj	_	3	cc	_	Translit=xolo
+1	ხოლო	ხოლო	CCONJ	Conj	_	2	cc	_	Translit=xolo
 2	საჴმარ	საჴმარ	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	Translit=sax̣mar
 3	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	Translit=ars
 4-5	გულისჴმის-ყოფაჲ	_	_	_	_	_	_	_	_
 4	გულისჴმის	გულისჴმა	NOUN	Noun	Case=Gen|Number=Sing	5	nmod	_	Translit=gulisxmis
-5	ყოფაჲ	ყოფა	NOUN	Noun	Case=Nom|Number=Sing	3	nsubj	_	Translit=qopay
+5	ყოფაჲ	ყოფა	NOUN	Noun	Case=Nom|Number=Sing	2	nsubj	_	Translit=qopay
 6	მისიცა	მისი	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Prs	5	nmod	_	SpaceAfter=No|Translit=misicʻa
 7	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 8	რომელსა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	9	obj	_	Translit=romelsa
 9	იტყჳს	თქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	Translit=itqws
 10	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	9	nsubj	_	SpaceAfter=No|Translit=igi
 11	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
-12	ვითარმედ	ვითარმედ	SCONJ	Conj	_	14	mark	_	Translit=vitʻarmed
+12	ვითარმედ	ვითარმედ	SCONJ	Conj	_	13	mark	_	Translit=vitʻarmed
 13	შემძლებელ	შემძლებელი	ADJ	Adj	Case=Nom|Number=Sing	9	ccomp	_	Translit=šemżlebel
 14	იყო	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	13	cop	_	Translit=iqo
-15	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	14	nsubj	_	Translit=igi
+15	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	13	nsubj	_	Translit=igi
 16	განმართლებად	განმართლებად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	13	xcomp	_	Translit=ganmartʻlebad
 17	თავისა	თავი	NOUN	Noun	Case=Gen|Number=Sing	16	obj	_	Translit=tʻavisa
 18	და	და	CCONJ	Conj	_	20	cc	_	Translit=da
@@ -403,7 +403,7 @@
 19	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
 20-21	ცხად-არს	_	_	_	_	_	_	_	SpaceAfter=No
 20	ცხად	ცხად	ADV	Adv	AdvType=Man	11	parataxis	_	Translit=cʻxad
-21	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	cop	_	Translit=ars
+21	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	cop	_	Translit=ars
 22	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
 23	ვითარმედ	ვითარმედ	SCONJ	Conj	_	36	mark	_	Translit=vitʻarmed
 24	ჴელსა	ჴელი	NOUN	Noun	Case=Dat|Number=Sing	25	obl	_	Translit=x̣elsa
@@ -447,16 +447,16 @@
 # text = ხოლო რაჲთა არა მიზეზი ესე დამჴსნელ იქმნეს მისთჳს ყოფადისა მის მსჯავრისა ნაკლულევანად რაჲმე ქმნისა საგონებელ-ყოფითა, არა ჯერ-არს შესაკრბელსა მას შინა ყოფაჲ მათი, რომელთა მიმართ აქუნდეს მას იჭჳ რაჲმე ესევითარი.
 # translit = xolo raytʻa ara mizezi ese damx̣snel ikʻmnes mistʻws qopʻadisa mis msjavrisa naklulevanad rayme kʻmnisa sagonebel-qopʻitʻa, ara jer-ars šesakrbelsa mas šina qopʻay matʻi, romeltʻa mimartʻ akʻundes mas ičw rayme esevitʻari.
 1	ხოლო	ხოლო	CCONJ	Conj	_	21	cc	_	Translit=xolo
-2	რაჲთა	რაჲთა	SCONJ	Conj	_	7	mark	_	Translit=raytʻa
-3	არა	არა	PART	Part	PartType=Neg	7	advmod:neg	_	Translit=ara
-4	მიზეზი	მიზეზი	NOUN	Noun	Case=Nom|Number=Sing	7	nsubj	_	Translit=mizezi
+2	რაჲთა	რაჲთა	SCONJ	Conj	_	6	mark	_	Translit=raytʻa
+3	არა	არა	PART	Part	PartType=Neg	6	advmod:neg	_	Translit=ara
+4	მიზეზი	მიზეზი	NOUN	Noun	Case=Nom|Number=Sing	6	nsubj	_	Translit=mizezi
 5	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	4	det	_	Translit=ese
 6	დამჴსნელ	დამჴსნელი	ADJ	Adj	Case=Nom|Number=Sing	21	advcl	_	Translit=damx̣snel
-7	იქმნეს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	cop	_	Translit=ikʻmnes
+7	იქმნეს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	cop	_	Translit=ikʻmnes
 8-9	მისთჳს	_	_	_	_	_	_	_	_
-8	მის	ის	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	7	obl	_	Translit=mis
+8	მის	ის	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	6	obl	_	Translit=mis
 9	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	8	case	_	Translit=tʻws
-10	ყოფადისა	ყოფადი	NOUN	Noun	Case=Gen|Number=Sing	7	obl	_	Translit=qopʻadisa
+10	ყოფადისა	ყოფადი	NOUN	Noun	Case=Gen|Number=Sing	6	obl	_	Translit=qopʻadisa
 11	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	12	nmod	_	Translit=mis
 12	მსჯავრისა	მსჯავრი	NOUN	Noun	Case=Gen|Number=Sing	10	nmod	_	Translit=msjavrisa
 13	ნაკლულევანად	ნაკლულევანი	ADJ	Adj	Case=Ess|Number=Sing	14	advcl	_	Translit=naklulevanad
