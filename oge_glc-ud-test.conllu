@@ -2471,7 +2471,7 @@
 18	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	16	acl:relcl	_	Translit=romeltʻa
 19	ერთმან	ერთი	PRON	Pron	Case=Erg|Number=Sing|PronType=Ind	45	nsubj	_	Translit=ertʻman
 20	მან	იგი	PRON	Pron	Case=Erg|Number=Sing|PronType=Dem	19	det	_	Translit=man
-21	უკუე	უკუე	ADV	Adv	AdvType=Tim	19	advmod	=	_	Translit=ukue
+21	უკუე	უკუე	ADV	Adv	AdvType=Tim	19	advmod	_	Translit=ukue
 22	ჟამთა	ჟამი	NOUN	Noun	Case=Gen|Number=Plur	24	nmod	_	Translit=žamtʻa
 23	კეთილად	კეთილად	ADV	Adv	AdvType=Man	24	advmod	_	Translit=ketʻilad
 24	მოჴსენებულისა	მოჴსენებული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Pass	25	amod	_	Translit=mox̣senebulisa
