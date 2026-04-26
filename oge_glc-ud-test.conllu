@@ -1658,7 +1658,7 @@
 27	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	26	fixed	_	Translit=igi
 28	უფროჲსად	უფროჲ	ADJ	Adj	Case=Ess|Case[stack]=Gen|PartType=Emp	29	amod	_	Translit=upʻroysad
 29	წმიდამან	წმიდა	ADJ	Adj	Case=Erg|Number=Sing	30	amod	_	Translit=cmidaman
-30	ეპისკოპოსმან	ეპისკოპოსი	NOUN	Noun	Case=Erg|Number=Sing	31	nsubj	_	Translit=episkoposman
+30	ეპისკოპოსმან	ეპისკოპოსი	NOUN	Noun	Case=Erg|Number=Sing	33	nsubj	_	Translit=episkoposman
 31	არაბიანოს	არაბიანოს	PROPN	Noun	Case=Nom|Number=Sing	30	appos	_	Translit=arabianos
 32	და	და	CCONJ	Conj	_	33	cc	_	Translit=da
 33	წარმოთქუა	წარმოთქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	19	advcl	_	Translit=carmotʻkʻua
@@ -1723,7 +1723,7 @@
 2	ეპისკოპოსმან	ეპისკოპოსი	NOUN	Noun	Case=Erg|Number=Sing	1	appos	_	Translit=episkoposman
 3	ანტიოქიისამან	ანტიოქია	PROPN	Noun	Case=Erg|Case[stack]=Gen|Number=Sing	2	nmod	_	Translit=antiokʻiisaman
 4	თქუა	თქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=tʻkʻua
-5	:	:	PUNCT	F	PunctType=Colo	4	punct	_	Translit=:
+5	:	:	PUNCT	F	PunctType=Colo	8	punct	_	Translit=:
 6-7	რაჲ-იგი	_	_	_	_	_	_	_	_
 6	რაჲ	რა	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Rel	8	obj	_	Translit=ray
 7	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	6	fixed	_	Translit=igi
