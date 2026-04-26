@@ -228,7 +228,7 @@
 20	გამოჩინებად	გამოჩინებად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	16	conj	_	Translit=gamočʻinebad
 21	თჳსისა	თჳსი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	22	nmod	_	Translit=tʻwsisa
 22	საეჭუელობისა	საეჭუელობა	NOUN	Noun	Case=Gen|Number=Sing	20	obj	_	SpaceAfter=No|Translit=saečuelobisa
-23	,	,	PUNCT	F	PunctType=Comm	3	punct	_	Translit=,
+23	,	,	PUNCT	F	PunctType=Comm	2	punct	_	Translit=,
 24	არამედ	არამედ	CCONJ	Conj	_	26	cc	_	Translit=aramed
 25	არავინ	არავინ	PRON	Pron	Case=Nom|Number=Sing|PronType=Neg	26	nsubj	_	Translit=aravin
 26	მისცა	მიცემა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Translit=miscʻa
@@ -469,7 +469,7 @@
 19	არა	არა	PART	Part	PartType=Neg	21	advmod:neg	_	Translit=ara
 20-21	ჯერ-არს	_	_	_	_	_	_	_	_
 20	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	21	advmod	_	Translit=jer
-21	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	cop	_	Translit=ars
+21	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	cop	_	Translit=ars
 22	შესაკრბელსა	შესაკრბელი	NOUN	Noun	Case=Dat|Number=Sing	25	nmod	_	Translit=šesakrbelsa
 23	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	22	det	_	Translit=mas
 24	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	22	case	_	Translit=šina
@@ -501,14 +501,14 @@
 # sent_id = OGLC_00014
 # text = მისდადვე სათანადო არს ორთა პირთათჳს: პირველად უკუე, რამეთუ არცა ჯერ-იყო რაჲთურთით ქმნაჲ რაჲსამე ესევითარისაჲ, რომელი შეაწუხებს ფრიად და უკუანაჲსკნელსა და სრულიადსა მიხუეჭილობასა დასჯის ყოვლით კერძო ქუეყანისა მყოფთა ღმრთისმოყუარეთა ეპისკოპოსთა მიჴდაჲ სიტყჳსაჲ განგებისათჳს ჴელმწიფებასა მათსა ქუეშე მყოფთა წარსაგებელთაჲსა, გინათუ საეკლესიოთა შემოსავალთაგანნი იყვნენ, გინა შემოწირულნი ვიეთნიმე, რამეთუ თითოეულმან ჩუენმან თჳსსა ჟამსა მისცეს სიტყუაჲ მსაჯულსა ყოველთასა.
 # translit = misdadve satʻanado ars ortʻa pirtʻatʻws: pirvelad ukue, rametʻu arcʻa jer-iqo raytʻurtʻitʻ kʻmnay raysame esevitʻarisay, romeli šeacuxebs pʻriad da ukuanaysknelsa da sruliadsa mixuečilobasa dasjis qovlitʻ kerżo kʻueqanisa mqopʻtʻa ġmrtʻismoquaretʻa episkopostʻa mix̣day sitqwsay gangebisatʻws x̣elmcipʻebasa matʻsa kʻueše mqopʻtʻa carsagebeltʻaysa, ginatʻu saeklesiotʻa šemosavaltʻaganni iqvnen, gina šemocirulni vietʻnime, rametʻu tʻitʻoeulman čʻuenman tʻwssa žamsa miscʻes sitquay msajulsa qoveltʻasa.
-1	მისდადვე	მისდა	ADV	Adv	AdvType=Loc|PartType=Emp	3	advmod	_	Translit=misdadve
+1	მისდადვე	მისდა	ADV	Adv	AdvType=Loc|PartType=Emp	2	advmod	_	Translit=misdadve
 2	სათანადო	სათანადო	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	Translit=satʻanado
 3	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	Translit=ars
 4	ორთა	ორი	NUM	Num	Case=Gen|Number=Plur	5	nmod	_	Translit=ortʻa
 5-6	პირთათჳს	_	_	_	_	_	_	_	SpaceAfter=No
-5	პირთა	პირი	NOUN	Noun	Case=Gen|Number=Plur	3	obl	_	Translit=pirtʻa
+5	პირთა	პირი	NOUN	Noun	Case=Gen|Number=Plur	2	obl	_	Translit=pirtʻa
 6	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	5	case	_	Translit=tʻwis
-7	:	:	PUNCT	F	PunctType=Colo	3	punct	_	Translit=:
+7	:	:	PUNCT	F	PunctType=Colo	2	punct	_	Translit=:
 8	პირველად	პირველად	ADV	Adv	AdvType=Tim	14	advmod	_	Translit=pirvelad
 9	უკუე	უკუე	ADV	Adv	_	14	advmod	_	SpaceAfter=No|Translit=ukue
 10	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
