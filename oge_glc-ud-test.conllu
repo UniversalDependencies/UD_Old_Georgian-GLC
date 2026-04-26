@@ -2452,14 +2452,14 @@
 # translit = xolo vinaytʻgan cmidatʻa da msopʻliotʻa ortʻa krebatʻa sameupʻosa amas da ġmrtʻiv dacʻulsa kʻalakʻsa šina šekrebultʻa, romeltʻa ertʻman man ukue žamtʻa ketʻilad mox̣senebulisa iustinianestʻa, xolo meoreman ġmrtʻismsaxurebitʻ saxelgantʻkʻumulsa mepʻisa čʻuenisa kostantines ze, romeli iqo mamay šenisa simšwdisay, saidumloy mamulisa sarcmunoebisay ganacʻxades.
 1	ხოლო	ხოლო	CCONJ	Conj	_	45	cc	_	Translit=xolo
 2-3	ვინაჲთგან	_	_	_	_	_	_	_	_
-2	ვინაჲთ	ვინაჲთ	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	12	obl	_	Translit=vinaytʻ
+2	ვინაჲთ	ვინაჲთ	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	45	obl	_	Translit=vinaytʻ
 3	გან	გან	ADP	Post	AdpType=Post|Case=Ins	2	case	_	Translit=gan
 4	წმიდათა	წმიდა	ADJ	Adj	Case=Gen|Number=Plur	7	amod	_	Translit=cmidatʻa
 5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
 6	მსოფლიოთა	მსოფლიოჲ	ADJ	Adj	Case=Gen|Number=Plur	4	conj	_	Translit=msopʻliotʻa
 7	ორთა	ორი	NUM	Num	Case=Gen|Number=Plur	8	nummod	_	Translit=ortʻa
-8	კრებათა	კრება	NOUN	Noun	Case=Gen|Number=Plur	12	obl	_	Translit=krebatʻa
-9	სამეუფოსა	სამეუფო	NOUN	Noun	Case=Dat|Number=Sing	12	obl	_	Translit=sameupʻosa
+8	კრებათა	კრება	NOUN	Noun	Case=Gen|Number=Plur	45	obl	_	Translit=krebatʻa
+9	სამეუფოსა	სამეუფო	NOUN	Noun	Case=Dat|Number=Sing	14	obl	_	Translit=sameupʻosa
 10	ამას	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	11	det	_	Translit=amas
 11	და	და	CCONJ	Conj	_	13	cc	_	Translit=da
 12	ღმრთივ	ღმრთივ	ADV	Adv	AdvType=Man	13	advmod	_	Translit=ġmrtʻiv
