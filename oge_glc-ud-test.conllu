@@ -1849,7 +1849,7 @@
 22	სასმენელებისა	სასმენელი	NOUN	Noun	Case=Gen|Number=Plur	23	nmod	_	Translit=sasmenelebisa
 23	შორის	შორის	ADP	Post	AdpType=Post|Case=Gen	25	obl	_	Translit=šoris
 24	ყოველთაჲსა	ყოველი	PRON	Pron	Case=Gen|Number=Plur|PronType=Tot	22	det	_	Translit=qoveltʻaysa
-25	განითესა	განთესვა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	33	conj	_	SpaceAfter=No|Translit=ganitʻesa
+25	განითესა	განთესვა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	SpaceAfter=No|Translit=ganitʻesa
 26	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
 27	ერმან	ერი	NOUN	Noun	Case=Erg|Number=Sing	33	nsubj	_	Translit=erman
 28	უკუე	უკუე	ADV	Adv	AdvType=Tim	33	advmod	_	Translit=ukue
@@ -1857,7 +1857,7 @@
 30	ბნელსა	ბნელი	NOUN	Noun	Case=Dat|Number=Sing	33	obl	_	Translit=bnelsa
 31	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	30	case	_	Translit=šina
 32	უმეცრებისასა	უმეცრება	NOUN	Noun	Case=Gen|Number=Sing	30	nmod	_	Translit=umecʻrebisasa
-33	იხილა	ხილვა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	Translit=ixila
+33	იხილა	ხილვა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	25	conj	_	Translit=ixila
 34	ნათელი	ნათელი	NOUN	Noun	Case=Nom|Number=Sing	33	obj	_	Translit=natʻeli
 35	დიდი	დიდი	ADJ	Adj	Case=Nom|Number=Sing	36	amod	_	Translit=didi
 36	მეცნიერებისაჲსა	მეცნიერება	NOUN	Noun	Case=Gen|Case[stack]=Gen|Number=Sing	42	obl	_	Translit=mecnierebisaysa
