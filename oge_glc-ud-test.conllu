@@ -662,7 +662,7 @@
 46	ეგნენ	ყოფა	VERB	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	advcl	_	Translit=egnen
 47	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	48	obl	_	Translit=mas
 48	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	46	obl	_	SpaceAfter=No|Translit=šina
-49	,	,	PUNCT	F	PunctType=Comm	56	punct	_	Translit=,
+49	,	,	PUNCT	F	PunctType=Comm	51	punct	_	Translit=,
 50	ხოლო	ხოლო	CCONJ	Conj	_	56	cc	_	Translit=xolo
 51	უკუეთუ	უკუეთუ	SCONJ	Conj	_	52	mark	_	Translit=ukuetʻu
 52	უღირსნი	უღირსი	ADJ	Adj	Case=Nom|Number=Plur	58	nsubj	_	Translit=uġirsni
@@ -1056,8 +1056,8 @@
 # translit = kostantinopolis šina krebisa mier kʻmniltʻa mosax̣senebltʻagan aġapistʻws da vaġadistʻws, romelni ux̣debodis urtʻiertʻas saepiskopososa zeda bostrisasa wpatosobasa ketʻilad msaxurtʻa da ġmrtʻismoquaretʻa mepʻetʻa čʻuentʻasa pʻlavioys arkadi avġwstosisa mesamesa da onorissa meoresa ucinares rvatʻa kalandatʻa oktomberisatʻa sanatʻlosa šina kostantinopolisa cmidisa katʻolike eklesiisasa dasxdes cmidani episkoposni: nektari tʻwtʻ mis kostantinepolisay, tʻeopʻile alekʻsadriisay, pʻlabiane antiokʻiisay, elladi kesaria kappadukisay, gelasi kesaria palestinisay, grigoli nwsiisay, ampʻilokʻe ikoniisay, pavle irakliisay, arabiane ankwriisay, ammonos andrianopolisay, pʻaleri tarsunisay, lukios ierapolisay, elpidi laodikiisay, pavle kʻseoysay, dioskore ermupolisay, provati veronikiisa, tʻeodore mompʻsuetisay, vizu selekiisay, ipaġatʻu markianupolisay, geronti klavdiupolisay da sxuani tʻitʻoeulni episkoposni da qoveli samġdeloy mcqobri.
 1	კოსტანტინოპოლის	კოსტანტინოპოლი	PROPN	Noun	Case=Gen|Number=Sing	2	nmod	_	Translit=kostantinopolis
 2	შინა	შინა	ADP	Post	AdpType=Post|Case=Gen	4	obl	_	Translit=šina
-3	კრებისა	კრება	NOUN	Noun	Case=Gen|Number=Sing	4	nmod	_	Translit=krebisa
-4	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	5	case	_	Translit=mier
+3	კრებისა	კრება	NOUN	Noun	Case=Gen|Number=Sing	5	nmod	_	Translit=krebisa
+4	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	3	case	_	Translit=mier
 5	ქმნილთა	ქმნილი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	6	amod	_	Translit=kʻmniltʻa
 6-7	მოსაჴსენებლთაგან	_	_	_	_	_	_	_	_
 6	მოსაჴსენებლთა	მოსაჴსენებელი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part	44	obl	_	Translit=mosax̣senebltʻa
@@ -1252,8 +1252,8 @@
 4	რათაჲსამე	რაჲ	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	3	det	_	Translit=ratʻaysame
 5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
 6	თქუმისა	თქმა	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Vnoun	3	conj	_	Translit=tʻkʻumisa
-7	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	8	nmod	_	Translit=matʻ
-8	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	6	case	_	Translit=mier
+7	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	6	nmod	_	Translit=matʻ
+8	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	7	case	_	Translit=mier
 9	მიზეზისა	მიზეზი	NOUN	Noun	Case=Gen|Number=Sing	6	obj	_	Translit=mizezisa
 10-11	მათისათჳს	_	_	_	_	_	_	_	_
 10	მათისა	მათი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	6	obl	_	Translit=matʻisa
