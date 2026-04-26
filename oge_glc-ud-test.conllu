@@ -1772,7 +1772,7 @@
 14	და	და	CCONJ	Conj	_	16	cc	_	Translit=da
 15	ქრისტეს	ქრისტე	PROPN	Noun	Case=Gen|Number=Sing	16	nmod	_	Translit=kʻristes
 16	მოყუარისა	მოყუარე	NOUN	Noun	Case=Gen|Number=Sing	13	conj	_	Translit=moquarisa
-17	მეფისა	მეფე	NOUN	Noun	Case=Gen|Number=Sing	13	conj	_	Translit=mepʻisa
+17	მეფისა	მეფე	NOUN	Noun	Case=Gen|Number=Sing	10	nmod	_	Translit=mepʻisa
 18	ჩუენისა	ჩუენი	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	17	det	_	Translit=čʻuenisa
 19	მიწერილი	მიწერილი	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	1	acl	_	Translit=micerili
 20	წმიდისა	წმიდა	ADJ	Adj	Case=Gen|Number=Sing	22	amod	_	Translit=cmidisa
