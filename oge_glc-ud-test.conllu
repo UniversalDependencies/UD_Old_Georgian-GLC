@@ -1896,12 +1896,12 @@
 16	პირველ	პირველ	ADV	Adv	_	24	advmod	_	Translit=pirvel
 17	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	19	nmod	_	Translit=mis
 18	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	17	case	_	Translit=mier
-19	ტყუექმნულთა	ტყუექმნული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	20	obl	_	Translit=tquekʻmnultʻa
+19	ტყუექმნულთა	ტყუექმნული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	20	nmod	_	Translit=tquekʻmnultʻa
 20-21	მათგან	_	_	_	_	_	_	_	_
 20	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	24	obl	_	Translit=matʻ
 21	გან	გან	ADP	Post	AdpType=Post|Case=Ins	20	case	_	Translit=gan
 22	ცალიერ	ცალიერ	ADV	Adv	AdvType=Man	24	advmod	_	Translit=cʻalier
-23	იქმნა	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	33	conj	_	Translit=ikʻmna
+23	იქმნა	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=ikʻmna
 24	და	და	CCONJ	Conj	_	33	cc	_	Translit=da
 25	ძლიერებითა	ძლიერება	NOUN	Noun	Case=Ins|Number=Sing	31	obl	_	Translit=żlierebitʻa
 26	განჴორციელებულისა	განჴორციელებული	VERB	Verb	Case=Ins|Number=Sing|VerbForm=Part|Voice=Pass	27	amod	_	Translit=ganx̣orcʻielebulisa
@@ -1912,7 +1912,7 @@
 30	თჳისა	თჳსი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	29	nmod	_	Translit=tʻwisa
 31	გან	გან	ADP	Post	AdpType=Post|Case=Ins	30	case	_	Translit=gan
 32	უცხო	უცხო	ADJ	Adj	Case=Nom|Number=Sing	33	xcomp	_	Translit=ucʻxo
-33	იქმნა	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=ikʻmna
+33	იქმნა	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	23	conj	_	SpaceAfter=No|Translit=ikʻmna
 34	,	,	PUNCT	F	PunctType=Comm	37	punct	_	Translit=,
 35	ვითარცა	ვითარცა	SCONJ	Conj	_	37	mark	_	Translit=vitʻarcʻa
 36	წერილ	წერილ	VERB	Verb	VerbForm=Part|Voice=Pass	33	advcl	_	Translit=ceril
