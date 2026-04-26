@@ -600,14 +600,14 @@
 24	განგებასა	განგება	NOUN	Noun	Case=Dat|Number=Sing	25	obl	_	Translit=gangebasa
 25	მინდობაჲ	მინდობაჲ	NOUN	Noun	Case=Nom|Number=Sing	16	conj	_	Translit=mindobay
 26	მათი	მათი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	25	nmod	_	SpaceAfter=No|Translit=matʻi
-27	,	,	PUNCT	F	PunctType=Comm	25	punct	_	Translit=,
+27	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
 28	რომელთადა	რომელი	PRON	Pron	Case=Dat|Number=Plur|PronType=Rel	32	nsubj	_	Translit=romeltʻada
 29	წმიდისა	წმიდაჲ	ADJ	Adj	Case=Gen|Number=Sing	30	amod	_	Translit=cmidisa
 30	მღდელობისა	მღდელობა	NOUN	Noun	Case=Gen|Number=Sing	31	nmod	_	Translit=mġdelobisa
 31	მთავრობაჲ	მთავრობა	NOUN	Noun	Case=Nom|Number=Sing	25	acl:relcl	_	Translit=mtʻavrobay
 32	ჴელთდებულ	ჴელთდებული	VERB	Verb	VerbForm=Part|Voice=Pass	26	acl	_	Translit=x̣eltʻdebul
 33	იყოს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	cop	_	SpaceAfter=No|Translit=iqos
-34	.	.	PUNCT	F	PunctType=Peri	16	punct	_	Translit=.
+34	.	.	PUNCT	F	PunctType=Peri	15	punct	_	Translit=.
 
 # sent_id = OGLC_00016
 # text = ხოლო მღდელობისაგან ჯმნისა ქარტათა არა თჳსით ნებსით, არამედ იძულებისაგან და შიშისა და სიქადულისა ვიეთისამე იტყჳს მიცემასა და რამეთუ არცა საეკლესიოთა წესთა მოწამე არს საქმე ესე, რაჲთამცა ქარტაჲ ჯმნისაჲ მიეჴადებოდა ვიეთმე სამღდელოჲსა პატივისა ღირსქმნულთა, რამეთუ უკუეთუ ღირსნი არიან მის მსახურებისანი, ეგნენ მას შინა, ხოლო უკუეთუ უღირსნი – ნუ ჯმნისა მიერ უცხო იქმნებიან მისგან, არამედ უფროჲსღა განკითხულნი საქმეთა მათ ზედა, რომელთაზედა მრავალნი ვინმე ღაღადებაჲ იჴუმიოს, ვითარცა ყოვლისა წესიერებისაგან განვრდომით დაკლებულთათჳს.
@@ -740,13 +740,13 @@
 # sent_id = OGLC_00019
 # text = ნამდჳლვე საჴმარ არს და საჭირო სათანადოდ ქმნაჲ ზრუნვასა აღმაშენებელსა ერთასა და განმამტკიცებელსა ეკლესიათასა, რამეთუ წერილ არს, ვითარმედ „განკრძალულ ჰყოფდით ძეთა ისრაელისათა“.
 # translit = namdwlve sax̣mar ars da sačiro satʻanadod kʻmnay zrunvasa aġmašenebelsa ertʻasa da ganmamtkicʻebelsa eklesiatʻasa, rametʻu ceril ars, vitʻarmed „gankrżalul hqopʻditʻ żetʻa israelisatʻa“.
-1	ნამდჳლვე	ნამდჳლვე	ADV	Adv	AdvType=Man	3	advmod	_	Translit=namdwlve
+1	ნამდჳლვე	ნამდჳლვე	ADV	Adv	AdvType=Man	2	advmod	_	Translit=namdwlve
 2	საჴმარ	საჴმარ	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	Translit=sax̣mar
 3	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	Translit=ars
 4	და	და	CCONJ	Conj	_	5	cc	_	Translit=da
 5	საჭირო	საჭირო	ADJ	Adj	Case=Nom|Number=Sing	2	conj	_	Translit=sačiro
 6	სათანადოდ	სათანადოდ	ADV	Adv	AdvType=Man	7	advmod	_	Translit=satʻanadod
-7	ქმნაჲ	ქმნა	NOUN	Noun	Case=Nom|Number=Sing	3	nsubj	_	Translit=kʻmnay
+7	ქმნაჲ	ქმნა	NOUN	Noun	Case=Nom|Number=Sing	2	nsubj	_	Translit=kʻmnay
 8	ზრუნვასა	ზრუნვა	NOUN	Noun	Case=Dat|Number=Sing	7	obj	_	Translit=zrunvasa
 9	აღმაშენებელსა	აღმაშენებელი	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Part	8	acl	_	Translit=aġmašenebelsa
 10	ერთასა	ერთი	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	9	obl	_	Translit=ertʻasa
@@ -755,7 +755,7 @@
 13	ეკლესიათასა	ეკლესია	NOUN	Noun	Case=Gen|Number=Plur	12	obj	_	SpaceAfter=No|Translit=eklesiatʻasa
 14	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
 15	რამეთუ	რამეთუ	SCONJ	Conj	_	16	mark	_	Translit=rametʻu
-16	წერილ	წერილ	VERB	Verb	VerbForm=Part|Voice=Pass	3	advcl	_	Translit=ceril
+16	წერილ	წერილ	VERB	Verb	VerbForm=Part|Voice=Pass	2	advcl	_	Translit=ceril
 17	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	SpaceAfter=No|Translit=ars
 18	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
 19	ვითარმედ	ვითარმედ	SCONJ	Conj	_	22	mark	_	Translit=vitʻarmed
@@ -765,7 +765,7 @@
 23	ძეთა	ძე	NOUN	Noun	Case=Gen|Number=Plur	22	obj	_	Translit=żetʻa
 24	ისრაელისათა	ისრაელი	NOUN	Noun	Case=Gen|Number=Plur	23	nmod	_	SpaceAfter=No|Translit=israelisatʻa
 25	“	“	PUNCT	F	PunctSide=Fin|PunctType=Quot	22	punct	_	SpaceAfter=No|Translit=“
-26	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
+26	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
 
 # sent_id = OGLC_00020
 # text = რამეთუ მამანი მონასტერთანი სამთავროჲსაგან თიოველთაჲსა კაცნი განკრძალულნი და საკჳრველისა მოქალაქობისა მქონებელნი მო-რაჲ-ვიდეს ალექსანდრიად და იკითხვებოდეს ჩემ მიერ, თუ ვითარი დაწყნარებაჲ მოუგიეს მონასტერთა მათთა, მითხრეს, ვითარმედ მრავალნი დაჰბრკოლდებიან ესევითარისა მიზეზისათჳს.
@@ -843,12 +843,12 @@
 25	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	23	obl	_	Translit=matʻ
 26	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	25	case	_	Translit=mier
 27	მოყუსად	მოყუსი	NOUN	Noun	Case=Ess|Number=Sing	23	xcomp	_	SpaceAfter=No|Translit=moqusad
-28	,	,	PUNCT	F	PunctType=Comm	31	punct	_	Translit=,
-29	ესე	ესე	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Dem	31	nsubj	_	Translit=ese
-30	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	31	nsubj	_	Translit=igi
+28	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
+29	ესე	ესე	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Dem	32	nsubj	_	Translit=ese
+30	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	32	nsubj	_	Translit=igi
 31	არს	არის	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	cop	_	Translit=ars
-32	ხუცად	ხუცი	NOUN	Noun	Case=Ess|Number=Sing	31	xcomp	_	SpaceAfter=No|Translit=xucʻad
-33	.	.	PUNCT	F	PunctType=Peri	31	punct	_	Translit=.
+32	ხუცად	ხუცი	NOUN	Noun	Case=Ess|Number=Sing	27	xcomp	_	SpaceAfter=No|Translit=xucʻad
+33	.	.	PUNCT	F	PunctType=Peri	32	punct	_	Translit=.
 
 # sent_id = OGLC_00022
 # text = ხოლო სხუანი ვინმე თჳთ მათ მონასტერთაგან უწესოებისათჳს განსხმულნი კუალად მოუჴდებიან ჴელთდასხმითა და, მღდელ იქმნენ რაჲ, შევლენ მონასტერთა მათ, რომელთაგანცა განისხნეს, და ჰნებავს ჟამისწირვაჲ და რაოდენისა-რაჲს სხჳსა ქმნაჲ წეს-არს მღდელთათჳს და ამას ჰყოფენ, ვიდრემდის, რომელთა უწყოდიან საქმენი მათნი, იჯმნიან ჟამისწირვათაგანცა და რა თავს-იდებენ ზიარებასა, ჟამისმწირველობდენ რაჲ იგინი.
