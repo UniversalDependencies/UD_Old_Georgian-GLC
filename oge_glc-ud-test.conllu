@@ -2705,7 +2705,7 @@
 69	შენი	შენი	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	68	det	_	Translit=šeni
 70	და	და	CCONJ	Conj	_	90	cc	_	SpaceAfter=No|Translit=da
 71	,	,	PUNCT	F	PunctType=Comm	70	punct	_	Translit=,
-72	რაჲცა	რაჲცა	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	74	det	_	Translit=raycʻa
+72	რაჲცა	რაჲცა	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Rel	74	det	_	Translit=raycʻa
 73	რაჲმე	რაჲმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	72	fixed	_	Translit=rayme
 74	ნეშტი	ნეშტი	NOUN	Noun	Case=Nom|Number=Sing	90	nsubj	_	Translit=nešti
 75	ელენებრისა	ელენებრი	ADJ	Adj	Case=Gen|Number=Sing	79	amod	_	Translit=elenebrisa
@@ -2718,7 +2718,7 @@
 82	ჭეშმარიტებისასა	ჭეშმარიტება	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	81	nmod	_	Translit=češmaritebisasa
 83	აღრეულ	აღრეული	VERB	Verb	VerbForm=Part|Voice=Pass	90	advcl	_	Translit=aġreul
 84	იყოს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	83	cop	_	SpaceAfter=No|Translit=iqos
-85	,	,	PUNCT	F	PunctType=Comm	88	punct	_	Translit=,
+85	,	,	PUNCT	F	PunctType=Comm	87	punct	_	Translit=,
 86	ვითარცა	ვითარცა	SCONJ	Conj	_	87	mark	_	Translit=vitʻarcʻa
 87	ღუარძლი	ღუარძლი	NOUN	Noun	Case=Nom|Number=Sing	83	advcl	_	Translit=ġuarżli
 88	ძირითურთ	ძირითურთ	ADV	Adv	AdvType=Man	90	advmod	_	Translit=żiritʻurtʻ
@@ -2732,7 +2732,7 @@
 96	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
 97	რამეთუ	რამეთუ	SCONJ	Conj	_	122	mark	_	Translit=rametʻu
 98	„	„	PUNCT	F	PunctSide=Ini|PunctType=Quot	100	punct	_	SpaceAfter=No|Translit=„
-99	სადა	სადა	ADV	Adv	AdvType=Rel	100	advmod	_	Translit=sada
+99	სადა	სადა	ADV	Adv	AdvType=Rel	101	advmod	_	Translit=sada
 100	იყვნენ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	101	cop	_	Translit=iqvnen
 101	ორნი	ორი	NUM	Num	Case=Nom|Number=Plur|NumType=Card	122	ccomp	_	Translit=orni
 102	ანუ	ანუ	CCONJ	Conj	_	103	cc	_	Translit=anu
