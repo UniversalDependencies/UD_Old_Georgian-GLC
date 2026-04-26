@@ -1651,7 +1651,7 @@
 21	ესევითართა	ესევითარი	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	23	nmod	_	Translit=esevitʻartʻa
 22	ამათ	ესე	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	21	det	_	Translit=amatʻ
 23	სჯულიმდებელობაჲ	სჯულიმდებელობა	NOUN	Noun	Case=Nom|Number=Sing	19	obj	_	SpaceAfter=No|Translit=sjulimdebelobay
-24	,	,	PUNCT	F	PunctType=Comm	39	punct	_	Translit=,
+24	,	,	PUNCT	F	PunctType=Comm	25	punct	_	Translit=,
 25	რამეთუ	რამეთუ	SCONJ	Conj	_	33	mark	_	Translit=rametʻu
 26-27	ვითარ-იგი	_	_	_	_	_	_	_	_
 26	ვითარ	ვითარ	ADV	Adv	AdvType=Rel|ExtPos=ADV	31	advmod	_	Translit=vitʻar
@@ -1679,9 +1679,9 @@
 47	თეოფილეს	თეოფილე	PROPN	Noun	Case=Gen|Number=Sing	48	nmod	_	Translit=tʻeopʻiles
 48	განჩინებამან	განჩინება	NOUN	Noun	Case=Erg|Number=Sing	49	nsubj	_	Translit=gančʻinebaman
 49	განასაზღვრა	განსაზღვრა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	19	advcl	_	SpaceAfter=No|Translit=ganasazġvra
-50	,	,	PUNCT	F	PunctType=Comm	58	punct	_	Translit=,
+50	,	,	PUNCT	F	PunctType=Comm	53	punct	_	Translit=,
 51-52	ნუღარამცა	_	_	_	_	_	_	_	_
-51	ნუღარა	ნუღარა	PART	Part	PartType=Neg	58	advmod:neg	_	Translit=nuġara
+51	ნუღარა	ნუღარა	PART	Part	ExtPos=PART|PartType=Neg	58	advmod:neg	_	Translit=nuġara
 52	მცა	ცა	PART	Part	PartType=Emp	51	fixed	_	Translit=mcʻa
 53-54	ქმნილ-არს	_	_	_	_	_	_	_	_
 53	ქმნილ	ქმნილი	VERB	Verb	VerbForm=Part|Voice=Pass	49	ccomp	_	Translit=kʻmnil
