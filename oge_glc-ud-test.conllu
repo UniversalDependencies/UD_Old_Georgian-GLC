@@ -1725,7 +1725,7 @@
 6-7	რაჲ-იგი	_	_	_	_	_	_	_	_
 6	რაჲ	რა	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Rel	8	obj	_	Translit=ray
 7	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	6	fixed	_	Translit=igi
-8	განაჩინეს	განჩინება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	24	csubj	_	Translit=ganačʻines
+8	განაჩინეს	განჩინება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	25	csubj	_	Translit=ganačʻines
 9	უფროჲსად	უფროჲ	ADJ	Adj	Case=Ess|Case[stack]=Gen|PartType=Emp	10	amod	_	Translit=upʻroysad
 10	წმიდამან	წმიდა	ADJ	Adj	Case=Erg|Number=Sing	14	amod	_	Translit=cmidaman
 11	და	და	CCONJ	Conj	_	13	cc	_	Translit=da
@@ -1741,7 +1741,7 @@
 21	ღირსმან	ღირსი	ADJ	Adj	Case=Erg|Number=Sing	18	conj	_	Translit=ġirsman
 22	ეპისკოპოსმან	ეპისკოპოსი	NOUN	Noun	Case=Erg|Number=Sing	14	conj	_	Translit=episkoposman
 23	თეოფილე	თეოფილე	PROPN	Noun	Case=Nom|Number=Sing	22	appos	_	SpaceAfter=No|Translit=tʻeopʻile
-24	,	,	PUNCT	F	PunctType=Comm	27	punct	_	Translit=,
+24	,	,	PUNCT	F	PunctType=Comm	25	punct	_	Translit=,
 25-26	სათნო-გჳჩნს	_	_	_	_	_	_	_	_
 25	სათნო	სათნო	ADJ	Adj	Case=Nom|Number=Sing	26	xcomp	_	Translit=satʻno
 26	გჳჩნს	ჩენა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	Translit=gwčʻns
