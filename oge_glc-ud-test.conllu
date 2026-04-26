@@ -2011,7 +2011,7 @@
 27	შვა	შობა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	Translit=šva
 28	ტკივილი	ტკივილი	NOUN	Noun	Case=Nom|Number=Sing	27	obj	_	Translit=tkivili
 29	განდგომიელბისაჲ	განდგომიელბა	NOUN	Noun	Case=Gen|Number=Sing	28	nmod	_	SpaceAfter=No|Translit=gandgomielbisay
-30	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
+30	,	,	PUNCT	F	PunctType=Comm	31	punct	_	Translit=,
 31	ვერ	ვერ	PART	Part	PartType=Neg	35	advmod:neg	_	Translit=ver
 32-33	თავს-იდებდა	_	_	_	_	_	_	_	SpaceAfter=No
 32	თავს	თავი	NOUN	Noun	Case=Dat|Number=Sing	33	obj	_	Translit=tʻavs
@@ -2051,11 +2051,11 @@
 64	თჳი	თჳსი	PRON	Pron	Case=Nom|Number=Sing|PronType=Prs	63	det	_	Translit=tʻwi
 65	საჴსრად	საჴსარი	NOUN	Noun	Case=Ess|Number=Sing	62	obl	_	Translit=sax̣srad
 66	ჩუენდა	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	62	iobj	_	SpaceAfter=No|Translit=čʻuenda
-67	,	,	PUNCT	F	PunctType=Comm	72	punct	_	Translit=,
+67	,	,	PUNCT	F	PunctType=Comm	70	punct	_	Translit=,
 68	ამისთჳს	ამისთჳს	ADV	Adv	AdvType=Cau	72	advmod	_	Translit=amistʻws
 69	არა	არა	PART	Part	PartType=Neg	72	advmod:neg	_	Translit=ara
 70	დასცხრა	დაცხრომა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	Translit=dascʻxra
-71	სისრად	სისრა	NOUN	Noun	Case=Ess|Number=Sing	72	obl	_	Translit=sisrad
+71	სისრად	სისრა	NOUN	Noun	Case=Ess|Number=Sing	70	obl	_	Translit=sisrad
 72	ისართა	ისარი	NOUN	Noun	Case=Gen|Number=Plur	70	obl	_	Translit=isartʻa
 73	სიბოროტისათა	სიბოროტე	NOUN	Noun	Case=Gen|Number=Plur	72	nmod	_	Translit=siborotisatʻa
 74	და	და	CCONJ	Conj	_	77	cc	_	Translit=da
