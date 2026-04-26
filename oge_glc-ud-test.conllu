@@ -2011,7 +2011,7 @@
 27	შვა	შობა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	Translit=šva
 28	ტკივილი	ტკივილი	NOUN	Noun	Case=Nom|Number=Sing	27	obj	_	Translit=tkivili
 29	განდგომიელბისაჲ	განდგომიელბა	NOUN	Noun	Case=Gen|Number=Sing	28	nmod	_	SpaceAfter=No|Translit=gandgomielbisay
-30	,	,	PUNCT	F	PunctType=Comm	31	punct	_	Translit=,
+30	,	,	PUNCT	F	PunctType=Comm	33	punct	_	Translit=,
 31	ვერ	ვერ	PART	Part	PartType=Neg	35	advmod:neg	_	Translit=ver
 32-33	თავს-იდებდა	_	_	_	_	_	_	_	SpaceAfter=No
 32	თავს	თავი	NOUN	Noun	Case=Dat|Number=Sing	33	obj	_	Translit=tʻavs
@@ -2058,10 +2058,10 @@
 71	სისრად	სისრა	NOUN	Noun	Case=Ess|Number=Sing	70	obl	_	Translit=sisrad
 72	ისართა	ისარი	NOUN	Noun	Case=Gen|Number=Plur	70	obl	_	Translit=isartʻa
 73	სიბოროტისათა	სიბოროტე	NOUN	Noun	Case=Gen|Number=Plur	72	nmod	_	Translit=siborotisatʻa
-74	და	და	CCONJ	Conj	_	77	cc	_	Translit=da
-75	მარადის	მარადის	ADV	Adv	AdvType=Tim	77	advmod	_	Translit=maradis
-76	წყლვად	წყლვა	NOUN	Noun	Case=Ess|Number=Sing	77	obl	_	Translit=cqlvad
-77	მორწმუნეთა	მორწმუნე	NOUN	Noun	Case=Gen|Number=Plur	70	obl	_	Translit=morcmunetʻa
+74	და	და	CCONJ	Conj	_	76	cc	_	Translit=da
+75	მარადის	მარადის	ADV	Adv	AdvType=Tim	76	advmod	_	Translit=maradis
+76	წყლვად	წყლვა	NOUN	Noun	Case=Ess|Number=Sing	71	conj	_	Translit=cqlvad
+77	მორწმუნეთა	მორწმუნე	NOUN	Noun	Case=Gen|Number=Plur	76	nmod	_	Translit=morcmunetʻa
 78	ვნებათა	ვნება	NOUN	Noun	Case=Gen|Number=Plur	77	nmod	_	Translit=vnebatʻa
 79	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	77	case	_	SpaceAfter=No|Translit=mier
 80	,	,	PUNCT	F	PunctType=Comm	85	punct	_	Translit=,
