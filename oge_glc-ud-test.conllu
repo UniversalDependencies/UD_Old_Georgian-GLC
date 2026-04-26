@@ -1615,10 +1615,10 @@
 53	განკუეთისასა	განკუეთა	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	51	nmod	_	Translit=gankuetʻisasa
 54	ცხად	ცხად	ADV	Adv	AdvType=Man	55	advmod	_	Translit=cʻxad
 55	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	50	parataxis	_	SpaceAfter=No|Translit=ars
-56	,	,	PUNCT	F	PunctType=Comm	64	punct	_	Translit=,
-57	ვითარმედ	ვითარმედ	SCONJ	Conj	_	64	mark	_	Translit=vitʻarmed
-58	სამსჯავროდ	სამსჯავრო	NOUN	Noun	Case=Ess|Number=Sing	64	obl	_	Translit=samsjavrod
-59	წარმოდგომილებასა	წარმოდგომილება	NOUN	Noun	Case=Dat|Number=Sing	64	obl	_	Translit=carmodgomilebasa
+56	,	,	PUNCT	F	PunctType=Comm	59	punct	_	Translit=,
+57	ვითარმედ	ვითარმედ	SCONJ	Conj	_	59	mark	_	Translit=vitʻarmed
+58	სამსჯავროდ	სამსჯავრო	NOUN	Noun	Case=Ess|Number=Sing	59	obl	_	Translit=samsjavrod
+59	წარმოდგომილებასა	წარმოდგომილება	NOUN	Noun	Case=Dat|Number=Sing	55	ccomp	_	Translit=carmodgomilebasa
 60	და	და	CCONJ	Conj	_	61	cc	_	Translit=da
 61	განკითხულობასა	განკითხულობა	NOUN	Noun	Case=Dat|Number=Sing	59	conj	_	Translit=gankitʻxulobasa
 62	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	59	case	_	Translit=šina
