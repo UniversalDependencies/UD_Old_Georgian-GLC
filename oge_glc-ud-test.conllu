@@ -1684,7 +1684,7 @@
 51	ნუღარა	ნუღარა	PART	Part	PartType=Neg	58	advmod:neg	_	Translit=nuġara
 52	მცა	ცა	PART	Part	PartType=Emp	51	fixed	_	Translit=mcʻa
 53-54	ქმნილ-არს	_	_	_	_	_	_	_	_
-53	ქმნილ	ქმნილი	VERB	Verb	VerbForm=Part|Voice=Pass	58	xcomp	_	Translit=kʻmnil
+53	ქმნილ	ქმნილი	VERB	Verb	VerbForm=Part|Voice=Pass	49	ccomp	_	Translit=kʻmnil
 54	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	53	aux	_	Translit=ars
 55-56	ამიერითგან	_	_	_	_	_	_	_	_
 55	ამიერით	ამიერი	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	63	obl	_	Translit=amierit
