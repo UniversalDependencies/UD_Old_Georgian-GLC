@@ -2499,8 +2499,8 @@
 46	.	.	PUNCT	F	PunctType=Peri	45	punct	_	Translit=.
 
 # sent_id = OGLC_00045
-# text = ხოლო არა აღწერნეს საღმრთონი კანონნი, ვითარ-იგი სხუათა მათ ოთხთა წმიდათა და მსოფლიოთა კრებათა, რომელთა მიერ განეშორებიან ვიდრემე მორწმუნენი ერნი უდარესისა და ქუე-დაღონებულისა ცხორებისაგან, ხოლო უმჯობესისა და უვაღრესისა მოქალაქობისა მიმართ წარემატებიან ამათ მიერ ნათესავი წმიდაჲ და სამეუფოჲ მღდელობაჲ, რომლისათჳს ქრისტე მოკუდა მრავალთა უწესოებისა ვნებათა მიერ განბრძარული და განჭრილი და მცირედმცირედ საღმრთოჲსა ეზოჲსაგან განვრდომილი და განშორებული და უმეცრებითა და დავიწყებითა წარმართებათაგან სათნოებისათა დაკლებული.
-# translit = xolo ara aġcernes saġmrtʻoni kanonni, vitʻar-igi sxuatʻa matʻ otʻxtʻa cmidatʻa da msopʻliotʻa krebatʻa, romeltʻa mier ganešorebian vidreme morcmuneni erni udaresisa da kʻue-daġonebulisa cʻxorebisagan, xolo umjobesisa da uvaġresisa mokʻalakʻobisa mimartʻ carematebian amatʻ mier natʻesavi cmiday da sameupʻoy mġdelobay, romlisatʻws kʻriste mokuda mravaltʻa ucesoebisa vnebatʻa mier ganbrżaruli da gančrili da mcʻiredmcʻired saġmrtʻoysa ezoysagan ganvrdomili da ganšorebuli da umecʻrebitʻa da davicqebitʻa carmartʻebatʻagan satʻnoebisatʻa daklebuli.
+# text = ხოლო არა აღწერნეს საღმრთონი კანონნი, ვითარ-იგი სხუათა მათ ოთხთა წმიდათა და მსოფლიოთა კრებათა რომელთა მიერ განეშორებიან ვიდრემე მორწმუნენი ერნი უდარესისა და ქუე-დაღონებულისა ცხორებისაგან, ხოლო უმჯობესისა და უვაღრესისა მოქალაქობისა მიმართ წარემატებიან ამათ მიერ ნათესავი წმიდაჲ და სამეუფოჲ მღდელობაჲ, რომლისათჳს ქრისტე მოკუდა მრავალთა უწესოებისა ვნებათა მიერ განბრძარული და განჭრილი და მცირედმცირედ საღმრთოჲსა ეზოჲსაგან განვრდომილი და განშორებული და უმეცრებითა და დავიწყებითა წარმართებათაგან სათნოებისათა დაკლებული.
+# translit = xolo ara aġcernes saġmrtʻoni kanonni, vitʻar-igi sxuatʻa matʻ otʻxtʻa cmidatʻa da msopʻliotʻa krebatʻa romeltʻa mier ganešorebian vidreme morcmuneni erni udaresisa da kʻue-daġonebulisa cʻxorebisagan, xolo umjobesisa da uvaġresisa mokʻalakʻobisa mimartʻ carematebian amatʻ mier natʻesavi cmiday da sameupʻoy mġdelobay, romlisatʻws kʻriste mokuda mravaltʻa ucesoebisa vnebatʻa mier ganbrżaruli da gančrili da mcʻiredmcʻired saġmrtʻoysa ezoysagan ganvrdomili da ganšorebuli da umecʻrebitʻa da davicqebitʻa carmartʻebatʻagan satʻnoebisatʻa daklebuli.
 1	ხოლო	ხოლო	CCONJ	Conj	_	3	cc	_	Translit=xolo
 2	არა	არა	PART	Part	PartType=Neg	3	advmod:neg	_	Translit=ara
 3	აღწერნეს	აღწერა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=aġcernes
@@ -2508,7 +2508,7 @@
 5	კანონნი	კანონი	NOUN	Noun	Case=Nom|Number=Plur	3	obj	_	SpaceAfter=No|Translit=kanonni
 6	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
 7-8	ვითარ-იგი	_	_	_	_	_	_	_	_
-7	ვითარ	ვითარ	ADV	Adv	AdvType=Rel	18	advmod	_	Translit=vitʻar
+7	ვითარ	ვითარ	ADV	Adv	AdvType=Rel|ExtPos=ADV	18	advmod	_	Translit=vitʻar
 8	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	7	fixed	_	Translit=igi
 9	სხუათა	სხუა	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	15	det	_	Translit=sxuatʻa
 10	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	15	det	_	Translit=matʻ
