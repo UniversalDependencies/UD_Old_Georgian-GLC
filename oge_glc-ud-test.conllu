@@ -2153,7 +2153,7 @@
 162	უფლისანი	უფალი	NOUN	Noun	Case=Nom|Case[stack]=Gen|Number=Plur	161	nmod	_	Translit=uplisani
 163	ერისათჳს	ერი	NOUN	Noun	Case=Gen|Number=Sing	160	obl	_	Translit=erisatʻws
 164	მისისა	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	163	det	_	SpaceAfter=No|Translit=misisa
-165	,	,	PUNCT	F	PunctType=Comm	173	punct	_	Translit=,
+165	,	,	PUNCT	F	PunctType=Comm	168	punct	_	Translit=,
 166	რაჲთა	რაჲთა	SCONJ	Conj	_	173	mark	_	Translit=raytʻa
 167	არა	არა	PART	Part	PartType=Neg	173	advmod:neg	_	Translit=ara
 168	შეჰბრკოლდებოდინ	შეჰბრკოლდება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Pass	160	advcl	_	Translit=šehbrkoldebodin
@@ -2177,7 +2177,7 @@
 185	ჩუენ	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	184	iobj	_	Translit=čʻuen
 186	და	და	CCONJ	Conj	_	193	cc	_	Translit=da
 187	ესოდენ	ესოდენ	ADV	Adv	AdvType=Man	188	advmod	_	Translit=esoden
-188	მაღლითა	მაღალი	ADJ	Adj	Case=Ins|Number=Sing	193	obl	_	Translit=maġlitʻa
+188	მაღლითა	მაღალი	ADJ	Adj	Case=Ins|Number=Sing	193	amod	_	Translit=maġlitʻa
 189-190	თანა-შთამოსლვითა	_	_	_	_	_	_	_	_
 189	თანა	თანა	ADV	Adv	_	190	advmod	_	Translit=tʻana
 190	შთამოსლვითა	შთამოსლვა	NOUN	Noun	Case=Ins|Number=Sing	188	conj	_	Translit=štʻamoslvitʻa
