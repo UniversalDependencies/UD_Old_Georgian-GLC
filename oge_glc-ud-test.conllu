@@ -2254,8 +2254,8 @@
 259	მტერი	მტერი	NOUN	Noun	Case=Nom|Number=Sing	255	nsubj	_	Translit=mteri
 260	და	და	CCONJ	Conj	_	263	cc	_	Translit=da
 261-262	მცირედ-მცირედ	_	_	_	_	_	_	_	_
-261	მცირედ	მცირედ	ADV	Adv	AdvType=Deg	263	advmod	_	Translit=mcʻired
-262	მცირედ	მცირედ	ADV	Adv	AdvType=Deg	261	fixed	_	Translit=mcʻired
+261	მცირედ	მცირედ	ADV	Adv	AdvType=Man	263	advmod	_	Translit=mcʻired
+262	მცირედ	მცირედ	ADV	Adv	AdvType=Man	261	fixed	_	Translit=mcʻired
 263	წარპარვითა	წარპარვა	NOUN	Noun	Case=Ins|Number=Sing	267	obl	_	Translit=carparvitʻa
 264	სათნოებისაჲთა	სათნოება	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	263	nmod	_	Translit=satʻnoebisaytʻa
 265	სიბოროტე	სიბოროტე	NOUN	Noun	Case=Nom|Number=Sing	267	nsubj	_	Translit=siborote
@@ -2364,7 +2364,7 @@
 95	ღმრთისა	ღმერთი	NOUN	Noun	Case=Gen|Number=Sing	96	nmod	_	Translit=ġmrtʻisa
 96	მიმართისა	მიმართი	NOUN	Noun	Case=Gen|Number=Sing	97	nmod	_	Translit=mimartʻisa
 97	სურვილისაჲთა	სურვილი	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	94	nmod	_	Translit=survilisaytʻa
-98	ზეშთა	ზეშთა	ADV	Adv	AdvType=Deg	99	advmod	_	Translit=zeštʻa
+98	ზეშთა	ზეშთა	ADV	Adv	AdvType=Man	99	advmod	_	Translit=zeštʻa
 99	აღსვლით	აღსვლა	NOUN	Noun	Case=Ins|Number=Sing	102	obl	_	Translit=aġsvlitʻ
 100	აღემატე	აღემატა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Past|VerbForm=Fin|Voice=Act	18	acl:relcl	_	Translit=aġemate
 101	მოშურნესა	მოშურნე	NOUN	Noun	Case=Dat|Number=Sing	100	iobj	_	Translit=mošurnesa
@@ -2520,7 +2520,7 @@
 16	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	18	obl	_	Translit=romeltʻa
 17	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	16	case	_	Translit=mier
 18	განეშორებიან	განშორება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	advcl	_	Translit=ganešorebian
-19	ვიდრემე	ვიდრემე	ADV	Adv	AdvType=Deg	22	advmod	_	Translit=vidreme
+19	ვიდრემე	ვიდრემე	ADV	Adv	AdvType=Man	22	advmod	_	Translit=vidreme
 20	მორწმუნენი	მორწმუნე	NOUN	Noun	Case=Nom|Number=Plur	21	amod	_	Translit=morcmuneni
 21	ერნი	ერი	NOUN	Noun	Case=Nom|Number=Plur	18	nsubj	_	Translit=erni
 22	უდარესისა	უდარესი	ADJ	Adj	Case=Gen|Number=Sing	25	amod	_	Translit=udaresisa
@@ -2560,7 +2560,7 @@
 53	და	და	CCONJ	Conj	_	54	cc	_	Translit=da
 54	განჭრილი	განჭრილი	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	52	conj	_	Translit=gančrili
 55	და	და	CCONJ	Conj	_	62	cc	_	Translit=da
-56	მცირედმცირედ	მცირედმცირედ	ADV	Adv	AdvType=Deg	62	advmod	_	Translit=mcʻiredmcʻired
+56	მცირედმცირედ	მცირედმცირედ	ADV	Adv	AdvType=Man	62	advmod	_	Translit=mcʻiredmcʻired
 57	საღმრთოჲსა	საღმრთოჲ	NOUN	Noun	Case=Gen|Number=Sing	58	nmod	_	Translit=saġmrtʻoysa
 58-59	ეზოჲსაგან	_	_	_	_	_	_	_	_
 58	ეზოჲსა	ეზოჲ	NOUN	Noun	Case=Gen|Number=Sing	62	obl	_	Translit=ezoysa
@@ -4442,7 +4442,7 @@
 9	აქუნდეს	ქონება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=akʻundes
 10	და	და	CCONJ	Conj	_	12	cc	_	Translit=da
 11-12	კმა-ეყოს	_	_	_	_	_	_	_	_
-11	კმა	კმა	ADV	Adv	AdvType=Deg	12	advmod	_	Translit=kma
+11	კმა	კმა	ADV	Adv	AdvType=Man	12	advmod	_	Translit=kma
 12	ეყოს	ყოფა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	Translit=eqos
 13	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	12	nsubj	_	Translit=ese
 14	მათ	ის	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	12	iobj	_	Translit=matʻ
@@ -5396,7 +5396,7 @@
 20	ეგევითარისა	ეგევითარი	ADJ	Adj	Case=Dat|Case[stack]=Gen|Number=Sing	28	advcl	_	Translit=egevitʻarisa
 21	მისდა	მისი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	20	nmod	_	SpaceAfter=No|Translit=misda
 22	,	,	PUNCT	F	PunctType=Comm	28	punct	_	Translit=,
-23	რაოდენ	რაოდენ	ADV	Adv	AdvType=Deg	24	advmod	_	Translit=raoden
+23	რაოდენ	რაოდენ	ADV	Adv	AdvType=Man	24	advmod	_	Translit=raoden
 24	უფროჲს	უფროჲ	ADJ	Adj	Case=Gen|PartType=Emp	25	amod	_	Translit=upʻroys
 25	უწესო	უწესო	ADJ	Adj	Case=Nom|Number=Sing	28	xcomp	_	Translit=uceso
 26	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	cop	_	Translit=ars
