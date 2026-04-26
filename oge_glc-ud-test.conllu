@@ -1652,7 +1652,7 @@
 22	ამათ	ესე	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	21	det	_	Translit=amatʻ
 23	სჯულიმდებელობაჲ	სჯულიმდებელობა	NOUN	Noun	Case=Nom|Number=Sing	19	obj	_	SpaceAfter=No|Translit=sjulimdebelobay
 24	,	,	PUNCT	F	PunctType=Comm	39	punct	_	Translit=,
-25	რამეთუ	რამეთუ	SCONJ	Conj	_	39	mark	_	Translit=rametʻu
+25	რამეთუ	რამეთუ	SCONJ	Conj	_	33	mark	_	Translit=rametʻu
 26-27	ვითარ-იგი	_	_	_	_	_	_	_	_
 26	ვითარ	ვითარ	ADV	Adv	AdvType=Rel|ExtPos=ADV	31	advmod	_	Translit=vitʻar
 27	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	26	fixed	_	Translit=igi
@@ -1663,7 +1663,7 @@
 32	და	და	CCONJ	Conj	_	33	cc	_	Translit=da
 33	წარმოთქუა	წარმოთქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	31	conj	_	Translit=carmotʻkʻua
 34-35	შემდგომითი-შემდგომად	_	_	_	_	_	_	_	_
-34	შემდგომითი	შემდგომითი	ADJ	Adj	Case=Gen|Number=Sing|ExtPos=ADV	39	advmod	_	Translit=šemdgomitʻi
+34	შემდგომითი	შემდგომითი	ADJ	Adj	Case=Gen|ExtPos=ADV|Number=Sing	39	advmod	_	Translit=šemdgomitʻi
 35	შემდგომად	შემდგომად	ADV	Adv	AdvType=Tim	34	fixed	_	Translit=šemdgomad
 36	ყოფადთა	ყოფადი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Act	37	amod	_	Translit=qopʻadtʻa
 37	განკრძალვისა	განკრძალვა	NOUN	Noun	Case=Gen|Number=Sing	39	obl	_	Translit=gankrżalvisa
