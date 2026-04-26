@@ -2292,7 +2292,7 @@
 24	ზედამდგომელად	ზედამდგომელი	NOUN	Noun	Case=Ess|Number=Sing	14	obl	_	Translit=čʻuen
 25	განმგებელი	განმგებელი	NOUN	Noun	Case=Nom|Number=Sing	23	nmod	_	Translit=ganmgebeli
 26	სიტყუათაჲ	სიტყუაჲ	NOUN	Noun	Case=Gen|Number=Plur	25	nmod	_	SpaceAfter=No|Translit=sitquatʻay
-27	,	,	PUNCT	F	PunctType=Comm	31	punct	_	Translit=,
+27	,	,	PUNCT	F	PunctType=Comm	30	punct	_	Translit=,
 28	სასჯელსა	სასჯელი	NOUN	Noun	Case=Dat|Number=Sing	31	obl	_	Translit=sasjelsa
 29	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	28	case	_	Translit=šina
 30	დამცველი	დამცველი	NOUN	Noun	Case=Nom|Number=Sing	25	conj	_	Translit=damcʻveli
@@ -2303,9 +2303,9 @@
 35	მსჯავრისა	მსჯავრი	NOUN	Noun	Case=Gen|Number=Sing	34	nmod	_	Translit=msjavrisa
 36	და	და	CCONJ	Conj	_	37	cc	_	Translit=da
 37	სიმართლისაჲ	სიმართლე	NOUN	Noun	Case=Gen|Number=Sing	35	conj	_	SpaceAfter=No|Translit=simartʻlisay
-38	,	,	PUNCT	F	PunctType=Comm	42	punct	_	Translit=,
+38	,	,	PUNCT	F	PunctType=Comm	41	punct	_	Translit=,
 39	შორის	შორის	ADP	Post	AdpType=Post|Case=Gen	40	case	_	Translit=šoris
-40	ქუეყანისა	ქუეყანა	NOUN	Noun	Case=Gen|Number=Sing	42	obl	_	Translit=kʻueqanisa
+40	ქუეყანისა	ქუეყანა	NOUN	Noun	Case=Gen|Number=Sing	42	nmod	_	Translit=kʻueqanisa
 41	დამავალი	დამავალი	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Act	25	conj	_	Translit=damavali
 42	გზასა	გზა	NOUN	Noun	Case=Dat|Number=Sing	41	obl	_	Translit=gzasa
 43	უბიწოსა	უბიწო	ADJ	Adj	Case=Dat|Number=Sing	42	amod	_	SpaceAfter=No|Translit=ubicosa
@@ -2345,7 +2345,7 @@
 77	და	და	CCONJ	Conj	_	83	cc	_	Translit=da
 78	სჯულისა	სჯული	NOUN	Noun	Case=Gen|Number=Sing	83	nmod	_	Translit=sjulisa
 79	მისისა	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	78	det	_	Translit=misisa
-80	დღე	დღე	NOUN	Noun	Case=Nom|Number=Sing	83	obl	_	Translit=dġe
+80	დღე	დღე	NOUN	Noun	Case=Nom|Number=Sing	83	nmod	_	Translit=dġe
 81	და	და	CCONJ	Conj	_	82	cc	_	Translit=da
 82	ღამე	ღამე	NOUN	Noun	Case=Nom|Number=Sing	80	conj	_	Translit=ġame
 83	წურთაჲ	წურთა	NOUN	Noun	Case=Nom|Number=Sing	84	obj	_	Translit=curtʻay
@@ -2356,9 +2356,9 @@
 88	შენდა	შენ	PRON	Pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	87	iobj	_	Translit=šenda
 89	რწმუნებულისა	რწმუნებული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Pass	90	amod	_	Translit=rcmunebulisa
 90	ერისა	ერი	NOUN	Noun	Case=Gen|Number=Sing	87	obj	_	SpaceAfter=No|Translit=erisa
-91	,	,	PUNCT	F	PunctType=Comm	102	punct	_	Translit=,
+91	,	,	PUNCT	F	PunctType=Comm	92	punct	_	Translit=,
 92-93	რომელი-ეგე	_	_	_	_	_	_	_	_
-92	რომელი	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	102	nsubj	_	Translit=romeli
+92	რომელი	რომელი	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Rel	102	nsubj	_	Translit=romeli
 93	ეგე	ეგე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	92	fixed	_	Translit=ege
 94	მჴურვალებითა	მჴურვალება	NOUN	Noun	Case=Ins|Number=Sing	102	obl	_	Translit=mx̣urvalebitʻa
 95	ღმრთისა	ღმერთი	NOUN	Noun	Case=Gen|Number=Sing	96	nmod	_	Translit=ġmrtʻisa
@@ -2380,7 +2380,7 @@
 110	და	და	CCONJ	Conj	_	112	cc	_	Translit=da
 111	კეთილად	კეთილად	ADV	Adv	AdvType=Man	112	advmod	_	Translit=ketʻilad
 112	მსახურებისაჲთა	მსახურება	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	107	conj	_	Translit=msaxurebisaytʻa
-113	სა	სა	PART	Part	_	114	fixed	_	Translit=sa
+113	სა	სა	X	X	Typo=Yes	114	goeswith	_	Translit=sa
 114	სამწყსოჲ	სამწყსოჲ	NOUN	Noun	Case=Nom|Number=Sing	120	obj	_	Translit=samcqsoy
 115	ქრისტესი	ქრისტე	PROPN	Noun	Case=Gen|Number=Sing	114	nmod	_	Translit=kʻristesi
 116	სიბოროტისა	სიბოროტე	NOUN	Noun	Case=Gen|Number=Sing	120	obl	_	Translit=siborotisa
