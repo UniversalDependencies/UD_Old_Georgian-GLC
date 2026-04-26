@@ -1918,7 +1918,7 @@
 36	წერილ	წერილ	VERB	Verb	VerbForm=Part|Voice=Pass	33	advcl	_	Translit=ceril
 37	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	cop	_	SpaceAfter=No|Translit=ars
 38	,	,	PUNCT	F	PunctType=Comm	39	punct	_	Translit=,
-39	ვითარმედ	ვითარმედ	SCONJ	Conj	_	41	mark	_	SpaceAfter=No|Translit=vitʻarmed
+39	ვითარმედ	ვითარმედ	SCONJ	Conj	_	36	mark	_	SpaceAfter=No|Translit=vitʻarmed
 40	:	:	PUNCT	F	PunctType=Colo	41	punct	_	Translit=:
 41	„	„	PUNCT	F	PunctSide=Ini|PunctType=Quot	42	punct	_	SpaceAfter=No|Translit=„
 42	მტერისა	მტერი	NOUN	Noun	Case=Gen|Number=Sing	43	nmod	_	Translit=mterisa
