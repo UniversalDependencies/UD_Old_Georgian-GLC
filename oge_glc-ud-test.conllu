@@ -2064,14 +2064,14 @@
 77	მორწმუნეთა	მორწმუნე	NOUN	Noun	Case=Gen|Number=Plur	76	nmod	_	Translit=morcmunetʻa
 78	ვნებათა	ვნება	NOUN	Noun	Case=Gen|Number=Plur	77	nmod	_	Translit=vnebatʻa
 79	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	77	case	_	SpaceAfter=No|Translit=mier
-80	,	,	PUNCT	F	PunctType=Comm	85	punct	_	Translit=,
-81	რაჲთამცა	რაჲთა	SCONJ	Conj	_	85	mark	_	Translit=raytʻamcʻa
+80	,	,	PUNCT	F	PunctType=Comm	81	punct	_	Translit=,
+81	რაჲთამცა	რაჲთა	SCONJ	Conj	_	82	mark	_	Translit=raytʻamcʻa
 82	განაშორნა	განშორება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	70	advcl	_	Translit=ganašorna
 83	იგინი	იგინი	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	82	obj	_	Translit=igini
 84-85	მიცემულისაგან	_	_	_	_	_	_	_	_
 84	მიცემულისა	მიცემული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Pass	82	obl	_	Translit=micʻemulisa
 85	გან	გან	ADP	Post	AdpType=Post|Case=Ins	84	case	_	Translit=gan
-86	მათდა	ის	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	89	iobj	_	Translit=matʻda
+86	მათდა	ის	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	82	iobj	_	Translit=matʻda
 87	სულიერისა	სულიერი	ADJ	Adj	Case=Gen|Number=Sing	88	amod	_	Translit=sulierisa
 88	მოქმედებისა	მოქმედება	NOUN	Noun	Case=Gen|Number=Sing	84	nmod	_	Translit=mokʻmedebisa
 89	და	და	CCONJ	Conj	_	90	cc	_	Translit=da
@@ -2080,7 +2080,7 @@
 91	გან	გან	ADP	Post	AdpType=Post|Case=Ins	90	case	_	Translit=gan
 92	და	და	CCONJ	Conj	_	93	cc	_	Translit=da
 93	მადლისა	მადლი	NOUN	Noun	Case=Gen|Number=Sing	90	conj	_	SpaceAfter=No|Translit=madlisa
-94	,	,	PUNCT	F	PunctType=Comm	102	punct	_	Translit=,
+94	,	,	PUNCT	F	PunctType=Comm	95	punct	_	Translit=,
 95	არამედ	არამედ	CCONJ	Conj	_	102	cc	_	Translit=aramed
 96	არცა	არცა	PART	Part	PartType=Neg	102	advmod:neg	_	Translit=arcʻa
 97	სახიერმან	სახიერი	ADJ	Adj	Case=Erg|Number=Sing	99	amod	_	Translit=saxierman
@@ -2094,7 +2094,7 @@
 105	შეუწევნელად	შეუწევნელად	ADV	Adv	AdvType=Man	106	advmod	_	Translit=šeucevnelad
 106	დამიტევნა	დატევება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	Translit=damitevna
 107	ჩუენ	ჩუენ	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	106	obj	_	SpaceAfter=No|Translit=čʻuen
-108	,	,	PUNCT	F	PunctType=Comm	122	punct	_	Translit=,
+108	,	,	PUNCT	F	PunctType=Comm	117	punct	_	Translit=,
 109	არამედ	არამედ	CCONJ	Conj	_	122	cc	_	Translit=aramed
 110	თითოეულისა	თითოეული	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	111	det	_	Translit=tʻitʻoeulisa
 111	ნათესავსა	ნათესავი	NOUN	Noun	Case=Dat|Number=Sing	122	obl	_	Translit=natʻesavsa
@@ -2117,9 +2117,9 @@
 128	ბრძოლად	ბრძოლა	NOUN	Noun	Case=Ess|Number=Sing	122	obl	_	Translit=brżolad
 129	მისსა	მისი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	128	det	_	Translit=missa
 130	განაწყვნა	განაწყობა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	106	conj	_	SpaceAfter=No|Translit=ganacqvna
-131	,	,	PUNCT	F	PunctType=Comm	143	punct	_	Translit=,
+131	,	,	PUNCT	F	PunctType=Comm	141	punct	_	Translit=,
 132-133	რომელთა-იგი	_	_	_	_	_	_	_	_
-132	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	135	nmod	_	Translit=romeltʻa
+132	რომელთა	რომელი	PRON	Pron	Case=Gen|ExtPos=PRON|Number=Plur|PronType=Rel	135	nmod	_	Translit=romeltʻa
 133	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	132	fixed	_	Translit=igi
 134	მახჳი	მახჳი	NOUN	Noun	Case=Nom|Number=Sing	143	nsubj	_	Translit=maxwi
 135	სულისაჲ	სული	NOUN	Noun	Case=Gen|Number=Sing	134	nmod	_	Translit=sulisay
