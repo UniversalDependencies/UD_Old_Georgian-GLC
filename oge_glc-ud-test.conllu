@@ -1248,7 +1248,7 @@
 # translit = da šemdgomad kʻmnisa ratʻaysame da tʻkʻumisa matʻ mier mizezisa matʻisatʻws da gamočʻinebisa gankuetʻasa pirvelmox̣senebulisa amis vaġadissa, romeli mxolod ortʻa oden episkopostʻa kʻmnil iqo da matʻcʻa egera pirvelve aġsrulebultʻa da arġara damtʻxueultʻa žamsa amis krebisasa.
 1	და	და	CCONJ	Conj	_	16	cc	_	Translit=da
 2	შემდგომად	შემდგომად	ADP	Post	AdpType=Post|Case=Gen	3	case	_	Translit=šemdgomad
-3	ქმნისა	ყოფა	AUX	Verb	Case=Gen|Number=Sing|VerbForm=Vnoun	0	root	_	Translit=kʻmnisa
+3	ქმნისა	ქმნა	NOUN	Noun	Case=Gen|Number=Sing	0	root	_	Translit=kʻmnisa
 4	რათაჲსამე	რაჲ	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	3	det	_	Translit=ratʻaysame
 5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
 6	თქუმისა	თქმა	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Vnoun	3	conj	_	Translit=tʻkʻumisa
