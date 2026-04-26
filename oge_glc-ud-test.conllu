@@ -2491,7 +2491,7 @@
 38	მამაჲ	მამა	NOUN	Noun	Case=Nom|Number=Sing	33	acl:relcl	_	Translit=mamay
 39	შენისა	შენი	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	40	det	_	Translit=šenisa
 40	სიმშჳდისაჲ	სიმშჳდე	NOUN	Noun	Case=Gen|Number=Sing	38	nmod	_	SpaceAfter=No|Translit=simšwdisay
-41	,	,	PUNCT	F	PunctType=Comm	43	punct	_	Translit=,
+41	,	,	PUNCT	F	PunctType=Comm	42	punct	_	Translit=,
 42	საიდუმლოჲ	საიდუმლოჲ	NOUN	Noun	Case=Nom|Number=Sing	45	obj	_	Translit=saidumloy
 43	მამულისა	მამული	NOUN	Noun	Case=Gen|Number=Sing	44	nmod	_	Translit=mamulisa
 44	სარწმუნოებისაჲ	სარწმუნოება	NOUN	Noun	Case=Gen|Number=Sing	42	nmod	_	Translit=sarcmunoebisay
