@@ -1396,7 +1396,7 @@
 8	განკრძალულმან	განკრძალული	VERB	Verb	Case=Erg|Number=Sing|VerbForm=Part|Voice=Pass	9	amod	_	Translit=gankrżalulman
 9	ეპისკოპოსმან	ეპისკოპოსი	NOUN	Noun	Case=Erg|Number=Sing	7	nsubj	_	Translit=episkoposman
 10	არაბიანე	არაბიანე	PROPN	Noun	Case=Nom|Number=Sing	9	appos	_	SpaceAfter=No|Translit=arabiane
-11	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
+11	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
 12	არამედ	არამედ	CCONJ	Conj	_	19	cc	_	Translit=aramed
 13	არა	არა	PART	Part	PartType=Neg	19	advmod:neg	_	Translit=ara
 14	დამსჯელთა	დამსჯელი	NOUN	Noun	Case=Gen|Number=Plur	23	obl	_	Translit=damsjeltʻa
@@ -1414,8 +1414,8 @@
 25	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 # sent_id = OGLC_00031
-# text = არაბიანე ეპისკოპოსმან ანკჳრიისამან თქუა: გარდასრულსა მას განჩინებასა და ბჭობასა ნიკეას შეკრებული კრებაჲ წმიდათა მამათაჲ დასჯის განცხადებულად, რომელი ბრძანებს, რაჲთა არა უმცირეს სამთასა იყვნენ ჴელთდამსხმელნი ეპისკოპოსისანი, არცა ვინ ქმნას ესე არა მუნ ყოფასა მიტროპოლიტისასა.
-# translit = arabiane episkoposman ankwriisaman tʻkʻua: gardasrulsa mas gančʻinebasa da bčobasa nikeas šekrebuli krebay cmidatʻa mamatʻay dasjis gancʻxadebulad, romeli brżanebs, raytʻa ara umcʻires samtʻasa iqvnen x̣eltʻdamsxmelni episkoposisani, arcʻa vin kʻmnas ese ara mun qopʻasa mitropolitisasa.
+# text = არაბიანე ეპისკოპოსმან ანკჳრიისამან თქუა: გარდასრულსა მას განჩინებასა და ბჭობასა ნიკეას შეკრებული კრებაჲ დასჯის წმიდათა მამათაჲ განცხადებულად, რომელი ბრძანებს, რაჲთა არა უმცირეს სამთასა იყვნენ ჴელთდამსხმელნი ეპისკოპოსისანი, არცა ვინ ქმნას ესე არა მუნ ყოფასა მიტროპოლიტისასა.
+# translit = arabiane episkoposman ankwriisaman tʻkʻua: gardasrulsa mas gančʻinebasa da bčobasa nikeas šekrebuli krebay dasjis cmidatʻa mamatʻay gancʻxadebulad, romeli brżanebs, raytʻa ara umcʻires samtʻasa iqvnen x̣eltʻdamsxmelni episkoposisani, arcʻa vin kʻmnas ese ara mun qopʻasa mitropolitisasa.
 1	არაბიანე	არაბიანე	PROPN	Noun	Case=Nom|Number=Sing	4	nsubj	_	Translit=arabiane
 2	ეპისკოპოსმან	ეპისკოპოსი	NOUN	Noun	Case=Erg|Number=Sing	1	appos	_	Translit=episkoposman
 3	ანკჳრიისამან	ანკჳრია	PROPN	Noun	Case=Erg|Case[stack]=Gen|Number=Sing	2	nmod	_	Translit=ankwriisaman
