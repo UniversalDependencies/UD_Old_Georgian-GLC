@@ -228,7 +228,7 @@
 20	გამოჩინებად	გამოჩინებად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	16	conj	_	Translit=gamočʻinebad
 21	თჳსისა	თჳსი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	22	nmod	_	Translit=tʻwsisa
 22	საეჭუელობისა	საეჭუელობა	NOUN	Noun	Case=Gen|Number=Sing	20	obj	_	SpaceAfter=No|Translit=saečuelobisa
-23	,	,	PUNCT	F	PunctType=Comm	2	punct	_	Translit=,
+23	,	,	PUNCT	F	PunctType=Comm	26	punct	_	Translit=,
 24	არამედ	არამედ	CCONJ	Conj	_	26	cc	_	Translit=aramed
 25	არავინ	არავინ	PRON	Pron	Case=Nom|Number=Sing|PronType=Neg	26	nsubj	_	Translit=aravin
 26	მისცა	მიცემა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Translit=miscʻa
@@ -240,7 +240,7 @@
 32	ადგილი	ადგილი	NOUN	Noun	Case=Nom|Number=Sing	28	conj	_	Translit=adgili
 33	კანონებრივისა	კანონებრივი	ADJ	Adj	Case=Gen|Number=Sing	34	amod	_	Translit=kanonebrivisa
 34	სამართლობისაჲ	სამართლობა	NOUN	Noun	Case=Gen|Number=Sing	32	nmod	_	SpaceAfter=No|Translit=samartʻlobisay
-35	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
+35	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
 
 # sent_id = OGLC_00008
 # text = ვინაჲცა უკუეთუ ქმნილ არს რაჲმე ესევითარი, უეჭუელად მაშინ აღწერილთა მოსაჴსენებელთა სიმტკიცე ამხილებს მას და ანუ თანამდებად ზედადასხმულთა მისდა ბრალობათად გამოაჩინებს და არარად უტევებს მას თქუმად, ვითარცა მიმძლავრებულსა, ანუ თავისუფალ ჰყოფს მათგან და კუალად ჴელთ-უდებს ეკლესიასა თჳსსა, რომელი პირველ ხუედრებულ იყო მისდა.
@@ -451,7 +451,7 @@
 3	არა	არა	PART	Part	PartType=Neg	6	advmod:neg	_	Translit=ara
 4	მიზეზი	მიზეზი	NOUN	Noun	Case=Nom|Number=Sing	6	nsubj	_	Translit=mizezi
 5	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	4	det	_	Translit=ese
-6	დამჴსნელ	დამჴსნელი	ADJ	Adj	Case=Nom|Number=Sing	21	advcl	_	Translit=damx̣snel
+6	დამჴსნელ	დამჴსნელი	ADJ	Adj	Case=Nom|Number=Sing	22	advcl	_	Translit=damx̣snel
 7	იქმნეს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	cop	_	Translit=ikʻmnes
 8-9	მისთჳს	_	_	_	_	_	_	_	_
 8	მის	ის	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	6	obl	_	Translit=mis
@@ -465,10 +465,10 @@
 16-17	საგონებელ-ყოფითა	_	_	_	_	_	_	_	SpaceAfter=No
 16	საგონებელ	საგონებელი	NOUN	Noun	Case=Nom|Number=Sing	17	nmod	_	Translit=sagonebel
 17	ყოფითა	ყოფა	NOUN	Noun	Case=Ins|Number=Sing	15	obl	_	Translit=qopʻitʻa
-18	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
-19	არა	არა	PART	Part	PartType=Neg	21	advmod:neg	_	Translit=ara
+18	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
+19	არა	არა	PART	Part	PartType=Neg	22	advmod:neg	_	Translit=ara
 20-21	ჯერ-არს	_	_	_	_	_	_	_	_
-20	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	21	advmod	_	Translit=jer
+20	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	22	advmod	_	Translit=jer
 21	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	cop	_	Translit=ars
 22	შესაკრბელსა	შესაკრბელი	NOUN	Noun	Case=Dat|Number=Sing	25	nmod	_	Translit=šesakrbelsa
 23	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	22	det	_	Translit=mas
