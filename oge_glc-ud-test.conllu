@@ -584,7 +584,7 @@
 9	და	და	CCONJ	Conj	_	11	cc	_	Translit=da
 10	უძრავთა	უძრავი	ADJ	Adj	Case=Gen|Number=Plur	11	amod	_	Translit=użravtʻa
 11	საქონელთაჲ	საქონელი	NOUN	Noun	Case=Gen|Number=Plur	8	conj	_	Translit=sakʻoneltʻay
-12	წარუგებელად	წარუგებელი	ADJ	Adj	Case=Ess|Number=Sing	16	advmod	_	Translit=carugebelad
+12	წარუგებელად	წარუგებელი	ADJ	Adj	Case=Ess|Number=Sing	15	advmod	_	Translit=carugebelad
 13	და	და	CCONJ	Conj	_	14	cc	_	Translit=da
 14	განუბნეველად	განუბნეველი	ADJ	Adj	Case=Ess|Number=Sing	12	conj	_	Translit=ganubnevelad
 15-16	ჯერ-არს	_	_	_	_	_	_	_	_
