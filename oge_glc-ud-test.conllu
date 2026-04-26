@@ -1585,7 +1585,7 @@
 23	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	cop	_	Translit=ars
 24	ყოფაჲ	ყოფაჲ	NOUN	Noun	Case=Nom|Number=Sing	0	root	_	Translit=qopʻay
 25	ეპისკოპოსთაჲ	ეპისკოპოსი	NOUN	Noun	Case=Nom|Case[stack]=Gen|Number=Plur	24	nmod	_	SpaceAfter=No|Translit=episkopostʻay
-26	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
+26	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
 27	არამედ	არამედ	CCONJ	Conj	_	33	cc	_	Translit=aramed
 28	უკუეთუ	უკუეთუ	SCONJ	Conj	_	33	mark	_	Translit=ukuetʻu
 29	შესაძლებელ	შესაძლებელი	ADJ	Adj	Case=Nom|Number=Sing	33	xcomp	_	Translit=šesażlebel
@@ -1595,7 +1595,7 @@
 33	სამთავროჲსათა	სამთავროჲ	NOUN	Noun	Case=Gen|Number=Plur	23	conj	_	SpaceAfter=No|Translit=samtʻavroysatʻa
 34	,	,	PUNCT	F	PunctType=Comm	37	punct	_	Translit=,
 35	რომლისაცა	რომელი	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Rel	36	nmod	_	Translit=romlisacʻa
-36	სამთავროჲსაჲ	სამთავროჲ	NOUN	Noun	Case=Gen|Number=Sing	37	obl	_	Translit=samtʻavroysay
+36	სამთავროჲსაჲ	სამთავროჲ	NOUN	Noun	Case=Gen|Number=Sing	38	obl	_	Translit=samtʻavroysay
 37	იყოს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	38	cop	_	Translit=iqos
 38	განკუეთადი	განკუეთადი	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	33	acl:relcl	_	Translit=gankuetʻadi
 39	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	38	nsubj	_	SpaceAfter=No|Translit=igi
@@ -1609,7 +1609,7 @@
 47	და	და	CCONJ	Conj	_	48	cc	_	Translit=da
 48	მტკიცე	მტკიცე	ADJ	Adj	Case=Nom|Number=Sing	46	conj	_	Translit=mtkicʻe
 49	პატიჟი	პატიჟი	NOUN	Noun	Case=Nom|Number=Sing	51	obj	_	Translit=patiži
-50	დაასაჯოს	დასჯა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	Translit=daasajos
+50	დაასაჯოს	დასჯა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	advcl	_	Translit=daasajos
 51	ღირსსა	ღირსი	ADJ	Adj	Case=Dat|Number=Sing	50	iobj	_	Translit=ġirssa
 52	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	53	det	_	Translit=mas
 53	განკუეთისასა	განკუეთა	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	51	nmod	_	Translit=gankuetʻisasa
@@ -1623,7 +1623,7 @@
 61	განკითხულობასა	განკითხულობა	NOUN	Noun	Case=Dat|Number=Sing	59	conj	_	Translit=gankitʻxulobasa
 62	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	59	case	_	Translit=šina
 63	მისსა	მისი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	59	det	_	SpaceAfter=No|Translit=missa
-64	.	.	PUNCT	F	PunctType=Peri	23	punct	_	Translit=.
+64	.	.	PUNCT	F	PunctType=Peri	24	punct	_	Translit=.
 
 # sent_id = OGLC_00036
 # text = ნეტარი ეპისკოპოსმან კოსტანტინოპილისამან თქუა: საღმრთოდ სჯულიერთა განწესებათა და სჯულთა კეთილისა წესიერებისა შედგომილად არა მიზეზითა პირთა ვიეთთაჲთამე ქმნილად უწყით ჩუენ ესევითართა ამათ სჯულიმდებელობაჲ, რამეთუ ვითარ-იგი უფროჲსად წმიდამან ეპისკოპოსმან არაბიანოს და წარმოთქუა შემდგომითი-შემდგომად ყოფადთა განკრძალვისა ნებებითა და მსგავსადვე მისსა და კაცთმოყუარედ ყოვლად ღირსისა ეპისკოპოსისა თეოფილეს განჩინებამან განასაზღვრა, ნუღარამცა ქმნილ-არს ამიერითგან ნუცა ორთაგან, ნუცა სამთა განსაკითხავისა ეპისკოპოსისა განკუეთაჲ, არამედ უფროჲსისა კრებისა ბჭობითა და მის სამთავროჲსა ეპისკოპოსთა განჩინებითა, ვითარცა სამოციქულომან განასაზღვრა კანონმან.
