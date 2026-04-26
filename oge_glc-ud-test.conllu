@@ -2213,9 +2213,9 @@
 220	საღმრთონი	საღმრთო	ADJ	Adj	Case=Nom|Number=Plur	221	amod	_	Translit=saġmrtʻoni
 221	სლვანი	სლვა	NOUN	Noun	Case=Nom|Number=Plur	217	obj	_	Translit=slvani
 222	ჩუენნი	ჩუენი	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	221	det	_	Translit=čʻuenni
-223	და	და	CCONJ	Conj	_	226	cc	_	Translit=da
-224	სახარებისა	სახარება	NOUN	Noun	Case=Gen|Number=Sing	225	nmod	_	Translit=saxarebisa
-225	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Gen	226	obl	_	Translit=mimartʻ
+223	და	და	CCONJ	Conj	_	224	cc	_	Translit=da
+224	სახარებისა	სახარება	NOUN	Noun	Case=Gen|Number=Sing	222	conj	_	Translit=saxarebisa
+225	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Gen	224	case	_	Translit=mimartʻ
 226-227	გზა-მიყოს	_	_	_	_	_	_	_	SpaceAfter=No
 226	გზა	გზა	NOUN	Noun	Case=Nom|Number=Sing	227	obj	_	Translit=gza
 227	მიყოს	ყოფა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	217	conj	_	Translit=miqos
@@ -2228,9 +2228,9 @@
 234	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	235	cop	_	Translit=ars
 235	საღმრთოჲსაებრ	საღმრთოჲ	NOUN	Noun	Case=Ess|Number=Sing	227	acl:relcl	_	Translit=saġmrtʻoysaebr
 236	მოციქულისა	მოციქული	NOUN	Noun	Case=Gen|Number=Sing	235	nmod	_	SpaceAfter=No|Translit=mocʻikʻulisa
-237	,	,	PUNCT	F	PunctType=Comm	243	punct	_	Translit=,
+237	,	,	PUNCT	F	PunctType=Comm	238	punct	_	Translit=,
 238-239	რომლისათჳს	_	_	_	_	_	_	_	_
-238	რომლისა	რომელი	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	243	obl	_	Translit=romlisa
+238	რომლისა	რომელი	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	243	nmod	_	Translit=romlisa
 239	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	238	case	_	Translit=tʻws
 240	აწ	აწ	ADV	Adv	AdvType=Tim	243	advmod	_	Translit=ac
 241	ჩუენდა	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	245	iobj	_	Translit=čʻuenda
