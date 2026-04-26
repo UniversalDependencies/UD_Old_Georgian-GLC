@@ -573,9 +573,9 @@
 # sent_id = OGLC_00015
 # text = ხოლო საჭურჭელსა უკუე ეკლესიისასა და სიწმიდისა სამსახურებელად ჭურჭელთა და უძრავთა საქონელთაჲ წარუგებელად და განუბნეველად ჯერ-არს დამარხვაჲ, ხოლო ჟამად-ჟამადთა შემოსავალთა და წარსაგებელთა განგებასა მინდობაჲ მათი, რომელთადა წმიდისა მღდელობისა მთავრობაჲ ჴელთდებულ იყოს.
 # translit = xolo sačurčelsa ukue eklesiisasa da sicmidisa samsaxurebelad čurčeltʻa da użravtʻa sakʻoneltʻay carugebelad da ganubnevelad jer-ars damarxvay, xolo žamad-žamadtʻa šemosavaltʻa da carsagebeltʻa gangebasa mindobay matʻi, romeltʻada cmidisa mġdelobisa mtʻavrobay x̣eltʻdebul iqos.
-1	ხოლო	ხოლო	CCONJ	Conj	_	16	cc	_	Translit=xolo
-2	საჭურჭელსა	საჭურჭელი	NOUN	Noun	Case=Dat|Number=Sing	16	obl	_	Translit=sačurčelsa
-3	უკუე	უკუე	ADV	Adv	_	16	advmod	_	Translit=ukue
+1	ხოლო	ხოლო	CCONJ	Conj	_	15	cc	_	Translit=xolo
+2	საჭურჭელსა	საჭურჭელი	NOUN	Noun	Case=Dat|Number=Sing	15	obl	_	Translit=sačurčelsa
+3	უკუე	უკუე	ADV	Adv	_	15	advmod	_	Translit=ukue
 4	ეკლესიისასა	ეკლესია	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	2	nmod	_	Translit=eklesiisasa
 5	და	და	CCONJ	Conj	_	7	cc	_	Translit=da
 6	სიწმიდისა	სიწმიდე	NOUN	Noun	Case=Gen|Number=Sing	7	nmod	_	Translit=sicmidisa
@@ -591,7 +591,7 @@
 15	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	17	advmod	_	Translit=jer
 16	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	Translit=ars
 17	დამარხვაჲ	დამარხვაჲ	NOUN	Noun	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=damarxvay
-18	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
+18	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
 19	ხოლო	ხოლო	CCONJ	Conj	_	25	cc	_	Translit=xolo
 20	ჟამად-ჟამადთა	ჟამად-ჟამადთა	ADV	Adv	AdvType=Tim	21	advmod	_	Translit=žamad-žamadtʻa
 21	შემოსავალთა	შემოსავალი	NOUN	Noun	Case=Gen|Number=Plur	24	nmod	_	Translit=šemosavaltʻa
@@ -601,12 +601,12 @@
 25	მინდობაჲ	მინდობაჲ	NOUN	Noun	Case=Nom|Number=Sing	16	conj	_	Translit=mindobay
 26	მათი	მათი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	25	nmod	_	SpaceAfter=No|Translit=matʻi
 27	,	,	PUNCT	F	PunctType=Comm	25	punct	_	Translit=,
-28	რომელთადა	რომელი	PRON	Pron	Case=Dat|Number=Plur|PronType=Rel	33	iobj	_	Translit=romeltʻada
+28	რომელთადა	რომელი	PRON	Pron	Case=Dat|Number=Plur|PronType=Rel	32	nsubj	_	Translit=romeltʻada
 29	წმიდისა	წმიდაჲ	ADJ	Adj	Case=Gen|Number=Sing	30	amod	_	Translit=cmidisa
 30	მღდელობისა	მღდელობა	NOUN	Noun	Case=Gen|Number=Sing	31	nmod	_	Translit=mġdelobisa
 31	მთავრობაჲ	მთავრობა	NOUN	Noun	Case=Nom|Number=Sing	25	acl:relcl	_	Translit=mtʻavrobay
-32	ჴელთდებულ	ჴელთდებული	VERB	Verb	VerbForm=Part|Voice=Pass	33	xcomp	_	Translit=x̣eltʻdebul
-33	იყოს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	cop	_	SpaceAfter=No|Translit=iqos
+32	ჴელთდებულ	ჴელთდებული	VERB	Verb	VerbForm=Part|Voice=Pass	26	acl	_	Translit=x̣eltʻdebul
+33	იყოს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	cop	_	SpaceAfter=No|Translit=iqos
 34	.	.	PUNCT	F	PunctType=Peri	16	punct	_	Translit=.
 
 # sent_id = OGLC_00016
