@@ -652,7 +652,7 @@
 36	პატივისა	პატივი	NOUN	Noun	Case=Gen|Number=Sing	37	nmod	_	Translit=pativisa
 37	ღირსქმნულთა	ღირსქმნული	VERB	Verb	Case=Dat|Number=Plur|VerbForm=Part|Voice=Pass	33	obl	_	SpaceAfter=No|Translit=ġirskʻmnultʻa
 38	,	,	PUNCT	F	PunctType=Comm	39	punct	_	Translit=,
-39	რამეთუ	რამეთუ	SCONJ	Conj	_	56	mark	_	Translit=rametʻu
+39	რამეთუ	რამეთუ	SCONJ	Conj	_	58	mark	_	Translit=rametʻu
 40	უკუეთუ	უკუეთუ	SCONJ	Conj	_	41	mark	_	Translit=ukuetʻu
 41	ღირსნი	ღირსი	ADJ	Adj	Case=Nom|Number=Plur	33	advcl	_	Translit=ġirsni
 42	არიან	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	41	cop	_	Translit=arian
