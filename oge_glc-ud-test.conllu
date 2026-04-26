@@ -2031,7 +2031,7 @@
 45	იქმნა	ქმნა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	18	conj	_	Translit=ikʻmna
 46	პირველ	პირველ	ADV	Adv	_	48	advmod	_	Translit=pirvel
 47	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	48	det	_	Translit=igi
-48	გარდასლვაჲ	გარდასლვაჲ	NOUN	Noun	Case=Nom|Number=Sing	47	nsubj	_	Translit=gardaslvay
+48	გარდასლვაჲ	გარდასლვაჲ	NOUN	Noun	Case=Nom|Number=Sing	45	nsubj	_	Translit=gardaslvay
 49	და	და	CCONJ	Conj	_	51	cc	_	Translit=da
 50	ზეცად	ზეცა	NOUN	Noun	Case=Ess|Number=Sing	51	obl	_	Translit=zecʻad
 51	აღსრულნი	აღსრული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	48	conj	_	Translit=aġsrulni
@@ -2085,10 +2085,10 @@
 96	არცა	არცა	PART	Part	PartType=Neg	102	advmod:neg	_	Translit=arcʻa
 97	სახიერმან	სახიერი	ADJ	Adj	Case=Erg|Number=Sing	99	amod	_	Translit=saxierman
 98	ღუაწლის	ღუაწლი	NOUN	Noun	Case=Gen|Number=Sing	99	nmod	_	Translit=ġuaclis
-99	დამდებელმან	დამდებელი	VERB	Verb	Case=Erg|Number=Sing|VerbForm=Part|Voice=Act	102	nsubj	_	Translit=damdebelman
+99	დამდებელმან	დამდებელი	VERB	Verb	Case=Erg|Number=Sing|VerbForm=Part|Voice=Act	106	nsubj	_	Translit=damdebelman
 100	ჩუენმან	ჩუენი	PRON	Pron	Case=Erg|Number=Sing|Person=1|PronType=Prs	99	det	_	Translit=čʻuenman
 101	და	და	CCONJ	Conj	_	103	cc	_	Translit=da
-102	ცხორებისა	ცხორება	NOUN	Noun	Case=Gen|Number=Sing	104	nmod	_	Translit=cʻxorebisa
+102	ცხორებისა	ცხორება	NOUN	Noun	Case=Gen|Number=Sing	103	nmod	_	Translit=cʻxorebisa
 103	წინამძღუარმან	წინამძღუარი	NOUN	Noun	Case=Erg|Number=Sing	99	conj	_	Translit=cinamżġuarman
 104	ღმერთმან	ღმერთი	NOUN	Noun	Case=Erg|Number=Sing	103	appos	_	Translit=ġmertʻman
 105	შეუწევნელად	შეუწევნელად	ADV	Adv	AdvType=Man	106	advmod	_	Translit=šeucevnelad
@@ -2131,7 +2131,7 @@
 141	იჴადეს	ჴდა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	130	acl:relcl	_	Translit=ix̣ades
 142	და	და	CCONJ	Conj	_	143	cc	_	Translit=da
 143	ესრეთ	ესრეთ	ADV	Adv	AdvType=Man	144	advmod	_	Translit=esretʻ
-144	ეკუეთნეს	ეკუეთნა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	143	conj	_	Translit=ekuetʻnes
+144	ეკუეთნეს	ეკუეთნა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	141	conj	_	Translit=ekuetʻnes
 145	ბოროტსა	ბოროტი	ADJ	Adj	Case=Dat|Number=Sing	146	amod	_	Translit=borotsa
 146	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	144	iobj	_	Translit=mas
 147	და	და	CCONJ	Conj	_	150	cc	_	Translit=da
