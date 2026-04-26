@@ -1345,7 +1345,7 @@
 # sent_id = OGLC_00029
 # text = არა თუ აწინდელისა ამის მიზეზისათჳს ვიტყჳ ამას, არამედ მეშინის, ნუსადა მოსაჴსენებელთა ამათგან მიიღონ ვიეთმე მიზეზი ამის ჴელმწიფებისაჲ და მკადრებელ იქმნენ ესევითართა, რომლისათჳს გევედრები თქუენ, რაჲთა მომიგოთ.
 # translit = ara tʻu acindelisa amis mizezisatʻws vitqw amas, aramed mešinis, nusada mosax̣senebeltʻa amatʻgan miiġon vietʻme mizezi amis x̣elmcipʻebisay da mkadrebel ikʻmnen esevitʻartʻa, romlisatʻws gevedrebi tʻkʻuen, raytʻa momigotʻ.
-1	არა	არა	PART	Part	PartType=Neg|ExtPos=ADV	7	advmod:neg	_	Translit=ara
+1	არა	არა	PART	Part	ExtPos=ADV|PartType=Neg	7	advmod:neg	_	Translit=ara
 2	თუ	თუ	PART	Part	_	1	fixed	_	Translit=tʻu
 3	აწინდელისა	აწინდელი	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=acindelisa
 4	ამის	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	5	det	_	Translit=amis
