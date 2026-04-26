@@ -1072,7 +1072,7 @@
 13	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
 14	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	17	nsubj	_	Translit=romelni
 15	უჴდებოდის	უჴდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	6	acl:relcl	_	Translit=ux̣debodis
-16	ურთიერთას	ურთიერთა	PRON	Pron	Case=Dat|Number=Plur|PronType=Recip	15	iobj	_	Translit=urtʻiertʻas
+16	ურთიერთას	ურთიერთა	PRON	Pron	Case=Dat|Number=Plur|PronType=Rcp	15	iobj	_	Translit=urtʻiertʻas
 17	საეპისკოპოსოსა	საეპისკოპოსო	NOUN	Noun	Case=Dat|Number=Sing	15	obl	_	Translit=saepiskopososa
 18	ზედა	ზედა	ADP	Post	AdpType=Post|Case=Gen	17	case	_	Translit=zeda
 19	ბოსტრისასა	ბოსტრა	PROPN	Noun	Case=Gen|Number=Sing	17	nmod	_	Translit=bostrisasa
