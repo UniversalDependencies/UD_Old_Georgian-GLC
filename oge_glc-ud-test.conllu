@@ -2256,7 +2256,7 @@
 261-262	მცირედ-მცირედ	_	_	_	_	_	_	_	_
 261	მცირედ	მცირედ	ADV	Adv	AdvType=Deg	263	advmod	_	Translit=mcʻired
 262	მცირედ	მცირედ	ADV	Adv	AdvType=Deg	261	fixed	_	Translit=mcʻired
-262	წარპარვითა	წარპარვა	NOUN	Noun	Case=Ins|Number=Sing	267	obl	_	Translit=carparvitʻa
+263	წარპარვითა	წარპარვა	NOUN	Noun	Case=Ins|Number=Sing	267	obl	_	Translit=carparvitʻa
 264	სათნოებისაჲთა	სათნოება	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	263	nmod	_	Translit=satʻnoebisaytʻa
 265	სიბოროტე	სიბოროტე	NOUN	Noun	Case=Nom|Number=Sing	267	nsubj	_	Translit=siborote
 266	შემომართუას	შემომართუა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	255	conj	_	Translit=šemomartʻuas
