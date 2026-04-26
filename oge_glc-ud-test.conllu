@@ -2280,7 +2280,7 @@
 12	შენ	შენ	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	iobj	_	SpaceAfter=No|Translit=šen
 13	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
 14	აღმიდგინა	აღმოდგინება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=2|Person[subj]=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=brżeni
-15	ჩუენ	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	Translit=ege
+15	ჩუენ	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	16	det	_	Translit=ege
 16	ბრძენი	ბრძენი	ADJ	Adj	Case=Nom|Number=Sing	18	amod	_	Translit=sačetʻmpqrobeli
 17	ეგე	ეგე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	18	det	_	Translit=da
 18	საჭეთმპყრობელი	საჭეთმპყრობელი	NOUN	Noun	Case=Nom|Number=Sing	14	obj	_	Translit=namdwlve
