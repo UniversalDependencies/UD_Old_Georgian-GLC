@@ -1570,7 +1570,7 @@
 11	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	10	case	_	Translit=tʻws
 12	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
 13-14	ვითარ-ესე	_	_	_	_	_	_	_	_
-13	ვითარ	ვითარ	ADV	Adv	AdvType=Rel|ExtPos=ADV	16	advmod	_	Translit=vitar
+13	ვითარ	ვითარ	ADV	Adv	AdvType=Rel	16	advmod	_	Translit=vitar
 14	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	13	fixed	_	Translit=ese
 15-16	სათნო-მიჩნს	_	_	_	_	_	_	_	_
 15	სათნო	სათნო	ADJ	Adj	Case=Nom|Number=Sing	16	xcomp	_	Translit=satʻno
