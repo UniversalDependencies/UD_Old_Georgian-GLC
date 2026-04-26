@@ -465,7 +465,7 @@
 16-17	საგონებელ-ყოფითა	_	_	_	_	_	_	_	SpaceAfter=No
 16	საგონებელ	საგონებელი	NOUN	Noun	Case=Nom|Number=Sing	17	nmod	_	Translit=sagonebel
 17	ყოფითა	ყოფა	NOUN	Noun	Case=Ins|Number=Sing	15	obl	_	Translit=qopʻitʻa
-18	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
+18	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
 19	არა	არა	PART	Part	PartType=Neg	22	advmod:neg	_	Translit=ara
 20-21	ჯერ-არს	_	_	_	_	_	_	_	_
 20	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	22	advmod	_	Translit=jer
@@ -518,7 +518,7 @@
 13	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	14	advmod	_	Translit=jer
 14	იყო	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	16	cop	_	Translit=iqo
 15	რაჲთურთით	რაჲთურთით	ADV	Adv	AdvType=Man	21	advmod	_	Translit=raytʻurtʻitʻ
-16	ქმნაჲ	ქმნა	NOUN	Noun	Case=Nom|Number=Sing	3	advcl	_	Translit=kʻmnay
+16	ქმნაჲ	ქმნა	NOUN	Noun	Case=Nom|Number=Sing	2	advcl	_	Translit=kʻmnay
 17	რაჲსამე	რაჲმე	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	18	det	_	Translit=raysame
 18	ესევითარისაჲ	ესევითარი	ADJ	Adj	Case=Gen|Number=Sing	16	nmod	_	SpaceAfter=No|Translit=esevitʻarisay
 19	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
