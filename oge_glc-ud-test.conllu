@@ -2450,7 +2450,7 @@
 # sent_id = OGLC_00044
 # text = ხოლო ვინაჲთგან წმიდათა და მსოფლიოთა ორთა კრებათა სამეუფოსა ამას და ღმრთივ დაცულსა ქალაქსა შინა შეკრებულთა, რომელთა ერთმან მან უკუე ჟამთა კეთილად მოჴსენებულისა იუსტინიანესთა, ხოლო მეორემან ღმრთისმსახურებით სახელგანთქუმულსა მეფისა ჩუენისა კოსტანტინეს ზე, რომელი იყო მამაჲ შენისა სიმშჳდისაჲ, საიდუმლოჲ მამულისა სარწმუნოებისაჲ განაცხადეს.
 # translit = xolo vinaytʻgan cmidatʻa da msopʻliotʻa ortʻa krebatʻa sameupʻosa amas da ġmrtʻiv dacʻulsa kʻalakʻsa šina šekrebultʻa, romeltʻa ertʻman man ukue žamtʻa ketʻilad mox̣senebulisa iustinianestʻa, xolo meoreman ġmrtʻismsaxurebitʻ saxelgantʻkʻumulsa mepʻisa čʻuenisa kostantines ze, romeli iqo mamay šenisa simšwdisay, saidumloy mamulisa sarcmunoebisay ganacʻxades.
-1	ხოლო	ხოლო	CCONJ	Conj	_	26	cc	_	Translit=xolo
+1	ხოლო	ხოლო	CCONJ	Conj	_	45	cc	_	Translit=xolo
 2-3	ვინაჲთგან	_	_	_	_	_	_	_	_
 2	ვინაჲთ	ვინაჲთ	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	12	obl	_	Translit=vinaytʻ
 3	გან	გან	ADP	Post	AdpType=Post|Case=Ins	2	case	_	Translit=gan
@@ -2467,34 +2467,34 @@
 14	ქალაქსა	ქალაქი	NOUN	Noun	Case=Dat|Number=Sing	15	obl	_	Translit=kʻalakʻsa
 15	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	8	acl	_	Translit=šina
 16	შეკრებულთა	შეკრებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	8	amod	_	SpaceAfter=No|Translit=šekrebultʻa
-17	,	,	PUNCT	F	PunctType=Comm	26	punct	_	Translit=,
-18	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	26	nsubj	_	Translit=romeltʻa
-19	ერთმან	ერთი	PRON	Pron	Case=Erg|Number=Sing|PronType=Ind	26	nsubj	_	Translit=ertʻman
+17	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
+18	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	19	nsubj	_	Translit=romeltʻa
+19	ერთმან	ერთი	PRON	Pron	Case=Erg|Number=Sing|PronType=Ind	45	nsubj	_	Translit=ertʻman
 20	მან	იგი	PRON	Pron	Case=Erg|Number=Sing|PronType=Dem	19	det	_	Translit=man
 21	უკუე	უკუე	ADV	Adv	AdvType=Tim	26	advmod	_	Translit=ukue
 22	ჟამთა	ჟამი	NOUN	Noun	Case=Gen|Number=Plur	26	obl	_	Translit=žamtʻa
 23	კეთილად	კეთილად	ADV	Adv	AdvType=Man	24	advmod	_	Translit=ketʻilad
 24	მოჴსენებულისა	მოჴსენებული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Pass	25	amod	_	Translit=mox̣senebulisa
 25	იუსტინიანესთა	იუსტინიანე	PROPN	Noun	Case=Gen|Number=Plur	19	nmod	_	SpaceAfter=No|Translit=iustinianestʻa
-26	,	,	PUNCT	F	PunctType=Comm	35	punct	_	Translit=,
-27	ხოლო	ხოლო	CCONJ	Conj	_	35	cc	_	Translit=xolo
-28	მეორემან	მეორე	ADJ	Adj	Case=Erg|Number=Sing	35	nsubj	_	Translit=meoreman
+26	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
+27	ხოლო	ხოლო	CCONJ	Conj	_	28	cc	_	Translit=xolo
+28	მეორემან	მეორე	ADJ	Adj	Case=Erg|Number=Sing	19	nsubj	_	Translit=meoreman
 29	ღმრთისმსახურებით	ღმრთისმსახურება	NOUN	Noun	Case=Ins|Number=Sing	30	obl	_	Translit=ġmrtʻismsaxurebitʻ
 30	სახელგანთქუმულსა	სახელგანთქუმული	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Part|Voice=Pass	31	amod	_	Translit=saxelgantʻkʻumulsa
 31	მეფისა	მეფე	NOUN	Noun	Case=Gen|Number=Sing	28	nmod	_	Translit=mepʻisa
 32	ჩუენისა	ჩუენი	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	31	det	_	Translit=čʻuenisa
 33	კოსტანტინეს	კოსტანტინე	PROPN	Noun	Case=Gen|Number=Sing	31	appos	_	Translit=kostantines
 34	ზე	ზე	ADP	Post	AdpType=Post|Case=Gen	33	case	_	SpaceAfter=No|Translit=ze
-35	,	,	PUNCT	F	PunctType=Comm	39	punct	_	Translit=,
-36	რომელი	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	39	nsubj	_	Translit=romeli
+35	,	,	PUNCT	F	PunctType=Comm	38	punct	_	Translit=,
+36	რომელი	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	38	nsubj	_	Translit=romeli
 37	იყო	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	38	cop	_	Translit=iqo
 38	მამაჲ	მამა	NOUN	Noun	Case=Nom|Number=Sing	33	acl:relcl	_	Translit=mamay
 39	შენისა	შენი	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	40	det	_	Translit=šenisa
 40	სიმშჳდისაჲ	სიმშჳდე	NOUN	Noun	Case=Gen|Number=Sing	38	nmod	_	SpaceAfter=No|Translit=simšwdisay
 41	,	,	PUNCT	F	PunctType=Comm	43	punct	_	Translit=,
-42	საიდუმლოჲ	საიდუმლოჲ	NOUN	Noun	Case=Nom|Number=Sing	43	obj	_	Translit=saidumloy
+42	საიდუმლოჲ	საიდუმლოჲ	NOUN	Noun	Case=Nom|Number=Sing	45	obj	_	Translit=saidumloy
 43	მამულისა	მამული	NOUN	Noun	Case=Gen|Number=Sing	44	nmod	_	Translit=mamulisa
-44	სარწმუნოებისაჲ	სარწმუნოება	NOUN	Noun	Case=Gen|Number=Sing	45	nmod	_	Translit=sarcmunoebisay
+44	სარწმუნოებისაჲ	სარწმუნოება	NOUN	Noun	Case=Gen|Number=Sing	42	nmod	_	Translit=sarcmunoebisay
 45	განაცხადეს	განაცხადება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ganacʻxades
 46	.	.	PUNCT	F	PunctType=Peri	45	punct	_	Translit=.
 
