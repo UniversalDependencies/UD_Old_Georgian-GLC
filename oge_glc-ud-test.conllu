@@ -1904,7 +1904,7 @@
 23	იქმნა	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	33	conj	_	Translit=ikʻmna
 24	და	და	CCONJ	Conj	_	33	cc	_	Translit=da
 25	ძლიერებითა	ძლიერება	NOUN	Noun	Case=Ins|Number=Sing	31	obl	_	Translit=żlierebitʻa
-26	განჴორციელებულისა	განჴორციელებული	VERB	Verb	Case=Ins|Case[stack]=Gen|Number=Sing|VerbForm=Part|Voice=Pass	27	amod	_	Translit=ganx̣orcʻielebulisa
+26	განჴორციელებულისა	განჴორციელებული	VERB	Verb	Case=Ins|Number=Sing|VerbForm=Part|Voice=Pass	27	amod	_	Translit=ganx̣orcʻielebulisa
 27	სიტყჳსაჲთა	სიტყუაჲ	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	25	nmod	_	Translit=sitqwsaytʻa
 28	ყოვლისა	ყოველი	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	29	det	_	Translit=qovlisa
 29	ძალისა	ძალი	NOUN	Noun	Case=Gen|Number=Sing	33	obl	_	Translit=żalisa
@@ -1924,7 +1924,7 @@
 42	მტერისა	მტერი	NOUN	Noun	Case=Gen|Number=Sing	43	nmod	_	Translit=mterisa
 43	მახჳლნი	მახჳლი	NOUN	Noun	Case=Nom|Number=Plur	44	nsubj	_	Translit=maxwlni
 44	მოაკლდეს	მოკლება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	36	ccomp	_	Translit=moakldes
-45	სრულიად	სრულიად	ADV	Adv	AdvType=Deg	44	advmod	_	SpaceAfter=No|Translit=sruliad
+45	სრულიად	სრულიად	ADV	Adv	AdvType=Man	44	advmod	_	SpaceAfter=No|Translit=sruliad
 46	“	“	PUNCT	F	PunctSide=Fin|PunctType=Quot	44	punct	_	SpaceAfter=No|Translit=“
 47	.	.	PUNCT	F	PunctType=Peri	33	punct	_	Translit=.
 
