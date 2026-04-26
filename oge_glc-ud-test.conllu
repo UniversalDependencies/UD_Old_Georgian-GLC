@@ -2321,7 +2321,7 @@
 53	წარგგრაგნა	წარგგრაგნა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=2|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	14	acl:relcl	_	Translit=carggragna
 54	და	და	CCONJ	Conj	_	55	cc	_	Translit=da
 55	აღგზარდა	აღზრდა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=2|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	53	conj	_	Translit=aġgzarda
-56	და	და	CCONJ	Conj	_	67	cc	_	Translit=da
+56	და	და	CCONJ	Conj	_	63	cc	_	Translit=da
 57	საღმრთოჲთა	საღმრთოჲ	NOUN	Noun	Case=Ins|Number=Sing	58	nmod	_	Translit=saġmrtʻoytʻa
 58	სულითა	სული	NOUN	Noun	Case=Ins|Number=Sing	59	obl	_	Translit=sulitʻa
 59	აღვსებული	აღვსებული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	67	advcl	_	Translit=aġvsebuli
@@ -2343,7 +2343,7 @@
 75	თჳსი	თჳსი	PRON	Pron	Case=Nom|Number=Sing|PronType=Prs	74	det	_	Translit=tʻwsi
 76	შეგვედრა	შეგუედრება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	12	acl:relcl	_	Translit=šegvedra
 77	და	და	CCONJ	Conj	_	83	cc	_	Translit=da
-78	სჯულისა	სჯული	NOUN	Noun	Case=Gen|Number=Sing	79	nmod	_	Translit=sjulisa
+78	სჯულისა	სჯული	NOUN	Noun	Case=Gen|Number=Sing	83	nmod	_	Translit=sjulisa
 79	მისისა	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	78	det	_	Translit=misisa
 80	დღე	დღე	NOUN	Noun	Case=Nom|Number=Sing	83	obl	_	Translit=dġe
 81	და	და	CCONJ	Conj	_	82	cc	_	Translit=da
@@ -2366,7 +2366,7 @@
 97	სურვილისაჲთა	სურვილი	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	94	nmod	_	Translit=survilisaytʻa
 98	ზეშთა	ზეშთა	ADV	Adv	AdvType=Man	99	advmod	_	Translit=zeštʻa
 99	აღსვლით	აღსვლა	NOUN	Noun	Case=Ins|Number=Sing	102	obl	_	Translit=aġsvlitʻ
-100	აღემატე	აღემატა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Past|VerbForm=Fin|Voice=Act	18	acl:relcl	_	Translit=aġemate
+100	აღემატე	აღემატა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Past|VerbForm=Fin|Voice=Act	12	acl:relcl	_	Translit=aġemate
 101	მოშურნესა	მოშურნე	NOUN	Noun	Case=Dat|Number=Sing	100	iobj	_	Translit=mošurnesa
 102	ფინეზს	ფინეზი	PROPN	Noun	Case=Dat|Number=Sing	101	appos	_	Translit=pʻinezs
 103	და	და	CCONJ	Conj	_	105	cc	_	Translit=da
