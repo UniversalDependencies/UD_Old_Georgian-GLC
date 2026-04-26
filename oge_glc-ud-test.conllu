@@ -461,7 +461,7 @@
 12	მსჯავრისა	მსჯავრი	NOUN	Noun	Case=Gen|Number=Sing	10	nmod	_	Translit=msjavrisa
 13	ნაკლულევანად	ნაკლულევანი	ADJ	Adj	Case=Ess|Number=Sing	14	advcl	_	Translit=naklulevanad
 14	რაჲმე	რაჲმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	15	nsubj	_	Translit=rayme
-15	ქმნისა	ქმნა	NOUN	Noun	Case=Gen|Number=Sing	7	obl	_	Translit=kʻmnisa
+15	ქმნისა	ქმნა	NOUN	Noun	Case=Gen|Number=Sing	6	obl	_	Translit=kʻmnisa
 16-17	საგონებელ-ყოფითა	_	_	_	_	_	_	_	SpaceAfter=No
 16	საგონებელ	საგონებელი	NOUN	Noun	Case=Nom|Number=Sing	17	nmod	_	Translit=sagonebel
 17	ყოფითა	ყოფა	NOUN	Noun	Case=Ins|Number=Sing	15	obl	_	Translit=qopʻitʻa
