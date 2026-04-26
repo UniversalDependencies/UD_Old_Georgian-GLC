@@ -207,7 +207,7 @@
 # translit = xolo sax̣mar ars gulisx̣mis-qopʻay misicʻa, romelsa itqws igi, vitʻarmed šemżlebel iqo igi ganmartʻlebad tʻavisa da ubralod gamočʻinebad tʻwsisa saečuelobisa,aramed aravin miscʻa mas žami sitqwsebisay, arcʻa adgili kanonebrivisa samartʻlobisay.
 1	ხოლო	ხოლო	CCONJ	Conj	_	3	cc	_	Translit=xolo
 2	საჴმარ	საჴმარ	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	Translit=sax̣mar
-3	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Translit=ars
+3	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	Translit=ars
 4-5	გულისჴმის-ყოფაჲ	_	_	_	_	_	_	_	_
 4	გულისჴმის	გულისჴმა	NOUN	Noun	Case=Gen|Number=Sing	5	nmod	_	Translit=gulisxmis
 5	ყოფაჲ	ყოფა	NOUN	Noun	Case=Nom|Number=Sing	3	nsubj	_	Translit=qopay
@@ -245,8 +245,8 @@
 # sent_id = OGLC_00008
 # text = ვინაჲცა უკუეთუ ქმნილ არს რაჲმე ესევითარი, უეჭუელად მაშინ აღწერილთა მოსაჴსენებელთა სიმტკიცე ამხილებს მას და ანუ თანამდებად ზედადასხმულთა მისდა ბრალობათად გამოაჩინებს და არარად უტევებს მას თქუმად, ვითარცა მიმძლავრებულსა, ანუ თავისუფალ ჰყოფს მათგან და კუალად ჴელთ-უდებს ეკლესიასა თჳსსა, რომელი პირველ ხუედრებულ იყო მისდა.
 # translit = vinaycʻa ukuetʻu kʻmnil ars rayme esevitʻari, uečuelad mašin aġceriltʻa mosax̣senebeltʻa simtkicʻe amxilebs mas da anu tʻanamdebad zedadasxmultʻa misda bralobatʻad gamoačʻinebs da ararad utevebs mas tʻkʻumad, vitʻarcʻa mimżlavrebulsa, anu tʻavisupʻal hqopʻs matʻgan da kualad x̣eltʻ-udebs eklesiasa tʻwssa, romeli pirvel xuedrebul iqo misda.
-1	ვინაჲცა	ვინაჲცა	SCONJ	Conj	_	4	mark	_	Translit=vinaycʻa
-2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	4	mark	_	Translit=ukuetʻu
+1	ვინაჲცა	ვინაჲცა	SCONJ	Conj	_	3	mark	_	Translit=vinaycʻa
+2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	3	mark	_	Translit=ukuetʻu
 3	ქმნილ	ქმნილი	VERB	Verb	VerbForm=Part|Voice=Pass	12	advcl	_	Translit=kʻmnil
 4	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Translit=ars
 5	რაჲმე	რაჲმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	3	nsubj	_	Translit=rayme
@@ -289,11 +289,11 @@
 40	ეკლესიასა	ეკლესია	NOUN	Noun	Case=Dat|Number=Sing	39	obl	_	Translit=eklesiasa
 41	თჳსსა	თჳსი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	40	det:poss	_	SpaceAfter=No|Translit=tʻwssa
 42	,	,	PUNCT	F	PunctType=Comm	39	punct	_	Translit=,
-43	რომელი	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	46	nsubj	_	Translit=romeli
-44	პირველ	პირველ	ADV	Adv	_	46	advmod	_	Translit=pirvel
+43	რომელი	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	45	nsubj	_	Translit=romeli
+44	პირველ	პირველ	ADV	Adv	_	45	advmod	_	Translit=pirvel
 45	ხუედრებულ	ხუედრებული	VERB	Verb	VerbForm=Part|Voice=Pass	39	acl:relcl	_	Translit=xuedrebul
 46	იყო	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	45	cop	_	Translit=iqo
-47	მისდა	მისი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	46	iobj	_	SpaceAfter=No|Translit=misda
+47	მისდა	მისი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	45	obl	_	SpaceAfter=No|Translit=misda
 48	.	.	PUNCT	F	PunctType=Peri	13	punct	_	Translit=.
 
 # sent_id = OGLC_00009
