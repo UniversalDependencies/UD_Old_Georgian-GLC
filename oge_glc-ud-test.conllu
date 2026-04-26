@@ -1679,7 +1679,7 @@
 47	თეოფილეს	თეოფილე	PROPN	Noun	Case=Gen|Number=Sing	48	nmod	_	Translit=tʻeopʻiles
 48	განჩინებამან	განჩინება	NOUN	Noun	Case=Erg|Number=Sing	49	nsubj	_	Translit=gančʻinebaman
 49	განასაზღვრა	განსაზღვრა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	19	advcl	_	SpaceAfter=No|Translit=ganasazġvra
-50	,	,	PUNCT	F	PunctType=Comm	53	punct	_	Translit=,
+50	,	,	PUNCT	F	PunctType=Comm	52	punct	_	Translit=,
 51	ნუღარამცა	ნუღარა	PART	Part	PartType=Neg	58	advmod:neg	_	Translit=nuġara
 52-53	ქმნილ-არს	_	_	_	_	_	_	_	_
 52	ქმნილ	ქმნილი	VERB	Verb	VerbForm=Part|Voice=Pass	49	ccomp	_	Translit=kʻmnil
@@ -1721,7 +1721,7 @@
 2	ეპისკოპოსმან	ეპისკოპოსი	NOUN	Noun	Case=Erg|Number=Sing	1	appos	_	Translit=episkoposman
 3	ანტიოქიისამან	ანტიოქია	PROPN	Noun	Case=Erg|Case[stack]=Gen|Number=Sing	2	nmod	_	Translit=antiokʻiisaman
 4	თქუა	თქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=tʻkʻua
-5	:	:	PUNCT	F	PunctType=Colo	8	punct	_	Translit=:
+5	:	:	PUNCT	F	PunctType=Colo	4	punct	_	Translit=:
 6-7	რაჲ-იგი	_	_	_	_	_	_	_	_
 6	რაჲ	რა	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Rel	8	obj	_	Translit=ray
 7	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	6	fixed	_	Translit=igi
