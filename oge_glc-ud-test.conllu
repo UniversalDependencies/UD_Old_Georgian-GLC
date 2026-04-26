@@ -2380,7 +2380,7 @@
 110	და	და	CCONJ	Conj	_	112	cc	_	Translit=da
 111	კეთილად	კეთილად	ADV	Adv	AdvType=Man	112	advmod	_	Translit=ketʻilad
 112	მსახურებისაჲთა	მსახურება	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	107	conj	_	Translit=msaxurebisaytʻa
-113	სა	სა	X	X	Typo=Yes	114	dep	_	Translit=sa
+113	სა	სა	X	X	_	114	dep	_	Translit=sa
 114	სამწყსოჲ	სამწყსოჲ	NOUN	Noun	Case=Nom|Number=Sing	120	obj	_	Translit=samcqsoy
 115	ქრისტესი	ქრისტე	PROPN	Noun	Case=Gen|Number=Sing	114	nmod	_	Translit=kʻristesi
 116	სიბოროტისა	სიბოროტე	NOUN	Noun	Case=Gen|Number=Sing	120	obl	_	Translit=siborotisa
