@@ -2589,13 +2589,13 @@
 5	„	„	PUNCT	F	PunctSide=Ini|PunctType=Quot	14	punct	_	SpaceAfter=No|Translit=„
 6	ძისა	ძე	NOUN	Noun	Case=Gen|Number=Sing	7	nmod	_	Translit=żisa
 7	ღმრთისა	ღმერთი	NOUN	Noun	Case=Gen|Number=Sing	8	nmod	_	Translit=ġmrtʻisa
-8	დამრთგუნველი	დამრთგუნველი	NOUN	Noun	Case=Nom|Number=Sing	14	conj	_	Translit=damrtʻgunveli
+8	დამრთგუნველი	დამრთგუნველი	NOUN	Noun	Case=Nom|Number=Sing	14	nsubj	_	Translit=damrtʻgunveli
 9	და	და	CCONJ	Conj	_	14	cc	_	Translit=da
 10	სისხლსა	სისხლი	NOUN	Noun	Case=Dat|Number=Sing	14	obj	_	Translit=sisxlsa
 11	აღთქუმისასა	აღთქუმა	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	10	nmod	_	SpaceAfter=No|Translit=aġtʻkʻumisasa
 12	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
 13	რომლითა	რომელი	PRON	Pron	Case=Ins|Number=Sing|PronType=Rel	14	obl	_	Translit=romlitʻa
-14	განწმდა	განწმედა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	18	acl:relcl	_	SpaceAfter=No|Translit=gancmda
+14	განწმდა	განწმედა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	ccomp	_	SpaceAfter=No|Translit=gancmda
 15	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
 16	ლიტონად	ლიტონად	ADV	Adv	AdvType=Man	17	advmod	_	Translit=litonad
 17	შემრაცხელი	შემრაცხელი	NOUN	Noun	Case=Nom|Number=Sing	8	conj	_	Translit=šemracʻxeli
