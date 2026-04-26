@@ -1879,23 +1879,23 @@
 # text = ხოლო სიკეთესა პირველისა ბრწყინვალებისასა ამპარტავანებისა მიერ წარმწყმედელი პირველი იგი ვეშაპი, გონებაჲ იგი დიდი ასურასტანელი პირველ მის მიერ ტყუექმნულთა მათგან ცალიერ იქმნა და ძლიერებითა განჴორციელებულისა სიტყჳსაჲთა ყოვლისა ძალისა თჳისაგან უცხო იქმნა, ვითარცა წერილ არს, ვითარმედ: „მტერისა მახჳლნი მოაკლდეს სრულიად“.
 # translit = xolo siketʻesa pirvelisa brcqinvalebisasa ampartavanebisa mier carmcqmedeli pirveli igi vešapi, gonebay igi didi asurastaneli pirvel mis mier tquekʻmnultʻa matʻgan cʻalier ikʻmna da żlierebitʻa ganx̣orcʻielebulisa sitqwsaytʻa qovlisa żalisa tʻwisagan ucʻxo ikʻmna, vitʻarcʻa ceril ars, vitʻarmed: „mterisa maxwlni moakldes sruliad“.
 1	ხოლო	ხოლო	CCONJ	Conj	_	10	cc	_	Translit=xolo
-2	სიკეთესა	სიკეთე	NOUN	Noun	Case=Dat|Number=Sing	10	obl	_	Translit=siketʻesa
+2	სიკეთესა	სიკეთე	NOUN	Noun	Case=Dat|Number=Sing	10	nmod	_	Translit=siketʻesa
 3	პირველისა	პირველი	ADJ	Adj	Case=Gen|Number=Sing	4	amod	_	Translit=pirvelisa
 4	ბრწყინვალებისასა	ბრწყინვალება	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	2	nmod	_	Translit=brcqinvalebisasa
-5	ამპარტავანებისა	ამპარტავანება	NOUN	Noun	Case=Gen|Number=Sing	6	nmod	_	Translit=ampartavanebisa
-6	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	7	case	_	Translit=mier
+5	ამპარტავანებისა	ამპარტავანება	NOUN	Noun	Case=Gen|Number=Sing	7	nmod	_	Translit=ampartavanebisa
+6	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	5	case	_	Translit=mier
 7	წარმწყმედელი	წარმწყმედელი	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Act	10	amod	_	Translit=carmcqmedeli
 8	პირველი	პირველი	ADJ	Adj	Case=Nom|Number=Sing	10	amod	_	Translit=pirveli
 9	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	10	det	_	Translit=igi
 10	ვეშაპი	ვეშაპი	NOUN	Noun	Case=Nom|Number=Sing	33	nsubj	_	SpaceAfter=No|Translit=vešapi
-11	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
+11	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
 12	გონებაჲ	გონებაჲ	NOUN	Noun	Case=Nom|Number=Sing	10	appos	_	Translit=gonebay
 13	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	12	det	_	Translit=igi
 14	დიდი	დიდი	ADJ	Adj	Case=Nom|Number=Sing	15	amod	_	Translit=didi
 15	ასურასტანელი	ასურასტანელი	NOUN	Noun	Case=Nom|Number=Sing	12	nmod	_	Translit=asurastaneli
 16	პირველ	პირველ	ADV	Adv	_	24	advmod	_	Translit=pirvel
-17	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	18	nmod	_	Translit=mis
-18	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	19	case	_	Translit=mier
+17	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	19	nmod	_	Translit=mis
+18	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	17	case	_	Translit=mier
 19	ტყუექმნულთა	ტყუექმნული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	20	obl	_	Translit=tquekʻmnultʻa
 20-21	მათგან	_	_	_	_	_	_	_	_
 20	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	24	obl	_	Translit=matʻ
