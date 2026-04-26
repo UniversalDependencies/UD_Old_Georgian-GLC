@@ -2016,7 +2016,7 @@
 32-33	თავს-იდებდა	_	_	_	_	_	_	_	SpaceAfter=No
 32	თავს	თავი	NOUN	Noun	Case=Dat|Number=Sing	33	obj	_	Translit=tʻavs
 33	იდებდა	დება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	18	conj	_	Translit=idebda
-34	,	,	PUNCT	F	PunctType=Comm	36	punct	_	Translit=,
+34	,	,	PUNCT	F	PunctType=Comm	33	punct	_	Translit=,
 35	რაჲთამცა	რაჲთა	SCONJ	Conj	_	39	mark	_	Translit=raytʻamcʻa
 36	მიხილნა	ხილვა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	advcl	_	Translit=mixilna
 37	ჩუენ	ჩუენ	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	36	obj	_	Translit=čʻuen
