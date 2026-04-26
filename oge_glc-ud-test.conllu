@@ -607,7 +607,7 @@
 31	მთავრობაჲ	მთავრობა	NOUN	Noun	Case=Nom|Number=Sing	32	nsubj	_	Translit=mtʻavrobay
 32	ჴელთდებულ	ჴელთდებული	VERB	Verb	VerbForm=Part|Voice=Pass	26	acl	_	Translit=x̣eltʻdebul
 33	იყოს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	cop	_	SpaceAfter=No|Translit=iqos
-34	.	.	PUNCT	F	PunctType=Peri	15	punct	_	Translit=.
+34	.	.	PUNCT	F	PunctType=Peri	32	punct	_	Translit=.
 
 # sent_id = OGLC_00016
 # text = ხოლო მღდელობისაგან ჯმნისა ქარტათა არა თჳსით ნებსით, არამედ იძულებისაგან და შიშისა და სიქადულისა ვიეთისამე იტყჳს მიცემასა და რამეთუ არცა საეკლესიოთა წესთა მოწამე არს საქმე ესე, რაჲთამცა ქარტაჲ ჯმნისაჲ მიეჴადებოდა ვიეთმე სამღდელოჲსა პატივისა ღირსქმნულთა, რამეთუ უკუეთუ ღირსნი არიან მის მსახურებისანი, ეგნენ მას შინა, ხოლო უკუეთუ უღირსნი – ნუ ჯმნისა მიერ უცხო იქმნებიან მისგან, არამედ უფროჲსღა განკითხულნი საქმეთა მათ ზედა, რომელთაზედა მრავალნი ვინმე ღაღადებაჲ იჴუმიოს, ვითარცა ყოვლისა წესიერებისაგან განვრდომით დაკლებულთათჳს.
@@ -844,7 +844,7 @@
 26	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	25	case	_	Translit=mier
 27	მოყუსად	მოყუსი	NOUN	Noun	Case=Ess|Number=Sing	23	xcomp	_	SpaceAfter=No|Translit=moqusad
 28	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
-29	ესე	ესე	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Dem	32	nsubj	_	Translit=ese
+29	ესე	ესე	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Dem	30	det	_	Translit=ese
 30	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	32	nsubj	_	Translit=igi
 31	არს	არის	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	cop	_	Translit=ars
 32	ხუცად	ხუცი	NOUN	Noun	Case=Ess|Number=Sing	27	xcomp	_	SpaceAfter=No|Translit=xucʻad
