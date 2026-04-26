@@ -1698,7 +1698,7 @@
 62	სამთა	სამი	NUM	Num	Case=Gen|Number=Plur	63	obl	_	Translit=samtʻa
 63	განსაკითხავისა	განსაკითხავი	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Pass	64	amod	_	Translit=gansakitʻxavisa
 64	ეპისკოპოსისა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Sing	65	nmod	_	Translit=episkoposisa
-65	განკუეთაჲ	განკუეთაჲ	NOUN	Noun	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=gankuetʻay
+65	განკუეთაჲ	განკუეთაჲ	NOUN	Noun	Case=Nom|Number=Sing	53	nsubj	_	SpaceAfter=No|Translit=gankuetʻay
 66	,	,	PUNCT	F	PunctType=Comm	65	punct	_	Translit=,
 67	არამედ	არამედ	CCONJ	Conj	_	70	cc	_	Translit=aramed
 68	უფროჲსისა	უფროჲსი	ADJ	Adj	Case=Gen|Number=Sing	69	amod	_	Translit=upʻroysisa
@@ -1735,7 +1735,7 @@
 13	ღირსმან	ღირსი	ADJ	Adj	Case=Erg|Number=Sing	10	conj	_	Translit=ġirsman
 14	ეპისკოპოსმან	ეპისკოპოსი	NOUN	Noun	Case=Erg|Number=Sing	8	nsubj	_	Translit=episkoposman
 15	ნეკტარიოს	ნეკტარიოს	PROPN	Noun	Case=Nom|Number=Sing	14	appos	_	Translit=nektarios
-16	და	და	CCONJ	Conj	_	19	cc	_	Translit=da
+16	და	და	CCONJ	Conj	_	22	cc	_	Translit=da
 17	უფროჲსად	უფროჲ	ADJ	Adj	Case=Ess|Case[stack]=Gen|PartType=Emp	18	amod	_	Translit=upʻroysad
 18	წმიდამან	წმიდა	ADJ	Adj	Case=Erg|Number=Sing	22	amod	_	Translit=cmidaman
 19	და	და	CCONJ	Conj	_	21	cc	_	Translit=da
