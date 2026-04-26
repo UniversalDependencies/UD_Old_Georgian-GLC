@@ -1092,10 +1092,10 @@
 33	მეორესა	მეორე	ADJ	Adj	Case=Dat|Number=Sing	32	amod	_	Translit=meoresa
 34	უწინარეს	უწინარეს	ADP	Post	AdpType=Post|Case=Gen	35	case	_	Translit=ucinares
 35	რვათა	რვა	NUM	Num	Case=Gen|Number=Plur	36	nummod	_	Translit=rvatʻa
-36	კალანდათა	კალანდა	NOUN	Noun	Case=Gen|Number=Plur	34	obl	_	Translit=kalandatʻa
-37	ოკტომბერისათა	ოკტომბერი	NOUN	Noun	Case=Gen|Number=Plur	36	nmod	_	Translit=oktomberisatʻa
+36	კალანდათა	კალანდა	NOUN	Noun	Case=Gen|Number=Plur	36	obl	_	Translit=kalandatʻa
+37	ოკტომბერისათა	ოკტომბერი	NOUN	Noun	Case=Gen|Number=Plur	38	nmod	_	Translit=oktomberisatʻa
 38	სანათლოსა	სანათლო	NOUN	Noun	Case=Dat|Number=Sing	39	obl	_	Translit=sanatʻlosa
-39	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	45	obl	_	Translit=šina
+39	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	44	obl	_	Translit=šina
 40	კოსტანტინოპოლისა	კოსტანტინოპოლი	PROPN	Noun	Case=Gen|Number=Sing	42	nmod	_	Translit=kostantinopolisa
 41	წმიდისა	წმიდა	ADJ	Adj	Case=Gen|Number=Sing	42	amod	_	Translit=cmidisa
 42	კათოლიკე	კათოლიკე	NOUN	Noun	Case=Gen|Number=Sing	43	nmod	_	Translit=katʻolike
