@@ -2137,8 +2137,8 @@
 147	და	და	CCONJ	Conj	_	150	cc	_	Translit=da
 148	ჩუენდა	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	149	nmod	_	Translit=čʻuenda
 149	მომართ	მომართ	ADP	Post	AdpType=Post|Case=Dat	150	obl	_	Translit=momartʻ
-150	მძლავრებაჲ	მძლავრებაჲ	NOUN	Noun	Case=Nom|Number=Sing	151	obj	_	Translit=mżlavrebay
-151	მისი	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	150	det	_	Translit=misi
+150	მძლავრებაჲ	მძლავრებაჲ	NOUN	Noun	Case=Nom|Number=Sing	152	obj	_	Translit=mżlavrebay
+151	მისი	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	151	det	_	Translit=misi
 152	დაჰჴსნეს	დაჰჴსნა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	144	conj	_	Translit=dahx̣snes
 153	და	და	CCONJ	Conj	_	157	cc	_	Translit=da
 154	წინამძღუარ	წინამძღუარი	NOUN	Noun	Case=Ess|Number=Sing	157	xcomp	_	Translit=cinamżġuar
@@ -2183,7 +2183,7 @@
 190	შთამოსლვითა	შთამოსლვა	NOUN	Noun	Case=Ins|Number=Sing	188	conj	_	Translit=štʻamoslvitʻa
 191	და	და	CCONJ	Conj	_	192	cc	_	Translit=da
 192	დამდაბლებითა	დამდაბლება	NOUN	Noun	Case=Ins|Number=Sing	188	conj	_	Translit=damdablebitʻa
-193	ნათესავი	ნათესავი	NOUN	Noun	Case=Nom|Number=Sing	194	obj	_	Translit=natʻesavi
+193	ნათესავი	ნათესავი	NOUN	Noun	Case=Nom|Number=Sing	195	obj	_	Translit=natʻesavi
 194	ჩუენი	ჩუენი	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	193	det	_	Translit=čʻueni
 195	განაახლა	განახლება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	184	conj	_	Translit=ganaaxla
 196	და	და	CCONJ	Conj	_	201	cc	_	Translit=da
@@ -2222,7 +2222,7 @@
 228	,	,	PUNCT	F	PunctType=Comm	235	punct	_	Translit=,
 229	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	231	nmod	_	Translit=romeltʻa
 230	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	231	det	_	Translit=ese
-231	მოქალაქობაჲ	მოქალაქობა	NOUN	Noun	Case=Nom|Number=Sing	236	nsubj	_	Translit=mokʻalakʻobay
+231	მოქალაქობაჲ	მოქალაქობა	NOUN	Noun	Case=Nom|Number=Sing	235	nsubj	_	Translit=mokʻalakʻobay
 232	ცათა	ცა	NOUN	Noun	Case=Gen|Number=Plur	233	nmod	_	Translit=cʻatʻa
 233	შინა	შინა	ADP	Post	AdpType=Post|Case=Gen	235	obl	_	Translit=šina
 234	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	235	cop	_	Translit=ars
@@ -2235,11 +2235,11 @@
 240	აწ	აწ	ADV	Adv	AdvType=Tim	243	advmod	_	Translit=ac
 241	ჩუენდა	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	243	iobj	_	Translit=čʻuenda
 242	თჳსისა	თჳსი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	243	obl	_	Translit=tʻwsisa
-243	ცხორებისა	ცხორება	NOUN	Noun	Case=Gen|Number=Sing	247	obl	_	Translit=cʻxorebisa
-244	უდებებით	უდებება	NOUN	Noun	Case=Ins|Number=Plur	247	obl	_	Translit=udebebitʻ
+243	ცხორებისა	ცხორება	NOUN	Noun	Case=Gen|Number=Sing	245	obl	_	Translit=cʻxorebisa
+244	უდებებით	უდებება	NOUN	Noun	Case=Ins|Number=Plur	245	obl	_	Translit=udebebitʻ
 245	გარდამჴდელთა	გარდამჴდელი	VERB	Verb	Case=Dat|Number=Plur|VerbForm=Part|Voice=Act	241	acl	_	Translit=gardamx̣deltʻa
 246	და	და	CCONJ	Conj	_	247	cc	_	Translit=da
-247	უქმებითა	უქმება	NOUN	Noun	Case=Ins|Number=Sing	244	conj	_	Translit=ukʻmebitʻa
+247	უქმებითა	უქმება	NOUN	Noun	Case=Ins|Number=Sing	245	conj	_	Translit=ukʻmebitʻa
 248	გულისსიტყუათაჲთა	გულისსიტყუა	NOUN	Noun	Case=Ins|Number=Plur	247	nmod	_	Translit=gulissitquatʻaytʻa
 249	მძინარეთა	მძინარე	VERB	Verb	Case=Dat|Number=Plur|VerbForm=Part|Voice=Act	241	conj	_	SpaceAfter=No|Translit=mżinaretʻa
 250	,	,	PUNCT	F	PunctType=Comm	257	punct	_	Translit=,
