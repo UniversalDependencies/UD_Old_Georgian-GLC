@@ -2531,7 +2531,7 @@
 26-27	ცხორებისაგან	_	_	_	_	_	_	_	SpaceAfter=No
 26	ცხორებისა	ცხორება	NOUN	Noun	Case=Gen|Number=Sing	18	obl	_	Translit=cʻxorebisa
 27	გან	გან	ADP	Post	AdpType=Post|Case=Ins	26	case	_	Translit=gan
-28	,	,	PUNCT	F	PunctType=Comm	37	punct	_	Translit=,
+28	,	,	PUNCT	F	PunctType=Comm	35	punct	_	Translit=,
 29	ხოლო	ხოლო	CCONJ	Conj	_	37	cc	_	Translit=xolo
 30	უმჯობესისა	უმჯობესი	ADJ	Adj	Case=Gen|Number=Sing	33	amod	_	Translit=umjobesisa
 31	და	და	CCONJ	Conj	_	32	cc	_	Translit=da
@@ -2573,7 +2573,7 @@
 65	და	და	CCONJ	Conj	_	66	cc	_	Translit=da
 66	დავიწყებითა	დავიწყება	NOUN	Noun	Case=Ins|Number=Sing	64	conj	_	Translit=davicqebitʻa
 67-68	წარმართებათაგან	_	_	_	_	_	_	_	_
-67	წარმართებათა	წარმართება	NOUN	Noun	Case=Gen|Number=Plur	69	obl	_	Translit=carmartʻebatʻa
+67	წარმართებათა	წარმართება	NOUN	Noun	Case=Gen|Number=Plur	69	nmod	_	Translit=carmartʻebatʻa
 68	გან	გან	ADP	Post	AdpType=Post|Case=Ins	67	case	_	Translit=gan
 69	სათნოებისათა	სათნოება	NOUN	Noun	Case=Gen|Number=Plur	70	obl	_	Translit=satʻnoebisatʻa
 70	დაკლებული	დაკლებული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	52	conj	_	SpaceAfter=No|Translit=daklebuli
