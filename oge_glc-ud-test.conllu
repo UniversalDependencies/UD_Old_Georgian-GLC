@@ -1287,7 +1287,7 @@
 
 # sent_id = OGLC_00028
 # text = არავიანე ეპისკოპოსმან ანკჳრიისამან თქუა: არა აწინდელისა ამის საბჭოჲსა, არამედ შემდგომითი-შემდგომად ყოვლისა ცხორებისათჳს კაცთაჲსა მოშიში ვითხოვ ამისსა აღსაარებასა წმიდისაგან კრებისა, შესაძლებელ არსა და ჯერ-არს ორთავე ეპისკოპოსთა მიერ ქმნაჲ განკუეთისაჲ, ანუ არა და არა მუნ მყოფისაჲ ჯერ-არსა, ანუ არა?
-# translit = araviane episkoposman ankwriisaman tʻkʻua: ara acindelisa amis sabčoysa, aramed šemdgomitʻi-šemdgomad qovlisa cʻxorebisatʻws kacʻtʻaysa mošiši vitʻxov amissa aġsaarebasa cmidisagan krebisa, šesażlebel arsa da jer-ars ortʻave episkopostʻa mier kʻmnay gankuetʻisay, anu ara da ara mun mqopʻisay jer-arsa, anu ara? 
+# translit = araviane episkoposman ankwriisaman tʻkʻua: ara acindelisa amis sabčoysa, aramed šemdgomitʻi-šemdgomad qovlisa cʻxorebisatʻws kacʻtʻaysa mošiši vitʻxov amissa aġsaarebasa cmidisagan krebisa, šesażlebel arsa da jer-ars ortʻave episkopostʻa mier kʻmnay gankuetʻisay, anu ara da ara mun mqopʻisay jer-arsa, anu ara?
 1	არავიანე	არავიანე	PROPN	Noun	Case=Nom|Number=Sing	4	nsubj	_	Translit=araviane
 2	ეპისკოპოსმან	ეპისკოპოსი	NOUN	Noun	Case=Erg|Number=Sing	1	appos	_	Translit=episkoposman
 3	ანკჳრიისამან	ანკჳრია	PROPN	Noun	Case=Erg|Case[stack]=Gen|Number=Sing	2	nmod	_	Translit=ankwriisaman
@@ -1299,7 +1299,7 @@
 9	საბჭოჲსა	საბჭოჲ	NOUN	Noun	Case=Gen|Number=Sing	19	obl	_	SpaceAfter=No|Translit=sabčoysa
 10	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
 11	არამედ	არამედ	CCONJ	Conj	_	19	cc	_	Translit=aramed
-12-14	შემდგომითი-შემდგომად	_	_	_	_	_	_	_	_
+12-13	შემდგომითი-შემდგომად	_	_	_	_	_	_	_	_
 12	შემდგომითი	შემდგომითი	ADJ	Adj	Case=Gen|Number=Sing	19	advmod	_	Translit=šemdgomitʻi
 13	შემდგომად	შემდგომად	ADV	Adv	AdvType=Tim	12	fixed	_	Translit=šemdgomad
 14	ყოვლისა	ყოველი	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	15	det	_	Translit=qovlisa
