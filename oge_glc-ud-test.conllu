@@ -601,10 +601,10 @@
 25	მინდობაჲ	მინდობაჲ	NOUN	Noun	Case=Nom|Number=Sing	16	conj	_	Translit=mindobay
 26	მათი	მათი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	25	nmod	_	SpaceAfter=No|Translit=matʻi
 27	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
-28	რომელთადა	რომელი	PRON	Pron	Case=Dat|Number=Plur|PronType=Rel	32	nsubj	_	Translit=romeltʻada
+28	რომელთადა	რომელი	PRON	Pron	Case=Dat|Number=Plur|PronType=Rel	31	nmod	_	Translit=romeltʻada
 29	წმიდისა	წმიდაჲ	ADJ	Adj	Case=Gen|Number=Sing	30	amod	_	Translit=cmidisa
 30	მღდელობისა	მღდელობა	NOUN	Noun	Case=Gen|Number=Sing	31	nmod	_	Translit=mġdelobisa
-31	მთავრობაჲ	მთავრობა	NOUN	Noun	Case=Nom|Number=Sing	25	acl:relcl	_	Translit=mtʻavrobay
+31	მთავრობაჲ	მთავრობა	NOUN	Noun	Case=Nom|Number=Sing	32	nsubj	_	Translit=mtʻavrobay
 32	ჴელთდებულ	ჴელთდებული	VERB	Verb	VerbForm=Part|Voice=Pass	26	acl	_	Translit=x̣eltʻdebul
 33	იყოს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	cop	_	SpaceAfter=No|Translit=iqos
 34	.	.	PUNCT	F	PunctType=Peri	15	punct	_	Translit=.
