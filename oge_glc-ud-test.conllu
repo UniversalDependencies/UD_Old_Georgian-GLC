@@ -1868,7 +1868,7 @@
 40	განთავისუფლებულმან	განთავისუფლებული	VERB	Verb	Case=Erg|Number=Sing|VerbForm=Part|Voice=Pass	42	advcl	_	Translit=gantʻavisupʻlebulman
 41	სასუფეველი	სასუფეველი	NOUN	Noun	Case=Nom|Number=Sing	42	obj	_	Translit=sasupʻeveli
 42	ცათაჲ	ცა	NOUN	Noun	Case=Gen|Number=Plur	43	nmod	_	Translit=cʻatʻay
-43	დაიმკჳდრა	დამკვიდრება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=daimkwdra
+43	დაიმკჳდრა	დამკვიდრება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	Translit=daimkwdra
 44	პირველისა	პირველი	ADJ	Adj	Case=Gen|Number=Sing	46	amod	_	Translit=pirvelisa
 45	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	46	det	_	Translit=mis
 46	მონებისა	მონება	NOUN	Noun	Case=Gen|Number=Sing	47	nmod	_	Translit=monebisa
@@ -1887,7 +1887,7 @@
 7	წარმწყმედელი	წარმწყმედელი	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Act	10	amod	_	Translit=carmcqmedeli
 8	პირველი	პირველი	ADJ	Adj	Case=Nom|Number=Sing	10	amod	_	Translit=pirveli
 9	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	10	det	_	Translit=igi
-10	ვეშაპი	ვეშაპი	NOUN	Noun	Case=Nom|Number=Sing	24	nsubj	_	SpaceAfter=No|Translit=vešapi
+10	ვეშაპი	ვეშაპი	NOUN	Noun	Case=Nom|Number=Sing	33	nsubj	_	SpaceAfter=No|Translit=vešapi
 11	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
 12	გონებაჲ	გონებაჲ	NOUN	Noun	Case=Nom|Number=Sing	10	appos	_	Translit=gonebay
 13	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	12	det	_	Translit=igi
@@ -1901,8 +1901,8 @@
 20	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	24	obl	_	Translit=matʻ
 21	გან	გან	ADP	Post	AdpType=Post|Case=Ins	20	case	_	Translit=gan
 22	ცალიერ	ცალიერ	ADV	Adv	AdvType=Man	24	advmod	_	Translit=cʻalier
-23	იქმნა	ქმნა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	24	aux	_	Translit=ikʻmna
-24	და	და	CCONJ	Conj	_	31	cc	_	Translit=da
+23	იქმნა	ქმნა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	33	conj	_	Translit=ikʻmna
+24	და	და	CCONJ	Conj	_	33	cc	_	Translit=da
 25	ძლიერებითა	ძლიერება	NOUN	Noun	Case=Ins|Number=Sing	31	obl	_	Translit=żlierebitʻa
 26	განჴორციელებულისა	განჴორციელებული	VERB	Verb	Case=Ins|Case[stack]=Gen|Number=Sing|VerbForm=Part|Voice=Pass	27	amod	_	Translit=ganx̣orcʻielebulisa
 27	სიტყჳსაჲთა	სიტყუაჲ	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	25	nmod	_	Translit=sitqwsaytʻa
@@ -1912,7 +1912,7 @@
 30	თჳისა	თჳსი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	29	nmod	_	Translit=tʻwisa
 31	გან	გან	ADP	Post	AdpType=Post|Case=Ins	30	case	_	Translit=gan
 32	უცხო	უცხო	ADJ	Adj	Case=Nom|Number=Sing	33	xcomp	_	Translit=ucʻxo
-33	იქმნა	ქმნა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	24	conj	_	SpaceAfter=No|Translit=ikʻmna
+33	იქმნა	ქმნა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=ikʻmna
 34	,	,	PUNCT	F	PunctType=Comm	37	punct	_	Translit=,
 35	ვითარცა	ვითარცა	SCONJ	Conj	_	37	mark	_	Translit=vitʻarcʻa
 36	წერილ	წერილ	VERB	Verb	VerbForm=Part|Voice=Pass	33	advcl	_	Translit=ceril
@@ -1926,7 +1926,7 @@
 44	მოაკლდეს	მოკლება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	36	ccomp	_	Translit=moakldes
 45	სრულიად	სრულიად	ADV	Adv	AdvType=Deg	44	advmod	_	SpaceAfter=No|Translit=sruliad
 46	“	“	PUNCT	F	PunctSide=Fin|PunctType=Quot	44	punct	_	SpaceAfter=No|Translit=“
-47	.	.	PUNCT	F	PunctType=Peri	24	punct	_	Translit=.
+47	.	.	PUNCT	F	PunctType=Peri	33	punct	_	Translit=.
 
 # sent_id = OGLC_00041
 # text = რამეთუ ყოვლით კერძო სიტყჳერი მსახურებაჲ სჯულ-იდების და ყოვლად ნაყოფებად შეწირულ იქმნების და ღმერთი დაკლული და განყოფილი სულთა და ჴორცთა ჩუენთა თანა ერთბამად შეზავებითა ღმერთ ჰყოფს მიმღებელთა თჳსთა, რომლისა მიერ ეშმაკნი იდევნებიამ და სამღდელონი კრებანი კაცთა მორწმუნეთანი ეკლესიათა შინა საიდუმლოდ წმიდა იქმნებიან.
