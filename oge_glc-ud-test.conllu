@@ -1831,8 +1831,8 @@
 6	და	და	CCONJ	Conj	_	7	cc	_	Translit=da
 7	მაცხოვრისა	მაცხოვარი	NOUN	Noun	Case=Gen|Number=Sing	5	conj	_	Translit=macʻxovrisa
 8	ჩუენისა	ჩუენი	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	det	_	Translit=čʻuenisa
-9	იესუ	იესუ	PROPN	Noun	Case=Nom|Number=Sing	10	flat	_	Translit=iesu
-10	ქრისტესმან	ქრისტე	PROPN	Noun	Case=Erg|Number=Sing	4	nmod	_	Translit=kʻristesman
+9	იესუ	იესუ	PROPN	Noun	Case=Nom|Number=Sing	4	nmod	_	Translit=iesu
+10	ქრისტესმან	ქრისტე	PROPN	Noun	Case=Erg|Number=Sing	9	flat	_	Translit=kʻristesman
 11-12	გარე-შეიცვა	_	_	_	_	_	_	_	_
 11	გარე	გარე	ADV	Adv	_	12	advmod	_	Translit=gare
 12	შეიცვა	შეცვა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=šeicʻva
@@ -1864,7 +1864,7 @@
 37-38	საკრველთაგან	_	_	_	_	_	_	_	_
 37	საკრველთა	საკრველი	NOUN	Noun	Case=Gen|Number=Plur	42	obl	_	Translit=sakrveltʻa
 38	გან	გან	ADP	Post	AdpType=Post|Case=Ins	37	case	_	Translit=gan
-39	საცთურთაჲსა	საცთური	NOUN	Noun	Case=Gen|Case[stack]=Nom|Number=Plur	42	obl	_	Translit=sacʻtʻurtʻaysa
+39	საცთურთაჲსა	საცთური	NOUN	Noun	Case=Gen|Case[stack]=Gen|Number=Plur	42	obl	_	Translit=sacʻtʻurtʻaysa
 40	განთავისუფლებულმან	განთავისუფლებული	VERB	Verb	Case=Erg|Number=Sing|VerbForm=Part|Voice=Pass	42	advcl	_	Translit=gantʻavisupʻlebulman
 41	სასუფეველი	სასუფეველი	NOUN	Noun	Case=Nom|Number=Sing	42	obj	_	Translit=sasupʻeveli
 42	ცათაჲ	ცა	NOUN	Noun	Case=Gen|Number=Plur	43	nmod	_	Translit=cʻatʻay
