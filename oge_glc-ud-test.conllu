@@ -1756,7 +1756,7 @@
 # sent_id = OGLC_00038
 # text = კანონნი კოსტანტინოპოლის გუმბადსა შინა სამეუფოჲსა პალატისა შეკრებულთა წმიდათა მამათანი იუსტინიანეს ზე კეთილად მსახურისა და ქრისტეს მოყუარისა მეფისა ჩუენისა მიწერილი წმიდისა ამის კრებისაჲ კეთილად მსახურისა მეფისა იუსტინიანეს მიმართ, რომელსა შეუდგინნეს მათ მიერ დასხმულნი კანონნი უფროჲსად კეთილად მსახურსა და ქრისტეს მოყუარესა მეფესა იუსტინიანეს წმიდაჲ და მსოფლიოჲ კრებაჲ საღმრთოჲთა წამისყოფითა და ბრძანებითა კეთილად მსახურისა მპყრობელობისა თქუენისაჲთა ღმრთივ დაცვულსა ამას და სამეუფოსა ქალაქსა შინა შეკრებული.
 # translit = kanonni kostantinopolis gumbadsa šina sameupʻoysa palatisa šekrebultʻa cmidatʻa mamatʻani iustinianes ze ketʻilad msaxurisa da kʻristes moquarisa mepʻisa čʻuenisa micerili cmidisa amis krebisay ketʻilad msaxurisa mepʻisa iustinianes mimartʻ, romelsa šeudginnes matʻ mier dasxmulni kanonni upʻroysad ketʻilad msaxursa da kʻristes moquaresa mepʻesa iustinianes cmiday da msopʻlioy krebay saġmrtʻoytʻa camisqopʻitʻa da brżanebitʻa ketʻilad msaxurisa mpqrobelobisa tʻkʻuenisaytʻa ġmrtʻiv dacʻvulsa amas da sameupʻosa kʻalakʻsa šina šekrebuli.
-1	კანონნი	კანონი	NOUN	Noun	Case=Nom|Number=Plur	20	nsubj	_	Translit=kanonni
+1	კანონნი	კანონი	NOUN	Noun	Case=Nom|Number=Plur	0	root	_	Translit=kanonni
 2	კოსტანტინოპოლის	კოსტანტინოპოლი	PROPN	Noun	Case=Gen|Number=Sing	3	nmod	_	Translit=kostantinopolis
 3	გუმბადსა	გუმბადი	NOUN	Noun	Case=Dat|Number=Sing	4	obl	_	Translit=gumbadsa
 4	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	8	obl	_	Translit=šina
