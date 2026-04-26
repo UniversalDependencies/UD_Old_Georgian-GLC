@@ -1893,14 +1893,14 @@
 13	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	12	det	_	Translit=igi
 14	დიდი	დიდი	ADJ	Adj	Case=Nom|Number=Sing	15	amod	_	Translit=didi
 15	ასურასტანელი	ასურასტანელი	NOUN	Noun	Case=Nom|Number=Sing	12	nmod	_	Translit=asurastaneli
-16	პირველ	პირველ	ADV	Adv	_	24	advmod	_	Translit=pirvel
+16	პირველ	პირველ	ADV	Adv	_	19	advmod	_	Translit=pirvel
 17	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	19	nmod	_	Translit=mis
 18	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	17	case	_	Translit=mier
 19	ტყუექმნულთა	ტყუექმნული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	20	nmod	_	Translit=tquekʻmnultʻa
 20-21	მათგან	_	_	_	_	_	_	_	_
-20	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	24	obl	_	Translit=matʻ
+20	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	23	obl	_	Translit=matʻ
 21	გან	გან	ADP	Post	AdpType=Post|Case=Ins	20	case	_	Translit=gan
-22	ცალიერ	ცალიერ	ADV	Adv	AdvType=Man	24	advmod	_	Translit=cʻalier
+22	ცალიერ	ცალიერ	ADV	Adv	AdvType=Man	23	advmod	_	Translit=cʻalier
 23	იქმნა	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=ikʻmna
 24	და	და	CCONJ	Conj	_	33	cc	_	Translit=da
 25	ძლიერებითა	ძლიერება	NOUN	Noun	Case=Ins|Number=Sing	31	obl	_	Translit=żlierebitʻa
