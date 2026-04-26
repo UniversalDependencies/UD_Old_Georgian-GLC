@@ -1811,7 +1811,7 @@
 53	მპყრობელობისა	მპყრობელობა	NOUN	Noun	Case=Gen|Number=Sing	50	nmod	_	Translit=mpqrobelobisa
 54	თქუენისაჲთა	თქუენი	PRON	Pron	Case=Ins|Case[stack]=Gen|Number=Sing|Person=2|PronType=Prs	53	det	_	Translit=tʻkʻuenisaytʻa
 55	ღმრთივ	ღმრთივ	ADV	Adv	AdvType=Man	56	advmod	_	Translit=ġmrtʻiv
-56	დაცვulსა	დაცვული	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Part|Voice=Pass	59	acl	_	Translit=dacʻvulsa
+56	დაცვულსა	დაცვული	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Part|Voice=Pass	59	acl	_	Translit=dacʻvulsa
 57	ამას	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	59	det	_	Translit=amas
 58	და	და	CCONJ	Conj	_	59	cc	_	Translit=da
 59	სამეუფოსა	სამეუფო	NOUN	Noun	Case=Dat|Number=Sing	60	amod	_	Translit=sameupʻosa
