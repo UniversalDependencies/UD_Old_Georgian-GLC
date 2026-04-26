@@ -1796,7 +1796,7 @@
 38	და	და	CCONJ	Conj	_	40	cc	_	Translit=da
 39	ქრისტეს	ქრისტე	PROPN	Noun	Case=Gen|Number=Sing	40	nmod	_	Translit=kʻristes
 40	მოყუარესა	მოყუარე	NOUN	Noun	Case=Dat|Number=Sing	37	conj	_	Translit=moquaresa
-41	მეფესა	მეფე	NOUN	Noun	Case=Dat|Number=Sing	42	appos	_	Translit=mepʻesa
+41	მეფესა	მეფე	NOUN	Noun	Case=Dat|Number=Sing	42	nmod	_	Translit=mepʻesa
 42	იუსტინიანეს	იუსტინიანე	PROPN	Noun	Case=Dat|Number=Sing	30	iobj	_	Translit=iustinianes
 43	წმიდაჲ	წმიდა	ADJ	Adj	Case=Nom|Number=Sing	46	amod	_	Translit=cmiday
 44	და	და	CCONJ	Conj	_	45	cc	_	Translit=da
