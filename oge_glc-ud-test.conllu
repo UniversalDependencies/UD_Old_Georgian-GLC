@@ -1783,11 +1783,11 @@
 25	მეფისა	მეფე	NOUN	Noun	Case=Gen|Number=Sing	26	nmod	_	Translit=mepʻisa
 26	იუსტინიანეს	იუსტინიანე	PROPN	Noun	Case=Gen|Number=Sing	27	nmod	_	Translit=iustinianes
 27	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Gen	19	obl	_	SpaceAfter=No|Translit=mimartʻ
-28	,	,	PUNCT	F	PunctType=Comm	31	punct	_	Translit=,
+28	,	,	PUNCT	F	PunctType=Comm	30	punct	_	Translit=,
 29	რომელსა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	31	iobj	_	Translit=romelsa
 30	შეუდგინნეს	შედგინება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Sing|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	22	acl:relcl	_	Translit=šeudginnes
-31	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	32	nmod	_	Translit=matʻ
-32	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	30	case	_	Translit=mier
+31	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	30	nmod	_	Translit=matʻ
+32	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	31	case	_	Translit=mier
 33	დასხმულნი	დასხმული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	34	amod	_	Translit=dasxmulni
 34	კანონნი	კანონი	NOUN	Noun	Case=Nom|Number=Plur	30	obj	_	Translit=kanonni
 35	უფროჲსად	უფროჲ	ADJ	Adj	Case=Ess|Case[stack]=Gen|PartType=Emp	36	amod	_	Translit=upʻroysad
