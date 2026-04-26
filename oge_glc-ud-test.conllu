@@ -1494,7 +1494,7 @@
 17	არა	არა	PART	Part	PartType=Neg	25	advmod:neg	_	Translit=ara
 18-19	ჯერ-არს	_	_	_	_	_	_	_	_
 18	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	25	advmod	_	Translit=jer
-18	არს	არის	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	Translit=ars
+19	არს	არის	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	Translit=ars
 20	ორთა	ორი	NUM	Num	Case=Gen|Number=Plur	21	nummod	_	Translit=ortʻa
 21	ეპისკოპოსთა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Plur	22	obl	_	Translit=episkopostʻa
 22	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	25	case	_	Translit=mier
@@ -1581,8 +1581,8 @@
 20	სამთაჲ	სამი	NUM	Num	Case=Gen|Number=Plur	22	obl	_	Translit=samtʻay
 21	ხოლო	ხოლო	PART	Part	_	22	advmod	_	Translit=xolo
 22-23	ჯერ-არს	_	_	_	_	_	_	_	_
-22	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	23	advmod	_	Translit=jer
-23	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	cop	_	Translit=ars
+22	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	24	advmod	_	Translit=jer
+23	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	cop	_	Translit=ars
 24	ყოფაჲ	ყოფაჲ	NOUN	Noun	Case=Nom|Number=Sing	0	root	_	Translit=qopʻay
 25	ეპისკოპოსთაჲ	ეპისკოპოსი	NOUN	Noun	Case=Nom|Case[stack]=Gen|Number=Plur	24	nmod	_	SpaceAfter=No|Translit=episkopostʻay
 26	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
