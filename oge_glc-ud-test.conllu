@@ -36,7 +36,7 @@
 30	გონიერთამიერისა	გონიერი	NOUN	Noun	Case=Gen|Number=Plur	31	nmod	_	Translit=goniertʻamierisa
 31	ქებისა	ქება	NOUN	Noun	Case=Gen|Number=Sing	32	nmod	_	Translit=kʻebisa
 32	მომატყუებელ	მომატყუებელი	VERB	Verb	VerbForm=Part	33	xcomp	_	Translit=momatquebel
-33	მექმნებიან	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[io]=Plur|Number[subj]=Plur|Person[io]=1|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	SpaceAfter=No|Translit=mekʻmnebian
+33	მექმნებიან	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[io]=Sing|Number[subj]=Plur|Person[io]=1|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	SpaceAfter=No|Translit=mekʻmnebian
 34	.	.	PUNCT	F	PunctType=Peri	18	punct	_	Translit=.
 
 # sent_id = OGLC_00002
