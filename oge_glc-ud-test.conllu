@@ -993,7 +993,7 @@
 63-64	ეპისკოპოსისგან	_	_	_	_	_	_	_	SpaceAfter=No
 63	ეპისკოპოსისა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Sing	56	conj	_	Translit=episkoposis
 64	გან	გან	ADP	Post	AdpType=Post|Case=Ins	63	case	_	Translit=gan
-65	,	,	PUNCT	F	PunctType=Comm	55	punct	_	Translit=,
+65	,	,	PUNCT	F	PunctType=Comm	66	punct	_	Translit=,
 66	ანუ	ანუ	CCONJ	Conj	_	67	cc	_	Translit=anu
 67-68	მონასტრისაგან	_	_	_	_	_	_	_	_
 67	მონასტრისა	მონასტერი	NOUN	Noun	Case=Gen|Number=Sing	63	conj	_	Translit=monastrisa
