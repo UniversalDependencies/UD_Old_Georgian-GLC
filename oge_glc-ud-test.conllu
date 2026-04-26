@@ -1213,10 +1213,10 @@
 30	წმიდათა	წმიდა	ADJ	Adj	Case=Gen|Number=Plur	31	amod	_	Translit=cmidatʻa
 31	ძმათა	ძმა	NOUN	Noun	Case=Gen|Number=Plur	28	nmod	_	Translit=żmatʻa
 32	და	და	CCONJ	Conj	_	35	cc	_	Translit=da
-33-35	თანა-მწირველთა	_	_	_	_	_	_	_	SpaceAfter=No
+33-35	თანა-მწირველთა	_	_	_	_	_	_	_	_
 33	თანა	თანა	ADV	Adv	_	34	advmod	_	Translit=tʻana
 34	მწირველთა	მწირველი	NOUN	Noun	Case=Gen|Number=Plur	31	conj	_	Translit=mcirveltʻa
-35	ჩუენთა	ჩუენი	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	34	det	_	Translit=čʻuentʻa
+35	ჩუენთა	ჩუენი	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	34	det	_	SpaceAfter=No|Translit=čʻuentʻa
 36	,	,	PUNCT	F	PunctType=Comm	43	punct	_	Translit=,
 37-38	ვინაჲთგან	_	_	_	_	_	_	_	_
 37	ვინაჲთ	ვინაჲთ	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	43	obl	_	Translit=vinaytʻ
