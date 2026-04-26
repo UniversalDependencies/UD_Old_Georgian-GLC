@@ -1554,11 +1554,11 @@
 # sent_id = OGLC_00035
 # text = ხოლო უკუეთუ ყოფადთა ჟამთათჳს წინა-განაგებს ვინმე განკუეთადთა ეპისკოპოსთათჳს, ვითარ-ესე სათნო-მიჩნს მე, არა სამთაჲ ხოლო ჯერ-არს ყოფაჲ ეპისკოპოსთაჲ, არამედ უკუეთუ შესაძლებელ იყოს ყოველთავე მის სამთავროჲსათა, რომლისაცა სამთავროჲსაჲ იყოს განკუეთადი იგი, რაჲთა მრავალთა მიერ მან განჩინებამან უცილობელი და მტკიცე პატიჟი დაასაჯოს ღირსსა მას განკუეთისასა ცხად არს, ვითარმედ სამსჯავროდ წარმოდგომილებასა და განკითხულობასა შინა მისსა.
 # translit = xolo ukuetʻu qopʻadtʻa žamtʻatʻws cina-ganagebs vinme gankuetʻadtʻa episkopostʻatʻws, vitʻar-ese satʻno-mičʻns me, ara samtʻay xolo jer-ars qopʻay episkopostʻay, aramed ukuetʻu šesażlebel iqos qoveltʻave mis samtʻavroysatʻa, romlisacʻa samtʻavroysay iqos gankuetʻadi igi, raytʻa mravaltʻa mier man gančʻinebaman ucʻilobeli da mtkicʻe patiži daasajos ġirssa mas gankuetʻisasa cʻxad ars, vitʻarmed samsjavrod carmodgomilebasa da gankitʻxulobasa šina missa.
-1	ხოლო	ხოლო	CCONJ	Conj	_	5	cc	_	Translit=xolo
-2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	5	mark	_	Translit=ukuetʻu
-3	ყოფადთა	ყოფადი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Act	5	obl	_	Translit=qopʻadtʻa
+1	ხოლო	ხოლო	CCONJ	Conj	_	7	cc	_	Translit=xolo
+2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	7	mark	_	Translit=ukuetʻu
+3	ყოფადთა	ყოფადი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Act	4	obl	_	Translit=qopʻadtʻa
 4-5	ჟამთათჳს	_	_	_	_	_	_	_	_
-4	ჟამთა	ჟამი	NOUN	Noun	Case=Gen|Number=Plur	3	nmod	_	Translit=žamtʻa
+4	ჟამთა	ჟამი	NOUN	Noun	Case=Gen|Number=Plur	7	nmod	_	Translit=žamtʻa
 5	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	4	case	_	Translit=tʻws
 6-7	წინა-განაგებს	_	_	_	_	_	_	_	_
 6	წინა	წინა	ADV	Adv	_	7	advmod	_	Translit=cina
@@ -1626,11 +1626,11 @@
 64	.	.	PUNCT	F	PunctType=Peri	23	punct	_	Translit=.
 
 # sent_id = OGLC_00036
-# text = ნეკტარი ეპისკოპოსმან კოსტანტინოპილისამან თქუა: საღმრთოდ სჯულიერთა განწესებათა და სჯულთა კეთილისა წესიერებისა შედგომილად არა მიზეზითა პირთა ვიეთთაჲთამე ქმნილად უწყით ჩუენ ესევითართა ამათ სჯულიმდებელობაჲ, რამეთუ ვითარ-იგი უფროჲსად წმიდამან ეპისკოპოსმან არაბიანოს და წარმოთქუა შემდგომითი-შემდგომად ყოფადთა განკრძალვისა ნებებითა და მსგავსადვე მისსა და კაცთმოყუარედ ყოვლად ღირსისა ეპისკოპოსისა თეოფილეს განჩინებამან განასაზღვრა, ნუღარამცა ქმნილ-არს ამიერითგან ნუცა ორთაგან, ნუცა სამთა განსაკითხავისა ეპისკოპოსისა განკუეთაჲ, არამედ უფროჲსისა კრებისა ბჭობითა და მის სამთავროჲსა ეპისკოპოსთა განჩინებითა, ვითარცა სამოციქულომან განასაზღვრა კანონმან.
-# translit = nektari episkoposman kostantinopilisaman tʻkʻua: saġmrtʻod sjuliertʻa gancesebatʻa da sjultʻa ketʻilisa cesierebisa šedgomilad ara mizezitʻa pirtʻa vietʻtʻaytʻame kʻmnilad ucqitʻ čʻuen esevitʻartʻa amatʻ sjulimdebelobay, rametʻu vitʻar-igi upʻroysad cmidaman episkoposman arabianos da carmotʻkʻua šemdgomitʻi-šemdgomad qopʻadtʻa gankrżalvisa nebebitʻa da msgavsadve missa da kacʻtʻmoquared qovlad ġirsisa episkoposisa tʻeopʻiles gančʻinebaman ganasazġvra, nuġaramcʻa kʻmnil-ars amieritʻgan nucʻa ortʻagan, nucʻa samtʻa gansakitʻxavisa episkoposisa gankuetʻay, aramed upʻroysisa krebisa bčobitʻa da mis samtʻavroysa episkopostʻa gančʻinebitʻa, vitʻarcʻa samocʻikʻuloman ganasazġvra kanonman.
-1	ნეკტარი	ნეკტარი	PROPN	Noun	Case=Nom|Number=Sing	4	nsubj	_	Translit=nektari
-2	ეპისკოპოსმან	ეპისკოპოსი	NOUN	Noun	Case=Erg|Number=Sing	1	appos	_	Translit=episkoposman
-3	კოსტანტინოპილისამან	კოსტანტინოპილი	PROPN	Noun	Case=Erg|Case[stack]=Gen|Number=Sing	2	nmod	_	Translit=kostantinopilisaman
+# text = ნეტარი ეპისკოპოსმან კოსტანტინოპილისამან თქუა: საღმრთოდ სჯულიერთა განწესებათა და სჯულთა კეთილისა წესიერებისა შედგომილად არა მიზეზითა პირთა ვიეთთაჲთამე ქმნილად უწყით ჩუენ ესევითართა ამათ სჯულიმდებელობაჲ, რამეთუ ვითარ-იგი უფროჲსად წმიდამან ეპისკოპოსმან არაბიანოს და წარმოთქუა შემდგომითი-შემდგომად ყოფადთა განკრძალვისა ნებებითა და მსგავსადვე მისსა და კაცთმოყუარედ ყოვლად ღირსისა ეპისკოპოსისა თეოფილეს განჩინებამან განასაზღვრა, ნუღარამცა ქმნილ-არს ამიერითგან ნუცა ორთაგან, ნუცა სამთა განსაკითხავისა ეპისკოპოსისა განკუეთაჲ, არამედ უფროჲსისა კრებისა ბჭობითა და მის სამთავროჲსა ეპისკოპოსთა განჩინებითა, ვითარცა სამოციქულომან განასაზღვრა კანონმან.
+# translit = netari episkoposman kostantinopilisaman tʻkʻua: saġmrtʻod sjuliertʻa gancesebatʻa da sjultʻa ketʻilisa cesierebisa šedgomilad ara mizezitʻa pirtʻa vietʻtʻaytʻame kʻmnilad ucqitʻ čʻuen esevitʻartʻa amatʻ sjulimdebelobay, rametʻu vitʻar-igi upʻroysad cmidaman episkoposman arabianos da carmotʻkʻua šemdgomitʻi-šemdgomad qopʻadtʻa gankrżalvisa nebebitʻa da msgavsadve missa da kacʻtʻmoquared qovlad ġirsisa episkoposisa tʻeopʻiles gančʻinebaman ganasazġvra, nuġaramcʻa kʻmnil-ars amieritʻgan nucʻa ortʻagan, nucʻa samtʻa gansakitʻxavisa episkoposisa gankuetʻay, aramed upʻroysisa krebisa bčobitʻa da mis samtʻavroysa episkopostʻa gančʻinebitʻa, vitʻarcʻa samocʻikʻuloman ganasazġvra kanonman.
+1	ნეკტარი	ნეკტარი	ADJ	Adj	Case=Erg|Number=Sing	2	nmod	_	Translit=nektari
+2	ეპისკოპოსმან	ეპისკოპოსი	NOUN	Noun	Case=Erg|Number=Sing	4	nsubj	_	Translit=episkoposman
+3	კოსტანტინოპილისამან	კოსტანტინოპილი	PROPN	Noun	Case=Erg|Case[stack]=Gen|Number=Sing	2	appos	_	Translit=kostantinopilisaman
 4	თქუა	თქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=tʻkʻua
 5	:	:	PUNCT	F	PunctType=Colo	4	punct	_	Translit=:
 6	საღმრთოდ	საღმრთოდ	ADV	Adv	AdvType=Man	13	advmod	_	Translit=saġmrtʻod
@@ -1725,7 +1725,7 @@
 4	თქუა	თქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=tʻkʻua
 5	:	:	PUNCT	F	PunctType=Colo	4	punct	_	Translit=:
 6-7	რაჲ-იგი	_	_	_	_	_	_	_	_
-6	რაჲ	რა	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	8	obj	_	Translit=ray
+6	რაჲ	რა	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Rel	8	obj	_	Translit=ray
 7	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	6	fixed	_	Translit=igi
 8	განაჩინეს	განჩინება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	24	csubj	_	Translit=ganačʻines
 9	უფროჲსად	უფროჲ	ADJ	Adj	Case=Ess|Case[stack]=Gen|PartType=Emp	10	amod	_	Translit=upʻroysad
