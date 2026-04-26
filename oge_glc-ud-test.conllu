@@ -1276,7 +1276,7 @@
 27	მათცა	ის	PRON	Pron	Case=Gen|Number=Plur|PartType=Emp|PronType=Prs	28	obl	_	Translit=matʻcʻa
 28	ეგერა	ეგერა	ADV	Adv	_	34	advmod	_	Translit=egera
 29	პირველვე	პირველ	ADV	Adv	AdvType=Tim|PartType=Emp	34	advmod	_	Translit=pirvelve
-30	აღსრულებულთა	აღსრულებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	34	obl	_	Translit=aġsrulebultʻa
+30	აღსრულებულთა	აღსრულებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	34	nmod	_	Translit=aġsrulebultʻa
 31	და	და	CCONJ	Conj	_	33	cc	_	Translit=da
 32	არღარა	არღარა	ADV	Adv	AdvType=Tim|PartType=Neg	33	advmod	_	Translit=arġara
 33	დამთხუეულთა	დამთხუეული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	30	conj	_	Translit=damtʻxueultʻa
