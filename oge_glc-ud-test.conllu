@@ -2134,9 +2134,9 @@
 144	ეკუეთნეს	ეკუეთნა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	141	conj	_	Translit=ekuetʻnes
 145	ბოროტსა	ბოროტი	ADJ	Adj	Case=Dat|Number=Sing	146	amod	_	Translit=borotsa
 146	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	144	iobj	_	Translit=mas
-147	და	და	CCONJ	Conj	_	150	cc	_	Translit=da
-148	ჩუენდა	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	149	nmod	_	Translit=čʻuenda
-149	მომართ	მომართ	ADP	Post	AdpType=Post|Case=Dat	150	obl	_	Translit=momartʻ
+147	და	და	CCONJ	Conj	_	148	cc	_	Translit=da
+148	ჩუენდა	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	146	conj	_	Translit=čʻuenda
+149	მომართ	მომართ	ADP	Post	AdpType=Post|Case=Dat	148	case	_	Translit=momartʻ
 150	მძლავრებაჲ	მძლავრებაჲ	NOUN	Noun	Case=Nom|Number=Sing	152	obj	_	Translit=mżlavrebay
 151	მისი	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	150	det	_	Translit=misi
 152	დაჰჴსნეს	დაჰჴსნა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	144	conj	_	Translit=dahx̣snes
