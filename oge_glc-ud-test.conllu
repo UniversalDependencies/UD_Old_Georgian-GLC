@@ -1989,7 +1989,7 @@
 6	განეღების	განეღება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=ganeġebis
 7	და	და	CCONJ	Conj	_	9	cc	_	Translit=da
 8	დასასრულსა	დასასრული	NOUN	Noun	Case=Dat|Number=Sing	9	obl	_	Translit=dasasrulsa
-9	იქმნებიან	ქმნა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	conj	_	Translit=ikʻmnebian
+9	იქმნებიან	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	conj	_	Translit=ikʻmnebian
 10	ყოველნივე	ყოველი	PRON	Pron	Case=Nom|Number=Plur|PartType=Emp|PronType=Tot	9	nsubj	_	Translit=qovelnive
 11	ახალ	ახალი	ADJ	Adj	Case=Nom|Number=Plur	9	xcomp	_	SpaceAfter=No|Translit=axal
 12	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
@@ -2017,7 +2017,7 @@
 32	თავს	თავი	NOUN	Noun	Case=Dat|Number=Sing	33	obj	_	Translit=tʻavs
 33	იდებდა	დება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	18	conj	_	Translit=idebda
 34	,	,	PUNCT	F	PunctType=Comm	39	punct	_	Translit=,
-35	რაჲთამცა	რაჲთა	SCONJ	Conj	PartType=Emp	39	mark	_	Translit=raytʻamcʻa
+35	რაჲთამცა	რაჲთა	SCONJ	Conj	_	39	mark	_	Translit=raytʻamcʻa
 36	მიხილნა	ხილვა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	advcl	_	Translit=mixilna
 37	ჩუენ	ჩუენ	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	36	obj	_	Translit=čʻuen
 38	აღდგომილნი	აღდგომილი	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Act	37	acl	_	Translit=aġdgomilni
@@ -2028,7 +2028,7 @@
 42	,	,	PUNCT	F	PunctType=Comm	46	punct	_	Translit=,
 43	რომლისა	რომელი	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	44	nmod	_	Translit=romlisa
 44	მიზეზ	მიზეზი	NOUN	Noun	Case=Nom|Number=Sing	46	xcomp	_	Translit=mizez
-45	იქმნა	ქმნა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	18	conj	_	Translit=ikʻmna
+45	იქმნა	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	18	conj	_	Translit=ikʻmna
 46	პირველ	პირველ	ADV	Adv	_	48	advmod	_	Translit=pirvel
 47	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	48	det	_	Translit=igi
 48	გარდასლვაჲ	გარდასლვაჲ	NOUN	Noun	Case=Nom|Number=Sing	45	nsubj	_	Translit=gardaslvay
@@ -2065,7 +2065,7 @@
 78	ვნებათა	ვნება	NOUN	Noun	Case=Gen|Number=Plur	77	nmod	_	Translit=vnebatʻa
 79	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	77	case	_	SpaceAfter=No|Translit=mier
 80	,	,	PUNCT	F	PunctType=Comm	85	punct	_	Translit=,
-81	რაჲთამცა	რაჲთა	SCONJ	Conj	PartType=Emp	85	mark	_	Translit=raytʻamcʻa
+81	რაჲთამცა	რაჲთა	SCONJ	Conj	_	85	mark	_	Translit=raytʻamcʻa
 82	განაშორნა	განშორება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	70	advcl	_	Translit=ganašorna
 83	იგინი	იგინი	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	82	obj	_	Translit=igini
 84-85	მიცემულისაგან	_	_	_	_	_	_	_	_
