@@ -2144,7 +2144,7 @@
 154	წინამძღუარ	წინამძღუარი	NOUN	Noun	Case=Ess|Number=Sing	157	xcomp	_	Translit=cinamżġuar
 155	სამწყსოთა	სამწყსო	NOUN	Noun	Case=Gen|Number=Plur	154	nmod	_	Translit=samcqsotʻa
 156	ღმრთისათა	ღმრთისა	ADJ	Adj	Case=Gen|Number=Plur	155	amod	_	Translit=ġmrtʻisatʻa
-157	იქმნნეს	ქმნა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	144	conj	_	Translit=ikʻmnnes
+157	იქმნნეს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	144	conj	_	Translit=ikʻmnnes
 158	და	და	CCONJ	Conj	_	162	cc	_	Translit=da
 159-160	წრფელ-ყვნეს	_	_	_	_	_	_	_	_
 159	წრფელ	წრფელი	ADJ	Adj	Case=Ess|Number=Sing	160	xcomp	_	Translit=crpʻel
@@ -2176,7 +2176,7 @@
 184	მოგუმადლა	მადლება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	178	acl:relcl	_	Translit=mogumadla
 185	ჩუენ	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	184	iobj	_	Translit=čʻuen
 186	და	და	CCONJ	Conj	_	193	cc	_	Translit=da
-187	ესოდენ	ესოდენ	ADV	Adv	AdvType=Deg	188	advmod	_	Translit=esoden
+187	ესოდენ	ესოდენ	ADV	Adv	AdvType=Man	188	advmod	_	Translit=esoden
 188	მაღლითა	მაღალი	ADJ	Adj	Case=Ins|Number=Sing	193	obl	_	Translit=maġlitʻa
 189-190	თანა-შთამოსლვითა	_	_	_	_	_	_	_	_
 189	თანა	თანა	ADV	Adv	_	190	advmod	_	Translit=tʻana
