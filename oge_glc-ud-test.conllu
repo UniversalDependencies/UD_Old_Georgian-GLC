@@ -1232,8 +1232,8 @@
 46	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	45	case	_	Translit=tʻws
 47	ბოსტრისა	ბოსტრა	PROPN	Noun	Case=Gen|Number=Sing	45	nmod	_	Translit=bostrisa
 48	ძმათა	ძმა	NOUN	Noun	Case=Gen|Number=Plur	39	obj	_	Translit=żmatʻa
-49	ჩუენთა	ჩუენი	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	48	det	_	Translit=čʻuentʻa
-50	ვაღადიოსს	ვაღადიოსი	PROPN	Noun	Case=Dat|Number=Sing	39	obj	_	Translit=vaġadioss
+49	ჩუენთა	ჩუენი	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	48	det:poss	_	Translit=čʻuentʻa
+50	ვაღადიოსს	ვაღადიოსი	PROPN	Noun	Case=Dat|Number=Sing	48	appos	_	Translit=vaġadioss
 51	და	და	CCONJ	Conj	_	52	cc	_	Translit=da
 52	აღაპის	აღაპი	PROPN	Noun	Case=Dat|Number=Sing	50	conj	_	SpaceAfter=No|Translit=aġapis
 53	,	,	PUNCT	F	PunctType=Comm	26	punct	_	Translit=,
