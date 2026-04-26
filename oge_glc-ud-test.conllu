@@ -1396,7 +1396,7 @@
 8	განკრძალულმან	განკრძალული	VERB	Verb	Case=Erg|Number=Sing|VerbForm=Part|Voice=Pass	9	amod	_	Translit=gankrżalulman
 9	ეპისკოპოსმან	ეპისკოპოსი	NOUN	Noun	Case=Erg|Number=Sing	7	nsubj	_	Translit=episkoposman
 10	არაბიანე	არაბიანე	PROPN	Noun	Case=Nom|Number=Sing	9	appos	_	SpaceAfter=No|Translit=arabiane
-11	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
+11	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
 12	არამედ	არამედ	CCONJ	Conj	_	19	cc	_	Translit=aramed
 13	არა	არა	PART	Part	PartType=Neg	19	advmod:neg	_	Translit=ara
 14	დამსჯელთა	დამსჯელი	NOUN	Noun	Case=Gen|Number=Plur	23	obl	_	Translit=damsjeltʻa
@@ -1500,9 +1500,9 @@
 22	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	25	case	_	Translit=mier
 23	არცა	არცა	PART	Part	PartType=Neg	25	advmod:neg	_	Translit=arcʻa
 24-25	ჴელთ-დასხმაჲ	_	_	_	_	_	_	_	SpaceAfter=No
-24	ჴელთ	ჴელი	NOUN	Noun	Case=Dat|Number=Plur	25	obl	_	Translit=x̣eltʻ
+24	ჴელთ	ჴელი	NOUN	Noun	Case=Dat|Number=Plur	25	nmod	_	Translit=x̣eltʻ
 25	დასხმაჲ	დასხმა	NOUN	Noun	Case=Nom|Number=Sing	19	nsubj	_	Translit=dasxmay
-26	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
+26	,	,	PUNCT	F	PunctType=Comm	28	punct	_	Translit=,
 27	არცა	არცა	PART	Part	PartType=Neg	28	advmod:neg	_	Translit=arcʻa
 28	განკუეთაჲ	განკუეთაჲ	NOUN	Noun	Case=Nom|Number=Sing	25	conj	_	Translit=gankuetʻay
 29	ეპისკოპოსისაჲ	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Sing	28	nmod	_	SpaceAfter=No|Translit=episkoposisay
@@ -1533,7 +1533,7 @@
 14	არცა	არცა	PART	Part	PartType=Neg	16	advmod:neg	_	Translit=arcʻa
 15	შესაძლებელ	შესაძლებელი	ADJ	Adj	Case=Nom|Number=Sing	16	xcomp	_	Translit=šesażlebel
 16	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	Translit=ars
-17	განჩინებასა	განჩინება	NOUN	Noun	Case=Dat|Number=Sing	19	obl	_	Translit=gančʻinebasa
+17	განჩინებასა	განჩინება	NOUN	Noun	Case=Dat|Number=Sing	19	nmod	_	Translit=gančʻinebasa
 18	ბრალობისასა	ბრალობისა	NOUN	Noun	Case=Gen|Number=Sing	17	nmod	_	Translit=bralobisasa
 19	დადებაჲ	დადებაჲ	NOUN	Noun	Case=Nom|Number=Sing	16	nsubj	_	SpaceAfter=No|Translit=dadebay
 20	,	,	PUNCT	F	PunctType=Comm	27	punct	_	Translit=,
