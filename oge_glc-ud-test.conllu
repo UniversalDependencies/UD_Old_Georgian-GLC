@@ -2731,7 +2731,7 @@
 95	ეკლესიისაჲ	ეკლესია	NOUN	Noun	Case=Nom|Number=Sing	93	nsubj	_	SpaceAfter=No|Translit=eklesiisay
 96	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
 97	რამეთუ	რამეთუ	SCONJ	Conj	_	122	mark	_	Translit=rametʻu
-98	„	„	PUNCT	F	PunctSide=Ini|PunctType=Quot	100	punct	_	SpaceAfter=No|Translit=„
+98	„	„	PUNCT	F	PunctSide=Ini|PunctType=Quot	99	punct	_	SpaceAfter=No|Translit=„
 99	სადა	სადა	ADV	Adv	AdvType=Rel	101	advmod	_	Translit=sada
 100	იყვნენ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	101	cop	_	Translit=iqvnen
 101	ორნი	ორი	NUM	Num	Case=Nom|Number=Plur|NumType=Card	122	ccomp	_	Translit=orni
@@ -2740,13 +2740,13 @@
 104	შეკრებულ	შეკრებული	VERB	Verb	VerbForm=Part|Voice=Pass	101	acl	_	Translit=šekrebul
 105	სახელითა	სახელი	NOUN	Noun	Case=Ins|Number=Sing	104	obl	_	Translit=saxelitʻa
 106	ჩემითა	ჩემი	PRON	Pron	Case=Ins|Number=Sing|Person=1|PronType=Prs	105	det	_	SpaceAfter=No|Translit=čʻemitʻa
-107	,	,	PUNCT	F	PunctType=Comm	100	punct	_	Translit=,
+107	,	,	PUNCT	F	PunctType=Comm	101	punct	_	Translit=,
 108	მუნ	მუნ	ADV	Adv	AdvType=Loc	109	advmod	_	Translit=mun
 109	ვარ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	100	conj	_	Translit=var
 110	მე	მე	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	109	nsubj	_	Translit=me
 111	შორის	შორის	ADP	Post	AdpType=Post|Case=Gen	109	obl	_	Translit=šoris
 112	მათსა	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	111	nmod	_	SpaceAfter=No|Translit=matʻsa
-113	“	“	PUNCT	F	PunctSide=Fin|PunctType=Quot	100	punct	_	Translit=“
+113	“	“	PUNCT	F	PunctSide=Fin|PunctType=Quot	101	punct	_	Translit=“
 114	–	–	PUNCT	F	PunctType=Dash	122	punct	_	Translit=–
 115	საუფლოჲ	საუფლოჲ	ADJ	Adj	Case=Nom|Number=Sing	117	amod	_	Translit=saupʻloy
 116	ღაღადებს	ღაღადება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	122	advcl	_	Translit=ġaġadebs
