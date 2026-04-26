@@ -1357,8 +1357,8 @@
 9	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
 10	არამედ	არამედ	CCONJ	Conj	_	11	cc	_	Translit=aramed
 11	მეშინის	შიში	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	SpaceAfter=No|Translit=mešinis
-12	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
-13	ნუსადა	ნუსადა	SCONJ	Conj	_	18	mark	_	Translit=nusada
+12	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
+13	ნუსადა	ნუსადა	SCONJ	Conj	_	17	mark	_	Translit=nusada
 14	მოსაჴსენებელთა	მოსაჴსენებელი	NOUN	Noun	Case=Gen|Number=Plur	18	obl	_	Translit=mosax̣senebeltʻa
 15-16	ამათგან	_	_	_	_	_	_	_	_
 15	ამათ	ესე	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	14	nmod	_	Translit=amatʻ
@@ -1399,7 +1399,7 @@
 11	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
 12	არამედ	არამედ	CCONJ	Conj	_	19	cc	_	Translit=aramed
 13	არა	არა	PART	Part	PartType=Neg	19	advmod:neg	_	Translit=ara
-14	დამსჯელთა	დამსჯელი	NOUN	Noun	Case=Gen|Number=Plur	19	obl	_	Translit=damsjeltʻa
+14	დამსჯელთა	დამსჯელი	NOUN	Noun	Case=Gen|Number=Plur	23	obl	_	Translit=damsjeltʻa
 15	გარდასრულისა	გარდასრული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Act	17	amod	_	Translit=gardasrulisa
 16	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	17	det	_	Translit=mis
 17	ბჭობისა	ბჭობა	NOUN	Noun	Case=Gen|Number=Sing	14	nmod	_	Translit=bčobisa
