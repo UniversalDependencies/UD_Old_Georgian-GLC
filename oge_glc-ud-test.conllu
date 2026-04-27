@@ -4177,17 +4177,17 @@
 # translit = g(3) mġdeltʻatʻws da moquastʻa eklesiisatʻa vinaytʻgan ukue kʻrites moquareman da ketʻilad msaxurman mepʻeman čʻuenman moucoda cmidasa amas da msopʻliosa krebasa, raytʻa samġdelosa mcqobrsa šina dacesebulni da sxuani qovelni maxlobelni saġmrtʻotʻani cmidad gamočʻnden da msaxurad ubicod da didisa ġmrtʻisa da msxuerplisa da mġdelmtʻavrisa sacʻnaurisa šesaciravisa ġirsad da raytʻa cmidad iqvnen ucesotʻa kʻorciltʻa bilcisa šeqopʻisagan, amas tʻana cmidisacʻa eklesiisa hromtʻaysa zemoytʻgan dacʻvulisa krżalulebisa kanonni, xolo ġmrtʻiv dacʻvulisa da sameupʻoysa kʻalakʻisa saqdrisa kacʻtʻmoquare da tʻanalmobili sjuli ertʻad ševxzavenitʻ ornive mamobrivad ertʻbamad da ġmrtʻismoquared, raytʻa arcʻa simšwde damx̣snel, arcʻa sipʻicʻxe ganmamcarebel iqos da upʻroysġa rametʻu umecʻrebisamieritʻa dacʻemitʻa ara mcʻiredtʻa kacʻtʻa simravlesa vxedavtʻ vnebulad, romlisatʻwscʻa meoritʻa ukue kʻorcinebitʻa gancʻdiltʻa da romelni vidre meatʻxutʻmetedmde tʻanacarsulisa ianvarisa tʻtʻwsa acġa gardasulisa meotʻxisa indiktionisa celtʻa ekʻus atʻas asotʻxmeocʻdaatʻcʻxramettʻa damonebul arian cʻodvisada ara hnebavs misgan ganpʻrtʻxobay, kanonebrivi gankuetʻay daesajen.
 1	გ(3)	გ(3)	NUM	Num	NumForm=Georgian|NumType=Card	5	nummod	_	Translit=g(3)
 2-3	მღდელთათჳს	_	_	_	_	_	_	_	_
-2	მღდელთა	მღდელი	NOUN	Noun	Case=Gen|Number=Plur	5	obl	_	Translit=mġdeltʻa
+2	მღდელთა	მღდელი	NOUN	Noun	Case=Gen|Number=Plur	17	obl	_	Translit=mġdeltʻa
 3	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	2	case	_	Translit=tʻws
-4	და	და	CCONJ	Conj	_	5	cc	_	Translit=da
-5	მოყუასთა	მოყუასი	NOUN	Noun	Case=Gen|Number=Plur	16	obl	_	Translit=moquastʻa
-6	ეკლესიისათა	ეკლესია	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	5	nmod	_	Translit=eklesiisatʻa
+4	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
+5	მოყუასთა	მოყუასი	NOUN	Noun	Case=Gen|Number=Plur	6	nmod	_	Translit=moquastʻa
+6	ეკლესიისათა	ეკლესია	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	2	conj	_	Translit=eklesiisatʻa
 7-8	ვინაჲთგან	_	_	_	_	_	_	_	_
-7	ვინაჲთ	ვინაჲთ	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	16	advcl	_	Translit=vinaytʻ
+7	ვინაჲთ	ვინაჲთ	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	17	advcl	_	Translit=vinaytʻ
 8	გან	გან	ADP	Post	AdpType=Post|Case=Ins	7	case	_	Translit=gan
 9	უკუე	უკუე	ADV	Adv	AdvType=Tim	16	advmod	_	Translit=ukue
 10	ქრიტეს	ქრიტე	PROPN	Noun	Case=Gen|Number=Sing	11	nmod	_	Translit=kʻrites
-11	მოყუარემან	მოყუარე	NOUN	Noun	Case=Erg|Number=Sing	16	nsubj	_	Translit=moquareman
+11	მოყუარემან	მოყუარე	NOUN	Noun	Case=Erg|Number=Sing	17	nsubj	_	Translit=moquareman
 12	და	და	CCONJ	Conj	_	14	cc	_	Translit=da
 13	კეთილად	კეთილად	ADV	Adv	AdvType=Man	14	advmod	_	Translit=ketʻilad
 14	მსახურმან	მსახური	NOUN	Noun	Case=Erg|Number=Sing	11	conj	_	Translit=msaxurman
@@ -4217,7 +4217,7 @@
 38	უბიწოდ	უბიწოდ	ADV	Adv	AdvType=Man	37	advmod	_	Translit=ubicod
 39	და	და	CCONJ	Conj	_	45	cc	_	Translit=da
 40	დიდისა	დიდი	ADJ	Adj	Case=Gen|Number=Sing	41	amod	_	Translit=didisa
-41	ღმრთისა	ღმერთი	NOUN	Noun	Case=Gen|Number=Sing	45	nmod	_	Translit=ġmrtʻisa
+41	ღმრთისა	ღმერთი	NOUN	Noun	Case=Gen|Number=Sing	47	nmod	_	Translit=ġmrtʻisa
 42	და	და	CCONJ	Conj	_	43	cc	_	Translit=da
 43	მსხუერპლისა	მსხუერპლი	NOUN	Noun	Case=Gen|Number=Sing	41	conj	_	Translit=msxuerplisa
 44	და	და	CCONJ	Conj	_	45	cc	_	Translit=da
@@ -4246,7 +4246,7 @@
 65	გან	გან	ADP	Post	AdpType=Post|Case=Ins	64	case	_	Translit=gan
 66	დაცვულისა	დაცვული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Pass	67	amod	_	Translit=dacʻvulisa
 67	კრძალულებისა	კრძალულება	NOUN	Noun	Case=Gen|Number=Sing	68	nmod	_	Translit=krżalulebisa
-68	კანონნი	კანონი	NOUN	Noun	Case=Nom|Number=Plur	73	obj	_	SpaceAfter=No|Translit=kanonni
+68	კანონნი	კანონი	NOUN	Noun	Case=Nom|Number=Plur	82	obj	_	SpaceAfter=No|Translit=kanonni
 69	,	,	PUNCT	F	PunctType=Comm	73	punct	_	Translit=,
 70	ხოლო	ხოლო	CCONJ	Conj	_	73	cc	_	Translit=xolo
 71	ღმრთივ	ღმრთივ	ADV	Adv	AdvType=Man	72	advmod	_	Translit=ġmrtʻiv
@@ -4296,7 +4296,7 @@
 114	ქორწინებითა	ქორწინება	NOUN	Noun	Case=Ins|Number=Sing	115	obl	_	Translit=kʻorcinebitʻa
 115	განცდილთა	განცდილი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	142	obl	_	Translit=gancʻdiltʻa
 116	და	და	CCONJ	Conj	_	117	cc	_	Translit=da
-117	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	138	nsubj	_	Translit=romelni
+117	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	131	nsubj	_	Translit=romelni
 118	ვიდრე	ვიდრე	ADP	Post	AdpType=Post|Case=Gen	119	case	_	Translit=vidre
 119	მეათხუთმეტედმდე	მეათხუთმეტედმდე	ADV	Adv	AdvType=Tim	138	advmod	_	Translit=meatʻxutʻmetedmde
 120	თანაწარსულისა	თანაწარსული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Act	121	amod	_	Translit=tʻanacarsulisa
@@ -4306,7 +4306,7 @@
 124	გარდასულისა	გარდასული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Act	126	amod	_	Translit=gardasulisa
 125	მეოთხისა	მეოთხე	ADJ	Adj	Case=Gen|Number=Sing	126	amod	_	Translit=meotʻxisa
 126	ინდიკტიონისა	ინდიკტიონი	NOUN	Noun	Case=Gen|Number=Sing	127	nmod	_	Translit=indiktionisa
-127	წელთა	წელი	NOUN	Noun	Case=Gen|Number=Plur	138	obl	_	Translit=celtʻa
+127	წელთა	წელი	NOUN	Noun	Case=Gen|Number=Plur	131	obl	_	Translit=celtʻa
 128	ექუს	ექუსი	NUM	Num	Case=Gen|NumType=Card	129	nummod	_	Translit=ekʻus
 129	ათას	ათასი	NUM	Num	Case=Gen|NumType=Card	130	nummod	_	Translit=atʻas
 130	ასოთხმეოცდაათცხრამეტთა	ასოთხმეოცდაათცხრამეტი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	127	nummod	_	Translit=asotʻxmeocʻdaatʻcʻxramettʻa
@@ -4314,7 +4314,7 @@
 132	არიან	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	131	cop	_	Translit=arian
 133	ცოდვისადა	ცოდვა	NOUN	Noun	Case=Dat|Number=Sing	131	obl	_	Translit=cʻodvisada
 134	არა	არა	PART	Part	PartType=Neg	135	advmod:neg	_	Translit=ara
-135	ჰნებავს	ნება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	138	conj	_	Translit=hnebavs
+135	ჰნებავს	ნება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	131	conj	_	Translit=hnebavs
 136-137	მისგან	_	_	_	_	_	_	_	_
 136	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	138	obl	_	Translit=mis
 137	გან	გან	ADP	Post	AdpType=Post|Case=Ins	136	case	_	Translit=gan
