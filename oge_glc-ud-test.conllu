@@ -2957,7 +2957,7 @@
 5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
 6	ნეტართა	ნეტარი	ADJ	Adj	Case=Gen|Number=Plur	4	conj	_	Translit=netartʻa
 7-8	მამათაგან	_	_	_	_	_	_	_	SpaceAfter=No
-7	მამათა	მამა	NOUN	Noun	Case=Gen|Number=Plur	39	obl	_	Translit=mamatʻa
+7	მამათა	მამა	NOUN	Noun	Case=Gen|Number=Plur	39	nmod	_	Translit=mamatʻa
 8	გან	გან	ADP	Post	AdpType=Post|Case=Ins	7	case	_	Translit=gan
 9	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
 10	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	11	nsubj	_	Translit=romelni
@@ -3034,14 +3034,14 @@
 78	და	და	CCONJ	Conj	_	80	cc	_	Translit=da
 79	უჩინო	უჩინო	ADV	Adv	AdvType=Man	80	xcomp	_	Translit=učʻino
 80	ყვეს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	77	conj	_	Translit=qves
-81	და	და	CCONJ	Conj	_	87	cc	_	Translit=da
-82	წინააღსადგომელად	წინააღსადგომელად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	87	advcl	_	Translit=cinaaġsadgomelad
+81	და	და	CCONJ	Conj	_	90	cc	_	Translit=da
+82	წინააღსადგომელად	წინააღსადგომელად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	90	advmod	_	Translit=cinaaġsadgomelad
 83	მართლმადიდებლობისა	მართლმადიდებლობა	NOUN	Noun	Case=Gen|Number=Sing	82	nmod	_	Translit=martʻlmadideblobisa
-84	ყრმებრივნი	ყრმებრივი	ADJ	Adj	Case=Nom|Number=Plur	87	amod	_	Translit=qrmebrivni
+84	ყრმებრივნი	ყრმებრივი	ADJ	Adj	Case=Nom|Number=Plur	89	amod	_	Translit=qrmebrivni
 85	იგი	იგი	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	84	det	_	Translit=igi
 86	ქჳშასა	ქჳშა	NOUN	Noun	Case=Dat|Number=Sing	87	obl	_	Translit=kʻwšasa
 87	ზედა	ზედა	ADP	Post	AdpType=Post|Case=Dat	88	case	_	Translit=zeda
-88	ნაშენებნი	ნაშენები	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	90	amod	_	Translit=našenebni
+88	ნაშენებნი	ნაშენები	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	89	amod	_	Translit=našenebni
 89	მწვალებელთანი	მწვალებელი	NOUN	Noun	Case=Nom|Number=Plur	90	nsubj	_	Translit=mcvalebeltʻani
 90	დაარღჳნეს	დარღვევა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	77	conj	_	Translit=daarġwnes
 91	და	და	CCONJ	Conj	_	92	cc	_	Translit=da
