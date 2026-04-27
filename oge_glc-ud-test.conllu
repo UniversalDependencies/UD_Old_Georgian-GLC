@@ -4388,7 +4388,7 @@
 1	და	და	CCONJ	Conj	_	8	cc	_	Translit=da
 2	პირველნი	პირველი	ADJ	Adj	Case=Nom|Number=Plur	5	amod	_	Translit=pirvelni
 3	იგი	იგი	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	5	det	_	Translit=igi
-4	უსჯულოებითნი	უსჯულოება	NOUN	Noun	Case=Nom|Case[stack]=Ins|Number=Plur	5	nmod	_	Translit=usjuloebitʻni
+4	უსჯულოებითნი	უსჯულოება	NOUN	Noun	Case=Ins|Number=Plur	5	nmod	_	Translit=usjuloebitʻni
 5	ცთომანი	ცთომა	NOUN	Noun	Case=Nom|Number=Plur	8	nsubj	_	Translit=cʻtʻomani
 6	მათნი	მათი	PRON	Pron	Case=Nom|Number=Plur|PronType=Prs	5	det	_	Translit=matʻni
 7	მოსწრაფებით	მოსწრაფება	NOUN	Noun	Case=Ins|Number=Sing	8	obl	_	Translit=moscrapʻebitʻ
@@ -4396,7 +4396,7 @@
 9	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
 10	გინათი	გინათი	SCONJ	Conj	_	17	mark	_	Translit=ginatʻi
 11	ხუცესთა	ხუცესი	NOUN	Noun	Case=Gen|Number=Plur	15	nmod	_	SpaceAfter=No|Translit=xucʻestʻa
-12	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
+12	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
 13	ანუ	ანუ	CCONJ	Conj	_	14	cc	_	Translit=anu
 14	დიაკონთა	დიაკონი	NOUN	Noun	Case=Gen|Number=Plur	11	conj	_	Translit=diakontʻa
 15-16	დასისაგანნი	_	_	_	_	_	_	_	_
@@ -4416,7 +4416,7 @@
 27	სამღდელოჲსა	სამღდელოჲ	NOUN	Noun	Case=Gen|Number=Sing	28	nmod	_	Translit=samġdeloysa
 28	მსახურებისა	მსახურება	NOUN	Noun	Case=Gen|Number=Sing	24	obl	_	SpaceAfter=No|Translit=msaxurebisa
 29	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
-30	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	38	nsubj	_	Translit=ese
+30	ესე	ესე	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Dem	38	nsubj	_	Translit=ese
 31	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	30	fixed	_	Translit=igi
 32	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	38	cop	_	Translit=ars
 33-34	მოქმედებისაგან	_	_	_	_	_	_	_	_
