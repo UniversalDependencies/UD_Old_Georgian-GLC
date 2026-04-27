@@ -2886,12 +2886,12 @@
 14	თანა	თანა	ADP	Post	AdpType=Post|Case=Gen	13	case	_	Translit=tʻana
 15	განსუენებაჲ	განსუენებაჲ	NOUN	Noun	Case=Nom|Number=Sing	11	conj	_	Translit=gansuenebay
 16	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	Translit=ars
-17	ჴმისაებრ	ჴმისაებრ	ADP	Post	AdpType=Post|Case=Gen	16	obl	_	Translit=x̣misaebr
-18	ღმრთისმეტყუელისა	ღმრთისმეტყუელი	NOUN	Noun	Case=Gen|Number=Sing	17	nmod	_	SpaceAfter=No|Translit=ġmrtʻismetquelisa
+17	ჴმისაებრ	ჴმისაებრ	ADP	Post	AdpType=Post|Case=Gen	18	amod	_	Translit=x̣misaebr
+18	ღმრთისმეტყუელისა	ღმრთისმეტყუელი	NOUN	Noun	Case=Gen|Number=Sing	11	nmod	_	SpaceAfter=No|Translit=ġmrtʻismetquelisa
 19	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
 20	ვინაჲცა	ვინაჲცა	SCONJ	Conj	_	37	mark	_	Translit=vinaycʻa
-21	ჩუენ	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	22	nmod	_	Translit=čʻuen
-22	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	37	case	_	Translit=mier
+21	ჩუენ	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	25	nmod	_	Translit=čʻuen
+22	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	21	case	_	Translit=mier
 23	ეგერა	ეგერა	ADV	Adv	AdvType=Loc	24	advmod	_	Translit=egera
 24	ბრწყინვალედ	ბრწყინვალედ	ADV	Adv	AdvType=Man	25	advmod	_	Translit=brcqinvaled
 25	ქადაგებულისა	ქადაგებული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Pass	27	amod	_	Translit=kʻadagebulisa
