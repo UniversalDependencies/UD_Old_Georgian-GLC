@@ -3356,10 +3356,10 @@
 21	ერთად	ერთად	ADV	Adv	AdvType=Man	22	advmod	_	Translit=ertʻad
 22	შემოკრბეს	შემოკრება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	8	acl:relcl	_	SpaceAfter=No|Translit=šemokrbes
 23	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
-24	ვითარცა	ვითარცა	SCONJ	Conj	_	27	mark	_	Translit=vitʻarcʻa
+24	ვითარცა	ვითარცა	SCONJ	Conj	_	27	cc	_	Translit=vitʻarcʻa
 25	სულისა	სული	NOUN	Noun	Case=Gen|Number=Sing	28	obl	_	Translit=sulisa
 26	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	27	case	_	Translit=mier
-27	აღმოთქუმულთა	აღმოთქუმული	VERB	Verb	Case=Dat|Number=Plur|VerbForm=Part|Voice=Pass	28	obj	_	Translit=aġmotʻkʻumultʻa
+27	აღმოთქუმულთა	აღმოთქუმული	VERB	Verb	Case=Dat|Number=Plur|VerbForm=Part|Voice=Pass	4	conj	_	Translit=aġmotʻkʻumultʻa
 28	აღვიარებთ	აღვიარება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=aġviarebtʻ
 29	და	და	CCONJ	Conj	_	32	cc	_	Translit=da
 30	მიმდგომთა	მიმდგომი	NOUN	Noun	Case=Dat|Number=Plur	32	iobj	_	Translit=mimdgomtʻa
