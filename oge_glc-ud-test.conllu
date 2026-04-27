@@ -3148,8 +3148,8 @@
 2	ქალაქსაცა	ქალაქი	NOUN	Noun	Case=Dat|Number=Sing|PartType=Emp	27	nmod	_	Translit=kʻalakʻsacʻa
 3	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	2	case	_	Translit=šina
 4	ეფესელთასა	ეფესელი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	2	nmod	_	Translit=epʻeseltʻasa
-5	თევდოსის	თევდოსი	PROPN	Noun	Case=Gen|Number=Sing	6	nmod	_	Translit=tʻevdosis
-6	ზე	ზე	ADP	Post	AdpType=Post|Case=Gen	5	case	_	Translit=ze
+5	თევდოსის	თევდოსი	PROPN	Noun	Case=Gen|Number=Sing	7	nmod	_	Translit=tʻevdosis
+6	ზე	ზე	NOUN	Noun	Case=Nom|Number=Sing	5	case	_	Translit=ze
 7	არკადის	არკადი	PROPN	Noun	Case=Gen|Number=Sing	8	nmod	_	Translit=arkadis
 8	ძისა	ძე	NOUN	Noun	Case=Gen|Number=Sing	10	nmod	_	SpaceAfter=No|Translit=żisa
 9	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
