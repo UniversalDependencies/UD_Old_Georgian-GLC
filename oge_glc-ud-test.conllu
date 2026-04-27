@@ -3457,7 +3457,7 @@
 21	კოსტანიტენსთა	კოსტანიტენსი	PROPN	Noun	Case=Dat|Number=Plur	15	obl	_	SpaceAfter=No|Translit=kostanitenstʻa
 22	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
 23-24	რომელმან-იგი	_	_	_	_	_	_	_	_
-23	რომელმან	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	27	nsubj	_	Translit=romelman
+23	რომელმან	რომელი	PRON	Pron	Case=Erg|ExtPos=PRON|Number=Sing|PronType=Rel	27	nsubj	_	Translit=romelman
 24	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	23	fixed	_	Translit=igi
 25	უმეტესი	უმეტესი	ADJ	Adj	Case=Nom|Number=Sing	26	amod	_	Translit=umetesi
 26	სიმტკიცე	სიმტკიცე	NOUN	Noun	Case=Nom|Number=Sing	27	obj	_	Translit=simtkicʻe
@@ -3465,7 +3465,7 @@
 28	ამიერ	ამიერ	ADV	Adv	AdvType=Man	27	advmod	_	SpaceAfter=No|Translit=amier
 29	,	,	PUNCT	F	PunctType=Comm	27	punct	_	Translit=,
 30-31	რაჟამს-იგი	_	_	_	_	_	_	_	_
-30	რაჟამს	რაჟამს	SCONJ	Conj	AdvType=Rel	36	mark	_	Translit=ražams
+30	რაჟამს	რაჟამს	SCONJ	Conj	_	37	mark	_	Translit=ražams
 31	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	37	nsubj	_	Translit=igi
 32	კეთილად	კეთილად	ADV	Adv	AdvType=Man	33	advmod	_	Translit=ketʻilad
 33	მსახურმან	მსახური	NOUN	Noun	Case=Erg|Number=Sing	31	appos	_	Translit=msaxurman
@@ -3491,13 +3491,13 @@
 52	დავიცავთ	დაცვა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	47	conj	_	SpaceAfter=No|Translit=davicʻavtʻ
 53	,	,	PUNCT	F	PunctType=Comm	52	punct	_	Translit=,
 54-55	რომელმან-იგი	_	_	_	_	_	_	_	_
-54	რომელმან	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	80	nsubj	_	Translit=romelman
+54	რომელმან	რომელი	PRON	Pron	Case=Erg|ExtPos=PRON|Number=Sing|PronType=Rel	80	nsubj	_	Translit=romelman
 55	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	54	fixed	_	Translit=igi
 56	ორნი	ორი	NUM	Num	Case=Nom|Number=Plur|NumType=Card	58	nummod	_	Translit=orni
 57	ბუნებითნი	ბუნებითი	ADJ	Adj	Case=Nom|Number=Plur	58	amod	_	Translit=bunebitʻni
 58	ნებანი	ნება	NOUN	Noun	Case=Nom|Number=Plur	80	obj	_	SpaceAfter=No|Translit=nebani
 59	,	,	PUNCT	F	PunctType=Comm	58	punct	_	Translit=,
-60	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	62	nsubj	_	Translit=ese
+60	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	61	nmod	_	Translit=ese
 61	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	63	nsubj	_	Translit=igi
 62	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	63	cop	_	Translit=ars
 63	ნებებანი	ნებებანი	NOUN	Noun	Case=Nom|Number=Plur	58	parataxis	_	Translit=nebebani
