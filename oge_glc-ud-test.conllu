@@ -4126,14 +4126,14 @@
 # sent_id = OGLC_00067
 # text = ხოლო უკუეთუ ვინმე პირველმოჴსენებულთა ამათ კანონთაგანისა რომლისამე დაჴსნად ანუ დარღუევად ჴელ-ყოს, დასჯისა თანამდებ იყოს განჩინებისაებრ მის კანონისა და განსაზღვრებისაებრ მისისა მიმთუალველ იქმნეს განპატიჟებისა და მის მერვე მიიღოს მან კურნებაჲ მისთჳს, რომელსა-იგი სცთების.
 # translit = xolo ukuetʻu vinme pirvelmox̣senebultʻa amatʻ kanontʻaganisa romlisame dax̣snad anu darġuevad x̣el-qos, dasjisa tʻanamdeb iqos gančʻinebisaebr mis kanonisa da gansazġvrebisaebr misisa mimtʻualvel ikʻmnes ganpatižebisa da mis merve miiġos man kurnebay mistʻws, romelsa-igi scʻtʻebis.
-1	ხოლო	ხოლო	CCONJ	Conj	_	9	cc	_	Translit=xolo
-2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	9	mark	_	Translit=ukuetʻu
+1	ხოლო	ხოლო	CCONJ	Conj	_	11	cc	_	Translit=xolo
+2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	11	mark	_	Translit=ukuetʻu
 3	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	9	nsubj	_	Translit=vinme
 4	პირველმოჴსენებულთა	პირველმოჴსენებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	11	iobj	_	Translit=pirvelmox̣senebultʻa
 5	ამათ	ესე	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	6	det	_	Translit=amatʻ
-6	კანონთაგანისა	კანონი	NOUN	Noun	Case=Gen|Number=Sing	7	nmod	_	Translit=kanontʻaganisa
+6	კანონთაგანისა	კანონი	NOUN	Noun	Case=Gen|Number=Sing	8	nmod	_	Translit=kanontʻaganisa
 7	რომლისამე	რომელი	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	8	det	_	Translit=romlisame
-8	დაჴსნად	დაჴსნად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	11	obl	_	Translit=dax̣snad
+8	დაჴსნად	დაჴსნად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	11	nmod	_	Translit=dax̣snad
 9	ანუ	ანუ	CCONJ	Conj	_	11	cc	_	Translit=anu
 10	დარღუევად	დარღუევად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	8	conj	_	Translit=darġuevad
 11-12	ჴელ-ყოს	_	_	_	_	_	_	_	SpaceAfter=No
@@ -4165,9 +4165,9 @@
 34-35	მისთჳს	_	_	_	_	_	_	_	SpaceAfter=No
 34	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	31	obl	_	Translit=mis
 35	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	34	case	_	Translit=tʻwis
-36	,	,	PUNCT	F	PunctType=Comm	31	punct	_	Translit=,
+36	,	,	PUNCT	F	PunctType=Comm	39	punct	_	Translit=,
 37-38	რომელსა-იგი	_	_	_	_	_	_	_	_
-37	რომელსა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	39	iobj	_	Translit=romelsa
+37	რომელსა	რომელი	PRON	Pron	Case=Dat|ExtPos=PRON|Number=Sing|PronType=Rel	39	iobj	_	Translit=romelsa
 38	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	37	fixed	_	Translit=igi
 39	სცთების	ცთება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	acl:relcl	_	SpaceAfter=No|Translit=scʻtʻebis
 40	.	.	PUNCT	F	PunctType=Peri	12	punct	_	Translit=.
@@ -4289,7 +4289,7 @@
 108	ვნებულად	ვნებულად	ADV	Adv	AdvType=Man	107	xcomp	_	SpaceAfter=No|Translit=vnebulad
 109	,	,	PUNCT	F	PunctType=Comm	107	punct	_	Translit=,
 110-111	რომლისათჳსცა	_	_	_	_	_	_	_	_
-110	რომლისა	რომელი	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	144	obl	_	Translit=romlisa
+110	რომლისა	რომელი	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	131	obl	_	Translit=romlisa
 111	თჳსცა	თჳს	ADP	Post	AdpType=Post|Case=Gen|PartType=Emp	110	case	_	tʻwscʻa
 112	მეორითა	მეორე	ADJ	Adj	Case=Ins|Number=Sing	114	amod	_	Translit=meoritʻa
 113	უკუე	უკუე	ADV	Adv	AdvType=Tim	114	advmod	_	Translit=ukue
@@ -4310,7 +4310,7 @@
 128	ექუს	ექუსი	NUM	Num	Case=Gen|NumType=Card	129	nummod	_	Translit=ekʻus
 129	ათას	ათასი	NUM	Num	Case=Gen|NumType=Card	130	nummod	_	Translit=atʻas
 130	ასოთხმეოცდაათცხრამეტთა	ასოთხმეოცდაათცხრამეტი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	127	nummod	_	Translit=asotʻxmeocʻdaatʻcʻxramettʻa
-131	დამონებულ	დამონებული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	138	xcomp	_	Translit=damonebul
+131	დამონებულ	დამონებული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	106	acl	_	Translit=damonebul
 132	არიან	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	131	cop	_	Translit=arian
 133	ცოდვისადა	ცოდვა	NOUN	Noun	Case=Dat|Number=Sing	131	obl	_	Translit=cʻodvisada
 134	არა	არა	PART	Part	PartType=Neg	135	advmod:neg	_	Translit=ara
