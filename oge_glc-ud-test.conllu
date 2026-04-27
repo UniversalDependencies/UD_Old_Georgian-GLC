@@ -3342,10 +3342,10 @@
 7	ღმერთშემოსილთა	ღმერთშემოსილი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	9	amod	_	Translit=ġmertʻšemosiltʻa
 8	მამათასა	მამა	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	4	nmod	_	SpaceAfter=No|Translit=mamatʻasa
 9	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
-10	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	19	nsubj	_	Translit=romelni
+10	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	22	nsubj	_	Translit=romelni
 11	სამეუფოსა	სამეუფოჲ	ADJ	Adj	Case=Dat|Number=Sing	14	amod	_	Translit=sameupʻosa
 12	ამას	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	13	nmod	_	Translit=amas
-13	ქალაქსა	ქალაქი	NOUN	Noun	Case=Dat|Number=Sing	19	obl	_	Translit=kʻalakʻsa
+13	ქალაქსა	ქალაქი	NOUN	Noun	Case=Dat|Number=Sing	22	nmod	_	Translit=kʻalakʻsa
 14	იუსტინიანეს	იუსტინიანე	PROPN	Noun	Case=Gen|Number=Sing	15	nmod	_	Translit=iustinianes
 15	ზე	ზე	ADP	Post	AdpType=Post|Case=Gen	17	case	_	Translit=ze
 16	კეთილად	კეთილად	ADV	Adv	AdvType=Man	17	advmod	_	Translit=ketʻilad
@@ -3366,8 +3366,8 @@
 31	ჩუენთა	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	30	nmod	_	Translit=čʻuentʻa
 32	ვასწავლობთ	სწავლა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	28	conj	_	SpaceAfter=No|Translit=vascavebtʻ
 33	,	,	PUNCT	F	PunctType=Comm	28	punct	_	Translit=,
-34	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	65	obl	_	Translit=romeltʻa
-35	თეოდორე	თეოდორე	PROPN	Noun	Case=Nom|Number=Sing	65	nsubj	_	Translit=tʻeodore
+34	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	93	obl	_	Translit=romeltʻa
+35	თეოდორე	თეოდორე	PROPN	Noun	Case=Nom|Number=Sing	93	nsubj	_	Translit=tʻeodore
 36	მომფსუეტელი	მომფსუეტელი	PROPN	Noun	Case=Nom|Number=Sing	35	flat	_	Translit=mompʻsueteli
 37	მოძღუარი	მოძღუარი	NOUN	Noun	Case=Nom|Number=Sing	35	appos	_	Translit=możġuari
 38	ნესტორისი	ნესტორი	PROPN	Noun	Case=Gen|Number=Sing	37	nmod	_	Translit=nestorisi
@@ -3419,7 +3419,7 @@
 83	კჳრილესთა	კჳრილე	PROPN	Noun	Case=Gen|Number=Plur	84	nmod	_	Translit=kwrilestʻa
 84	აღწერილნი	აღწერილი	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	85	amod	_	Translit=aġcerilni
 85	იგი	იგი	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	86	det	_	Translit=igi
-86	თავნი	თავი	NOUN	Noun	Case=Nom|Number=Plur	88	obj	_	Translit=tʻavni
+86	თავნი	თავი	NOUN	Noun	Case=Nom|Number=Plur	93	obj	_	Translit=tʻavni
 87	და	და	CCONJ	Conj	_	91	cc	_	Translit=da
 88	ივაჲსდად	ივაჲსდად	ADV	Adv	AdvType=Man	89	advmod	_	Translit=ivaysdad
 89	სახელდებული	სახელდებული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	91	amod	_	Translit=saxeldebuli
