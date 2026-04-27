@@ -3831,14 +3831,14 @@
 18	მიერნი	მიერ	ADP	Post	AdpType=Post|Case=Gen	19	amod	_	Translit=mierni
 19	განწესებანი	განწესება	NOUN	Noun	Case=Nom|Number=Plur	12	obj	_	SpaceAfter=No|Translit=gancesebani
 20	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
-21	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	22	obl	_	Translit=romeltʻa
-22	თანა	თანა	ADP	Post	AdpType=Post|Case=Gen	32	obl	_	Translit=tʻana
+21	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	37	obl	_	Translit=romeltʻa
+22	თანა	თანა	ADP	Post	AdpType=Post|Case=Gen	21	obl	_	Translit=tʻana
 23	ძუელ	ძუელ	ADV	Adv	AdvType=Tim	24	advmod	_	Translit=żuel
 24	სადმე	სადმე	ADV	Adv	AdvType=Loc	32	advmod	_	Translit=sadme
 25	სხუაჲ	სხუაჲ	ADJ	Adj	Case=Nom|Number=Plur	32	nsubj	_	Translit=sxuay
 26	მადიდებელთა	მადიდებელი	NOUN	Noun	Case=Gen|Number=Plur	27	nmod	_	Translit=madidebeltʻa
-27	მწვალებელთა	მწვალებელი	NOUN	Noun	Case=Gen|Number=Plur	28	obl	_	Translit=mcvalebeltʻa
-28	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	32	case	_	Translit=mier
+27	მწვალებელთა	მწვალებელი	NOUN	Noun	Case=Gen|Number=Plur	29	obl	_	Translit=mcvalebeltʻa
+28	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	27	case	_	Translit=mier
 29	განსარყუნელად	განსარყუნელად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	32	advcl	_	Translit=gansarqunelad
 30	ეკლესიისა	ეკლესია	NOUN	Noun	Case=Gen|Number=Sing	29	obj	_	Translit=eklesiisa
 31	მორყუნილნი	მორყუნილი	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	25	acl	_	Translit=morqunilni
@@ -3874,7 +3874,7 @@
 61	სიტყუამტყუვრისა	სიტყუამტყუვარი	NOUN	Noun	Case=Gen|Number=Sing	62	nmod	_	Translit=sitquamtquvrisa
 62	სიჩქურისანი	სიჩქური	NOUN	Noun	Case=Nom|Case[stack]=Gen|Number=Plur	58	xcomp	_	Translit=sičʻkʻurisani
 63	და	და	CCONJ	Conj	_	65	cc	_	Translit=da
-64	საკუთრისა	საკუთარი	ADJ	Adj	Case=Gen|Number=Sing	66	amod	_	Translit=sakutʻrisa
+64	საკუთრისა	საკუთარი	ADJ	Adj	Case=Gen|Number=Sing	68	amod	_	Translit=sakutʻrisa
 65	და	და	CCONJ	Conj	_	66	cc	_	Translit=da
 66	უცთომელისა	უცთომელი	ADJ	Adj	Case=Gen|Number=Sing	64	conj	_	Translit=ucʻtʻomelisa
 67	მოციქულთა	მოციქული	NOUN	Noun	Case=Gen|Number=Plur	68	nmod	_	Translit=mocʻikʻultʻa
