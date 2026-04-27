@@ -3789,7 +3789,7 @@
 30	და	და	CCONJ	Conj	_	31	cc	_	Translit=da
 31	ნეტართა	ნეტარი	ADJ	Adj	Case=Gen|Number=Plur	29	conj	_	Translit=netartʻa
 32	მამათა	მამა	NOUN	Noun	Case=Gen|Number=Plur	34	nmod	_	Translit=mamatʻa
-33	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	33	case	_	Translit=mier
+33	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	32	case	_	Translit=mier
 34	შეწყნარებულნი	შეწყნარებული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	46	amod	_	Translit=šecqnarebulni
 35	და	და	CCONJ	Conj	_	36	cc	_	Translit=da
 36	დამტკიცებულნი	დამტკიცებული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	34	conj	_	Translit=damtkicʻebulni
