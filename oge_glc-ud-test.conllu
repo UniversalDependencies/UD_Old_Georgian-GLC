@@ -4227,8 +4227,8 @@
 48	ღირსად	ღირსად	ADV	Adv	AdvType=Man	35	conj	_	Translit=ġirsad
 49	და	და	CCONJ	Conj	_	51	cc	_	Translit=da
 50	რაჲთა	რაჲთა	SCONJ	Conj	_	51	mark	_	Translit=raytʻa
-51	წმიდად	წმიდად	ADV	Adv	AdvType=Man	52	advmod	_	Translit=cmidad
-52	იყვნენ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	35	conj	_	Translit=iqvnen
+51	წმიდად	წმიდად	ADV	Adv	AdvType=Man	35	conj	_	Translit=cmidad
+52	იყვნენ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	51	cop	_	Translit=iqvnen
 53	უწესოთა	უწესო	ADJ	Adj	Case=Gen|Number=Plur	54	amod	_	Translit=ucesotʻa
 54	ქორწილთა	ქორწილი	NOUN	Noun	Case=Gen|Number=Plur	56	nmod	_	Translit=kʻorciltʻa
 55	ბილწისა	ბილწი	ADJ	Adj	Case=Gen|Number=Sing	56	amod	_	Translit=bilcisa
@@ -4247,8 +4247,8 @@
 66	დაცვულისა	დაცვული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Pass	67	amod	_	Translit=dacʻvulisa
 67	კრძალულებისა	კრძალულება	NOUN	Noun	Case=Gen|Number=Sing	68	nmod	_	Translit=krżalulebisa
 68	კანონნი	კანონი	NOUN	Noun	Case=Nom|Number=Plur	82	obj	_	SpaceAfter=No|Translit=kanonni
-69	,	,	PUNCT	F	PunctType=Comm	71	punct	_	Translit=,
-70	ხოლო	ხოლო	CCONJ	Conj	_	73	cc	_	Translit=xolo
+69	,	,	PUNCT	F	PunctType=Comm	70	punct	_	Translit=,
+70	ხოლო	ხოლო	CCONJ	Conj	_	82	cc	_	Translit=xolo
 71	ღმრთივ	ღმრთივ	ADV	Adv	AdvType=Man	72	advmod	_	Translit=ġmrtʻiv
 72	დაცვულისა	დაცვული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Pass	76	amod	_	Translit=dacʻvulisa
 73	და	და	CCONJ	Conj	_	74	cc	_	Translit=da
@@ -4261,7 +4261,7 @@
 80	სჯული	სჯული	NOUN	Noun	Case=Nom|Number=Sing	68	conj	_	Translit=sjuli
 81	ერთად	ერთად	ADV	Adv	AdvType=Man	82	advmod	_	Translit=ertʻad
 82	შევხზავენით	შევხზავენით	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin|Voice=Act	17	conj	_	Translit=ševxzavenitʻ
-83	ორნივე	ორი	NUM	Num	Case=Nom|Number=Plur|NumType=Card	82	obj	_	Translit=ornive
+83	ორნივე	ორი	NUM	Num	Case=Nom|Number=Plur|NumType=Card	68	appos	_	Translit=ornive
 84	მამობრივად	მამობრივად	ADV	Adv	AdvType=Man	82	advmod	_	Translit=mamobrivad
 85	ერთბამად	ერთბამად	ADV	Adv	AdvType=Man	84	conj	_	Translit=ertʻbamad
 86	და	და	CCONJ	Conj	_	87	cc	_	Translit=da
