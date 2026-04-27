@@ -4377,7 +4377,7 @@
 46	სახითა	სახე	NOUN	Noun	Case=Ins|Number=Sing	51	obl	_	Translit=saxitʻa
 47	ჭეშმარიტისა	ჭეშმარიტი	ADJ	Adj	Case=Gen|Number=Sing	48	amod	_	Translit=češmaritisa
 48	მოქცევისაჲთა	მოქცევა	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	46	nmod	_	Translit=mokʻcʻevisaytʻa
-49	ესწავოს	სწავლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[io]=Plur|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	advcl	_	Translit=escavos
+49	ესწავოს	სწავლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[io]=Plur|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	41	advcl	_	Translit=escavos
 50	მათ	იგი	PRON	Pron	Case=Dat|Number=Plur|PronType=Dem	49	iobj	_	Translit=matʻ
 51	სიწმიდე	სიწმიდე	NOUN	Noun	Case=Nom|Number=Sing	49	nsubj	_	SpaceAfter=No|Translit=sicmide
 52	.	.	PUNCT	F	PunctType=Peri	23	punct	_	Translit=.
