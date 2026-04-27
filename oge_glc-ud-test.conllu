@@ -3333,7 +3333,7 @@
 # sent_id = OGLC_00058
 # text = კუალადცა კეთილად მსახურთა ჴმათა ას სამეოცდახუთთა ღმერთშემოსილთა მამათასა, რომელნი სამეუფოსა ამას ქალაქსა იუსტინიანეს ზე კეთილად მსახურებით მოჴსენებულისა მეფისა ჩუენისა ერთად შემოკრბეს, ვითარცა სულისა მიერ აღმოთქუმულთა აღვიარებთ და მიმდგომთა ჩუენთა ვასწავებთ, რომელთა თეოდორე მომფსუეტელი მოძღუარი ნესტორისი და ორიგენი და დიდჳმოს და ევაგრე ელლენებრივთა ზღაპრობათა მწმასნელნი და ჴორცთა რათმე და სულთა ჩუენთა მიმოცვალებისა და შეცვალებისა წარმრეველნი და ოცნებათა მიერ და მესიზმრეობითთა და სიჩქურთა გონებისათა ცხორებად კუალად-ქცევისა მკუდართაჲსა ბოროტად მსახურებით მომპოვნებელნი და თეოდორიტის მიერ წინააღსადგომელად მართლისა სარწმუნოებისა და ათორმეტთა თავთა ნეტარისა კჳრილესთა აღწერილნი იგი თავნი და ივაჲსდად სახელდებული საკრებოჲ იგი ეპისტოლე შეაჩუენნეს და მოიძაგნეს.
 # translit = kualadcʻa ketʻilad msaxurtʻa x̣matʻa as sameocʻdaxutʻtʻa ġmertʻšemosiltʻa mamatʻasa, romelni sameupʻosa amas kʻalakʻsa iustinianes ze ketʻilad msaxurebitʻ mox̣senebulisa mepʻisa čʻuenisa ertʻad šemokrbes, vitʻarcʻa sulisa mier aġmotʻkʻumultʻa aġviarebtʻ da mimdgomtʻa čʻuentʻa vascavebtʻ, romeltʻa tʻeodore mompʻsueteli możġuari nestorisi da origeni da didwmos da evagre ellenebrivtʻa zġaprobatʻa mcmasnelni da x̣orcʻtʻa ratʻme da sultʻa čʻuentʻa mimocʻvalebisa da šecʻvalebisa carmrevelni da ocʻnebatʻa mier da mesizmreobitʻtʻa da sičʻkʻurtʻa gonebisatʻa cʻxorebad kualad-kʻcʻevisa mkudartʻaysa borotad msaxurebitʻ mompovnebelni da tʻeodoritis mier cinaaġsadgomelad martʻlisa sarcmunoebisa da atʻormettʻa tʻavtʻa netarisa kwrilestʻa aġcerilni igi tʻavni da ivaysdad saxeldebuli sakreboy igi epistole šeačʻuennes da moiżagnes.
-1	კუალადცა	კუალადცა	ADV	Adv	AdvType=Tim|PartType=Emp	24	advmod	_	Translit=kualadcʻa
+1	კუალადცა	კუალადცა	ADV	Adv	AdvType=Tim|PartType=Emp	27	advmod	_	Translit=kualadcʻa
 2	კეთილად	კეთილად	ADV	Adv	AdvType=Man	3	advmod	_	Translit=ketʻilad
 3	მსახურთა	მსახური	NOUN	Noun	Case=Gen|Number=Plur	4	nmod	_	Translit=msaxurtʻa
 4	ჴმათა	ჴმაჲ	NOUN	Noun	Case=Gen|Number=Plur	28	obj	_	Translit=x̣matʻa
@@ -3366,7 +3366,7 @@
 31	ჩუენთა	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	30	nmod	_	Translit=čʻuentʻa
 32	ვასწავებთ	სწავლა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	28	conj	_	SpaceAfter=No|Translit=vascavebtʻ
 33	,	,	PUNCT	F	PunctType=Comm	34	punct	_	Translit=,
-34	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	93	obj	_	Translit=romeltʻa
+34	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	93	iobj	_	Translit=romeltʻa
 35	თეოდორე	თეოდორე	PROPN	Noun	Case=Nom|Number=Sing	93	nsubj	_	Translit=tʻeodore
 36	მომფსუეტელი	მომფსუეტელი	PROPN	Noun	Case=Nom|Number=Sing	35	flat	_	Translit=mompʻsueteli
 37	მოძღუარი	მოძღუარი	NOUN	Noun	Case=Nom|Number=Sing	35	appos	_	Translit=możġuari
@@ -3378,7 +3378,7 @@
 43	და	და	CCONJ	Conj	_	44	cc	_	Translit=da
 44	ევაგრე	ევაგრე	PROPN	Noun	Case=Nom|Number=Sing	35	conj	_	Translit=evagre
 45	ელლენებრივთა	ელლენებრივი	ADJ	Adj	Case=Gen|Number=Plur	46	amod	_	Translit=ellenebrivtʻa
-46	ზღაპრობათა	ზღაპრობა	NOUN	Noun	Case=Gen|Number=Plur	47	obj	_	Translit=zġaprobatʻa
+46	ზღაპრობათა	ზღაპრობა	NOUN	Noun	Case=Gen|Number=Plur	47	nmod	_	Translit=zġaprobatʻa
 47	მწმასნელნი	მწმასნელი	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part	35	conj	_	Translit=mcmasnelni
 48	და	და	CCONJ	Conj	_	56	cc	_	Translit=da
 49	ჴორცთა	ჴორცი	NOUN	Noun	Case=Gen|Number=Plur	54	nmod	_	Translit=x̣orcʻtʻa
@@ -3422,8 +3422,8 @@
 86	თავნი	თავი	NOUN	Noun	Case=Nom|Number=Plur	93	obj	_	Translit=tʻavni
 87	და	და	CCONJ	Conj	_	91	cc	_	Translit=da
 88	ივაჲსდად	ივაჲსდად	ADV	Adv	AdvType=Man	89	advmod	_	Translit=ivaysdad
-89	სახელდებული	სახელდებული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	91	amod	_	Translit=saxeldebuli
-90	საკრებოჲ	საკრებოჲ	ADJ	Adj	Case=Nom|Number=Sing	91	amod	_	Translit=sakreboy
+89	სახელდებული	სახელდებული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	92	amod	_	Translit=saxeldebuli
+90	საკრებოჲ	საკრებოჲ	ADJ	Adj	Case=Nom|Number=Sing	92	amod	_	Translit=sakreboy
 91	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	92	det	_	Translit=igi
 92	ეპისტოლე	ეპისტოლე	NOUN	Noun	Case=Nom|Number=Sing	86	conj	_	Translit=epistole
 93	შეაჩუენნეს	შეჩუენება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	30	ccomp	_	Translit=šeačʻuennes
