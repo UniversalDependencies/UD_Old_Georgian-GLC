@@ -3511,8 +3511,8 @@
 71	ერთისა	ერთი	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	72	det	_	Translit=ertʻisa
 72	უფლისა	უფალი	NOUN	Noun	Case=Gen|Number=Sing	70	nmod	_	Translit=upʻlisa
 73	ჩუენისა	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	72	det	_	Translit=čʻuenisa
-74	იესუ	იესუ	PROPN	Noun	Case=Gen|Number=Sing	75	flat	_	Translit=iesu
-75	ქრისტეს	ქრისტე	PROPN	Noun	Case=Gen|Number=Sing	72	appos	_	Translit=kʻristes
+74	იესუ	იესუ	PROPN	Noun	Case=Gen|Number=Sing	72	appos	_	Translit=iesu
+75	ქრისტეს	ქრისტე	PROPN	Noun	Case=Gen|Number=Sing	74	flat	_	Translit=kʻristes
 76	ჭეშმარიტისა	ჭეშმარიტი	ADJ	Adj	Case=Gen|Number=Sing	77	amod	_	Translit=češmaritisa
 77	ღმრთისა	ღმერთი	NOUN	Noun	Case=Gen|Number=Sing	72	appos	_	Translit=ġmrtʻisa
 78	ჩუენისასა	ჩუენი	PRON	Pron	Case=Dat|Case[stack]=Gen|Number=Sing|Person=1|PronType=Prs	72	det	_	Translit=čʻuenisasa
