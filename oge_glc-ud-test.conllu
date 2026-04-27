@@ -3835,7 +3835,7 @@
 22	თანა	თანა	ADP	Post	AdpType=Post|Case=Gen	21	obl	_	Translit=tʻana
 23	ძუელ	ძუელ	ADV	Adv	AdvType=Tim	24	advmod	_	Translit=żuel
 24	სადმე	სადმე	ADV	Adv	AdvType=Loc	32	advmod	_	Translit=sadme
-25	სხუაჲ	სხუაჲ	ADJ	Adj	Case=Nom|Number=Plur	32	nsubj	_	Translit=sxuay
+25	სხუაჲ	სხუაჲ	ADJ	Adj	Case=Nom|Number=Plur	37	nsubj	_	Translit=sxuay
 26	მადიდებელთა	მადიდებელი	NOUN	Noun	Case=Gen|Number=Plur	27	nmod	_	Translit=madidebeltʻa
 27	მწვალებელთა	მწვალებელი	NOUN	Noun	Case=Gen|Number=Plur	29	obl	_	Translit=mcvalebeltʻa
 28	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	27	case	_	Translit=mier
