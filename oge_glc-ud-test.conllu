@@ -3187,8 +3187,8 @@
 41	,	,	PUNCT	F	PunctType=Comm	33	punct	_	Translit=,
 42	უხრწნელისა	უხრწნელი	ADJ	Adj	Case=Gen|Number=Sing	44	amod	_	Translit=uxrcnelisa
 43	მარადის	მარადის	ADV	Adv	AdvType=Tim	44	advmod	_	Translit=maradis
-44	ქალწულისა	ქალწული	NOUN	Noun	Case=Gen|Number=Sing	47	nmod	_	Translit=kʻalculisa
-45	საკუთრად	საკუთრად	ADV	Adv	AdvType=Man	47	advmod	_	Translit=sakutʻrad
+44	ქალწულისა	ქალწული	NOUN	Noun	Case=Gen|Number=Sing	48	nmod	_	Translit=kʻalculisa
+45	საკუთრად	საკუთრად	ADV	Adv	AdvType=Man	49	advmod	_	Translit=sakutʻrad
 46	და	და	CCONJ	Conj	_	47	cc	_	Translit=da
 47	ჭეშმარიტად	ჭეშმარიტად	ADV	Adv	AdvType=Man	45	conj	_	Translit=češmaritad
 48	ღმრთისმშობელად	ღმრთისმშობელი	NOUN	Noun	Case=Ess|Number=Sing	49	xcomp	_	Translit=ġmrtʻismšobelad
