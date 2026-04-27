@@ -3052,19 +3052,19 @@
 # text = ეგრეთვე დიდისა თევდოსის ზე მეფისა ჩუენისა სამეუფოსა ამას შინა ქალაქსა შეკრებულთა ასერგასისთა წმიდათა მამათა ქადაგებულსა სარწმუნოებასა დავამტკიცებთ შემწყნარებელნი ღმრთისმეტყუელთა ჴმათა მათთანი აღსაარებისათჳს სულისა წმიდისა, რომელთა-იგი ბილწი მაკედონიოს უპირატესთა მისთა მტერთა თანა ჭეშმარიტებისათა განკუეთნეს, ვითარცა თავჴედობით მონებად შთამომყვანებელი მეუფებისაჲ და განწვალებასა განუწვალებელისა ერთობისასა ავაზაკებრ შემომღებელი, რაჲთა არა უსრულ იყოს საიდუმლოჲ სასოებისა ჩუენისაჲ ამას უკუე საძაგელსა წინააღმდგომსა თანა ჭეშმარიტებისასა.
 # translit = egretʻve didisa tʻevdosis ze mepʻisa čʻuenisa sameupʻosa amas šina kʻalakʻsa šekrebultʻa asergasistʻa cmidatʻa mamatʻa kʻadagebulsa sarcmunoebasa davamtkicʻebtʻ šemcqnarebelni ġmrtʻismetqueltʻa x̣matʻa matʻtʻani aġsaarebisatʻws sulisa cmidisa, romeltʻa-igi bilci makedonios upiratestʻa mistʻa mtertʻa tʻana češmaritebisatʻa gankuetʻnes, vitʻarcʻa tʻavx̣edobitʻ monebad štʻamomqvanebeli meupʻebisay da gancvalebasa ganucvalebelisa ertʻobisasa avazakebr šemomġebeli, raytʻa ara usrul iqos saidumloy sasoebisa čʻuenisay amas ukue sażagelsa cinaaġmdgomsa tʻana češmaritebisasa.
 1	ეგრეთვე	ეგრეთვე	ADV	Adv	AdvType=Man	16	advmod	_	Translit=egretʻve
-2	დიდისა	დიდი	ADJ	Adj	Case=Gen|Number=Sing	4	amod	_	Translit=didisa
-3	თევდოსის	თევდოსი	PROPN	Noun	Case=Gen|Number=Sing	4	nmod	_	Translit=tʻevdosis
+2	დიდისა	დიდი	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=didisa
+3	თევდოსის	თევდოსი	PROPN	Noun	Case=Gen|Number=Sing	5	nmod	_	Translit=tʻevdosis
 4	ზე	ზე	ADP	Post	AdpType=Post|Case=Gen	5	case	_	Translit=ze
-5	მეფისა	მეფე	NOUN	Noun	Case=Gen|Number=Sing	16	obl	_	Translit=mepʻisa
+5	მეფისა	მეფე	NOUN	Noun	Case=Gen|Number=Sing	16	nmod	_	Translit=mepʻisa
 6	ჩუენისა	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	nmod	_	Translit=čʻuenisa
 7	სამეუფოსა	სამეუფოჲ	ADJ	Adj	Case=Dat|Number=Sing	10	amod	_	Translit=sameupʻosa
 8	ამას	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	9	nmod	_	Translit=amas
 9	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	10	case	_	Translit=šina
-10	ქალაქსა	ქალაქი	NOUN	Noun	Case=Dat|Number=Sing	16	obl	_	Translit=kʻalakʻsa
+10	ქალაქსა	ქალაქი	NOUN	Noun	Case=Dat|Number=Sing	16	nmod	_	Translit=kʻalakʻsa
 11	შეკრებულთა	შეკრებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	14	amod	_	Translit=šekrebultʻa
 12	ასერგასისთა	ასერგასი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	14	nummod	_	Translit=asergasistʻa
 13	წმიდათა	წმიდაჲ	ADJ	Adj	Case=Gen|Number=Plur	14	amod	_	Translit=cmidatʻa
-14	მამათა	მამა	NOUN	Noun	Case=Gen|Number=Plur	15	obl	_	Translit=mamatʻa
+14	მამათა	მამა	NOUN	Noun	Case=Gen|Number=Plur	15	nmod	_	Translit=mamatʻa
 15	ქადაგებულსა	ქადაგებული	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Part|Voice=Pass	16	amod	_	Translit=kʻadagebulsa
 16	სარწმუნოებასა	სარწმუნოება	NOUN	Noun	Case=Dat|Number=Sing	17	obj	_	Translit=sarcmunoebasa
 17	დავამტკიცებთ	დამტკიცება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=davamtkicʻebtʻ
