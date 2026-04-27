@@ -3884,11 +3884,11 @@
 # translit = davhbečdavtʻ ukue sxuatʻacʻa qoveltʻa samġdelotʻa kanontʻa, cmidatʻa da netartʻa mamatʻa čʻuentʻa mier dasxmultʻa, vitqwtʻ ukue nikeas šekrebultʻa samas atʻrvamettʻa cmidatʻa mamatʻa mier da ankwrias da neokesarias; mermecʻa da ġangras da matʻ tʻana antiokʻias asuretʻisasa, aramed da laodikiascʻa pʻrigwisasa, mermecʻa as ergasistʻa ġmrtʻiv dacʻvulsa amas da sameupʻosa kʻalakʻsa šina šekrebultʻa mamatʻa mier da dedakʻalakʻsa šina epʻeseltʻasa pirvelad šemokrebultʻa orastʻa da kualad xalkidons ekʻusas ocʻdaatʻtʻa cmidatʻa da netartʻa mamatʻa mier, egretʻve da sardikiascʻa da matʻ tʻana kartʻagens, romeltʻa tʻana dartʻul arian kualad ġmrtʻiv dacʻvulsa amas da sameupʻosa kʻalakʻsa šina šekrebultʻa mamatʻani nektaris ze, romeli iqo saqdrismpqrobeli sameupʻoysa amis kʻalakʻisay, da tʻeopʻile alekʻsandrieltʻa mtʻavarepiskoposisa, aramed dionwsisnicʻa, romeli iqo mtʻavarepiskoposi didisa kʻalakʻisa alekʻsadrieltʻaysay da mocame, grigoli episkoposisa neokesarielisa da sakwrveltʻmokʻmedisani, atʻanasi mtʻavarepiskoposisa alekʻsandrielisani, basili mtʻavarepiskoposisa kesaria kappadukielisani, grigoli episkoposisa noselisani, grigoli ġmrtʻismetquelisani, ampʻilokʻe ikonielisani, timotʻe mtʻavarepiskoposisa alekʻsandrielisani, pirvelmox̣senebulisa tʻeopʻile alekʻsandrielisani, kwrile mtʻavarepiskoposisa misve alekʻsandrieltʻa didisa kʻalakʻisani da genadi mamatʻmtʻavrisa ġmrtʻiv dacʻvulisa amis sameupʻoysa kʻalakʻisani, mermecʻa kwpriane mtʻavarepiskoposisa apʻrikeltʻa sopʻlisa da mocamisa da mistʻanaysa krebisa mier dasxmulni kanonni, romeltʻa gancesebay mxolod mis samtʻavroysa adgiltʻa šina oden čʻueulebad damtkicʻebul ars.
 1	დავჰბეჭდავთ	დავჰბეჭდავთ	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin	0	root	_	Translit=davhbečdavtʻ
 2	უკუე	უკუე	ADV	Adv	AdvType=Tim	1	advmod	_	Translit=ukue
-3	სხუათაცა	სხუა	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind|PartType=Emp	5	det	_	Translit=sxuatʻacʻa
+3	სხუათაცა	სხუა	PRON	Pron	Case=Gen|Number=Plur|PartType=Emp|PronType=Ind	5	det	_	Translit=sxuatʻacʻa
 4	ყოველთა	ყოველი	PRON	Pron	Case=Gen|Number=Plur|PronType=Tot	5	det	_	Translit=qoveltʻa
 5	სამღდელოთა	სამღდელო	NOUN	Noun	Case=Gen|Number=Plur	6	nmod	_	Translit=samġdelotʻa
 6	კანონთა	კანონი	NOUN	Noun	Case=Dat|Number=Plur	1	obj	_	SpaceAfter=No|Translit=kanontʻa
-7	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
+7	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
 8	წმიდათა	წმიდაჲ	ADJ	Adj	Case=Gen|Number=Plur	11	amod	_	Translit=cmidatʻa
 9	და	და	CCONJ	Conj	_	10	cc	_	Translit=da
 10	ნეტართა	ნეტარი	ADJ	Adj	Case=Gen|Number=Plur	8	conj	_	Translit=netartʻa
@@ -3910,7 +3910,7 @@
 26	ანკჳრიას	ანკჳრია	PROPN	Noun	Case=Dat|Number=Sing	23	conj	_	Translit=ankwrias
 27	და	და	CCONJ	Conj	_	28	cc	_	Translit=da
 28	ნეოკესარიას	ნეოკესარია	PROPN	Noun	Case=Dat|Number=Sing	23	conj	_	SpaceAfter=No|Translit=neokesarias
-29	;	;	PUNCT	F	PunctType=Semi	1	punct	_	Translit=;
+29	;	;	PUNCT	F	PunctType=Semi	30	punct	_	Translit=;
 30	მერმეცა	მერმე	ADV	Adv	AdvType=Tim|PartType=Emp	16	conj	_	Translit=mermecʻa
 31	და	და	CCONJ	Conj	_	32	cc	_	Translit=da
 32	ღანგრას	ღანგრა	PROPN	Noun	Case=Dat|Number=Sing	30	conj	_	Translit=ġangras
@@ -3919,7 +3919,7 @@
 35	თანა	თანა	ADP	Post	AdpType=Post|Case=Dat	32	conj	_	Translit=tʻana
 36	ანტიოქიას	ანტიოქია	PROPN	Noun	Case=Dat|Number=Sing	32	conj	_	Translit=antiokʻias
 37	ასურეთისასა	ასურეთი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	36	nmod	_	SpaceAfter=No|Translit=asuretʻisasa
-38	,	,	PUNCT	F	PunctType=Comm	30	punct	_	Translit=,
+38	,	,	PUNCT	F	PunctType=Comm	41	punct	_	Translit=,
 39	არამედ	არამედ	CCONJ	Conj	_	41	cc	_	Translit=aramed
 40	და	და	CCONJ	Conj	_	41	cc	_	Translit=da
 41	ლაოდიკიასცა	ლაოდიკია	NOUN	Noun	Case=Dat|Number=Sing|PartType=Emp	32	conj	_	Translit=laodikiascʻa
@@ -3927,7 +3927,7 @@
 43	,	,	PUNCT	F	PunctType=Comm	30	punct	_	Translit=,
 44	მერმეცა	მერმე	ADV	Adv	AdvType=Tim|PartType=Emp	16	conj	_	Translit=mermecʻa
 45	ას	ასი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	46	nummod	_	Translit=as
-46	ერგასისთა	ერგასი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	49	nummod	_	Translit=ergasistʻa
+46	ერგასისთა	ერგასი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	48	nummod	_	Translit=ergasistʻa
 47	ღმრთივ	ღმრთივ	ADV	Adv	AdvType=Man	48	advmod	_	Translit=ġmrtʻiv
 48	დაცვულსა	დაცვული	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Part|Voice=Pass	54	obl	_	Translit=dacʻvulsa
 49	ამას	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	48	det	_	Translit=amas
@@ -3943,13 +3943,13 @@
 59	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	58	case	_	Translit=šina
 60	ეფესელთასა	ეფესელი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	58	nmod	_	Translit=epʻeseltʻasa
 61	პირველად	პირველად	ADV	Adv	AdvType=Tim	62	advmod	_	Translit=pirvelad
-62	შემოკრებულთა	შემოკრებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	64	amod	_	Translit=šemokrebultʻa
-63	ორასთა	ორასი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	64	nummod	_	Translit=orastʻa
-64	და	და	CCONJ	Conj	_	66	cc	_	Translit=da
+62	შემოკრებულთა	შემოკრებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	72	amod	_	Translit=šemokrebultʻa
+63	ორასთა	ორასი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	72	nummod	_	Translit=orastʻa
+64	და	და	CCONJ	Conj	_	68	cc	_	Translit=da
 65	კუალად	კუალად	ADV	Adv	AdvType=Tim	66	advmod	_	Translit=kualad
 66	ხალკიდონს	ხალკიდონი	PROPN	Noun	Case=Dat|Number=Sing	58	conj	_	Translit=xalkidons
 67	ექუსას	ექუსასი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	68	nummod	_	Translit=ekʻusas
-68	ოცდაათთა	ოცდაათი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	72	nummod	_	Translit=ocʻdaatʻtʻa
+68	ოცდაათთა	ოცდაათი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	63	conj	_	Translit=ocʻdaatʻtʻa
 69	წმიდათა	წმიდაჲ	ADJ	Adj	Case=Gen|Number=Plur	72	amod	_	Translit=cmidatʻa
 70	და	და	CCONJ	Conj	_	71	cc	_	Translit=da
 71	ნეტართა	ნეტარი	ADJ	Adj	Case=Gen|Number=Plur	69	conj	_	Translit=netartʻa
