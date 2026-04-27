@@ -4279,7 +4279,7 @@
 98	და	და	CCONJ	Conj	_	100	cc	_	Translit=da
 99	უფროჲსღა	უფროჲ	ADJ	Adj	Case=Gen|PartType=Emp	101	amod	_	Translit=upʻroysġa
 100	რამეთუ	რამეთუ	SCONJ	Conj	_	112	mark	_	Translit=rametʻu
-101	უმეცრებისამიერითა	უმეცრებისამიერითა	NOUN	Noun	Case=Ins|Number=Sing	102	obl	_	Translit=umecʻrebisamieritʻa
+101	უმეცრებისამიერითა	უმეცრებისამიერითა	NOUN	Noun	Case=Ins|Number=Sing	102	nmod	_	Translit=umecʻrebisamieritʻa
 102	დაცემითა	დაცემა	NOUN	Noun	Case=Ins|Number=Sing	112	obl	_	Translit=dacʻemitʻa
 103	არა	არა	PART	Part	PartType=Neg	104	advmod:neg	_	Translit=ara
 104	მცირედთა	მცირე	ADJ	Adj	Case=Gen|Number=Plur	105	amod	_	Translit=mcʻiredtʻa
@@ -4316,7 +4316,7 @@
 134	არა	არა	PART	Part	PartType=Neg	135	advmod:neg	_	Translit=ara
 135	ჰნებავს	ნება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	131	conj	_	Translit=hnebavs
 136-137	მისგან	_	_	_	_	_	_	_	_
-136	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	138	obl	_	Translit=mis
+136	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	138	nmod	_	Translit=mis
 137	გან	გან	ADP	Post	AdpType=Post|Case=Ins	136	case	_	Translit=gan
 138	განფრთხობაჲ	განფრთხობა	NOUN	Noun	Case=Nom|Number=Sing	135	nsubj	_	SpaceAfter=No|Translit=ganpʻrtʻxobay
 139	,	,	PUNCT	F	PunctType=Comm	142	punct	_	Translit=,
