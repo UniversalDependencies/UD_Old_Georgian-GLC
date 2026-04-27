@@ -4336,7 +4336,7 @@
 6	ვნებითა	ვნება	NOUN	Noun	Case=Ins|Number=Sing	8	obl	_	Translit=vnebitʻa
 7	ვიდრემე	ვიდრემე	ADV	Adv	AdvType=Tim	8	advmod	_	Translit=vidreme
 8	დაცემულთა	დაცემული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	49	obl	_	SpaceAfter=No|Translit=dacʻemultʻa
-9	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
+9	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 10	არამედ	არამედ	CCONJ	Conj	_	49	cc	_	Translit=aramed
 11	უწინარეს	უწინარეს	ADV	Adv	AdvType=Tim	12	advmod	_	Translit=ucinares
 12	უწყებისა	უწყება	NOUN	Noun	Case=Gen|Number=Sing	15	obl	_	Translit=ucqebisa
@@ -4361,7 +4361,7 @@
 30	და	და	CCONJ	Conj	_	31	cc	_	Translit=da
 31	მორყუნილისა	მორყუნილი	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Pass	28	conj	_	Translit=morqunilisa
 32	შეყოფისათა	შეყოფა	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	27	obj	_	SpaceAfter=No|Translit=šeqopʻisatʻa
-33	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
+33	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
 34	გინათუ	გინათუ	SCONJ	Conj	_	41	mark	_	Translit=ginatʻu
 35	მეორედ	მეორედ	ADV	Adv	AdvType=Tim	36	advmod	_	Translit=meored
 36	ქორწინებულთა	ქორწინებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	41	obl	_	Translit=kʻorcinebultʻa
@@ -4371,7 +4371,7 @@
 40	სიკუდილითა	სიკუდილი	NOUN	Noun	Case=Ins|Number=Sing	41	obl	_	Translit=sikudilitʻa
 41	დასჯილ	დასჯილი	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	Translit=dasjil
 42	იყვნენ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	41	cop	_	SpaceAfter=No|Translit=iqvnen
-43	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
+43	,	,	PUNCT	F	PunctType=Comm	42	punct	_	Translit=,
 44	გინათუ	გინათუ	SCONJ	Conj	_	51	mark	_	Translit=ginatʻu
 45	თჳთ	თჳთ	PART	Part	PartType=Emp	46	advmod:emph	_	Translit=tʻwtʻ
 46	სახითა	სახე	NOUN	Noun	Case=Ins|Number=Sing	51	obl	_	Translit=saxitʻa
