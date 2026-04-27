@@ -4336,7 +4336,7 @@
 6	ვნებითა	ვნება	NOUN	Noun	Case=Ins|Number=Sing	8	obl	_	Translit=vnebitʻa
 7	ვიდრემე	ვიდრემე	ADV	Adv	AdvType=Tim	8	advmod	_	Translit=vidreme
 8	დაცემულთა	დაცემული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	49	obl	_	SpaceAfter=No|Translit=dacʻemultʻa
-9	,	,	PUNCT	F	PunctType=Comm	49	punct	_	Translit=,
+9	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
 10	არამედ	არამედ	CCONJ	Conj	_	49	cc	_	Translit=aramed
 11	უწინარეს	უწინარეს	ADV	Adv	AdvType=Tim	12	advmod	_	Translit=ucinares
 12	უწყებისა	უწყება	NOUN	Noun	Case=Gen|Number=Sing	15	obl	_	Translit=ucqebisa
@@ -4369,15 +4369,15 @@
 38	ცოლნი	ცოლი	NOUN	Noun	Case=Nom|Number=Plur	41	nsubj	_	Translit=cʻolni
 39	ეგერა	ეგერა	ADV	Adv	AdvType=Loc	41	advmod	_	Translit=egera
 40	სიკუდილითა	სიკუდილი	NOUN	Noun	Case=Ins|Number=Sing	41	obl	_	Translit=sikudilitʻa
-41	დასჯილ	დასჯილი	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	23	advcl	_	Translit=dasjil
-42	იყვნენ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	41	aux	_	SpaceAfter=No|Translit=iqvnen
+41	დასჯილ	დასჯილი	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	Translit=dasjil
+42	იყვნენ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	41	cop	_	SpaceAfter=No|Translit=iqvnen
 43	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
 44	გინათუ	გინათუ	SCONJ	Conj	_	51	mark	_	Translit=ginatʻu
 45	თჳთ	თჳთ	PART	Part	PartType=Emp	46	advmod:emph	_	Translit=tʻwtʻ
 46	სახითა	სახე	NOUN	Noun	Case=Ins|Number=Sing	51	obl	_	Translit=saxitʻa
 47	ჭეშმარიტისა	ჭეშმარიტი	ADJ	Adj	Case=Gen|Number=Sing	48	amod	_	Translit=češmaritisa
 48	მოქცევისაჲთა	მოქცევა	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	46	nmod	_	Translit=mokʻcʻevisaytʻa
-49	ესწავოს	სწავლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[io]=Plur|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=escavos
+49	ესწავოს	სწავლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[io]=Plur|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	advcl	_	Translit=escavos
 50	მათ	იგი	PRON	Pron	Case=Dat|Number=Plur|PronType=Dem	49	iobj	_	Translit=matʻ
 51	სიწმიდე	სიწმიდე	NOUN	Noun	Case=Nom|Number=Sing	49	nsubj	_	SpaceAfter=No|Translit=sicmide
 52	.	.	PUNCT	F	PunctType=Peri	23	punct	_	Translit=.
