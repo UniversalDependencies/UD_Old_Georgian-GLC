@@ -3996,7 +3996,7 @@
 112	არამედ	არამედ	CCONJ	Conj	_	113	cc	_	Translit=aramed
 113	დიონჳსისნიცა	დიონჳსისი	PROPN	Noun	Case=Nom|Number=Sing|PartType=Emp	96	conj	_	SpaceAfter=No|Translit=dionwsisnicʻa
 114	,	,	PUNCT	F	PunctType=Comm	113	punct	_	Translit=,
-115	რომელი	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	116	nsubj	_	Translit=romeli
+115	რომელი	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	117	nsubj	_	Translit=romeli
 116	იყო	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	117	cop	_	Translit=iqo
 117	მთავარეპისკოპოსი	მთავარეპისკოპოსი	NOUN	Noun	Case=Nom|Number=Sing	113	acl:relcl	_	Translit=mtʻavarepiskoposi
 118	დიდისა	დიდი	ADJ	Adj	Case=Gen|Number=Sing	119	amod	_	Translit=didisa
