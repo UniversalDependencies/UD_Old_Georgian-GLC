@@ -3258,10 +3258,10 @@
 25	ბუნებათა	ბუნება	NOUN	Noun	Case=Gen|Number=Plur	27	obl	_	Translit=bunebatʻa
 26	გან	გან	ADP	Post	AdpType=Post|Case=Ins	25	case	_	Translit=gan
 27	შემოკრებული	შემოკრებული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	21	acl	_	Translit=šemokrebuli
-28	და	და	CCONJ	Conj	_	32	cc	_	Translit=da
-29	მათვე	იგი	PRON	Pron	Case=Dat|Number=Plur|PronType=Dem|PartType=Emp	32	nmod	_	Translit=matʻve
+28	და	და	CCONJ	Conj	_	33	cc	_	Translit=da
+29	მათვე	იგი	PRON	Pron	Case=Dat|Number=Plur|PronType=Dem|PartType=Emp	33	nmod	_	Translit=matʻve
 30	ორთა	ორი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	31	nummod	_	Translit=ortʻa
-31	ბუნებათა	ბუნება	NOUN	Noun	Case=Gen|Number=Plur	32	nmod	_	Translit=bunebatʻa
+31	ბუნებათა	ბუნება	NOUN	Noun	Case=Gen|Number=Plur	33	nmod	_	Translit=bunebatʻa
 32	შინა	შინა	ADP	Post	AdpType=Post|Case=Gen	31	case	_	Translit=šina
 33	დიდებული	დიდებული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	27	conj	_	Translit=didebuli
 34	ჴმამაღლად	ჴმამაღლად	ADV	Adv	AdvType=Man	35	advmod	_	Translit=x̣mamaġlad
