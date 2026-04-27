@@ -4128,7 +4128,7 @@
 # translit = xolo ukuetʻu vinme pirvelmox̣senebultʻa amatʻ kanontʻaganisa romlisame dax̣snad anu darġuevad x̣el-qos, dasjisa tʻanamdeb iqos gančʻinebisaebr mis kanonisa da gansazġvrebisaebr misisa mimtʻualvel ikʻmnes ganpatižebisa da mis merve miiġos man kurnebay mistʻws, romelsa-igi scʻtʻebis.
 1	ხოლო	ხოლო	CCONJ	Conj	_	11	cc	_	Translit=xolo
 2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	11	mark	_	Translit=ukuetʻu
-3	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	9	nsubj	_	Translit=vinme
+3	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	11	nsubj	_	Translit=vinme
 4	პირველმოჴსენებულთა	პირველმოჴსენებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	11	iobj	_	Translit=pirvelmox̣senebultʻa
 5	ამათ	ესე	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	6	det	_	Translit=amatʻ
 6	კანონთაგანისა	კანონი	NOUN	Noun	Case=Gen|Number=Sing	8	nmod	_	Translit=kanontʻaganisa
@@ -4294,7 +4294,7 @@
 112	მეორითა	მეორე	ADJ	Adj	Case=Ins|Number=Sing	114	amod	_	Translit=meoritʻa
 113	უკუე	უკუე	ADV	Adv	AdvType=Tim	114	advmod	_	Translit=ukue
 114	ქორწინებითა	ქორწინება	NOUN	Noun	Case=Ins|Number=Sing	115	obl	_	Translit=kʻorcinebitʻa
-115	განცდილთა	განცდილი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	144	obl	_	Translit=gancʻdiltʻa
+115	განცდილთა	განცდილი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	142	obl	_	Translit=gancʻdiltʻa
 116	და	და	CCONJ	Conj	_	117	cc	_	Translit=da
 117	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	138	nsubj	_	Translit=romelni
 118	ვიდრე	ვიდრე	ADP	Post	AdpType=Post|Case=Gen	119	case	_	Translit=vidre
@@ -4319,9 +4319,9 @@
 136	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	138	obl	_	Translit=mis
 137	გან	გან	ADP	Post	AdpType=Post|Case=Ins	136	case	_	Translit=gan
 138	განფრთხობაჲ	განფრთხობა	NOUN	Noun	Case=Nom|Number=Sing	135	nsubj	_	SpaceAfter=No|Translit=ganpʻrtʻxobay
-139	,	,	PUNCT	F	PunctType=Comm	144	punct	_	Translit=,
+139	,	,	PUNCT	F	PunctType=Comm	142	punct	_	Translit=,
 140	კანონებრივი	კანონებრივი	ADJ	Adj	Case=Nom|Number=Sing	141	amod	_	Translit=kanonebrivi
-141	განკუეთაჲ	განკუეთაჲ	NOUN	Noun	Case=Nom|Number=Sing	144	nsubj	_	Translit=gankuetʻay
+141	განკუეთაჲ	განკუეთაჲ	NOUN	Noun	Case=Nom|Number=Sing	142	nsubj	_	Translit=gankuetʻay
 142	დაესაჯენ	დაესაჯენ	VERB	Verb	Aspect=Perf|Mood=Imp|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	107	conj	_	SpaceAfter=No|Translit=daesajen
 143	.	.	PUNCT	F	PunctType=Peri	17	punct	_	Translit=.
 
