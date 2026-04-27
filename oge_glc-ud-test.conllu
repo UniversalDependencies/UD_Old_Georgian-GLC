@@ -2908,7 +2908,7 @@
 36	წარმატებისა	წარმატება	NOUN	Noun	Case=Gen|Number=Sing	34	conj	_	Translit=carmatebisa
 37	მოსწრაფენი	მოსწრაფე	ADJ	Adj	Case=Nom|Number=Plur	15	advcl	_	Translit=moscrapʻeni
 38	ვიდრე	ვიდრე	ADP	Post	AdpType=Post|Case=Gen	44	obl	_	Translit=vidre
-39	ნაძუთა	ნაძუ	NOUN	Noun	Case=Gen|Number=Plur	40	nmod	_	Translit=nażutʻa
+39	ნაძუთა	ნაძუ	NOUN	Noun	Case=Gen|Number=Plur	44	nmod	_	Translit=nażutʻa
 40	ლიბანისათა	ლიბანისა	ADJ	Adj	Case=Gen|Number=Plur	39	amod	_	Translit=libanisatʻa
 41	ზეშთა	ზეშთა	ADV	Adv	AdvType=Loc	44	advmod	_	Translit=zeštʻa
 42-43	აღმატებადმდე	_	_	_	_	_	_	_	_
