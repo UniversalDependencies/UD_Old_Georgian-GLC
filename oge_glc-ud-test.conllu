@@ -4328,21 +4328,21 @@
 # sent_id = OGLC_00069
 # text = ხოლო ესევითარითა ამით მეორისა ქორწინებისა ვნებითა ვიდრემე დაცემულთა, არამედ უწინარეს უწყებისა ჩუენისა უმჯობესისა შემეცნებულთა და თავისა თჳსისაგან მომკუეთელთა და განმგდებელთა მის ბოროტისათა და შორად წარმდევნელთა უცხოჲსა მის და მორყუნილისა შეყოფისათა, გინათუ მეორედ ქორწინებულთა მათ ცოლნი ეგერა სიკუდილითა დასჯილ იყვნენ, გინათუ თჳთ სახითა ჭეშმარიტისა მოქცევისაჲთა ესწავოს მათ სიწმიდე.
 # translit = xolo esevitʻaritʻa amitʻ meorisa kʻorcinebisa vnebitʻa vidreme dacʻemultʻa, aramed ucinares ucqebisa čʻuenisa umjobesisa šemecʻnebultʻa da tʻavisa tʻwsisagan momkuetʻeltʻa da ganmgdebeltʻa mis borotisatʻa da šorad carmdevneltʻa ucʻxoysa mis da morqunilisa šeqopʻisatʻa, ginatʻu meored kʻorcinebultʻa matʻ cʻolni egera sikudilitʻa dasjil iqvnen, ginatʻu tʻwtʻ saxitʻa češmaritisa mokʻcʻevisaytʻa escavos matʻ sicmide.
-1	ხოლო	ხოლო	CCONJ	Conj	_	23	cc	_	Translit=xolo
+1	ხოლო	ხოლო	CCONJ	Conj	_	49	cc	_	Translit=xolo
 2	ესევითარითა	ესევითარი	ADJ	Adj	Case=Ins|Number=Sing	6	amod	_	Translit=esevitʻaritʻa
 3	ამით	ესე	PRON	Pron	Case=Ins|Number=Sing|PronType=Dem	2	det	_	Translit=amitʻ
 4	მეორისა	მეორე	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=meorisa
 5	ქორწინებისა	ქორწინება	NOUN	Noun	Case=Gen|Number=Sing	6	nmod	_	Translit=kʻorcinebisa
 6	ვნებითა	ვნება	NOUN	Noun	Case=Ins|Number=Sing	8	obl	_	Translit=vnebitʻa
 7	ვიდრემე	ვიდრემე	ADV	Adv	AdvType=Tim	8	advmod	_	Translit=vidreme
-8	დაცემულთა	დაცემული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	23	obl	_	SpaceAfter=No|Translit=dacʻemultʻa
-9	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
-10	არამედ	არამედ	CCONJ	Conj	_	23	cc	_	Translit=aramed
+8	დაცემულთა	დაცემული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	49	obl	_	SpaceAfter=No|Translit=dacʻemultʻa
+9	,	,	PUNCT	F	PunctType=Comm	49	punct	_	Translit=,
+10	არამედ	არამედ	CCONJ	Conj	_	49	cc	_	Translit=aramed
 11	უწინარეს	უწინარეს	ADV	Adv	AdvType=Tim	12	advmod	_	Translit=ucinares
 12	უწყებისა	უწყება	NOUN	Noun	Case=Gen|Number=Sing	15	obl	_	Translit=ucqebisa
 13	ჩუენისა	ჩუენი	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	12	det	_	Translit=čʻuenisa
 14	უმჯობესისა	უმჯობესი	ADJ	Adj	Case=Gen|Number=Sing	15	amod	_	Translit=umjobesisa
-15	შემეცნებულთა	შემეცნებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	23	obl	_	Translit=šemecʻnebultʻa
+15	შემეცნებულთა	შემეცნებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	8	conj	_	Translit=šemecʻnebultʻa
 16	და	და	CCONJ	Conj	_	19	cc	_	Translit=da
 17	თავისა	თავი	NOUN	Noun	Case=Gen|Number=Sing	19	obl	_	Translit=tʻavisa
 18-19	თჳსისაგან	_	_	_	_	_	_	_	_
@@ -4377,7 +4377,7 @@
 46	სახითა	სახე	NOUN	Noun	Case=Ins|Number=Sing	51	obl	_	Translit=saxitʻa
 47	ჭეშმარიტისა	ჭეშმარიტი	ADJ	Adj	Case=Gen|Number=Sing	48	amod	_	Translit=češmaritisa
 48	მოქცევისაჲთა	მოქცევა	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	46	nmod	_	Translit=mokʻcʻevisaytʻa
-49	ესწავოს	სწავლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[io]=Plur|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	Translit=escavos
+49	ესწავოს	სწავლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[io]=Plur|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=escavos
 50	მათ	იგი	PRON	Pron	Case=Dat|Number=Plur|PronType=Dem	49	iobj	_	Translit=matʻ
 51	სიწმიდე	სიწმიდე	NOUN	Noun	Case=Nom|Number=Sing	49	nsubj	_	SpaceAfter=No|Translit=sicmide
 52	.	.	PUNCT	F	PunctType=Peri	23	punct	_	Translit=.
