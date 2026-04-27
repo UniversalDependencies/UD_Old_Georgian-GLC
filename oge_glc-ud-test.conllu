@@ -3889,7 +3889,7 @@
 5	სამღდელოთა	სამღდელო	NOUN	Noun	Case=Gen|Number=Plur	6	nmod	_	Translit=samġdelotʻa
 6	კანონთა	კანონი	NOUN	Noun	Case=Dat|Number=Plur	1	obj	_	SpaceAfter=No|Translit=kanontʻa
 7	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
-8	წმიდათა	წმიდაჲ	ADJ	Adj	Case=Gen|Number=Plur	10	amod	_	Translit=cmidatʻa
+8	წმიდათა	წმიდაჲ	ADJ	Adj	Case=Gen|Number=Plur	11	amod	_	Translit=cmidatʻa
 9	და	და	CCONJ	Conj	_	10	cc	_	Translit=da
 10	ნეტართა	ნეტარი	ADJ	Adj	Case=Gen|Number=Plur	8	conj	_	Translit=netartʻa
 11	მამათა	მამა	NOUN	Noun	Case=Gen|Number=Plur	12	nmod	_	Translit=mamatʻa
@@ -3949,8 +3949,8 @@
 65	კუალად	კუალად	ADV	Adv	AdvType=Tim	66	advmod	_	Translit=kualad
 66	ხალკიდონს	ხალკიდონი	PROPN	Noun	Case=Dat|Number=Sing	58	conj	_	Translit=xalkidons
 67	ექუსას	ექუსასი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	68	nummod	_	Translit=ekʻusas
-68	ოცდაათთა	ოცდაათი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	71	nummod	_	Translit=ocʻdaatʻtʻa
-69	წმიდათა	წმიდაჲ	ADJ	Adj	Case=Gen|Number=Plur	71	amod	_	Translit=cmidatʻa
+68	ოცდაათთა	ოცდაათი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	72	nummod	_	Translit=ocʻdaatʻtʻa
+69	წმიდათა	წმიდაჲ	ADJ	Adj	Case=Gen|Number=Plur	72	amod	_	Translit=cmidatʻa
 70	და	და	CCONJ	Conj	_	71	cc	_	Translit=da
 71	ნეტართა	ნეტარი	ADJ	Adj	Case=Gen|Number=Plur	69	conj	_	Translit=netartʻa
 72	მამათა	მამა	NOUN	Noun	Case=Gen|Number=Plur	66	nmod	_	Translit=mamatʻa
