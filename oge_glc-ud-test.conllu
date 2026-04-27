@@ -3774,11 +3774,11 @@
 16	ეგნენ	გნება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	4	advcl	_	Translit=egnen
 17-18	ამიერითგანცა	_	_	_	_	_	_	_	_
 17	ამიერით	ამიერით	ADV	Adv	AdvType=Man	16	advmod	_	Translit=amieritʻ
-18	განცა	გან	ADP	Post	AdpType=Post|Case=Abl|PartType=Emp	17	case	_	Translit=gancʻa
+18	განცა	გან	ADP	Post	AdpType=Post|Case=Ins|PartType=Emp	17	case	_	Translit=gancʻa
 19	მტკიცედ	მტკიცედ	ADV	Adv	AdvType=Man	16	advmod	_	Translit=mtkicʻed
 20	და	და	CCONJ	Conj	_	21	cc	_	Translit=da
 21	უცვალებელად	უცვალებელად	ADV	Adv	AdvType=Man	19	conj	_	Translit=ucʻvalebelad
-22	ნუგეშინისმცემელად	ნუგეშინისმცემელად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	16	advmod	_	Translit=nugešinismcʻemelad
+22	ნუგეშინისმცემელად	ნუგეშინისმცემელად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	16	obl	_	Translit=nugešinismcʻemelad
 23	სულთა	სული	NOUN	Noun	Case=Gen|Number=Plur	22	nmod	_	Translit=sultʻa
 24	და	და	CCONJ	Conj	_	25	cc	_	Translit=da
 25	საკურნებელად	საკურნებელად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	22	conj	_	Translit=sakurnebelad
@@ -4245,7 +4245,7 @@
 63	ჰრომთაჲსა	ჰრომი	NOUN	Noun	Case=Gen|Case[stack]=Nom|Number=Plur	67	nmod	_	Translit=hromtʻaysa
 64-65	ზემოჲთგან	_	_	_	_	_	_	_	_
 64	ზემოჲთ	ზემოჲთ	ADV	Adv	AdvType=Loc	67	advmod	_	Translit=zemoytʻ
-65	გან	გან	ADP	Post	AdpType=Post|Case=Abl	64	case	_	Translit=gan
+65	გან	გან	ADP	Post	AdpType=Post|Case=Ins	64	case	_	Translit=gan
 66	დაცვულისა	დაცვული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Pass	67	amod	_	Translit=dacʻvulisa
 67	კრძალულებისა	კრძალულება	NOUN	Noun	Case=Gen|Number=Sing	68	nmod	_	Translit=krżalulebisa
 68	კანონნი	კანონი	NOUN	Noun	Case=Nom|Number=Plur	73	obj	_	SpaceAfter=No|Translit=kanonni
