@@ -3528,13 +3528,13 @@
 2-3	რომელთა-იგი	_	_	_	_	_	_	_	_
 2	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	9	obl	_	Translit=romeltʻa
 3	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	2	fixed	_	Translit=igi
-4	მართალი	მართალი	ADJ	Adj	Case=Nom|Number=Sing	6	amod	_	Translit=martʻali
+4	მართალი	მართალი	ADJ	Adj	Case=Nom|Number=Sing	7	amod	_	Translit=martʻali
 5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
 6	წრფელი	წრფელი	ADJ	Adj	Case=Nom|Number=Sing	4	conj	_	Translit=crpʻeli
 7	სჯული	სჯული	NOUN	Noun	Case=Nom|Number=Sing	9	obj	_	Translit=sjuli
 8	ჭეშმარიტებისაჲ	ჭეშმარიტება	NOUN	Noun	Case=Gen|Number=Sing	7	nmod	_	Translit=češmaritebisay
 9	განრყუნეს	განრყუნება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=ganrqunes
-10	და	და	CCONJ	Conj	_	20	cc	_	Translit=da
+10	და	და	CCONJ	Conj	_	25	cc	_	Translit=da
 11	ერთი	ერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	12	det	_	Translit=ertʻi
 12	ნებაჲ	ნება	NOUN	Noun	Case=Nom|Number=Sing	20	obj	_	Translit=nebay
 13	და	და	CCONJ	Conj	_	15	cc	_	Translit=da
@@ -3545,9 +3545,9 @@
 18	და	და	CCONJ	Conj	_	19	cc	_	Translit=da
 19	ღმრთისა	ღმერთი	NOUN	Noun	Case=Gen|Number=Sing	17	conj	_	Translit=ġmrtʻisa
 20	ჩუენისა	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	17	det	_	Translit=čʻuenisa
-21	იესუ	იესუ	PROPN	Noun	Case=Gen|Number=Sing	22	flat	_	Translit=iesu
-22	ქრისტეს	ქრისტე	PROPN	Noun	Case=Gen|Number=Sing	17	appos	_	Translit=kʻristes
-23	ზედა	ზედა	ADP	Post	AdpType=Post|Case=Gen	20	obl	_	Translit=zeda
+21	იესუ	იესუ	PROPN	Noun	Case=Gen|Number=Sing	17	appos	_	Translit=iesu
+22	ქრისტეს	ქრისტე	PROPN	Noun	Case=Gen|Number=Sing	21	flat	_	Translit=kʻristes
+23	ზედა	ზედა	ADP	Post	AdpType=Post|Case=Gen	17	case	_	Translit=zeda
 24	თქუმად	თქმა	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	25	xcomp	_	Translit=tʻkʻumad
 25	ასწავეს	სწავლა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	Translit=ascaves
 26	ერთა	ერთი	PRON	Pron	Case=Dat|Number=Plur|PronType=Ind	25	iobj	_	SpaceAfter=No|Translit=ertʻa
@@ -3612,7 +3612,7 @@
 85	ეკლესიასა	ეკლესია	NOUN	Noun	Case=Dat|Number=Sing	97	obl	_	Translit=eklesiasa
 86	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	85	case	_	Translit=šina
 87	ღმრთისასა	ღმერთი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	85	nmod	_	Translit=ġmrtʻisasa
-88	განბრწყინვებულნი	განბრწყინვებული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	97	nsubj	_	Translit=ganbrcqinvebulni
+88	განბრწყინვებულნი	განბრწყინვებული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	110	nsubj	_	Translit=ganbrcqinvebulni
 89	კაცთა	კაცი	NOUN	Noun	Case=Gen|Number=Plur	88	nmod	_	Translit=kacʻtʻa
 90	სარწმუნოებისა	სარწმუნოება	NOUN	Noun	Case=Gen|Number=Sing	89	nmod	_	SpaceAfter=No|Translit=sarcmunoebisa
 91	,	,	PUNCT	F	PunctType=Comm	88	punct	_	Translit=,
@@ -3626,7 +3626,7 @@
 99	სიტყუასა	სიტყუაჲ	NOUN	Noun	Case=Dat|Number=Sing	100	obj	_	Translit=sitquasa
 100	ცხორებისასა	ცხორება	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	99	nmod	_	Translit=cʻxorebisasa
 101	მტკიცედ	მტკიცედ	ADV	Adv	AdvType=Man	102	advmod	_	Translit=mtkicʻed
-102	პყრობასა	პყრობა	NOUN	Noun	Case=Dat|Number=Sing	98	obl	_	Translit=pqrobasa
+102	პყრობასა	პყრობა	NOUN	Noun	Case=Dat|Number=Sing	110	obl	_	Translit=pqrobasa
 103	და	და	CCONJ	Conj	_	109	cc	_	Translit=da
 104	ვიდრე	ვიდრე	ADP	Post	AdpType=Post|Case=Gen	106	case	_	Translit=vidre
 105-106	აღსასრულადმდე	_	_	_	_	_	_	_	_
