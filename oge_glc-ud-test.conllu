@@ -4194,10 +4194,10 @@
 15	მეფემან	მეფე	NOUN	Noun	Case=Erg|Number=Sing	11	appos	_	Translit=mepʻeman
 16	ჩუენმან	ჩუენი	PRON	Pron	Case=Erg|Number=Sing|Person=1|PronType=Prs	15	det	_	Translit=čʻuenman
 17	მოუწოდა	მოწოდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=moucoda
-18	წმიდასა	წმიდაჲ	ADJ	Adj	Case=Dat|Number=Sing	20	amod	_	Translit=cmidasa
-19	ამას	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	20	det	_	Translit=amas
-20	და	და	CCONJ	Conj	_	22	cc	_	Translit=da
-21	მსოფლიოსა	მსოფლიოჲ	ADJ	Adj	Case=Dat|Number=Sing	22	amod	_	Translit=msopʻliosa
+18	წმიდასა	წმიდაჲ	ADJ	Adj	Case=Dat|Number=Sing	22	amod	_	Translit=cmidasa
+19	ამას	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	18	det	_	Translit=amas
+20	და	და	CCONJ	Conj	_	21	cc	_	Translit=da
+21	მსოფლიოსა	მსოფლიოჲ	ADJ	Adj	Case=Dat|Number=Sing	18	conj	_	Translit=msopʻliosa
 22	კრებასა	კრება	NOUN	Noun	Case=Dat|Number=Sing	17	obj	_	SpaceAfter=No|Translit=krebasa
 23	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
 24	რაჲთა	რაჲთა	SCONJ	Conj	_	38	mark	_	Translit=raytʻa
@@ -4237,7 +4237,7 @@
 57	გან	გან	ADP	Post	AdpType=Post|Case=Ins	56	case	_	Translit=gan
 58	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
 59	ამას	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	60	det	_	Translit=amas
-60	თანა	თანა	ADP	Post	AdpType=Post|Case=Dat	73	obl	_	Translit=tʻana
+60	თანა	თანა	ADP	Post	AdpType=Post|Case=Dat	82	obl	_	Translit=tʻana
 61	წმიდისაცა	წმიდაჲ	ADJ	Adj	Case=Gen|Number=Sing|PartType=Emp	62	amod	_	Translit=cmidisacʻa
 62	ეკლესიისა	ეკლესია	NOUN	Noun	Case=Gen|Number=Sing	63	nmod	_	Translit=eklesiisa
 63	ჰრომთაჲსა	ჰრომი	NOUN	Noun	Case=Gen|Case[stack]=Gen|Number=Plur	67	nmod	_	Translit=hromtʻaysa
@@ -4247,7 +4247,7 @@
 66	დაცვულისა	დაცვული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Pass	67	amod	_	Translit=dacʻvulisa
 67	კრძალულებისა	კრძალულება	NOUN	Noun	Case=Gen|Number=Sing	68	nmod	_	Translit=krżalulebisa
 68	კანონნი	კანონი	NOUN	Noun	Case=Nom|Number=Plur	82	obj	_	SpaceAfter=No|Translit=kanonni
-69	,	,	PUNCT	F	PunctType=Comm	73	punct	_	Translit=,
+69	,	,	PUNCT	F	PunctType=Comm	71	punct	_	Translit=,
 70	ხოლო	ხოლო	CCONJ	Conj	_	73	cc	_	Translit=xolo
 71	ღმრთივ	ღმრთივ	ADV	Adv	AdvType=Man	72	advmod	_	Translit=ġmrtʻiv
 72	დაცვულისა	დაცვული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Pass	76	amod	_	Translit=dacʻvulisa
