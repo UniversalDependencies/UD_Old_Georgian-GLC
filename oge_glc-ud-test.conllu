@@ -3145,22 +3145,22 @@
 # text = არამედ ქალაქსაცა შინა ეფესელთასა თევდოსის ზე არკადის ძისა, მეფისა ჩუენისა პირველად შეკრებულთა ღმრთივ შემოსილთა ორასთა მამათა ჩუენთა მიერ დასხმულთა მოძღურებათა, ვითარცა განურღუეველთა სიმტკიცეთა კეთილად მსახურებისათა დავჰბეჭდავთ ერთად ქრისტედ ძედ ღმრთისად მქადაგებელნი უფლისანი შემდგომად განჴორციელებისაცა და უთესლოდ მშობელისა მისისა, უხრწნელისა მარადის ქალწულისა საკუთრად და ჭეშმარიტად ღმრთისმშობელად აღმსაარებელნი და მცბიერისა ნისტორის განყოფისა, ვითარცა საღმრთოჲსა ნაწილისაგან უცხოქმნილისა შორს წარმდევნელნი, რომელი-იგი განთჳსებულად კაცად და განთჳსებულად ღმრთად ერთსა და მასვე ქრისტესა სჯულისმდებლობდა და ჰურიაებრსა ბოროტად მადიდებლობასა განაახლებდა.
 # translit = aramed kʻalakʻsacʻa šina epʻeseltʻasa tʻevdosis ze arkadis żisa, mepʻisa čʻuenisa pirvelad šekrebultʻa ġmrtʻiv šemosiltʻa orastʻa mamatʻa čʻuentʻa mier dasxmultʻa możġurebatʻa, vitʻarcʻa ganurġueveltʻa simtkicʻetʻa ketʻilad msaxurebisatʻa davhbečdavtʻ ertʻad kʻristed żed ġmrtʻisad mkʻadagebelni upʻlisani šemdgomad ganx̣orcʻielebisacʻa da utʻeslod mšobelisa misisa, uxrcnelisa maradis kʻalculisa sakutʻrad da češmaritad ġmrtʻismšobelad aġmsaarebelni da mcʻbierisa nistoris ganqopʻisa, vitʻarcʻa saġmrtʻoysa nacilisagan ucʻxokʻmnilisa šors carmdevnelni, romeli-igi gantʻwsebulad kacʻad da gantʻwsebulad ġmrtʻad ertʻsa da masve kʻristesa sjulismdeblobda da huriaebrsa borotad madideblobasa ganaaxlebda.
 1	არამედ	არამედ	CCONJ	Conj	_	27	cc	_	Translit=aramed
-2	ქალაქსაცა	ქალაქი	NOUN	Noun	Case=Dat|Number=Sing|PartType=Emp	27	obl	_	Translit=kʻalakʻsacʻa
+2	ქალაქსაცა	ქალაქი	NOUN	Noun	Case=Dat|Number=Sing|PartType=Emp	27	nmod	_	Translit=kʻalakʻsacʻa
 3	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	2	case	_	Translit=šina
 4	ეფესელთასა	ეფესელი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	2	nmod	_	Translit=epʻeseltʻasa
 5	თევდოსის	თევდოსი	PROPN	Noun	Case=Gen|Number=Sing	6	nmod	_	Translit=tʻevdosis
-6	ზე	ზე	ADP	Post	AdpType=Post|Case=Gen	8	case	_	Translit=ze
+6	ზე	ზე	ADP	Post	AdpType=Post|Case=Gen	5	case	_	Translit=ze
 7	არკადის	არკადი	PROPN	Noun	Case=Gen|Number=Sing	8	nmod	_	Translit=arkadis
 8	ძისა	ძე	NOUN	Noun	Case=Gen|Number=Sing	10	nmod	_	SpaceAfter=No|Translit=żisa
 9	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
-10	მეფისა	მეფე	NOUN	Noun	Case=Gen|Number=Sing	27	obl	_	Translit=mepʻisa
+10	მეფისა	მეფე	NOUN	Noun	Case=Gen|Number=Sing	27	nmod	_	Translit=mepʻisa
 11	ჩუენისა	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	10	nmod	_	Translit=čʻuenisa
 12	პირველად	პირველად	ADV	Adv	AdvType=Tim	13	advmod	_	Translit=pirvelad
 13	შეკრებულთა	შეკრებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	17	amod	_	Translit=šekrebultʻa
 14	ღმრთივ	ღმრთივ	ADV	Adv	AdvType=Man	15	advmod	_	Translit=ġmrtʻiv
 15	შემოსილთა	შემოსილი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	17	amod	_	SpacesAfter=\s\s|Translit=šemosiltʻa
 16	ორასთა	ორასი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	17	nummod	_	Translit=orastʻa
-17	მამათა	მამა	NOUN	Noun	Case=Gen|Number=Plur	21	obl	_	Translit=mamatʻa
+17	მამათა	მამა	NOUN	Noun	Case=Gen|Number=Plur	21	nmod	_	Translit=mamatʻa
 18	ჩუენთა	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	17	nmod	_	Translit=čʻuentʻa
 19	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	17	case	_	Translit=mier
 20	დასხმულთა	დასხმული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	21	amod	_	Translit=dasxmultʻa
@@ -3217,7 +3217,7 @@
 69	ღმრთად	ღმერთი	NOUN	Noun	Case=Ess|Number=Sing	66	conj	_	Translit=ġmrtʻad
 70	ერთსა	ერთი	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	73	det	_	Translit=ertʻsa
 71	და	და	CCONJ	Conj	_	72	cc	_	Translit=da
-72	მასვე	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem|PartType=Emp	70	conj	_	Translit=masve
+72	მასვე	იგი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Dem	70	conj	_	Translit=masve
 73	ქრისტესა	ქრისტე	PROPN	Noun	Case=Dat|Number=Sing	74	iobj	_	Translit=kʻristesa
 74	სჯულისმდებლობდა	სჯულისმდებლობა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	61	acl:relcl	_	Translit=sjulismdeblobda
 75	და	და	CCONJ	Conj	_	79	cc	_	Translit=da
