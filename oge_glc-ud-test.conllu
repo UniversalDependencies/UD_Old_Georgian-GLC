@@ -3892,9 +3892,9 @@
 8	წმიდათა	წმიდაჲ	ADJ	Adj	Case=Gen|Number=Plur	11	amod	_	Translit=cmidatʻa
 9	და	და	CCONJ	Conj	_	10	cc	_	Translit=da
 10	ნეტართა	ნეტარი	ADJ	Adj	Case=Gen|Number=Plur	8	conj	_	Translit=netartʻa
-11	მამათა	მამა	NOUN	Noun	Case=Gen|Number=Plur	12	nmod	_	Translit=mamatʻa
+11	მამათა	მამა	NOUN	Noun	Case=Gen|Number=Plur	14	nmod	_	Translit=mamatʻa
 12	ჩუენთა	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	11	det	_	Translit=čʻuentʻa
-13	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	14	case	_	Translit=mier
+13	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	11	case	_	Translit=mier
 14	დასხმულთა	დასხმული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	6	nmod	_	SpaceAfter=No|Translit=dasxmultʻa
 15	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
 16	ვიტყჳთ	თქმა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin	1	conj	_	Translit=vitqwtʻ
