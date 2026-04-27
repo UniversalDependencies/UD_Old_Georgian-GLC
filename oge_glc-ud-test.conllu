@@ -2775,17 +2775,17 @@
 # text = ამისთჳს უკუე ბრძანებით შენისა კეთილად მსახურებისაჲთა ღმრთივ დაცულსა ამას შინა და სამეუფოსა ქალაქსა შემოკრებულთა საღმრთონი კანონნი აღვწერენით, რომლისათჳსცა ვევედრებით შენსა კეთილად მსახურებასა და ღმრთივ დაცულსა ამას შინა ქალაქსა კეთილად მსახურებით მოჴსენებულისა მეფისა ჩუენისა თევდოსის ზე შეკრებულთა მამათსა ჴმასა ვჴმობთ შენდა მიმართ, რაჲთა, ვითარცა წიგნითა წოდებისაჲთა პატივ-ეც ეკლესიასა, ეგრეთვე სათნოყოფილთაცა ჩუენთა კეთილად მსახურთა ბრძანებათა მიერ დაჰბეჭდე დასასრულსა.
 # translit = amistʻws ukue brżanebitʻ šenisa ketʻilad msaxurebisaytʻa ġmrtʻiv dacʻulsa amas šina da sameupʻosa kʻalakʻsa šemokrebultʻa saġmrtʻoni kanonni aġvcerenitʻ, romlisatʻwscʻa vevedrebitʻ šensa ketʻilad msaxurebasa da ġmrtʻiv dacʻulsa amas šina kʻalakʻsa ketʻilad msaxurebitʻ mox̣senebulisa mepʻisa čʻuenisa tʻevdosis ze šekrebultʻa mamatʻsa x̣masa vx̣mobtʻ šenda mimartʻ, raytʻa, vitʻarcʻa cignitʻa codebisaytʻa pativ-ecʻ eklesiasa, egretʻve satʻnoqopʻiltʻacʻa čʻuentʻa ketʻilad msaxurtʻa brżanebatʻa mier dahbečde dasasrulsa.
 1-2	ამისთჳს	_	_	_	_	_	_	_	_
-1	ამის	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	17	obl	_	Translit=amis
+1	ამის	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	18	obl	_	Translit=amis
 2	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	1	case	_	Translit=tʻws
 3	უკუე	უკუე	ADV	Adv	AdvType=Tim	17	advmod	_	Translit=ukue
-4	ბრძანებით	ბრძანება	NOUN	Noun	Case=Ins|Number=Sing	17	obl	_	Translit=brżanebitʻ
+4	ბრძანებით	ბრძანება	NOUN	Noun	Case=Ins|Number=Sing	18	obl	_	Translit=brżanebitʻ
 5	შენისა	შენი	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	7	nmod	_	Translit=šenisa
 6	კეთილად	კეთილად	ADV	Adv	AdvType=Man	7	advmod	_	Translit=ketʻilad
 7	მსახურებისაჲთა	მსახურება	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	4	nmod	_	Translit=msaxurebisaytʻa
 8	ღმრთივ	ღმრთივ	ADV	Adv	AdvType=Man	9	advmod	_	Translit=ġmrtʻiv
-9	დაცულსა	დაცული	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Part|Voice=Pass	17	obl	_	Translit=dacʻulsa
-10	ამას	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	11	nmod	_	Translit=amas
-11	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	9	case	_	Translit=šina
+9	დაცულსა	დაცული	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Part|Voice=Pass	14	nmod	_	Translit=dacʻulsa
+10	ამას	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	9	nmod	_	Translit=amas
+11	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	10	case	_	Translit=šina
 12	და	და	CCONJ	Conj	_	14	cc	_	Translit=da
 13	სამეუფოსა	სამეუფოჲ	ADJ	Adj	Case=Dat|Number=Sing	14	amod	_	Translit=sameupʻosa
 14	ქალაქსა	ქალაქი	NOUN	Noun	Case=Dat|Number=Sing	9	conj	_	Translit=kʻalakʻsa
@@ -2804,8 +2804,8 @@
 26	და	და	CCONJ	Conj	_	28	cc	_	Translit=da
 27	ღმრთივ	ღმრთივ	ADV	Adv	AdvType=Man	28	advmod	_	Translit=ġmrtʻiv
 28	დაცულსა	დაცული	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Part|Voice=Pass	25	conj	_	Translit=dacʻulsa
-29	ამას	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	30	nmod	_	Translit=amas
-30	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	28	case	_	Translit=šina
+29	ამას	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	28	nmod	_	Translit=amas
+30	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	29	case	_	Translit=šina
 31	ქალაქსა	ქალაქი	NOUN	Noun	Case=Dat|Number=Sing	28	obl	_	Translit=kʻalakʻsa
 32	კეთილად	კეთილად	ADV	Adv	AdvType=Man	33	advmod	_	Translit=ketʻilad
 33	მსახურებით	მსახურება	NOUN	Noun	Case=Ins|Number=Sing	40	obl	_	Translit=msaxurebitʻ
