@@ -3316,7 +3316,7 @@
 17	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
 18	წინამბრძოლი	წინამბრძოლი	NOUN	Noun	Case=Nom|Number=Sing	16	conj	_	Translit=cinambrżoli
 19	და	და	CCONJ	Conj	_	20	cc	_	Translit=da
-20	ურთიერთას	ურთიერთა	ADV	Adv	AdvType=Rec	31	advmod	_	Translit=urtʻiertʻas
+20	ურთიერთას	ურთიერთა	PRON	Pron	Case=Dat|Number=Sing|PronType=Rcp	31	obl	_	Translit=urtʻiertʻas
 21	წინააღმდგომობითა	წინააღმდგომობა	NOUN	Noun	Case=Ins|Number=Sing	24	obl	_	Translit=cinaaġmdgomobitʻa
 22	ბოროტად	ბოროტად	ADV	Adv	AdvType=Man	23	advmod	_	Translit=borotad
 23	მსახურებისაჲთა	მსახურება	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	21	nmod	_	Translit=msaxurebisaytʻa
