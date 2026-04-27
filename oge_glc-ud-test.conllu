@@ -3491,7 +3491,7 @@
 52	დავიცავთ	დაცვა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	47	conj	_	SpaceAfter=No|Translit=davicʻavtʻ
 53	,	,	PUNCT	F	PunctType=Comm	52	punct	_	Translit=,
 54-55	რომელმან-იგი	_	_	_	_	_	_	_	_
-54	რომელმან	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	71	nsubj	_	Translit=romelman
+54	რომელმან	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	80	nsubj	_	Translit=romelman
 55	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	54	fixed	_	Translit=igi
 56	ორნი	ორი	NUM	Num	Case=Nom|Number=Plur|NumType=Card	58	nummod	_	Translit=orni
 57	ბუნებითნი	ბუნებითი	ADJ	Adj	Case=Nom|Number=Plur	58	amod	_	Translit=bunebitʻni
@@ -3506,8 +3506,8 @@
 66	ბუნებითნი	ბუნებითი	ADJ	Adj	Case=Nom|Number=Plur	67	amod	_	Translit=bunebitʻni
 67	მოქმედებანი	მოქმედება	NOUN	Noun	Case=Nom|Number=Plur	58	conj	_	Translit=mokʻmedebani
 68	ჴორციელსა	ჴორციელი	ADJ	Adj	Case=Dat|Number=Sing	70	amod	_	Translit=x̣orcʻielsa
-69	ზედა	ზედა	ADP	Post	AdpType=Post|Case=Dat	68	case	_	Translit=zeda
-70	განგებულებასა	განგებულება	NOUN	Noun	Case=Dat|Number=Sing	71	obl	_	Translit=gangebulebasa
+69	ზედა	ზედა	ADP	Post	AdpType=Post|Case=Dat	70	case	_	Translit=zeda
+70	განგებულებასა	განგებულება	NOUN	Noun	Case=Dat|Number=Sing	80	obl	_	Translit=gangebulebasa
 71	ერთისა	ერთი	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	72	det	_	Translit=ertʻisa
 72	უფლისა	უფალი	NOUN	Noun	Case=Gen|Number=Sing	70	nmod	_	Translit=upʻlisa
 73	ჩუენისა	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	72	det	_	Translit=čʻuenisa
