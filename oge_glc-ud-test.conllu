@@ -2888,7 +2888,7 @@
 16	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	Translit=ars
 17	ჴმისაებრ	ჴმისაებრ	ADP	Post	AdpType=Post|Case=Gen	18	amod	_	Translit=x̣misaebr
 18	ღმრთისმეტყუელისა	ღმრთისმეტყუელი	NOUN	Noun	Case=Gen|Number=Sing	11	nmod	_	SpaceAfter=No|Translit=ġmrtʻismetquelisa
-19	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
+19	,	,	PUNCT	F	PunctType=Comm	20	punct	_	Translit=,
 20	ვინაჲცა	ვინაჲცა	SCONJ	Conj	_	37	mark	_	Translit=vinaycʻa
 21	ჩუენ	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	25	nmod	_	Translit=čʻuen
 22	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	21	case	_	Translit=mier
@@ -2915,7 +2915,7 @@
 42	აღმატებად	აღმატებად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	44	acl	_	Translit=aġmatebad
 43	მდე	მდე	ADP	Post	AdpType=Post|Case=Ess	42	case	_	Translit=mde
 44	მისსა	მისი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	37	obl	_	SpaceAfter=No|Translit=missa
-45	.	.	PUNCT	F	PunctType=Peri	16	punct	_	Translit=.
+45	.	.	PUNCT	F	PunctType=Peri	15	punct	_	Translit=.
 
 # sent_id = OGLC_00051
 # text = აწცა დასაბამსა სამღდელოთა სიტყუათასა ვიწყებთ და მადლითა ღმრთისაჲთა განვასაზღვრებთ შეუხებელად და უვნებელად დაცვასა ჩუენდა მოცემულისა სარწმუნოებისასა თჳთმხილველთაგანცა და მსახურთა სიტყჳსათა ღმრთივ მზრახვალთა მოციქულთა.
