@@ -4346,7 +4346,7 @@
 16	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
 17	თავისა	თავი	NOUN	Noun	Case=Gen|Number=Sing	18	obl	_	Translit=tʻavisa
 18-19	თჳსისაგან	_	_	_	_	_	_	_	_
-18	თჳსისა	თჳსი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	17	det	_	Translit=tʻwsisa
+18	თჳსისა	თჳსი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	20	det	_	Translit=tʻwsisa
 19	გან	გან	ADP	Post	AdpType=Post|Case=Ins	18	case	_	Translit=gan
 20	მომკუეთელთა	მომკუეთელი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part	15	conj	_	Translit=momkuetʻeltʻa
 21	და	და	CCONJ	Conj	_	22	cc	_	Translit=da
