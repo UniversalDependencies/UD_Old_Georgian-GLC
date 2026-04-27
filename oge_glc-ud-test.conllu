@@ -3815,12 +3815,12 @@
 4	ამათ	ესე	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	5	det	_	Translit=amatʻ
 5	კანონთა	კანონი	NOUN	Noun	Case=Gen|Number=Plur	6	nmod	_	Translit=kanontʻa
 6	შინა	შინა	ADP	Post	AdpType=Post|Case=Gen	7	obl	_	Translit=šina
-7	მცნებულ	მცნებული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	18	advcl	_	Translit=mcʻnebul
+7	მცნებულ	მცნებული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	47	advcl	_	Translit=mcʻnebul
 8	არა	არა	PART	Part	PartType=Neg	7	advmod:neg	_	Translit=ara
 9	ჩუენდა	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	iobj	_	SpaceAfter=No|Translit=čʻuenda
 10	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
 11	რაჲთა	რაჲთა	SCONJ	Conj	_	12	mark	_	Translit=raytʻa
-12	შევიწყნარნეთ	შეწყნარება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	18	ccomp	_	Translit=ševicqnarnetʻ
+12	შევიწყნარნეთ	შეწყნარება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp	_	Translit=ševicqnarnetʻ
 13	მათვე	იგი	PRON	Pron	Case=Gen|Number=Plur|PartType=Emp|PronType=Dem	15	det	_	Translit=matʻve
 14	წმიდათა	წმიდაჲ	ADJ	Adj	Case=Gen|Number=Plur	15	amod	_	Translit=cmidatʻa
 15-16	მოციქულთანი	_	_	_	_	_	_	_	_
@@ -3854,10 +3854,10 @@
 41	საღმრთოთა	საღმრთოჲ	ADJ	Adj	Case=Gen|Number=Plur	42	amod	_	Translit=saġmrtʻota
 42	სჯულთასა	სჯული	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	43	nmod	_	Translit=sjultʻasa
 43	დამაბნელებელად	დამაბნელებელად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	37	advcl	_	SpaceAfter=No|Translit=damabnelebelad
-44	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
+44	,	,	PUNCT	F	PunctType=Comm	37	punct	_	Translit=,
 45	სამართლად	სამართლად	ADV	Adv	AdvType=Man	47	advmod	_	Translit=samartʻlad
 46	განყრისა	განყრა	NOUN	Noun	Case=Gen|Number=Sing	47	obj	_	Translit=ganqrisa
-47	ვჰყოფთ	ყოფა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	Translit=vhqopʻtʻ
+47	ვჰყოფთ	ყოფა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=vhqopʻtʻ
 48	ეგევითართა	ეგევითარი	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	50	det	_	Translit=egevitʻartʻa
 49	მათ	იგი	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	50	det	_	Translit=matʻ
 50	განწესებათასა	განწესება	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	47	obl	_	Translit=gancesebatʻasa
@@ -3879,7 +3879,7 @@
 66	უცთომელისა	უცთომელი	ADJ	Adj	Case=Gen|Number=Sing	64	conj	_	Translit=ucʻtʻomelisa
 67	მოციქულთა	მოციქული	NOUN	Noun	Case=Gen|Number=Plur	68	nmod	_	Translit=mocʻikʻultʻa
 68	მოძღურებისანი	მოძღურება	NOUN	Noun	Case=Nom|Case[stack]=Gen|Number=Plur	62	conj	_	SpaceAfter=No|Translit=możġurebisani
-69	.	.	PUNCT	F	PunctType=Peri	18	punct	_	Translit=.
+69	.	.	PUNCT	F	PunctType=Peri	47	punct	_	Translit=.
 
 # sent_id = OGLC_00065
 # text = დავჰბეჭდავთ უკუე სხუათაცა ყოველთა სამღდელოთა კანონთა, წმიდათა და ნეტართა მამათა ჩუენთა მიერ დასხმულთა, ვიტყჳთ უკუე ნიკეას შეკრებულთა სამას ათრვამეტთა წმიდათა მამათა მიერ და ანკჳრიას და ნეოკესარიას; მერმეცა და ღანგრას და მათ თანა ანტიოქიას ასურეთისასა, არამედ და ლაოდიკიასცა ფრიგჳისასა, მერმეცა ას ერგასისთა ღმრთივ დაცვულსა ამას და სამეუფოსა ქალაქსა შინა შეკრებულთა მამათა მიერ და დედაქალაქსა შინა ეფესელთასა პირველად შემოკრებულთა ორასთა და კუალად ხალკიდონს ექუსას ოცდაათთა წმიდათა და ნეტართა მამათა მიერ, ეგრეთვე და სარდიკიასცა და მათ თანა კართაგენს, რომელთა თანა დართულ არიან კუალად ღმრთივ დაცვულსა ამას და სამეუფოსა ქალაქსა შინა შეკრებულთა მამათანი ნეკტარის ზე, რომელი იყო საყდრისმპყრობელი სამეუფოჲსა ამის ქალაქისაჲ, და თეოფილე ალექსანდრიელთა მთავარეპისკოპოსისა, არამედ დიონჳსისნიცა, რომელი იყო მთავარეპისკოპოსი დიდისა ქალაქისა ალექსადრიელთაჲსაჲ და მოწამე, გრიგოლი ეპისკოპოსისა ნეოკესარიელისა და საკჳრველთმოქმედისანი, ათანასი მთავარეპისკოპოსისა ალექსანდრიელისანი, ბასილი მთავარეპისკოპოსისა კესარია კაპპადუკიელისანი, გრიგოლი ეპისკოპოსისა ნოსელისანი, გრიგოლი ღმრთისმეტყუელისანი, ამფილოქე იკონიელისანი, ტიმოთე მთავარეპისკოპოსისა ალექსანდრიელისანი, პირველმოჴსენებულისა თეოფილე ალექსანდრიელისანი, კჳრილე მთავარეპისკოპოსისა მისვე ალექსანდრიელთა დიდისა ქალაქისანი და გენადი მამათმთავრისა ღმრთივ დაცვულისა ამის სამეუფოჲსა ქალაქისანი, მერმეცა კჳპრიანე მთავარეპისკოპოსისა აფრიკელთა სოფლისა და მოწამისა და მისთანაჲსა კრებისა მიერ დასხმულნი კანონნი, რომელთა განწესებაჲ მხოლოდ მის სამთავროჲსა ადგილთა შინა ოდენ ჩუეულებად დამტკიცებულ არს.
