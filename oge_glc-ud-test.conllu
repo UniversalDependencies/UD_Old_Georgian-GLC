@@ -3248,9 +3248,9 @@
 16	ძეგლისწერასა	ძეგლისწერა	NOUN	Noun	Case=Dat|Number=Sing	17	obj	_	Translit=żegliscerasa
 17	დავამტკიცებთ	დამტკიცება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=davamtkicʻebtʻ
 18	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
-19	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	27	obl	_	Translit=romeltʻa
+19	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	36	obl	_	Translit=romeltʻa
 20	ერთი	ერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	22	det	_	Translit=ertʻi
-21	ქრისტე	ქრისტე	PROPN	Noun	Case=Nom|Number=Sing	27	nsubj	_	Translit=kʻriste
+21	ქრისტე	ქრისტე	PROPN	Noun	Case=Nom|Number=Sing	36	nsubj	_	Translit=kʻriste
 22	ძე	ძე	NOUN	Noun	Case=Nom|Number=Sing	21	appos	_	Translit=że
 23	ღმრთისაჲ	ღმერთი	NOUN	Noun	Case=Gen|Number=Sing	22	nmod	_	Translit=ġmrtʻisay
 24	ორთა	ორი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	26	nummod	_	Translit=ortʻa
