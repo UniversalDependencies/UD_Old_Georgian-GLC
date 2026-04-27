@@ -3676,8 +3676,8 @@
 21	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
 # sent_id = OGLC_00062
-# text = ხოლო უკუეთუ ვინმე ყოველთაგანი არა პირველთქუმულთა ამათ კეთილად მსახურებისა სჯულთა შეიტკბობდეს და შეუდგეს და ესრეთ აღიარებდეს და ქადაგებდეს, არამედ წინაუკმო გარდაქცევასა ამათსა ჴელჰყოფდეს, იყავნ შეჩუენებულ წინაჲსწარ განჩინებულისა მისებრ საზღვრისა პირველმოჴსენებულთა მიერ წმიდათა ღმერთშემოსილთა მამათა და ქრისტეანეთა კრებულისაგან, ვითარცა უცხოჲ განიჴადენ და განვარდინ, რამეთუ ჩუენ არცა შემატებასა რასმე და არცა დაკლებასა თავს-ვიდებთ, რაჲთურთით პირველგანჩინებულთა მათ სარწმუნოებისა საზღვართასა, ანუ გარდავჰჴდებით რომელსაცა სიტყუასა.
-# translit = xolo ukuetʻu vinme qoveltʻagani ara pirveltʻkʻumultʻa amatʻ ketʻilad msaxurebisa sjultʻa šeitkbobdes da šeudges da esretʻ aġiarebdes da kʻadagebdes, aramed cinaukmo gardakʻcʻevasa amatʻsa x̣elhqopʻdes, iqavn šečʻuenebul cinayscar gančʻinebulisa misebr sazġvrisa pirvelmox̣senebultʻa mier cmidatʻa ġmertʻšemosiltʻa mamatʻa da kʻristeanetʻa krebulisagan, vitʻarcʻa ucʻxoy ganix̣aden da ganvardin, rametʻu čʻuen arcʻa šematebasa rasme da arcʻa daklebasa tʻavs-videbtʻ, raytʻurtʻitʻ pirvelgančʻinebultʻa matʻ sarcmunoebisa sazġvartʻasa, anu gardavhx̣debitʻ romelsacʻa sitquasa.
+# text = ხოლო უკუეთუ ვინმე ყოველთაგანი არა შეიტკბობდეს პირველთქუმულთა ამათ კეთილად მსახურებისა სჯულთა და შეუდგეს და ესრეთ აღიარებდეს და ქადაგებდეს, არამედ წინაუკმო გარდაქცევასა ამათსა ჴელჰყოფდეს, იყავნ შეჩუენებულ წინაჲსწარ განჩინებულისა მისებრ საზღვრისა პირველმოჴსენებულთა მიერ წმიდათა ღმერთშემოსილთა მამათა და ქრისტეანეთა კრებულისაგან, ვითარცა უცხოჲ განიჴადენ და განვარდინ, რამეთუ ჩუენ არცა შემატებასა რასმე და არცა დაკლებასა თავს-ვიდებთ, რაჲთურთით პირველგანჩინებულთა მათ სარწმუნოებისა საზღვართასა, ანუ გარდავჰჴდებით რომელსაცა სიტყუასა.
+# translit = xolo ukuetʻu vinme qoveltʻagani ara šeitkbobdes pirveltʻkʻumultʻa amatʻ ketʻilad msaxurebisa sjultʻa da šeudges da esretʻ aġiarebdes da kʻadagebdes, aramed cinaukmo gardakʻcʻevasa amatʻsa x̣elhqopʻdes, iqavn šečʻuenebul cinayscar gančʻinebulisa misebr sazġvrisa pirvelmox̣senebultʻa mier cmidatʻa ġmertʻšemosiltʻa mamatʻa da kʻristeanetʻa krebulisagan, vitʻarcʻa ucʻxoy ganix̣aden da ganvardin, rametʻu čʻuen arcʻa šematebasa rasme da arcʻa daklebasa tʻavs-videbtʻ, raytʻurtʻitʻ pirvelgančʻinebultʻa matʻ sarcmunoebisa sazġvartʻasa, anu gardavhx̣debitʻ romelsacʻa sitquasa.
 1	ხოლო	ხოლო	CCONJ	Conj	_	7	cc	_	Translit=xolo
 2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	7	mark	_	Translit=ukuetʻu
 3	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	7	nsubj	_	Translit=vinme
@@ -3705,7 +3705,7 @@
 24	ამათსა	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	23	det	_	Translit=amatʻsa
 25	ჴელჰყოფდეს	ჴელჰყოფა	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	7	conj	_	SpaceAfter=No|Translit=x̣elhqopʻdes
 26	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
-27	იყავნ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Opt|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	Translit=iqavn
+27	იყავნ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	Translit=iqavn
 28	შეჩუენებულ	შეჩუენებული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	27	xcomp	_	Translit=šečʻuenebul
 29	წინაჲსწარ	წინაჲსწარ	ADV	Adv	AdvType=Tim	30	advmod	_	Translit=cinayscar
 30	განჩინებულისა	განჩინებული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Pass	32	amod	_	Translit=gančʻinebulisa
@@ -3724,9 +3724,9 @@
 42	,	,	PUNCT	F	PunctType=Comm	27	punct	_	Translit=,
 43	ვითარცა	ვითარცა	SCONJ	Conj	_	45	mark	_	Translit=vitʻarcʻa
 44	უცხოჲ	უცხოჲ	ADJ	Adj	Case=Nom|Number=Sing	45	xcomp	_	Translit=ucʻxoy
-45	განიჴადენ	განიჴადენა	VERB	Verb	Aspect=Perf|Mood=Opt|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	conj	_	Translit=ganix̣aden
+45	განიჴადენ	განიჴადენა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	conj	_	Translit=ganix̣aden
 46	და	და	CCONJ	Conj	_	47	cc	_	Translit=da
-47	განვარდინ	განვარდნა	VERB	Verb	Aspect=Perf|Mood=Opt|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	45	conj	_	SpaceAfter=No|Translit=ganvardin
+47	განვარდინ	განვარდნა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	45	conj	_	SpaceAfter=No|Translit=ganvardin
 48	,	,	PUNCT	F	PunctType=Comm	27	punct	_	Translit=,
 49	რამეთუ	რამეთუ	SCONJ	Conj	_	57	mark	_	Translit=rametʻu
 50	ჩუენ	ჩუენ	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	57	nsubj	_	Translit=čʻuen
@@ -3745,7 +3745,7 @@
 62	მათ	იგი	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	63	det	_	Translit=matʻ
 63	სარწმუნოებისა	სარწმუნოება	NOUN	Noun	Case=Gen|Number=Sing	64	nmod	_	Translit=sarcmunoebisa
 64	საზღვართასა	საზღვარი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	67	obl	_	SpaceAfter=No|Translit=sazġvartʻasa
-65	,	,	PUNCT	F	PunctType=Comm	58	punct	_	Translit=,
+65	,	,	PUNCT	F	PunctType=Comm	60	punct	_	Translit=,
 66	ანუ	ანუ	CCONJ	Conj	_	67	cc	_	Translit=anu
 67	გარდავჰჴდებით	გარდავჰჴდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	58	conj	_	Translit=gardavhx̣debitʻ
 68	რომელსაცა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	69	det	_	Translit=romelsacʻa
