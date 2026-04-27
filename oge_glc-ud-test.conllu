@@ -2950,14 +2950,14 @@
 # sent_id = OGLC_00052
 # text = მერმეცა სამას ათრვამეტთა წმიდათა და ნეტართა მამათაგან, რომელნი შეკრბეს ნიკეას კოსტანტინეს ზე დიდისა მეფისა ჩუენისა არიოზისთჳს ბოროტად მსახურისა და მის მიერ სჯულდებულისა მის წარმართულისა სხუაღმრთობისა ანუ თუ მრავალღმრთეებისა, ვითარ-იგი უსაკუთრესად სათქუმელ არს, რომელთა-იგი სწორითა აღსაარებითა სარწმუნოებისაჲთა ერთარსებაჲ სამთავე ღმერთმთავრობითისა ბუნებისა გუამოვნებათაჲ გამოგჳცხადეს და განგჳნათლეს და არა შეუნდვეს მოდითა დაფარვაჲ ამისი, არამედ მამისა და ძისა და სულისა წმიდისა ერთი თაყუანისცემაჲ ცხადად ასწავეს მორწმუნეთა და უსწოროთა ხარისხთა ღმრთეებისათა ბოროტი მადიდებლობაჲ დაამჴუეს და უჩინო ყვეს და წინააღსადგომელად მართლმადიდებლობისა ყრმებრივნი იგი ქჳშასა ზედა ნაშენებნი მწვალებელთანი დაარღჳნეს და დასცნეს.
 # translit = mermecʻa samas atʻrvamettʻa cmidatʻa da netartʻa mamatʻagan, romelni šekrbes nikeas kostantines ze didisa mepʻisa čʻuenisa ariozistʻws borotad msaxurisa da mis mier sjuldebulisa mis carmartʻulisa sxuaġmrtʻobisa anu tʻu mravalġmrtʻeebisa, vitʻar-igi usakutʻresad satʻkʻumel ars, romeltʻa-igi scoritʻa aġsaarebitʻa sarcmunoebisaytʻa ertʻarsebay samtʻave ġmertʻmtʻavrobitʻisa bunebisa guamovnebatʻay gamogwcʻxades da gangwnatʻles da ara šeundves moditʻa dapʻarvay amisi, aramed mamisa da żisa da sulisa cmidisa ertʻi tʻaquaniscʻemay cʻxadad ascaves morcmunetʻa da uscorotʻa xarisxtʻa ġmrtʻeebisatʻa boroti madideblobay daamx̣ues da učʻino qves da cinaaġsadgomelad martʻlmadideblobisa qrmebrivni igi kʻwšasa zeda našenebni mcvalebeltʻani daarġwnes da dascʻnes.
-1	მერმეცა	მერმეცა	ADV	Adv	AdvType=Tim|PartType=Emp	40	advmod	_	Translit=mermecʻa
+1	მერმეცა	მერმეცა	ADV	Adv	AdvType=Tim|PartType=Emp	39	advmod	_	Translit=mermecʻa
 2	სამას	სამასი	NUM	Num	Case=Dat|NumType=Card	3	nummod	_	Translit=samas
 3	ათრვამეტთა	ათრვამეტი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	7	nummod	_	Translit=atʻrvamettʻa
 4	წმიდათა	წმიდაჲ	ADJ	Adj	Case=Gen|Number=Plur	7	amod	_	Translit=cmidatʻa
 5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
 6	ნეტართა	ნეტარი	ADJ	Adj	Case=Gen|Number=Plur	4	conj	_	Translit=netartʻa
 7-8	მამათაგან	_	_	_	_	_	_	_	SpaceAfter=No
-7	მამათა	მამა	NOUN	Noun	Case=Gen|Number=Plur	40	obl	_	Translit=mamatʻa
+7	მამათა	მამა	NOUN	Noun	Case=Gen|Number=Plur	39	obl	_	Translit=mamatʻa
 8	გან	გან	ADP	Post	AdpType=Post|Case=Ins	7	case	_	Translit=gan
 9	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
 10	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	11	nsubj	_	Translit=romelni
@@ -2988,14 +2988,14 @@
 33	ვითარ	ვითარ	ADV	Adv	AdvType=Man|ExtPos=ADV	36	advmod	_	Translit=vitʻar
 34	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	33	fixed	_	Translit=igi
 35	უსაკუთრესად	უსაკუთრესად	ADV	Adv	AdvType=Man	36	advmod	_	Translit=usakutʻresad
-36	სათქუმელ	სათქუმელი	ADJ	Adj	Case=Nom|Number=Sing	40	advcl	_	Translit=satʻkʻumel
+36	სათქუმელ	სათქუმელი	ADJ	Adj	Case=Nom|Number=Sing	39	advcl	_	Translit=satʻkʻumel
 37	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	cop	_	SpaceAfter=No|Translit=ars
 38	,	,	PUNCT	F	PunctType=Comm	39	punct	_	Translit=,
 39-40	რომელთა-იგი	_	_	_	_	_	_	_	_
-39	რომელთა	რომელი	PRON	Pron	Case=Gen|ExtPos=PRON|Number=Plur|PronType=Rel	48	obl	_	Translit=romeltʻa
+39	რომელთა	რომელი	PRON	Pron	Case=Gen|ExtPos=PRON|Number=Plur|PronType=Rel	48	nmod	_	Translit=romeltʻa
 40	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	39	fixed	_	Translit=igi
 41	სწორითა	სწორი	ADJ	Adj	Case=Ins|Number=Sing	42	amod	_	Translit=scoritʻa
-42	აღსაარებითა	აღსაარება	NOUN	Noun	Case=Ins|Number=Sing	48	obl	_	Translit=aġsaarebitʻa
+42	აღსაარებითა	აღსაარება	NOUN	Noun	Case=Ins|Number=Sing	48	nmod	_	Translit=aġsaarebitʻa
 43	სარწმუნოებისაჲთა	სარწმუნოება	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	42	nmod	_	Translit=sarcmunoebisaytʻa
 44	ერთარსებაჲ	ერთარსებაჲ	NOUN	Noun	Case=Nom|Number=Sing	48	obj	_	Translit=ertʻarsebay
 45	სამთავე	სამთავე	ADJ	Adj	Case=Nom|Number=Sing	47	amod	_	Translit=samtʻave
@@ -3013,7 +3013,7 @@
 57	ამისი	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	56	nmod	_	SpaceAfter=No|Translit=amisi
 58	,	,	PUNCT	F	PunctType=Comm	49	punct	_	Translit=,
 59	არამედ	არამედ	CCONJ	Conj	_	68	cc	_	Translit=aramed
-60	მამისა	მამა	NOUN	Noun	Case=Gen|Number=Sing	66	nmod	_	Translit=mamisa
+60	მამისა	მამა	NOUN	Noun	Case=Gen|Number=Sing	67	nmod	_	Translit=mamisa
 61	და	და	CCONJ	Conj	_	62	cc	_	Translit=da
 62	ძისა	ძე	NOUN	Noun	Case=Gen|Number=Sing	60	conj	_	Translit=żisa
 63	და	და	CCONJ	Conj	_	64	cc	_	Translit=da
