@@ -4129,11 +4129,11 @@
 1	ხოლო	ხოლო	CCONJ	Conj	_	9	cc	_	Translit=xolo
 2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	9	mark	_	Translit=ukuetʻu
 3	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	9	nsubj	_	Translit=vinme
-4	პირველმოჴსენებულთა	პირველმოჴსენებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	5	amod	_	Translit=pirvelmox̣senebultʻa
+4	პირველმოჴსენებულთა	პირველმოჴსენებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	11	iobj	_	Translit=pirvelmox̣senebultʻa
 5	ამათ	ესე	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	6	det	_	Translit=amatʻ
 6	კანონთაგანისა	კანონი	NOUN	Noun	Case=Gen|Number=Sing	7	nmod	_	Translit=kanontʻaganisa
 7	რომლისამე	რომელი	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	8	det	_	Translit=romlisame
-8	დაჴსნად	დაჴსნად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	9	xcomp	_	Translit=dax̣snad
+8	დაჴსნად	დაჴსნად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	11	obl	_	Translit=dax̣snad
 9	ანუ	ანუ	CCONJ	Conj	_	11	cc	_	Translit=anu
 10	დარღუევად	დარღუევად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	8	conj	_	Translit=darġuevad
 11-12	ჴელ-ყოს	_	_	_	_	_	_	_	SpaceAfter=No
