@@ -3699,9 +3699,9 @@
 18	და	და	CCONJ	Conj	_	19	cc	_	Translit=da
 19	ქადაგებდეს	ქადაგება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	7	conj	_	SpaceAfter=No|Translit=kʻadagebdes
 20	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
-21	არამედ	არამედ	CCONJ	Conj	_	24	cc	_	Translit=aramed
-22	წინაუკმო	წინაუკმო	ADV	Adv	AdvType=Man	24	advmod	_	Translit=cinaukmo
-23	გარდაქცევასა	გარდაქცევა	NOUN	Noun	Case=Dat|Number=Sing	24	obj	_	Translit=gardakʻcʻevasa
+21	არამედ	არამედ	CCONJ	Conj	_	25	cc	_	Translit=aramed
+22	წინაუკმო	წინაუკმო	ADV	Adv	AdvType=Man	25	advmod	_	Translit=cinaukmo
+23	გარდაქცევასა	გარდაქცევა	NOUN	Noun	Case=Dat|Number=Sing	25	obj	_	Translit=gardakʻcʻevasa
 24	ამათსა	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	23	det	_	Translit=amatʻsa
 25	ჴელჰყოფდეს	ჴელჰყოფა	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	7	conj	_	SpaceAfter=No|Translit=x̣elhqopʻdes
 26	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
