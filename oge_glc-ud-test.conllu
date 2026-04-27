@@ -4068,7 +4068,7 @@
 183	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	184	case	_	Translit=mier
 184	დასხმულნი	დასხმული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	185	amod	_	Translit=dasxmulni
 185	კანონნი	კანონი	NOUN	Noun	Case=Nom|Number=Plur	172	conj	_	SpaceAfter=No|Translit=kanonni
-186	,	,	PUNCT	F	PunctType=Comm	172	punct	_	Translit=,
+186	,	,	PUNCT	F	PunctType=Comm	187	punct	_	Translit=,
 187	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	188	nmod	_	Translit=romeltʻa
 188	განწესებაჲ	განწესება	NOUN	Noun	Case=Nom|Number=Sing	196	nsubj	_	Translit=gancesebay
 189	მხოლოდ	მხოლოდ	ADV	Adv	AdvType=Man	196	advmod	_	Translit=mxolod
@@ -4094,7 +4094,7 @@
 7-8	მტყუვარ-ყოფად	_	_	_	_	_	_	_	SpaceAfter=No
 7	მტყუვარ	მტყუვარ	ADV	Adv	AdvType=Man	8	advmod	_	Translit=mtquvar
 8	ყოფად	ყოფად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	3	xcomp	_	Translit=qopʻad
-9	,	,	PUNCT	F	PunctType=Comm	3	punct	_	Translit=,
+9	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
 10	ანუ	ანუ	CCONJ	Conj	_	11	cc	_	Translit=anu
 11-12	უვარის-ყოფად	_	_	_	_	_	_	_	SpaceAfter=No
 11	უვარის	უვარის	ADV	Adv	AdvType=Man	12	advmod	_	Translit=uvaris
@@ -4106,7 +4106,7 @@
 17	ამათსა	ესე	PRON	Pron	Case=Dat|Case[stack]=Gen|Number=Plur|PronType=Dem	15	nmod	_	Translit=amatʻsa
 18	სხუათა	სხუა	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	19	det	_	Translit=sxuatʻa
 19	კანონთა	კანონი	NOUN	Noun	Case=Gen|Number=Plur	20	obj	_	Translit=kanontʻa
-20	შეწყნარებად	შეწყნარებად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	8	conj	_	SpaceAfter=No|Translit=šecqnarebad
+20	შეწყნარებად	შეწყნარებად	ADV	Adv	AdvType=Man	8	conj	_	SpaceAfter=No|Translit=šecqnarebad
 21	,	,	PUNCT	F	PunctType=Comm	20	punct	_	Translit=,
 22	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	26	nsubj	_	Translit=romelni
 23	სახელმტყუვარითა	სახელმტყუვარი	NOUN	Noun	Case=Ins|Number=Sing	24	obl	_	Translit=saxelmtquvaritʻa
