@@ -4343,8 +4343,8 @@
 13	ჩუენისა	ჩუენი	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	12	det	_	Translit=čʻuenisa
 14	უმჯობესისა	უმჯობესი	ADJ	Adj	Case=Gen|Number=Sing	15	amod	_	Translit=umjobesisa
 15	შემეცნებულთა	შემეცნებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	8	conj	_	Translit=šemecʻnebultʻa
-16	და	და	CCONJ	Conj	_	19	cc	_	Translit=da
-17	თავისა	თავი	NOUN	Noun	Case=Gen|Number=Sing	19	obl	_	Translit=tʻavisa
+16	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
+17	თავისა	თავი	NOUN	Noun	Case=Gen|Number=Sing	18	obl	_	Translit=tʻavisa
 18-19	თჳსისაგან	_	_	_	_	_	_	_	_
 18	თჳსისა	თჳსი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	17	det	_	Translit=tʻwsisa
 19	გან	გან	ADP	Post	AdpType=Post|Case=Ins	18	case	_	Translit=gan
