@@ -3536,7 +3536,7 @@
 9	განრყუნეს	განრყუნება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=ganrqunes
 10	და	და	CCONJ	Conj	_	25	cc	_	Translit=da
 11	ერთი	ერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	12	det	_	Translit=ertʻi
-12	ნებაჲ	ნება	NOUN	Noun	Case=Nom|Number=Sing	20	obj	_	Translit=nebay
+12	ნებაჲ	ნება	NOUN	Noun	Case=Nom|Number=Sing	24	obj	_	Translit=nebay
 13	და	და	CCONJ	Conj	_	15	cc	_	Translit=da
 14	ერთი	ერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	15	det	_	Translit=ertʻi
 15	მოქმედებაჲ	მოქმედება	NOUN	Noun	Case=Nom|Number=Sing	12	conj	_	Translit=mokʻmedebay
@@ -3623,7 +3623,7 @@
 96	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	95	case	_	Translit=šina
 97	მტჳრთველ	მტჳრთველი	ADJ	Adj	Case=Nom|Number=Plur	88	acl:relcl	_	Translit=mtwrtʻvel
 98	იქმნნეს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	97	cop	_	Translit=ikʻmnnes
-99	სიტყუასა	სიტყუაჲ	NOUN	Noun	Case=Dat|Number=Sing	100	obj	_	Translit=sitquasa
+99	სიტყუასა	სიტყუაჲ	NOUN	Noun	Case=Dat|Number=Sing	102	nmod	_	Translit=sitquasa
 100	ცხორებისასა	ცხორება	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	99	nmod	_	Translit=cʻxorebisasa
 101	მტკიცედ	მტკიცედ	ADV	Adv	AdvType=Man	102	advmod	_	Translit=mtkicʻed
 102	პყრობასა	პყრობა	NOUN	Noun	Case=Dat|Number=Sing	110	obl	_	Translit=pqrobasa
