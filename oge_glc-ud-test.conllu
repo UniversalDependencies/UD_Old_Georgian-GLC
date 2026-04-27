@@ -2915,7 +2915,7 @@
 42	აღმატებად	აღმატებად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	44	acl	_	Translit=aġmatebad
 43	მდე	მდე	ADP	Post	AdpType=Post|Case=Ess	42	case	_	Translit=mde
 44	მისსა	მისი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	37	obl	_	SpaceAfter=No|Translit=missa
-45	.	.	PUNCT	F	PunctType=Peri	15	punct	_	Translit=.
+45	.	.	PUNCT	F	PunctType=Peri	11	punct	_	Translit=.
 
 # sent_id = OGLC_00051
 # text = აწცა დასაბამსა სამღდელოთა სიტყუათასა ვიწყებთ და მადლითა ღმრთისაჲთა განვასაზღვრებთ შეუხებელად და უვნებელად დაცვასა ჩუენდა მოცემულისა სარწმუნოებისასა თჳთმხილველთაგანცა და მსახურთა სიტყჳსათა ღმრთივ მზრახვალთა მოციქულთა.
