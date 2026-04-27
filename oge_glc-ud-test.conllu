@@ -3842,7 +3842,7 @@
 30	მორყუნილნი	მორყუნილი	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	36	obj	_	Translit=morqunilni
 31	რაჲმე	რაჲმე	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	30	det	_	Translit=rayme
 32	და	და	CCONJ	Conj	_	35	cc	_	Translit=da
-33	უცხონი	უცხო	ADJ	Adj	Case=Nom|Number=Plur	33	amod	_	Translit=ucʻxoni
+33	უცხონი	უცხო	ADJ	Adj	Case=Nom|Number=Plur	35	amod	_	Translit=ucʻxoni
 34	კეთილად	კეთილად	ADV	Adv	AdvType=Man	35	obl	_	Translit=ketʻilad
 35	მსახურებისანი	მსახურება	NOUN	Noun	Case=Nom|Case[stack]=Gen|Number=Plur	31	conj	_	Translit=msaxurebisani
 36	დაერთნეს	დართვა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	18	acl:relcl	_	Translit=daertʻnes
