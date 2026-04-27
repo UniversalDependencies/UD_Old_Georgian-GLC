@@ -3126,7 +3126,7 @@
 4	უკეთურებისაჲ	უკეთურება	NOUN	Noun	Case=Gen|Number=Sing	3	nmod	_	Translit=uketʻurebisay
 5	დასაჯეს	დასჯა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=dasajes
 6	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
-7	რომელმან	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	10	nsubj	_	Translit=romelman
+7	რომელმან	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	11	nsubj	_	Translit=romelman
 8	უგონებოთა	უგონებო	ADJ	Adj	Case=Gen|Number=Plur	9	amod	_	Translit=ugonebotʻa
 9	ჴორცთა	ჴორცი	NOUN	Noun	Case=Gen|Number=Plur	10	obj	_	Translit=x̣orcʻtʻa
 10	მიმჴუმელად	მიმჴუმელად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	11	advcl	_	Translit=mimx̣umelad
