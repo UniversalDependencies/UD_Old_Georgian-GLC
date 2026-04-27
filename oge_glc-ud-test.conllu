@@ -3526,7 +3526,7 @@
 # translit = xolo romeltʻa-igi martʻali da crpʻeli sjuli češmaritebisay ganrqunes da ertʻi nebay da ertʻi mokʻmedebay ertʻisa upʻlisa da ġmrtʻisa čʻuenisa iesu kʻristes zeda tʻkʻumad ascaves ertʻa, ketʻiladmsaxurebisa msjavritʻa dasajna, vitqwtʻ ukue tʻeodore pʻaranelsa, kwrozs alekʻsandrielsa, onoris hromsa, sergiss, piross, pavles, petres saqdris mpqrobel qopʻiltʻa ġmrtʻiv dacʻvulisa amis kʻalakʻisatʻa, makaris episkopossa antiokʻiisasa da stepʻane mocapʻesa missa da cʻnobavnebulsa polixronioss da esretʻ ganurqunelad da šeuxebelad daicʻva zogadi guami kʻristes ġmrtʻisa čʻuenisay da raytʻa šemoklebulad vitqoditʻ, qoveltʻave eklesiasa šina ġmrtʻisasa ganbrcqinvebulni kacʻtʻa sarcmunoebisa, romelni vitʻarcʻa mnatʻobni sopʻelsa šina mtwrtʻvel ikʻmnnes sitquasa cʻxorebisasa mtkicʻed pqrobasa da vidre aġsasruladmde sopʻlisa šeurqevelad gebasa ganvasazġvrebtʻ da matʻtʻa matʻ ġmrtʻiv mocʻemultʻa aġceriltʻa da sjultʻa qoveltʻa mivitʻualavtʻ da ševicqnarebtʻ.
 1	ხოლო	ხოლო	CCONJ	Conj	_	25	cc	_	Translit=xolo
 2-3	რომელთა-იგი	_	_	_	_	_	_	_	_
-2	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	9	obl	_	Translit=romeltʻa
+2	რომელთა	რომელი	PRON	Pron	Case=Gen|ExtPos=PRON|Number=Plur|PronType=Rel	9	obl	_	Translit=romeltʻa
 3	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	2	fixed	_	Translit=igi
 4	მართალი	მართალი	ADJ	Adj	Case=Nom|Number=Sing	7	amod	_	Translit=martʻali
 5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
@@ -3628,9 +3628,9 @@
 101	მტკიცედ	მტკიცედ	ADV	Adv	AdvType=Man	102	advmod	_	Translit=mtkicʻed
 102	პყრობასა	პყრობა	NOUN	Noun	Case=Dat|Number=Sing	110	obl	_	Translit=pqrobasa
 103	და	და	CCONJ	Conj	_	109	cc	_	Translit=da
-104	ვიდრე	ვიდრე	ADP	Post	AdpType=Post|Case=Gen	106	case	_	Translit=vidre
+104	ვიდრე	ვიდრე	ADP	Post	AdpType=Post|Case=Gen	105	case	_	Translit=vidre
 105-106	აღსასრულადმდე	_	_	_	_	_	_	_	_
-105	აღსასრულად	აღსასრულად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	109	obl	_	Translit=aġsasrulad
+105	აღსასრულად	აღსასრულად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	109	nmod	_	Translit=aġsasrulad
 106	მდე	მდე	ADP	Post	AdpType=Post|Case=Ess	105	case	_	Translit=mde
 107	სოფლისა	სოფელი	NOUN	Noun	Case=Gen|Number=Sing	105	nmod	_	Translit=sopʻlisa
 108	შეურყეველად	შეურყეველად	ADV	Adv	AdvType=Man	109	advmod	_	Translit=šeurqevelad
@@ -3641,10 +3641,10 @@
 113	მათ	იგი	PRON	Pron	Case=Dat|Number=Plur|PronType=Dem	115	iobj	_	Translit=matʻ
 114	ღმრთივ	ღმრთივ	ADV	Adv	AdvType=Man	115	advmod	_	Translit=ġmrtʻiv
 115	მოცემულთა	მოცემული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	116	amod	_	Translit=mocʻemultʻa
-116	აღწერილთა	აღწერილი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	117	amod	_	Translit=aġceriltʻa
+116	აღწერილთა	აღწერილი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	120	obj	_	Translit=aġceriltʻa
 117	და	და	CCONJ	Conj	_	118	cc	_	Translit=da
-118	სჯულთა	სჯული	NOUN	Noun	Case=Gen|Number=Plur	119	obj	_	Translit=sjultʻa
-119	ყოველთა	ყოველი	PRON	Pron	Case=Dat|Number=Plur|PronType=Tot	120	det	_	Translit=qoveltʻa
+118	სჯულთა	სჯული	NOUN	Noun	Case=Gen|Number=Plur	116	conj	_	Translit=sjultʻa
+119	ყოველთა	ყოველი	PRON	Pron	Case=Dat|Number=Plur|PronType=Tot	118	det	_	Translit=qoveltʻa
 120	მივითუალავთ	მივითუალება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	110	conj	_	Translit=mivitʻualavtʻ
 121	და	და	CCONJ	Conj	_	122	cc	_	Translit=da
 122	შევიწყნარებთ	შეწყნარება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	120	conj	_	SpaceAfter=No|Translit=ševicqnarebtʻ
