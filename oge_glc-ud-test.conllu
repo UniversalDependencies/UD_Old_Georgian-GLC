@@ -4376,11 +4376,11 @@
 45	თჳთ	თჳთ	PART	Part	PartType=Emp	46	advmod:emph	_	Translit=tʻwtʻ
 46	სახითა	სახე	NOUN	Noun	Case=Ins|Number=Sing	51	obl	_	Translit=saxitʻa
 47	ჭეშმარიტისა	ჭეშმარიტი	ADJ	Adj	Case=Gen|Number=Sing	48	amod	_	Translit=češmaritisa
-49	მოქცევისაჲთა	მოქცევა	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	46	nmod	_	Translit=mokʻcʻevisaytʻa
-50	ესწავოს	სწავლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[io]=Plur|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	Translit=escavos
-51	მათ	იგი	PRON	Pron	Case=Dat|Number=Plur|PronType=Dem	50	iobj	_	Translit=matʻ
-52	სიწმიდე	სიწმიდე	NOUN	Noun	Case=Nom|Number=Sing	50	nsubj	_	SpaceAfter=No|Translit=sicmide
-53	.	.	PUNCT	F	PunctType=Peri	23	punct	_	Translit=.
+48	მოქცევისაჲთა	მოქცევა	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	46	nmod	_	Translit=mokʻcʻevisaytʻa
+49	ესწავოს	სწავლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[io]=Plur|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	Translit=escavos
+50	მათ	იგი	PRON	Pron	Case=Dat|Number=Plur|PronType=Dem	49	iobj	_	Translit=matʻ
+51	სიწმიდე	სიწმიდე	NOUN	Noun	Case=Nom|Number=Sing	49	nsubj	_	SpaceAfter=No|Translit=sicmide
+52	.	.	PUNCT	F	PunctType=Peri	23	punct	_	Translit=.
 
 # sent_id = OGLC_00070
 # text = და პირველნი იგი უსჯულოებითნი ცთომანი მათნი მოსწრაფებით დაევიწყნენ, გინათი ხუცესთა, ანუ დიაკონთა დასისაგანნი იყვნენ, ამათი სათნო-გჳჩნდა, რაჲთა დასცხრენ უკუე ყოვლისავე სამღდელოჲსა მსახურებისა, ესე იგი არს მოქმედებისაგან განსაზღვრებულსა რასმე ჟამსა განკანონებულნი.
