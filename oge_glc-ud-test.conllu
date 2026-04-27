@@ -3120,7 +3120,7 @@
 # sent_id = OGLC_00054
 # text = აპოლინარიცა ბოროტი მესაიდუმლოეჲ უკეთურებისაჲ დასაჯეს, რომელმან უგონებოთა ჴორცთა მიმჴუმელად ქადაგა უფალი, ვითარცა უსრულობასა მაცხოვარებისა ჩუენისასა მომპოვნებელმან ამიერ.
 # translit = apolinaricʻa boroti mesaidumloey uketʻurebisay dasajes, romelman ugonebotʻa x̣orcʻtʻa mimx̣umelad kʻadaga upʻali, vitʻarcʻa usrulobasa macʻxovarebisa čʻuenisasa mompovnebelman amier.
-1	აპოლინარიცა	აპოლინარი	PROPN	Noun	Case=Nom|Number=Sing|PartType=Emp	4	obj	_	Translit=apolinaricʻa
+1	აპოლინარიცა	აპოლინარი	PROPN	Noun	Case=Nom|Number=Sing|PartType=Emp	5	obj	_	Translit=apolinaricʻa
 2	ბოროტი	ბოროტი	ADJ	Adj	Case=Nom|Number=Sing	3	amod	_	Translit=boroti
 3	მესაიდუმლოეჲ	მესაიდუმლოეჲ	NOUN	Noun	Case=Nom|Number=Sing	1	appos	_	Translit=mesaidumloey
 4	უკეთურებისაჲ	უკეთურება	NOUN	Noun	Case=Gen|Number=Sing	3	nmod	_	Translit=uketʻurebisay
