@@ -3745,7 +3745,7 @@
 62	მათ	იგი	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	63	det	_	Translit=matʻ
 63	სარწმუნოებისა	სარწმუნოება	NOUN	Noun	Case=Gen|Number=Sing	64	nmod	_	Translit=sarcmunoebisa
 64	საზღვართასა	საზღვარი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	67	obl	_	SpaceAfter=No|Translit=sazġvartʻasa
-65	,	,	PUNCT	F	PunctType=Comm	60	punct	_	Translit=,
+65	,	,	PUNCT	F	PunctType=Comm	67	punct	_	Translit=,
 66	ანუ	ანუ	CCONJ	Conj	_	67	cc	_	Translit=anu
 67	გარდავჰჴდებით	გარდავჰჴდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	58	conj	_	Translit=gardavhx̣debitʻ
 68	რომელსაცა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	69	det	_	Translit=romelsacʻa
