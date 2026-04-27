@@ -2959,11 +2959,11 @@
 7-8	მამათაგან	_	_	_	_	_	_	_	SpaceAfter=No
 7	მამათა	მამა	NOUN	Noun	Case=Gen|Number=Plur	40	obl	_	Translit=mamatʻa
 8	გან	გან	ADP	Post	AdpType=Post|Case=Ins	7	case	_	Translit=gan
-9	,	,	PUNCT	F	PunctType=Comm	40	punct	_	Translit=,
+9	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
 10	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	11	nsubj	_	Translit=romelni
 11	შეკრბეს	შეკრება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	7	acl:relcl	_	Translit=šekrbes
 12	ნიკეას	ნიკეა	PROPN	Noun	Case=Dat|Number=Sing	11	obl	_	Translit=nikeas
-13	კოსტანტინეს	კოსტანტინე	PROPN	Noun	Case=Gen|Number=Sing	14	nmod	_	Translit=kostantines
+13	კოსტანტინეს	კოსტანტინე	PROPN	Noun	Case=Gen|Number=Sing	15	nmod	_	Translit=kostantines
 14	ზე	ზე	ADP	Post	AdpType=Post|Case=Gen	15	case	_	Translit=ze
 15	დიდისა	დიდი	ADJ	Adj	Case=Gen|Number=Sing	16	amod	_	Translit=didisa
 16	მეფისა	მეფე	NOUN	Noun	Case=Gen|Number=Sing	11	obl	_	Translit=mepʻisa
@@ -2974,8 +2974,8 @@
 20	ბოროტად	ბოროტად	ADV	Adv	AdvType=Man	21	advmod	_	Translit=borotad
 21	მსახურისა	მსახური	NOUN	Noun	Case=Gen|Number=Sing	18	nmod	_	Translit=msaxurisa
 22	და	და	CCONJ	Conj	_	26	cc	_	Translit=da
-23	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	24	nmod	_	Translit=mis
-24	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	26	case	_	Translit=mier
+23	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	25	nmod	_	Translit=mis
+24	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	23	case	_	Translit=mier
 25	სჯულდებულისა	სჯულდებული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Pass	26	amod	_	Translit=sjuldebulisa
 26	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	28	nmod	_	Translit=mis
 27	წარმართულისა	წარმართული	ADJ	Adj	Case=Gen|Number=Sing	28	amod	_	Translit=carmartʻulisa
@@ -2990,9 +2990,9 @@
 35	უსაკუთრესად	უსაკუთრესად	ADV	Adv	AdvType=Man	36	advmod	_	Translit=usakutʻresad
 36	სათქუმელ	სათქუმელი	ADJ	Adj	Case=Nom|Number=Sing	40	advcl	_	Translit=satʻkʻumel
 37	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	cop	_	SpaceAfter=No|Translit=ars
-38	,	,	PUNCT	F	PunctType=Comm	40	punct	_	Translit=,
+38	,	,	PUNCT	F	PunctType=Comm	39	punct	_	Translit=,
 39-40	რომელთა-იგი	_	_	_	_	_	_	_	_
-39	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	48	obl	_	Translit=romeltʻa
+39	რომელთა	რომელი	PRON	Pron	Case=Gen|ExtPos=PRON|Number=Plur|PronType=Rel	48	obl	_	Translit=romeltʻa
 40	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	39	fixed	_	Translit=igi
 41	სწორითა	სწორი	ADJ	Adj	Case=Ins|Number=Sing	42	amod	_	Translit=scoritʻa
 42	აღსაარებითა	აღსაარება	NOUN	Noun	Case=Ins|Number=Sing	48	obl	_	Translit=aġsaarebitʻa
