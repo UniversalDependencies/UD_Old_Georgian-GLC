@@ -3196,7 +3196,7 @@
 50	და	და	CCONJ	Conj	_	55	cc	_	Translit=da
 51	მცბიერისა	მცბიერი	ADJ	Adj	Case=Gen|Number=Sing	52	amod	_	Translit=mcʻbierisa
 52	ნისტორის	ნისტორი	PROPN	Noun	Case=Gen|Number=Sing	53	nmod	_	Translit=nistoris
-53	განყოფისა	განყოფი	NOUN	Noun	Case=Gen|Number=Sing	55	obj	_	SpaceAfter=No|Translit=ganqopʻisa
+53	განყოფისა	განყოფი	NOUN	Noun	Case=Gen|Number=Sing	61	nmod	_	SpaceAfter=No|Translit=ganqopʻisa
 54	,	,	PUNCT	F	PunctType=Comm	55	punct	_	Translit=,
 55	ვითარცა	ვითარცა	SCONJ	Conj	_	61	mark	_	Translit=vitʻarcʻa
 56	საღმრთოჲსა	საღმრთოჲ	ADJ	Adj	Case=Gen|Number=Sing	57	amod	_	Translit=saġmrtʻoysa
@@ -3208,13 +3208,13 @@
 61	წარმდევნელნი	წარმდევნელი	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part	49	conj	_	SpaceAfter=No|Translit=carmdevnelni
 62	,	,	PUNCT	F	PunctType=Comm	61	punct	_	Translit=,
 63-64	რომელი-იგი	_	_	_	_	_	_	_	_
-63	რომელი	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	71	nsubj	_	Translit=romeli
+63	რომელი	რომელი	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Rel	74	nsubj	_	Translit=romeli
 64	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	63	fixed	_	Translit=igi
-65	განთჳსებულად	განთჳსებულად	ADV	Adv	AdvType=Man	66	advmod	_	Translit=gantʻwsebulad
-66	კაცად	კაცი	NOUN	Noun	Case=Ess|Number=Sing	71	xcomp	_	Translit=kacʻad
+65	განთჳსებულად	განთჳსებულად	ADV	Adv	AdvType=Man	74	advmod	_	Translit=gantʻwsebulad
+66	კაცად	კაცი	NOUN	Noun	Case=Ess|Number=Sing	74	obl	_	Translit=kacʻad
 67	და	და	CCONJ	Conj	_	68	cc	_	Translit=da
-68	განთჳსებულად	განთჳსებულად	ADV	Adv	AdvType=Man	69	advmod	_	Translit=gantʻwsebulad
-69	ღმრთად	ღმერთი	NOUN	Noun	Case=Ess|Number=Sing	66	conj	_	Translit=ġmrtʻad
+68	განთჳსებულად	განთჳსებულად	ADV	Adv	AdvType=Man	65	conj	_	Translit=gantʻwsebulad
+69	ღმრთად	ღმერთი	NOUN	Noun	Case=Ess|Number=Sing	68	nmod	_	Translit=ġmrtʻad
 70	ერთსა	ერთი	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	73	det	_	Translit=ertʻsa
 71	და	და	CCONJ	Conj	_	72	cc	_	Translit=da
 72	მასვე	იგი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Dem	70	conj	_	Translit=masve
