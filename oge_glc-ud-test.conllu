@@ -3296,17 +3296,17 @@
 # sent_id = OGLC_00057
 # text = და მას თანა ნესტორცა და დიოსკორე, ერთი იგი განყოფისა, ხოლო მეორე შერევნისა თანა-მოღუაწე და წინამბრძოლი და ურთიერთას წინააღმდგომობითა ბოროტად მსახურებისაჲთა ერთსა მთხრებლსა წარწყმედისა და უღმრთოებისასა შთაბნეულნი, განფხურნეს.
 # translit = da mas tʻana nestorcʻa da dioskore, ertʻi igi ganqopʻisa, xolo meore šerevnisa tʻana-moġuace da cinambrżoli da urtʻiertʻas cinaaġmdgomobitʻa borotad msaxurebisaytʻa ertʻsa mtʻxreblsa carcqmedisa da uġmrtʻoebisasa štʻabneulni, ganpʻxurnes.
-1	და	და	CCONJ	Conj	_	20	cc	_	Translit=da
-2	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	20	obl	_	Translit=mas
+1	და	და	CCONJ	Conj	_	31	cc	_	Translit=da
+2	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	31	obl	_	Translit=mas
 3	თანა	თანა	ADP	Post	AdpType=Post|Case=Dat	2	case	_	Translit=tʻana
-4	ნესტორცა	ნესტორი	PROPN	Noun	Case=Nom|Number=Sing|PartType=Emp	20	nsubj	_	Translit=nestorcʻa
+4	ნესტორცა	ნესტორი	PROPN	Noun	Case=Nom|Number=Sing|PartType=Emp	31	nsubj	_	Translit=nestorcʻa
 5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
 6	დიოსკორე	დიოსკორე	PROPN	Noun	Case=Nom|Number=Sing	4	conj	_	SpaceAfter=No|Translit=dioskore
-7	,	,	PUNCT	F	PunctType=Comm	20	punct	_	Translit=,
+7	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 8	ერთი	ერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	4	appos	_	Translit=ertʻi
 9	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	8	det	_	Translit=igi
 10	განყოფისა	განყოფი	NOUN	Noun	Case=Gen|Number=Sing	8	nmod	_	SpaceAfter=No|Translit=ganqopʻisa
-11	,	,	PUNCT	F	PunctType=Comm	20	punct	_	Translit=,
+11	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
 12	ხოლო	ხოლო	CCONJ	Conj	_	13	cc	_	Translit=xolo
 13	მეორე	მეორე	ADJ	Adj	Case=Nom|Number=Sing	8	conj	_	Translit=meore
 14	შერევნისა	შერევნა	NOUN	Noun	Case=Gen|Number=Sing	16	nmod	_	Translit=šerevnisa
@@ -3316,17 +3316,17 @@
 17	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
 18	წინამბრძოლი	წინამბრძოლი	NOUN	Noun	Case=Nom|Number=Sing	16	conj	_	Translit=cinambrżoli
 19	და	და	CCONJ	Conj	_	20	cc	_	Translit=da
-20	ურთიერთას	ურთიერთა	ADV	Adv	AdvType=Rec	24	advmod	_	Translit=urtʻiertʻas
+20	ურთიერთას	ურთიერთა	ADV	Adv	AdvType=Rec	31	advmod	_	Translit=urtʻiertʻas
 21	წინააღმდგომობითა	წინააღმდგომობა	NOUN	Noun	Case=Ins|Number=Sing	24	obl	_	Translit=cinaaġmdgomobitʻa
 22	ბოროტად	ბოროტად	ADV	Adv	AdvType=Man	23	advmod	_	Translit=borotad
 23	მსახურებისაჲთა	მსახურება	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	21	nmod	_	Translit=msaxurebisaytʻa
 24	ერთსა	ერთი	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	25	det	_	Translit=ertʻsa
-25	მთხრებლსა	მთხრებელი	NOUN	Noun	Case=Dat|Number=Sing	28	obl	_	Translit=mtʻxreblsa
+25	მთხრებლსა	მთხრებელი	NOUN	Noun	Case=Dat|Number=Sing	29	obl	_	Translit=mtʻxreblsa
 26	წარწყმედისა	წარწყმედა	NOUN	Noun	Case=Gen|Number=Sing	25	nmod	_	Translit=carcqmedisa
 27	და	და	CCONJ	Conj	_	28	cc	_	Translit=da
 28	უღმრთოებისასა	უღმრთოება	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	26	conj	_	Translit=uġmrtʻoebisasa
-29	შთაბნეულნი	შთაბნეული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	30	advcl	_	SpaceAfter=No|Translit=štʻabneulni
-30	,	,	PUNCT	F	PunctType=Comm	31	punct	_	Translit=,
+29	შთაბნეულნი	შთაბნეული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	31	advcl	_	SpaceAfter=No|Translit=štʻabneulni
+30	,	,	PUNCT	F	PunctType=Comm	29	punct	_	Translit=,
 31	განფხურნეს	განფხურება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=ganpʻxurnes
 32	.	.	PUNCT	F	PunctType=Peri	31	punct	_	Translit=.
 
