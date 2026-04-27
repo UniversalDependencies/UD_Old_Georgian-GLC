@@ -3035,7 +3035,7 @@
 79	უჩინო	უჩინო	ADV	Adv	AdvType=Man	80	xcomp	_	Translit=učʻino
 80	ყვეს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	77	conj	_	Translit=qves
 81	და	და	CCONJ	Conj	_	90	cc	_	Translit=da
-82	წინააღსადგომელად	წინააღსადგომელად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	90	advmod	_	Translit=cinaaġsadgomelad
+82	წინააღსადგომელად	წინააღსადგომელად	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	90	obl	_	Translit=cinaaġsadgomelad
 83	მართლმადიდებლობისა	მართლმადიდებლობა	NOUN	Noun	Case=Gen|Number=Sing	82	nmod	_	Translit=martʻlmadideblobisa
 84	ყრმებრივნი	ყრმებრივი	ADJ	Adj	Case=Nom|Number=Plur	89	amod	_	Translit=qrmebrivni
 85	იგი	იგი	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	84	det	_	Translit=igi
@@ -3058,8 +3058,8 @@
 5	მეფისა	მეფე	NOUN	Noun	Case=Gen|Number=Sing	16	nmod	_	Translit=mepʻisa
 6	ჩუენისა	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	nmod	_	Translit=čʻuenisa
 7	სამეუფოსა	სამეუფოჲ	ADJ	Adj	Case=Dat|Number=Sing	10	amod	_	Translit=sameupʻosa
-8	ამას	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	9	nmod	_	Translit=amas
-9	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	10	case	_	Translit=šina
+8	ამას	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	10	nmod	_	Translit=amas
+9	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	8	case	_	Translit=šina
 10	ქალაქსა	ქალაქი	NOUN	Noun	Case=Dat|Number=Sing	16	nmod	_	Translit=kʻalakʻsa
 11	შეკრებულთა	შეკრებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	14	amod	_	Translit=šekrebultʻa
 12	ასერგასისთა	ასერგასი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	14	nummod	_	Translit=asergasistʻa
@@ -3077,9 +3077,9 @@
 23	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	22	case	_	Translit=tʻws
 24	სულისა	სული	NOUN	Noun	Case=Gen|Number=Sing	22	nmod	_	Translit=sulisa
 25	წმიდისა	წმიდაჲ	ADJ	Adj	Case=Gen|Number=Sing	24	amod	_	SpaceAfter=No|Translit=cmidisa
-26	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
+26	,	,	PUNCT	F	PunctType=Comm	36	punct	_	Translit=,
 27-28	რომელთა-იგი	_	_	_	_	_	_	_	_
-27	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	36	obl	_	Translit=romeltʻa
+27	რომელთა	რომელი	PRON	Pron	Case=Gen|ExtPos=PRON|Number=Plur|PronType=Rel	36	obl	_	Translit=romeltʻa
 28	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	27	fixed	_	Translit=igi
 29	ბილწი	ბილწი	ADJ	Adj	Case=Nom|Number=Sing	36	nsubj	_	Translit=bilci
 30	მაკედონიოს	მაკედონიოს	PROPN	Noun	Case=Nom|Number=Sing	29	appos	_	Translit=makedonios
@@ -3102,18 +3102,18 @@
 47	ავაზაკებრ	ავაზაკებრ	ADV	Adv	AdvType=Man	48	advmod	_	Translit=avazakebr
 48	შემომღებელი	შემომღებელი	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part	41	conj	_	SpaceAfter=No|Translit=šemomġebeli
 49	,	,	PUNCT	F	PunctType=Comm	48	punct	_	Translit=,
-50	რაჲთა	რაჲთა	SCONJ	Conj	_	53	mark	_	Translit=raytʻa
-51	არა	არა	PART	Part	PartType=Neg	53	advmod:neg	_	Translit=ara
+50	რაჲთა	რაჲთა	SCONJ	Conj	_	52	mark	_	Translit=raytʻa
+51	არა	არა	PART	Part	PartType=Neg	52	advmod:neg	_	Translit=ara
 52	უსრულ	უსრულ	ADJ	Adj	Case=Nom|Number=Sing	48	advcl	_	Translit=usrul
 53	იყოს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	52	cop	_	Translit=iqos
-54	საიდუმლოჲ	საიდუმლოჲ	NOUN	Noun	Case=Nom|Number=Sing	53	nsubj	_	Translit=saidumloy
+54	საიდუმლოჲ	საიდუმლოჲ	NOUN	Noun	Case=Nom|Number=Sing	52	nsubj	_	Translit=saidumloy
 55	სასოებისა	სასოება	NOUN	Noun	Case=Gen|Number=Sing	54	nmod	_	Translit=sasoebisa
 56	ჩუენისაჲ	ჩუენი	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	55	det	_	Translit=čʻuenisay
 57	ამას	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	61	obl	_	Translit=amas
 58	უკუე	უკუე	ADV	Adv	AdvType=Tim	61	advmod	_	Translit=ukue
 59	საძაგელსა	საძაგელი	ADJ	Adj	Case=Dat|Number=Sing	61	amod	_	Translit=sażagelsa
 60	წინააღმდგომსა	წინააღმდგომი	ADJ	Adj	Case=Dat|Number=Sing	61	amod	_	Translit=cinaaġmdgomsa
-61	თანა	თანა	ADP	Post	AdpType=Post|Case=Dat	53	obl	_	Translit=tʻana
+61	თანა	თანა	ADP	Post	AdpType=Post|Case=Dat	52	obl	_	Translit=tʻana
 62	ჭეშმარიტებისასა	ჭეშმარიტება	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	61	nmod	_	SpaceAfter=No|Translit=češmaritebisasa
 63	.	.	PUNCT	F	PunctType=Peri	17	punct	_	Translit=.
 
