@@ -2921,8 +2921,8 @@
 # text = აწცა დასაბამსა სამღდელოთა სიტყუათასა ვიწყებთ და მადლითა ღმრთისაჲთა განვასაზღვრებთ შეუხებელად და უვნებელად დაცვასა ჩუენდა მოცემულისა სარწმუნოებისასა თჳთმხილველთაგანცა და მსახურთა სიტყჳსათა ღმრთივ მზრახვალთა მოციქულთა.
 # translit = accʻa dasabamsa samġdelotʻa sitquatʻasa vicqebtʻ da madlitʻa ġmrtʻisaytʻa ganvasazġvrebtʻ šeuxebelad da uvnebelad dacʻvasa čʻuenda mocʻemulisa sarcmunoebisasa tʻwtʻmxilveltʻagancʻa da msaxurtʻa sitqwsatʻa ġmrtʻiv mzraxvaltʻa mocʻikʻultʻa.
 1	აწცა	აწცა	ADV	Adv	AdvType=Tim	4	advmod	_	Translit=accʻa
-2	დასაბამსა	დასაბამი	NOUN	Noun	Case=Dat|Number=Sing	4	obl	_	Translit=dasabamsa
-3	სამღდელოთა	სამღდელოჲ	ADJ	Adj	Case=Gen|Number=Plur	4	obl	_	Translit=samġdelotʻa
+2	დასაბამსა	დასაბამი	NOUN	Noun	Case=Dat|Number=Sing	4	nmod	_	Translit=dasabamsa
+3	სამღდელოთა	სამღდელოჲ	ADJ	Adj	Case=Gen|Number=Plur	4	amod	_	Translit=samġdelotʻa
 4	სიტყუათასა	სიტყუაჲ	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	5	obj	_	Translit=sitquatʻasa
 5	ვიწყებთ	წყება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=vicqebtʻ
 6	და	და	CCONJ	Conj	_	9	cc	_	Translit=da
@@ -2933,11 +2933,11 @@
 11	და	და	CCONJ	Conj	_	12	cc	_	Translit=da
 12	უვნებელად	უვნებელად	ADV	Adv	AdvType=Man	10	conj	_	Translit=uvnebelad
 13	დაცვასა	დაცვა	NOUN	Noun	Case=Dat|Number=Sing	9	obj	_	Translit=dacʻvasa
-14	ჩუენდა	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	15	iobj	_	Translit=čʻuenda
+14	ჩუენდა	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	13	nmod	_	Translit=čʻuenda
 15	მოცემულისა	მოცემული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Pass	16	amod	_	Translit=mocʻemulisa
 16	სარწმუნოებისასა	სარწმუნოება	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	13	nmod	_	Translit=sarcmunoebisasa
 17-18	თჳთმხილველთაგანცა	_	_	_	_	_	_	_	_
-17	თჳთმხილველთა	თჳთმხილველი	NOUN	Noun	Case=Gen|Number=Plur	13	obl	_	Translit=tʻwtʻmxilveltʻa
+17	თჳთმხილველთა	თჳთმხილველი	NOUN	Noun	Case=Gen|Number=Plur	13	nmod	_	Translit=tʻwtʻmxilveltʻa
 18	განცა	გან	ADP	Post	AdpType=Post|Case=Gen|PartType=Emp	17	case	_	Translit=gancʻa
 19	და	და	CCONJ	Conj	_	20	cc	_	Translit=da
 20	მსახურთა	მსახური	NOUN	Noun	Case=Gen|Number=Plur	17	conj	_	Translit=msaxurtʻa
@@ -2952,8 +2952,8 @@
 # translit = mermecʻa samas atʻrvamettʻa cmidatʻa da netartʻa mamatʻagan, romelni šekrbes nikeas kostantines ze didisa mepʻisa čʻuenisa ariozistʻws borotad msaxurisa da mis mier sjuldebulisa mis carmartʻulisa sxuaġmrtʻobisa anu tʻu mravalġmrtʻeebisa, vitʻar-igi usakutʻresad satʻkʻumel ars, romeltʻa-igi scoritʻa aġsaarebitʻa sarcmunoebisaytʻa ertʻarsebay samtʻave ġmertʻmtʻavrobitʻisa bunebisa guamovnebatʻay gamogwcʻxades da gangwnatʻles da ara šeundves moditʻa dapʻarvay amisi, aramed mamisa da żisa da sulisa cmidisa ertʻi tʻaquaniscʻemay cʻxadad ascaves morcmunetʻa da uscorotʻa xarisxtʻa ġmrtʻeebisatʻa boroti madideblobay daamx̣ues da učʻino qves da cinaaġsadgomelad martʻlmadideblobisa qrmebrivni igi kʻwšasa zeda našenebni mcvalebeltʻani daarġwnes da dascʻnes.
 1	მერმეცა	მერმეცა	ADV	Adv	AdvType=Tim|PartType=Emp	40	advmod	_	Translit=mermecʻa
 2	სამას	სამასი	NUM	Num	Case=Dat|NumType=Card	3	nummod	_	Translit=samas
-3	ათრვამეტთა	ათრვამეტი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	6	nummod	_	Translit=atʻrvamettʻa
-4	წმიდათა	წმიდაჲ	ADJ	Adj	Case=Gen|Number=Plur	6	amod	_	Translit=cmidatʻa
+3	ათრვამეტთა	ათრვამეტი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	7	nummod	_	Translit=atʻrvamettʻa
+4	წმიდათა	წმიდაჲ	ADJ	Adj	Case=Gen|Number=Plur	7	amod	_	Translit=cmidatʻa
 5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
 6	ნეტართა	ნეტარი	ADJ	Adj	Case=Gen|Number=Plur	4	conj	_	Translit=netartʻa
 7-8	მამათაგან	_	_	_	_	_	_	_	SpaceAfter=No
