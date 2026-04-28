@@ -5734,7 +5734,7 @@
 6	ჰრომთასა	ჰრომთა	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	4	nmod	_	Translit=hromtʻasa
 7	კანონებრივითა	კანონებრივი	ADJ	Adj	Case=Ins|Number=Sing	8	amod	_	Translit=kanonebrivitʻa
 8	წესითა	წესი	NOUN	Noun	Case=Ins|Number=Sing	9	obl	_	Translit=cesitʻa
-9	მოცემულად	მოცემული	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Part|Voice=Pass	10	advmod	_	Translit=mocʻemulad
+9	მოცემულად	მოცემული	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Part|Voice=Pass	10	obl	_	Translit=mocʻemulad
 10	გუასმიეს	სმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=guasmies
 11	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 12	რაჲთა	რაჲთა	SCONJ	SCONJ	_	23	mark	_	Translit=raytʻa
@@ -5780,7 +5780,7 @@
 49	გუნებავს	ნება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	35	conj	_	Translit=gunebavs
 50	ყოფაჲ	ყოფა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	49	csubj	_	SpaceAfter=No|Translit=qopʻay
 51	,	,	PUNCT	F	PunctType=Comm	49	punct	_	Translit=,
-52	არასადა	არასადა	ADV	Adv	AdvType=Loc|PronType=Neg	53	advmod	_	Translit=arasada
+52	არასადა	არასადა	ADV	Adv	AdvType=Loc	53	advmod	_	Translit=arasada
 53	განყენებითა	განყენება	NOUN	Noun	Case=Ins|Number=Sing	49	obl	_	Translit=ganqenebitʻa
 54	მათითა	მათი	PRON	Pron	Case=Ins|Number=Plur|PronType=Prs	53	nmod	_	Translit=matʻitʻa
 55	მეუღლეთა	მეუღლე	NOUN	Noun	Case=Dat|Number=Plur	56	obl	_	Translit=meuġletʻa
