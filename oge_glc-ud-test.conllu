@@ -6037,7 +6037,7 @@
 2	უკუე	უკუე	ADV	Adv	_	5	advmod	_	Translit=ukue
 3	ვინცა	ვინცა	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Rel	5	nsubj	_	Translit=vincʻa
 4	ვინ	ვინ	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	3	fixed	_	Translit=vin
-5	იკადროს	კადრება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	advcl	_	Translit=ikadros
+5	იკადროს	კადრება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	advcl	_	Translit=ikadros
 6	გარეშე	გარეშე	ADP	Post	AdpType=Post|Case=Gen	8	case	_	Translit=gareše
 7	სამოციქულოთა	სამოციქულო	ADJ	Adj	Case=Gen|Number=Plur	8	amod	_	Translit=samocʻikʻulotʻa
 8	კანონთასა	კანონი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	9	obl	_	Translit=kanontʻasa
@@ -6054,7 +6054,7 @@
 19	კერძო-დიაკონთა	კერძო-დიაკონი	NOUN	Noun	Case=Gen|Number=Plur	17	conj	_	Translit=kerżo-diakontʻa
 20-21	დაკლებულ-ყოფაჲ	_	_	_	_	_	_	_	_
 20	დაკლებულ	დაკლებული	VERB	Verb	VerbForm=Part|Voice=Pass	21	compound	_	Translit=daklebul
-21	ყოფაჲ	ყოფა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	29	nsubj:pass	_	Translit=qopʻay
+21	ყოფაჲ	ყოფა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	30	nsubj:pass	_	Translit=qopʻay
 22	სჯულიერთა	სჯულიერი	ADJ	Adj	Case=Gen|Number=Plur	23	amod	_	Translit=sjuliertʻa
 23	მეუღლეთა	მეუღლე	NOUN	Noun	Case=Gen|Number=Plur	25	nmod	_	Translit=meuġletʻa
 24	მიმართისა	მიმართ	ADP	Post	AdpType=Post|Case=Gen	23	case	_	Translit=mimartʻisa
@@ -6082,12 +6082,12 @@
 10	მეუღლე	მეუღლე	NOUN	Noun	Case=Nom|Number=Sing	9	obj	_	Translit=meuġle
 11	თჳსი	თჳსი	PRON	Pron	Case=Nom|Number=Sing|PronType=Prs	10	det	_	SpaceAfter=No|Translit=tʻwsi
 12	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
-13	დაეცადენ	დაცადება	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	17	conj	_	Translit=daecʻaden
+13	დაეცადენ	დაცადება	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=daecʻaden
 14-15	მღდელობისაგან	_	_	_	_	_	_	_	_
 14	მღდელობისა	მღდელობა	NOUN	Noun	Case=Gen|Number=Sing	13	obl	_	Translit=mġdelobisa
 15	გან	გან	ADP	Post	AdpType=Post|Case=Ins	14	case	_	Translit=gan
 16	და	და	CCONJ	Conj	_	17	cc	_	Translit=da
-17	ეგოს	გება	VERB	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=egos
+17	ეგოს	გება	VERB	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	Translit=egos
 18	თუ	თუ	PART	Part	_	20	advmod	_	Translit=tʻu
 19	მასვე	იგი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Prs	20	det	_	Translit=masve
 20	გულის	გული	NOUN	Noun	Case=Gen|Number=Sing	21	nmod	_	Translit=gulis
@@ -6143,9 +6143,9 @@
 40	ნათელ	ნათელი	NOUN	Noun	Case=Nom|Number=Sing	41	obl	_	Translit=natʻel
 41	იღო	ღება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	42	conj	_	Translit=iġo
 42	და	და	CCONJ	Conj	_	43	cc	_	Translit=da
-43	იწყო	წყება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	30	advcl	_	Translit=icqo
-44	სწავლად	სწავლა	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	43	xcomp	_	Translit=scavlad
-45	ეგრეთვე	ეგრეთვე	ADV	Adv	AdvType=Man	54	advmod	_	Translit=egretʻve
+43	იწყო	წყება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	41	conj	_	Translit=icqo
+44	სწავლად	სწავლა	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	43	obl	_	Translit=scavlad
+45	ეგრეთვე	ეგრეთვე	ADV	Adv	AdvType=Man	43	advmod	_	Translit=egretʻve
 46	ნუცა	ნუცა	PART	Part	PartType=Neg	54	advmod:neg	_	Translit=nucʻa
 47	დიაკონი	დიაკონი	NOUN	Noun	Case=Nom|Number=Sing	54	nsubj:pass	_	Translit=diakoni
 48	უწინარეს	უწინარეს	ADV	Adv	AdvType=Tim	54	advmod	_	Translit=ucinares
@@ -6156,8 +6156,8 @@
 53	პირველ	პირველ	ADV	Adv	AdvType=Tim	54	advmod	_	Translit=pirvel
 54	ორმეოცთა	ორმეოცი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	55	nummod	_	Translit=ormeocʻtʻa
 55	წელიწადთაჲსა	წელიწადი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	53	obl	_	Translit=celicadtʻaysa
-56	ჴელთდასხმულ	ჴელთდასხმული	VERB	Verb	VerbForm=Part|Voice=Pass	57	xcomp	_	Translit=x̣eltʻdasxmul
-57	იქმნების	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	43	conj	_	SpaceAfter=No|Translit=ikʻmnebis
+56	ჴელთდასხმულ	ჴელთდასხმული	VERB	Verb	VerbForm=Part|Voice=Pass	43	xcomp	_	Translit=x̣eltʻdasxmul
+57	იქმნების	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	56	cop	_	SpaceAfter=No|Translit=ikʻmnebis
 58	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id = OGLC_00109
