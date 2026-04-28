@@ -4804,15 +4804,15 @@
 21	მოყუასთა	მოყუასი	NOUN	Noun	Case=Gen|Number=Plur	17	advcl	_	Translit=moquastʻa
 22	განნი	გან	ADP	Post	AdpType=Post|Case=Gen	21	case	_	Translit=ganni
 23	იყვნენ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	21	cop	_	SpaceAfter=No|Translit=iqvnen
-24	,	,	PUNCT	F	PunctType=Comm	26	punct	_	Translit=,
+24	,	,	PUNCT	F	PunctType=Comm	25	punct	_	Translit=,
 25	განიკუეთნენ	განკუეთა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	17	parataxis	_	SpaceAfter=No|Translit=ganikuetʻnen
 26	,	,	PUNCT	F	PunctType=Comm	25	punct	_	Translit=,
 27	ხოლო	ხოლო	CCONJ	Conj	_	32	cc	_	Translit=xolo
-28	უკუეთუ	უკუეთუ	SCONJ	Conj	_	30	mark	_	Translit=ukuetʻu
-29	ერისკაცნი	ერისკაცი	NOUN	Noun	Case=Nom|Number=Plur	30	nsubj	_	SpaceAfter=No|Translit=eriskacʻni
+28	უკუეთუ	უკუეთუ	SCONJ	Conj	_	29	mark	_	Translit=ukuetʻu
+29	ერისკაცნი	ერისკაცი	NOUN	Noun	Case=Nom|Number=Plur	31	nsubj	_	SpaceAfter=No|Translit=eriskacʻni
 30	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
-31	უზიარებელ	უზიარებელი	ADJ	Adj	Case=Nom|Number=Sing	32	xcomp	_	Translit=uziarebel
-32	იქმენინ	ყოფა	AUX	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	25	conj	_	SpaceAfter=No|Translit=ikmenin
+31	უზიარებელ	უზიარებელი	ADJ	Adj	Case=Nom|Number=Sing	25	xcomp	_	Translit=uziarebel
+32	იქმენინ	ყოფა	AUX	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	31	cop	_	SpaceAfter=No|Translit=ikmenin
 33	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
 # sent_id = OGLC_00079
