@@ -4768,7 +4768,7 @@
 2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	4	mark	_	Translit=ukuetʻu
 3	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	4	nsubj	_	Translit=vinme
 4	გარდაჰჴდეს	გარდაჰჴდომა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	Translit=gardahx̣des
-5	ჩუენ	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	nmod	_	Translit=čʻuen
+5	ჩუენ	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nmod	_	Translit=čʻuen
 6	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	4	case	_	Translit=mier
 7	განსაზღვრებულსა	განსაზღვრებული	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Part|Voice=Pass	4	obl	_	Translit=gansazġvrebulsa
 8	ამას	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	7	det	_	SpaceAfter=No|Translit=amas
