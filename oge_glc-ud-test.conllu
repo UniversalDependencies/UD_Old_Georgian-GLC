@@ -1943,7 +1943,7 @@
 9	ყოვლად	ყოვლად	ADV	Adv	AdvType=Man	10	advmod	_	Translit=qovlad
 10	ნაყოფებად	ნაყოფი	NOUN	Noun	Case=Ess|Number=Sing	11	obl	_	Translit=naqopʻebad
 11	შეწირულ	შეწირული	VERB	Verb	VerbForm=Part|Voice=Pass	7	conj	_	Translit=šecirul
-12	იქმნების	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	11	cop	_	Translit=ikʻmnebis
+12	იქმნების	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Fut|VerbForm=Fin|Voice=Pass	11	cop	_	Translit=ikʻmnebis
 13	და	და	CCONJ	Conj	_	25	cc	_	Translit=da
 14	ღმერთი	ღმერთი	NOUN	Noun	Case=Nom|Number=Sing	26	nsubj	_	Translit=ġmertʻi
 15	დაკლული	დაკლული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	14	acl	_	Translit=dakluli
@@ -6157,7 +6157,7 @@
 54	ორმეოცთა	ორმეოცი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	55	nummod	_	Translit=ormeocʻtʻa
 55	წელიწადთაჲსა	წელიწადი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	53	obl	_	Translit=celicadtʻaysa
 56	ჴელთდასხმულ	ჴელთდასხმული	VERB	Verb	VerbForm=Part|Voice=Pass	43	xcomp	_	Translit=x̣eltʻdasxmul
-57	იქმნების	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	56	cop	_	SpaceAfter=No|Translit=ikʻmnebis
+57	იქმნების	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Fut|VerbForm=Fin|Voice=Pass	56	cop	_	SpaceAfter=No|Translit=ikʻmnebis
 58	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id = OGLC_00109
@@ -6170,7 +6170,7 @@
 5	წელიწადთაჲსა	წელიწადი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	3	obl	_	Translit=celicadtʻaysa
 6	ნუმცა	ნუმცა	PART	Part	PartType=Neg	7	advmod:neg	_	Translit=numcʻa
 7	ჴელთდასხმულ	ჴელთდასხმული	VERB	Verb	VerbForm=Part|Voice=Pass	0	root	_	Translit=x̣eltʻdasxmul
-8	იქმნების	ქმნა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	cop	_	SpaceAfter=No|Translit=ikʻmnebis
+8	იქმნების	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Fut|VerbForm=Fin|Voice=Pass	7	cop	_	SpaceAfter=No|Translit=ikʻmnebis
 9	.	.	PUNCT	F	PunctType=Peri	7	punct	_	Translit=.
 
 # sent_id = OGLC_00110
