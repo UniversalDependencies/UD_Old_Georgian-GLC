@@ -6146,8 +6146,8 @@
 43	იწყო	წყება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	41	conj	_	Translit=icqo
 44	სწავლად	სწავლა	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	43	obl	_	Translit=scavlad
 45	ეგრეთვე	ეგრეთვე	ADV	Adv	AdvType=Man	43	advmod	_	Translit=egretʻve
-46	ნუცა	ნუცა	PART	Part	PartType=Neg	54	advmod:neg	_	Translit=nucʻa
-47	დიაკონი	დიაკონი	NOUN	Noun	Case=Nom|Number=Sing	54	nsubj:pass	_	Translit=diakoni
+46	ნუცა	ნუცა	PART	Part	PartType=Neg	56	advmod:neg	_	Translit=nucʻa
+47	დიაკონი	დიაკონი	NOUN	Noun	Case=Nom|Number=Sing	56	nsubj:pass	_	Translit=diakoni
 48	უწინარეს	უწინარეს	ADV	Adv	AdvType=Tim	54	advmod	_	Translit=ucinares
 49	ოცდახუთთა	ოცდახუთი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	50	nummod	_	Translit=ocʻdaxutʻtʻa
 50	წელიწადთაჲსა	წელიწადი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	48	obl	_	Translit=celicadtʻaysa
