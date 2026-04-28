@@ -6035,7 +6035,7 @@
 # translit = ac ukue vincʻa vin ikadros gareše samocʻikʻulotʻa kanontʻasa aġżrulman mġdelad gančʻinebultʻa vietʻicʻa, xucʻestʻa vitqwtʻ, diakontʻa da kerżo-diakontʻa daklebul-qopʻay sjuliertʻa meuġletʻa mimartʻisa ziarebisa da šeqopʻisagan, ganikuetʻen.
 1	აწ	აწ	ADV	Adv	AdvType=Tim	5	advmod	_	Translit=ac
 2	უკუე	უკუე	ADV	Adv	_	5	advmod	_	Translit=ukue
-3	ვინცა	ვინცა	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	5	nsubj	_	Translit=vincʻa
+3	ვინცა	ვინცა	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Rel	5	nsubj	_	Translit=vincʻa
 4	ვინ	ვინ	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	3	fixed	_	Translit=vin
 5	იკადროს	კადრება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	advcl	_	Translit=ikadros
 6	გარეშე	გარეშე	ADP	Post	AdpType=Post|Case=Gen	8	case	_	Translit=gareše
@@ -6051,9 +6051,9 @@
 16	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
 17	დიაკონთა	დიაკონი	NOUN	Noun	Case=Gen|Number=Plur	14	conj	_	Translit=diakontʻa
 18	და	და	CCONJ	Conj	_	19	cc	_	Translit=da
-19	კერძო-დიაკონთა	კერძო-დიაკონი	NOUN	Noun	Case=Gen|Number=Plur	17	conj	_	SpaceAfter=No|Translit=kerżo-diakontʻa
+19	კერძო-დიაკონთა	კერძო-დიაკონი	NOUN	Noun	Case=Gen|Number=Plur	17	conj	_	Translit=kerżo-diakontʻa
 20-21	დაკლებულ-ყოფაჲ	_	_	_	_	_	_	_	_
-20	დაკლებულ	დაკლებული	VERB	Verb	VerbForm=Part|Voice=Pass	29	nsubj:pass	_	Translit=daklebul
+20	დაკლებულ	დაკლებული	VERB	Verb	ExtPos=VERB|VerbForm=Part|Voice=Pass	29	nsubj:pass	_	Translit=daklebul
 21	ყოფაჲ	ყოფა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	20	fixed	_	Translit=qopʻay
 22	სჯულიერთა	სჯულიერი	ADJ	Adj	Case=Gen|Number=Plur	23	amod	_	Translit=sjuliertʻa
 23	მეუღლეთა	მეუღლე	NOUN	Noun	Case=Gen|Number=Plur	25	nmod	_	Translit=meuġletʻa
