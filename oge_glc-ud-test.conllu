@@ -4735,7 +4735,7 @@
 6	თანა	თანა	ADP	Post	AdpType=Post|Case=Dat	5	case	_	Translit=tʻana
 7	დაწესებული	დაწესებული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	3	acl	_	Translit=dacesebuli
 8	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	16	obl	_	Translit=tʻwnier
-9	კანონისა	კანონი	NOUN	Noun	Case=Gen|Number=Sing	10	nmod	_	Translit=kanonisa
+9	კანონისა	კანონი	NOUN	Noun	Case=Gen|Number=Sing	11	nmod	_	Translit=kanonisa
 10	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	9	case	_	Translit=mier
 11	მოჴსენებულთა	მოჴსენებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	14	amod	_	Translit=mox̣senebultʻa
 12	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	14	det	_	Translit=matʻ
