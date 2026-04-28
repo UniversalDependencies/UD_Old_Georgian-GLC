@@ -3465,7 +3465,7 @@
 28	ამიერ	ამიერ	ADV	Adv	AdvType=Man	27	advmod	_	SpaceAfter=No|Translit=amier
 29	,	,	PUNCT	F	PunctType=Comm	27	punct	_	Translit=,
 30-31	რაჟამს-იგი	_	_	_	_	_	_	_	_
-30	რაჟამს	რაჟამს	ADV	Adv	AdvType=Tim	37	admod	_	Translit=ražams
+30	რაჟამს	რაჟამს	ADV	Adv	AdvType=Tim	37	advmod	_	Translit=ražams
 31	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	37	nsubj	_	Translit=igi
 32	კეთილად	კეთილად	ADV	Adv	AdvType=Man	33	advmod	_	Translit=ketʻilad
 33	მსახურმან	მსახური	NOUN	Noun	Case=Erg|Number=Sing	31	appos	_	Translit=msaxurman
