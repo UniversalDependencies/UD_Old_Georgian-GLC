@@ -6902,7 +6902,7 @@
 # text = ხოლო ოდეს ამათდა მიმართ უღონო იყვნენ, განვარდებიან ჯეროვნისაგან, რამეთუ პირველთქუმულთა ამათ მამათა მოძღურებისა მიერ მეცნიერებად სასწრაფოთა და აღსარჩეველთა და უდარესთა და განსაგდებელთა საქმეთა მოსრულნი ერნი უმჯობესისა მიმართ გარდასცვალებენ ცხორებასა და უმეცრებისა ვნებათა მიერ არა განიხრწნებიან, არამედ შედგომითა მათ მოძღურებათაჲთა განამჴნობენ თავთა თჳსთა, რაჲთა არარაჲ შეემთხჳოს მათ ვნებაჲ, და შიშითა განმზადებულთა სატანჯველთაჲთა ცხორებასა თჳსსა მოქმედებენ.
 # translit = xolo odes amatʻda mimartʻ uġono iqvnen, ganvardebian jerovnisagan, rametʻu pirveltʻkʻumultʻa amatʻ mamatʻa możġurebisa mier mecʻnierebad sascrapʻotʻa da aġsarčʻeveltʻa da udarestʻa da gansagdebeltʻa sakʻmetʻa mosrulni erni umjobesisa mimartʻ gardascʻvaleben cʻxorebasa da umecʻrebisa vnebatʻa mier ara ganixrcnebian, aramed šedgomitʻa matʻ możġurebatʻaytʻa ganamx̣noben tʻavtʻa tʻwstʻa, raytʻa araray šeemtʻxwos matʻ vnebay, da šišitʻa ganmzadebultʻa satanjveltʻaytʻa cʻxorebasa tʻwssa mokʻmedeben.
 1	ხოლო	ხოლო	CCONJ	Conj	_	5	cc	_	Translit=xolo
-2	ოდეს	ოდეს	SCONJ	Conj	AdvType=Rel	5	mark	_	Translit=odes
+2	ოდეს	ოდეს	SCONJ	Conj	_	5	mark	_	Translit=odes
 3	ამათდა	ეს	PRON	Pron	Case=Dat|Number=Plur|PronType=Dem	4	obl	_	Translit=amatʻda
 4	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Dat	5	obl	_	Translit=mimartʻ
 5	უღონო	უღონო	ADJ	Adj	Case=Nom|Number=Plur	8	advcl	_	Translit=uġono
