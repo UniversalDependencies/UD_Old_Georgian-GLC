@@ -5041,7 +5041,7 @@
 29	ეკლესიასა	ეკლესია	NOUN	Noun	Case=Dat|Number=Sing	27	obl	_	Translit=eklesiasa
 30	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	29	case	_	Translit=šina
 31	მათსა	ის	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	29	nmod	_	SpaceAfter=No|Translit=matʻsa
-32	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
+32	,	,	PUNCT	F	PunctType=Comm	58	punct	_	Translit=,
 33-34	ვინაჲთგან	_	_	_	_	_	_	_	_
 33	ვინაჲთ	ვინაჲთ	ADV	Adv	_	36	advmod	_	Translit=vinaytʻ
 34	გან	გან	ADP	Post	AdpType=Post|Case=Ins	33	case	_	Translit=gan
@@ -5077,7 +5077,7 @@
 64	წოდებულთა	წოდებული	VERB	Verb	Case=Dat|Number=Plur|VerbForm=Part|Voice=Pass	65	obl	_	Translit=codebultʻa
 65	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Dat	63	obl	_	Translit=mimartʻ
 66	იგავსა	იგავი	NOUN	Noun	Case=Dat|Number=Sing	63	obj	_	SpaceAfter=No|Translit=igavsa
-67	,	,	PUNCT	F	PunctType=Comm	63	punct	_	Translit=,
+67	,	,	PUNCT	F	PunctType=Comm	69	punct	_	Translit=,
 68	რომელსა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	69	iobj	_	Translit=romelsa
 69	მოაქუნდა	ქონება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	66	acl:relcl	_	Translit=moakʻunda
 70	ვითამე	ვითამე	PART	Part	_	71	advmod	_	Translit=vitʻame
@@ -5104,11 +5104,11 @@
 91	ნუუკუე	ნუუკუე	PART	Part	PartType=Neg	93	advmod:neg	_	Translit=nuukue
 92	უპატიოსნესი	უპატიოსნესი	ADJ	Adj	Case=Nom|Number=Sing	93	nsubj	_	Translit=upatiosnesi
 93	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	96	nsubj	_	Translit=vinme
-94	შენსა	შენი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	95	nmod	_	Translit=šensa
-95	იყოს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	93	cop	_	Translit=iqos
+94	შენსა	შენი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	96	nmod	_	Translit=šensa
+95	იყოს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	96	cop	_	Translit=iqos
 96	წოდებული	წოდებული	VERB	Verb	VerbForm=Part|Voice=Pass	87	conj	_	Translit=codebuli
-97	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	98	nmod	_	Translit=mis
-98	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	96	case	_	Translit=mier
+97	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	96	nmod	_	Translit=mis
+98	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	97	case	_	Translit=mier
 99	და	და	CCONJ	Conj	_	100	cc	_	Translit=da
 100	მოვიდეს	მოსვლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	87	conj	_	SpaceAfter=No|Translit=movides
 101	,	,	PUNCT	F	PunctType=Comm	100	punct	_	Translit=,
