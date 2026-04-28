@@ -4803,7 +4803,7 @@
 21-22	მოყუასთაგანნი	_	_	_	_	_	_	_	_
 21	მოყუასთა	მოყუასი	NOUN	Noun	Case=Gen|Number=Plur	14	advcl	_	Translit=moquastʻa
 22	განნი	გან	ADP	Post	AdpType=Post|Case=Gen	21	case	_	Translit=ganni
-23	იყვნენ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	23	cop	_	SpaceAfter=No|Translit=iqvnen
+23	იყვნენ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	21	cop	_	SpaceAfter=No|Translit=iqvnen
 24	,	,	PUNCT	F	PunctType=Comm	26	punct	_	Translit=,
 25	განიკუეთნენ	განკუეთა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	17	parataxis	_	SpaceAfter=No|Translit=ganikuetʻnen
 26	,	,	PUNCT	F	PunctType=Comm	25	punct	_	Translit=,
