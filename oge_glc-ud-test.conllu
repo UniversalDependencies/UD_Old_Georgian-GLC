@@ -5438,7 +5438,7 @@
 8	დასცხერინ	დაცხრომა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=dascʻxerin
 9	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
 10	ანუ	ანუ	CCONJ	Conj	_	11	cc	_	Translit=anu
-11	განიკუეთენ	განკუეთა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	conj	_	Translit=ganikuetʻen.
+11	განიკუეთენ	განკუეთა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	conj	_	SpaceAfter=No|Translit=ganikuetʻen.
 12	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
 
 # sent_id = OGLC_00092
@@ -5457,14 +5457,14 @@
 11	ვახშსა	ვახში	NOUN	Noun	Case=Dat|Number=Sing	13	obj	_	Translit=vaxšsa
 12	ანუ	ანუ	CCONJ	Conj	_	13	cc	_	Translit=anu
 13	რასვე	რაჲ	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Ind	11	conj	_	Translit=rasve
-14	აღნადგინებსა	აღნადგინება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	Translit=aġnadginebsa
-15	მიიღებდეს	მიღება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	14	conj	_	SpaceAfter=No|Translit=miiġebdes
+14	აღნადგინებსა	აღნადგინება	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	2	acl:relcl	_	Translit=aġnadginebsa
+15	მიიღებდეს	მიღება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=miiġebdes
 16	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
 17	ანუ	ანუ	CCONJ	Conj	_	18	cc	_	Translit=anu
-18	დასცხერინ	დაცხრომა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=dascʻxerin
+18	დასცხერინ	დაცხრომა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	SpaceAfter=No|Translit=dascʻxerin
 19	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
 20	ანუ	ანუ	CCONJ	Conj	_	21	cc	_	Translit=anu
-21	განიკუეთენ	განკუეთა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	18	conj	_	SpaceAfter=No|Translit=ganikuetʻen
+21	განიკუეთენ	განკუეთა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	15	conj	_	SpaceAfter=No|Translit=ganikuetʻen
 22	.	.	PUNCT	F	PunctType=Peri	18	punct	_	Translit=.
 
 # sent_id = OGLC_00093
