@@ -4834,7 +4834,7 @@
 12	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
 13	რაჲთა	რაჲთა	SCONJ	SCONJ	_	19	mark	_	Translit=raytʻa
 14	წიგნის	წიგნი	NOUN	Noun	Case=Gen|Number=Sing	15	nmod	_	Translit=cignis
-15	მკითხველობასავე	მკითხველობა	NOUN	Noun	Case=Dat|Number=Sing|PartType=Emp	18	obl	_	Translit=mkitʻxvelobasave
+15	მკითხველობასავე	მკითხველობა	NOUN	Noun	Case=Dat|Number=Sing|PartType=Emp	19	obl	_	Translit=mkitʻxvelobasave
 16	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	15	case	_	Translit=šina
 17	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
 18	მგალობელობასა	მგალობელობა	NOUN	Noun	Case=Dat|Number=Sing	15	conj	_	Translit=mgalobelobasa
