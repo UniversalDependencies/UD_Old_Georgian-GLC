@@ -6053,7 +6053,7 @@
 18	და	და	CCONJ	Conj	_	19	cc	_	Translit=da
 19	კერძო-დიაკონთა	კერძო-დიაკონი	NOUN	Noun	Case=Gen|Number=Plur	17	conj	_	Translit=kerżo-diakontʻa
 20-21	დაკლებულ-ყოფაჲ	_	_	_	_	_	_	_	_
-20	დაკლებულ	დაკლებული	VERB	Verb	ExtPos=VERB|VerbForm=Part|Voice=Pass	29	nsubj:pass	_	Translit=daklebul
+20	დაკლებულ	დაკლებული	VERB	Verb	ExtPos=NOUN|VerbForm=Part|Voice=Pass	29	nsubj:pass	_	Translit=daklebul
 21	ყოფაჲ	ყოფა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	20	fixed	_	Translit=qopʻay
 22	სჯულიერთა	სჯულიერი	ADJ	Adj	Case=Gen|Number=Plur	23	amod	_	Translit=sjuliertʻa
 23	მეუღლეთა	მეუღლე	NOUN	Noun	Case=Gen|Number=Plur	25	nmod	_	Translit=meuġletʻa
