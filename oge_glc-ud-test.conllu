@@ -5872,12 +5872,12 @@
 61	სახარებისაჲ	სახარება	NOUN	Noun	Case=Gen|Number=Sing	62	nmod	_	Translit=saxarebisay
 62	ღაღადებს	ღაღადება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	55	advcl	_	SpaceAfter=No|Translit=ġaġadebs
 63	,	,	PUNCT	F	PunctType=Comm	62	punct	_	Translit=,
-64	ვითარმედ	ვითარმედ	SCONJ	SCONJ	_	66	mark	_	SpaceAfter=No|Translit=vitʻarmed
+64	ვითარმედ	ვითარმედ	SCONJ	SCONJ	_	70	mark	_	SpaceAfter=No|Translit=vitʻarmed
 65	:	:	PUNCT	F	PunctType=Colo	66	punct	_	Translit=:
 66	„	„	PUNCT	F	PunctSide=Ini|PunctType=Quot	67	punct	_	SpaceAfter=No|Translit=„
 67-68	რომელნი-იგი	_	_	_	_	_	_	_	_
-67	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	70	nsubj	_	Translit=romelni
-68	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	67	fixed	_	Translit=igi
+67	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	70	obj	_	Translit=romelni
+68	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	69	det	_	Translit=igi
 69	ღმერთმან	ღმერთი	NOUN	Noun	Case=Erg|Number=Sing	70	nsubj	_	Translit=ġmertʻman
 70	შეაუღლნა	შეაუღლება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	62	ccomp	_	SpaceAfter=No|Translit=šeauġlna
 71	,	,	PUNCT	F	PunctType=Comm	70	punct	_	Translit=,
