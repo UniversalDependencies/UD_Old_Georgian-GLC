@@ -6622,7 +6622,7 @@
 20	მივიდეს	მისვლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	Translit=mivides
 21	და	და	CCONJ	Conj	_	31	cc	_	Translit=da
 22	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	26	case	_	Translit=tʻwnier
-23-26	თანა-ჯერ-ჩინებისა	_	_	_	_	_	_	_	_
+23-25	თანა-ჯერ-ჩინებისა	_	_	_	_	_	_	_	_
 23	თანა	თანა	ADV	Adv	_	25	advmod	_	Translit=tʻana
 24	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	25	advmod	_	Translit=jer
 25	ჩინებისა	ჩინება	NOUN	Noun	Case=Gen|Number=Sing	29	obl	_	Translit=čʻinebisa
@@ -6652,7 +6652,7 @@
 46	გან	გან	ADP	Post	AdpType=Post|Case=Ins	45	case	_	Translit=gan
 47	გარდასრულისა	გარდასრული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Act	51	amod	_	Translit=gardasrulisa
 48	ამის	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	51	det	_	Translit=amis
-49	მეოთხისა	მეოთხე	ADJ	Adj	Case=Gen|Number=Sing|NumType=Ord	51	amod	_	Translit=meotʻxisa
+49	მეოთხისა	მეოთხე	NUM	Num	Case=Gen|Number=Sing|NumType=Ord	51	nummod	_	Translit=meotʻxisa
 50	ინდიკტიონისაჲთ	ინდიკტიონი	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	59	obl	_	Translit=indiktionisaytʻ
 51	არავის	არავინ	PRON	Pron	Case=Dat|Number=Sing|PronType=Neg	58	nsubj	_	Translit=aravis
 52-53	მოყუასთაგანსა	_	_	_	_	_	_	_	_
