@@ -5718,7 +5718,7 @@
 4	განლაღნეს	განლაღნება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	Translit=ganlaġnes
 5	ქმნად	ყოფა	AUX	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	4	xcomp	_	Translit=kʻmnad
 6	ესევითარისა	ესევითარი	ADJ	Adj	Case=Gen|Number=Sing	5	obj	_	SpaceAfter=No|Translit=esevitʻarisa
-7	,	,	PUNCT	F	PunctType=Comm	8	punct		Translit=,
+7	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
 8	განიკუეთენ	განკუეთა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=ganikuetʻen
 9	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
 
@@ -5740,7 +5740,7 @@
 12	რაჲთა	რაჲთა	SCONJ	SCONJ	_	23	mark	_	Translit=raytʻa
 13	რომელთა	რომელი	PRON	Pron	Case=Dat|Number=Plur|PronType=Rel	14	iobj	_	Translit=romeltʻa
 14	ეგულებოდის	გულება	VERB	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	23	advcl	_	Translit=egulebodis
-15	დიაკონობისა	დიაკონობა	NOUN	Noun	Case=Gen|Number=Sing	17	nmod	_	Translit=diakonobisa
+15	დიაკონობისა	დიაკონობა	NOUN	Noun	Case=Gen|Number=Sing	19	nmod	_	Translit=diakonobisa
 16	ანუ	ანუ	CCONJ	Conj	_	17	cc	_	Translit=anu
 17	ხუცობისა	ხუცობა	NOUN	Noun	Case=Gen|Number=Sing	15	conj	_	Translit=xucʻobisa
 18-19	ჴელთ-დასხმასა	_	_	_	_	_	_	_	_
