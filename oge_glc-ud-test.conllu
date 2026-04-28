@@ -60,7 +60,7 @@
 # text = ანუ ვითარ არა უნაკლულოდ შერაცხილ იყოს ბჭობაჲ სჯულიერი და მართალი უფროჲსღა ყოვლითა ქებითა სავსედ?
 # translit = anu vitʻar ara unaklulod šeracʻxil iqos bčobay sjulieri da martʻali upʻroysġa qovlitʻa kʻebitʻa savsed?
 1	ანუ	ანუ	CCONJ	Conj	_	5	cc	_	Translit=anu
-2	ვითარ	ვითარ	ADV	Adv	AdvType=Rel	5	advmod	_	Translit=vitʻar
+2	ვითარ	ვითარ	SCONJ	Conj	_	5	mark	_	Translit=vitʻar
 3	არა	არა	PART	Part	PartType=Neg	5	advmod:neg	_	Translit=ara
 4	უნაკლულოდ	უნაკლულოდ	ADV	Adv	AdvType=Man	5	advmod	_	Translit=unaklulod
 5	შერაცხილ	შერაცხილ	VERB	Verb	VerbForm=Part|Voice=Pass	0	root	_	Translit=šeracʻxil
@@ -968,7 +968,7 @@
 39	არა	არა	PART	Part	PartType=Neg	35	conj	_	Translit=ara
 40	და	და	CCONJ	Conj	_	44	cc	_	Translit=da
 41	თუ	თუ	SCONJ	Conj	_	44	mark	_	Translit=tʻu
-42	ვითარ	ვითარ	ADV	Adv	AdvType=Int	44	advmod	_	Translit=vitʻar
+42	ვითარ	ვითარ	SCONJ	Conj	_	44	mark	_	Translit=vitʻar
 43	ნუ	ნუ	PART	Part	PartType=Neg	44	advmod:neg	_	Translit=nu
 44	ოდეს	ოდეს	ADV	Adv	AdvType=Tim	45	advmod	_	Translit=odes
 45	მიუთხოიეს	თქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	26	conj	_	Translit=miutʻxoies
@@ -1570,7 +1570,7 @@
 11	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	10	case	_	Translit=tʻws
 12	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
 13-14	ვითარ-ესე	_	_	_	_	_	_	_	_
-13	ვითარ	ვითარ	ADV	Adv	AdvType=Rel|ExtPos=ADV	16	advmod	_	Translit=vitar
+13	ვითარ	ვითარ	SCONJ	Conj	_	16	mark	_	Translit=vitar
 14	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	13	fixed	_	Translit=ese
 15-16	სათნო-მიჩნს	_	_	_	_	_	_	_	_
 15	სათნო	სათნო	ADJ	Adj	Case=Nom|Number=Sing	16	xcomp	_	Translit=satʻno
@@ -1654,8 +1654,8 @@
 24	,	,	PUNCT	F	PunctType=Comm	25	punct	_	Translit=,
 25	რამეთუ	რამეთუ	SCONJ	Conj	_	33	mark	_	Translit=rametʻu
 26-27	ვითარ-იგი	_	_	_	_	_	_	_	_
-26	ვითარ	ვითარ	ADV	Adv	AdvType=Rel|ExtPos=ADV	31	advmod	_	Translit=vitʻar
-27	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	26	fixed	_	Translit=igi
+26	ვითარ	ვითარ	SCONJ	Conj	_	28	mark	_	Translit=vitʻar
+27	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	28	det	_	Translit=igi
 28	უფროჲსად	უფროჲ	ADJ	Adj	Case=Ess|Case[stack]=Gen|PartType=Emp	29	amod	_	Translit=upʻroysad
 29	წმიდამან	წმიდა	ADJ	Adj	Case=Erg|Number=Sing	30	amod	_	Translit=cmidaman
 30	ეპისკოპოსმან	ეპისკოპოსი	NOUN	Noun	Case=Erg|Number=Sing	33	nsubj	_	Translit=episkoposman
@@ -2508,7 +2508,7 @@
 5	კანონნი	კანონი	NOUN	Noun	Case=Nom|Number=Plur	3	obj	_	SpaceAfter=No|Translit=kanonni
 6	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
 7-8	ვითარ-იგი	_	_	_	_	_	_	_	_
-7	ვითარ	ვითარ	ADV	Adv	AdvType=Rel|ExtPos=ADV	18	advmod	_	Translit=vitʻar
+7	ვითარ	ვითარ	SCONJ	Conj	_	18	mark	_	Translit=vitʻar
 8	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	7	fixed	_	Translit=igi
 9	სხუათა	სხუა	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	15	det	_	Translit=sxuatʻa
 10	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	15	det	_	Translit=matʻ
@@ -2985,7 +2985,7 @@
 31	მრავალღმრთეებისა	მრავალღმრთეება	NOUN	Noun	Case=Gen|Number=Sing	28	conj	_	SpaceAfter=No|Translit=mravalġmrtʻeebisa
 32	,	,	PUNCT	F	PunctType=Comm	36	punct	_	Translit=,
 33-34	ვითარ-იგი	_	_	_	_	_	_	_	_
-33	ვითარ	ვითარ	ADV	Adv	AdvType=Man|ExtPos=ADV	36	advmod	_	Translit=vitʻar
+33	ვითარ	ვითარ	SCONJ	Conj	_	36	mark	_	Translit=vitʻar
 34	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	33	fixed	_	Translit=igi
 35	უსაკუთრესად	უსაკუთრესად	ADV	Adv	AdvType=Man	36	advmod	_	Translit=usakutʻresad
 36	სათქუმელ	სათქუმელი	ADJ	Adj	Case=Nom|Number=Sing	39	advcl	_	Translit=satʻkʻumel
@@ -6442,7 +6442,7 @@
 44	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	41	cop	_	SpaceAfter=No|Translit=ars
 45	,	,	PUNCT	F	PunctType=Comm	46	punct	_	Translit=,
 46	თუ	თუ	SCONJ	Conj	_	49	mark	_	Translit=tʻu
-47	ვითარ	ვითარ	ADV	Adv	AdvType=Int	49	advmod	_	Translit=vitʻar
+47	ვითარ	ვითარ	SCONJ	Conj	_	49	mark	_	Translit=vitʻar
 48	არა	არა	PART	Part	PartType=Neg	49	advmod:neg	_	Translit=ara
 49	განსქდა	განსქდომა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	41	csubj	_	Translit=ganskʻda
 50	ერი	ერი	NOUN	Noun	Case=Nom|Number=Sing	49	nsubj	_	Translit=eri
@@ -6453,7 +6453,7 @@
 55	კაცთასა	კაცი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	52	nmod	_	SpaceAfter=No|Translit=kacʻtʻasa
 56	,	,	PUNCT	F	PunctType=Comm	49	punct	_	Translit=,
 57	ანუ	ანუ	CCONJ	Conj	_	60	cc	_	Translit=anu
-58	ვითარ	ვითარ	ADV	Adv	AdvType=Int	60	advmod	_	Translit=vitʻar
+58	ვითარ	ვითარ	SCONJ	Conj	_	60	mark	_	Translit=vitʻar
 59	არა	არა	PART	Part	PartType=Neg	60	advmod:neg	_	Translit=ara
 60-61	შეურაცხ-იქმნნეს	_	_	_	_	_	_	_	_
 60	შეურაცხ	შეურაცხი	NOUN	Noun	Case=Nom|Number=Sing	49	conj	_	Translit=šeuracʻx
@@ -6871,7 +6871,7 @@
 12	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 13	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	23	case	_	Translit=tʻwnier
 14-15	ვითარ-იგი	_	_	_	_	_	_	_	_
-14	ვითარ	ვითარ	ADV	Adv	AdvType=Rel|ExtPos=ADV	22	advmod	_	Translit=vitʻar
+14	ვითარ	ვითარ	SCONJ	Conj	_	22	mark	_	Translit=vitʻar
 15	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	14	fixed	_	Translit=igi
 16	მნათობთა	მნათობი	NOUN	Noun	Case=Gen|Number=Plur	22	obl	_	Translit=mnatʻobtʻa
 17	ეკლესიისათა	ეკლესია	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	16	nmod	_	Translit=eklesiisatʻa
