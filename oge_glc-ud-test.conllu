@@ -4986,9 +4986,9 @@
 60	მიტროპოლიტისასა	მიტროპოლიტი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	58	conj	_	Translit=mitropolitisasa
 61	მქონებელი	მქონებელი	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Act	66	advcl	_	Translit=mkʻonebeli
 62	სხუასა	სხუა	ADJ	Adj	Case=Dat|Number=Sing	63	amod	_	Translit=sxuasa
-63	ქალაქსა	ქალაქი	NOUN	Noun	Case=Dat|Number=Sing	66	obl	_	Translit=kʻalakʻsa
+63	ქალაქსა	ქალაქი	NOUN	Noun	Case=Dat|Number=Sing	64	obl	_	Translit=kʻalakʻsa
 64	მივიდეს	მისვლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	50	advcl	_	Translit=mivides
-65	მიზეზისა	მიზეზი	NOUN	Noun	Case=Gen|Number=Sing	66	obl	_	Translit=mizezisa
+65	მიზეზისა	მიზეზი	NOUN	Noun	Case=Gen|Number=Sing	66	nmod	_	Translit=mizezisa
 66-67	რაჲსათჳსმე	_	_	_	_	_	_	_	SpaceAfter=No
 66	რაჲსა	რაჲ	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	64	obl	_	Translit=raysa
 67	თჳსმე	თჳს	ADP	Post	AdpType=Post|Case=Gen	66	case	_	Translit=tʻwsme
