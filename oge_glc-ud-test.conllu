@@ -5603,14 +5603,14 @@
 16	მყოფისა	მყოფი	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Act	17	amod	_	Translit=mqopʻisa
 17	სამწყსოჲსა	სამწყსოჲ	NOUN	Noun	Case=Gen|Case[stack]=Gen|Number=Sing	11	obl	_	Translit=samcqsoysa
 18	იქმნებოდის	ყოფა	AUX	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Pass	11	cop	_	SpaceAfter=No|Translit=ikʻmnebodis
-19	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
+19	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
 20	განვაჩინეთ	განჩინება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ganvačʻinetʻ
 21	,	,	PUNCT	F	PunctType=Comm	20	punct	_	Translit=,
-22	რაჲთა	რაჲთა	SCONJ	SCONJ	_	26	mark	_	Translit=raytʻa
+22	რაჲთა	რაჲთა	SCONJ	SCONJ	_	27	mark	_	Translit=raytʻa
 23-24	ამიერითგან	_	_	_	_	_	_	_	_
-23	ამიერით	ამიერით	ADV	Adv	_	26	advmod	_	Translit=amieritʻ
+23	ამიერით	ამიერით	ADV	Adv	_	27	advmod	_	Translit=amieritʻ
 24	გან	გან	ADP	Post	AdpType=Post|Case=Ins	23	case	_	Translit=gan
-25	არღარა	არღარა	PART	Part	PartType=Neg	26	advmod:neg	_	Translit=arġara
+25	არღარა	არღარა	PART	Part	PartType=Neg	27	advmod:neg	_	Translit=arġara
 26	იქმნეს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	27	cop	_	Translit=ikʻmnes
 27	ესევითარი	ესევითარი	ADJ	Adj	Case=Nom|Number=Sing	20	ccomp	_	SpaceAfter=No|Translit=esevitʻari
 28	.	.	PUNCT	F	PunctType=Peri	20	punct	_	Translit=.
@@ -5687,7 +5687,7 @@
 65	თავისა	თავი	NOUN	Noun	Case=Gen|Number=Sing	67	nmod	_	Translit=tʻavisa
 66	თჳსისასა	თჳსი	PRON	Pron	Case=Dat|Case[stack]=Gen|Number=Sing|PronType=Prs	65	nmod	_	Translit=tʻwsisasa
 67	უმჯობესსა	უმჯობესი	ADJ	Adj	Case=Dat|Number=Sing	64	obj	_	SpaceAfter=No|Translit=umjobessa
-68	,	,	PUNCT	F	PunctType=Comm	64	punct	_	Translit=,
+68	,	,	PUNCT	F	PunctType=Comm	70	punct	_	Translit=,
 69	არამედ	არამედ	CCONJ	Conj	_	70	cc	_	Translit=aramed
 70	მრავალთასა	მრავალი	PRON	Pron	Case=Dat|Case[stack]=Gen|Number=Plur|PronType=Ind	67	conj	_	SpaceAfter=No|Translit=mravaltʻasa
 71	,	,	PUNCT	F	PunctType=Comm	64	punct	_	Translit=,
@@ -5702,11 +5702,12 @@
 2	ჩემდა	მე	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	nmod	_	Translit=čʻemda
 3	იყვენით	ყოფა	AUX	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Plur|Person[subj]=2|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=iqvenitʻ
 4	,	,	PUNCT	F	PunctType=Comm	3	punct	_	Translit=,
-5	ვითარცა	ვითარცა	SCONJ	SCONJ	_	7	mark	_	Translit=vitʻarcʻa
-6	მე	მე	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit=me
-7	ქრისტესა	ქრისტე	NOUN	Noun	Case=Dat|Number=Sing	3	advcl	_	SpaceAfter=No|Translit=kʻristesa
-8	“	“	PUNCT	F	PunctSide=Fin|PunctType=Quot	7	punct	_	SpaceAfter=No|Translit=“
-9	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
+5	ვითარცა	ვითარცა	SCONJ	SCONJ	_	8	mark	_	Translit=vitʻarcʻa
+6	–	–	PUNCT	F	PunctType=Dash	8	punct	_	Translit=–
+7	მე	მე	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Translit=me
+8	ქრისტესა	ქრისტე	NOUN	Noun	Case=Dat|Number=Sing	3	advcl	_	SpaceAfter=No|Translit=kʻristesa
+9	“	“	PUNCT	F	PunctSide=Fin|PunctType=Quot	8	punct	_	SpaceAfter=No|Translit=“
+10	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
 
 # sent_id = OGLC_00099
 # text = ხოლო უკუეთუ ვინმე განლაღნეს ქმნად ესევითარისა, განიკუეთენ.
