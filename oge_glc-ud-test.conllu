@@ -5911,18 +5911,17 @@
 # translit = da „še-tʻu-krul xar meuġlisada, nu eżieb ganx̣snasa“.
 1	და	და	CCONJ	Conj	_	4	cc	_	Translit=da
 2	„	„	PUNCT	F	PunctSide=Ini|PunctType=Quot	4	punct	_	SpaceAfter=No|Translit=„
-3-5	შე-თუ-კრულ	_	_	_	_	_	_	_	_
-3	შე	შე	PART	Part	PartType=Vb	5	compound	_	Translit=še
-4	თუ	თუ	PART	Part	_	5	advmod	_	Translit=tʻu
-5	კრულ	კრული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Translit=krul
-6	ხარ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Translit=xar
-7	მეუღლისადა	მეუღლე	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	5	obl	_	SpaceAfter=No|Translit=meuġlisada
-8	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
-9	ნუ	ნუ	PART	Part	PartType=Neg	10	advmod:neg	_	Translit=nu
-10	ეძიებ	ძიება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	Translit=eżieb
-11	განჴსნასა	განჴსნა	NOUN	Noun	Case=Dat|Number=Sing	10	obj	_	SpaceAfter=No|Translit=ganx̣snasa
-12	“	“	PUNCT	F	PunctSide=Fin|PunctType=Quot	10	punct	_	SpaceAfter=No|Translit=“
-13	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
+3-4	შე-თუ-კრულ	_	_	_	_	_	_	_	_
+3	თუ	თუ	PART	Part	_	4	advmod	_	Translit=tʻu
+4	შეკრულ	კრული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Translit=šekrul
+5	ხარ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Translit=xar
+6	მეუღლისადა	მეუღლე	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	4	obl	_	SpaceAfter=No|Translit=meuġlisada
+7	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
+8	ნუ	ნუ	PART	Part	PartType=Neg	9	advmod:neg	_	Translit=nu
+9	ეძიებ	ძიება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	Translit=eżieb
+10	განჴსნასა	განჴსნა	NOUN	Noun	Case=Dat|Number=Sing	9	obj	_	SpaceAfter=No|Translit=ganx̣snasa
+11	“	“	PUNCT	F	PunctSide=Fin|PunctType=Quot	9	punct	_	SpaceAfter=No|Translit=“
+12	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 # sent_id = OGLC_00104
 # text = ხოლო უწყით ესეცა, ვითარმედ კართაგენს შემოკრებულთა მამათა, ვითარცა პატიოსნებისათჳს ცხორებისა მღდელთაჲსა მოქმედთა წინა-განგებისათა თქუეს, რაჲთა კერძო-დიაკონნი, რომელნი ჰრევენ საღმრთოთა საიდუმლოთა, დიაკონნი და ხუცესნი საზღვართაებრ თჳსთა მეუღლეთაგანცა თჳსთა განეყენებოდინ.
