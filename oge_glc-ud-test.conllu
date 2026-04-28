@@ -4432,7 +4432,7 @@
 # text = ხოლო პატივი საჯდომელსსა სამღდელოჲსაჲ და ადგილი დგომისა თჳსისაჲ აქუნდეს და კმა-ეყოს ესე მათ ესე ქველისმოქმედებად და შესტიროდინ იგი უფლისა, რაჲთა შეუნდოს მათ უმეცრებისამიერი იგი უსჯულოებაჲ, რამეთუ არა შეუგავს კურთხევაჲ სხჳსაჲ, რომელსა უჴმდეს კურნებაჲ წყლულებათა თჳსთაჲ.
 # translit = xolo pativi sajdomelssa samġdeloysay da adgili dgomisa tʻwsisay akʻundes da kma-eqos ese matʻ ese kʻvelismokʻmedebad da šestirodin igi upʻlisa, raytʻa šeundos matʻ umecʻrebisamieri igi usjuloebay, rametʻu ara šeugavs kurtʻxevay sxwsay, romelsa ux̣mdes kurnebay cqlulebatʻa tʻwstʻay.
 1	ხოლო	ხოლო	CCONJ	Conj	_	8	cc	_	Translit=xolo
-2	პატივი	პატივი	NOUN	Noun	Case=Nom|Number=Sing	8	nsubj	_	Translit=pativi
+2	პატივი	პატივი	NOUN	Noun	Case=Nom|Number=Sing	9	nsubj	_	Translit=pativi
 3	საჯდომელსსა	საჯდომელი	NOUN	Noun	Case=Dat|Number=Sing	2	nmod	_	Translit=sajdomelssa
 4	სამღდელოჲსაჲ	სამღდელოჲ	NOUN	Noun	Case=Gen|Number=Sing	3	nmod	_	Translit=samġdeloysay
 5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
