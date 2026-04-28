@@ -5171,25 +5171,25 @@
 29	დიდებაჲ	დიდება	NOUN	Noun	Case=Nom|Number=Sing	5	advcl	_	Translit=didebay
 30	წინაშე	წინაშე	ADP	Post	AdpType=Post|Case=Gen	27	obl	_	Translit=cinaše
 31	ყოველთა	ყოველი	PRON	Pron	Case=Gen|Number=Plur|PronType=Tot	32	det	_	Translit=qoveltʻa
-33	თანამეინაჴეთა	თანამეინაჴე	NOUN	Noun	Case=Gen|Number=Plur	30	obl	_	Translit=tʻanameinax̣etʻa
-34	შენთა	შენი	PRON	Pron	Case=Gen|Number=Plur|Person=2|PronType=Prs	33	nmod	_	SpaceAfter=No|Translit=šentʻa
-35	,	,	PUNCT	F	PunctType=Comm	27	punct	_	Translit=,
-36	რამეთუ	რამეთუ	SCONJ	SCONJ	_	44	mark	_	Translit=rametʻu
-37	ყოველმან	ყოველი	PRON	Pron	Case=Erg|Number=Sing|PronType=Tot	44	nsubj	_	SpaceAfter=No|Translit=qovelman
-38	,	,	PUNCT	F	PunctType=Comm	44	punct	_	Translit=,
-39	რომელმან	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	40	nsubj	_	Translit=romelman
-40	დაიმდაბლოს	დამდაბლება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	37	acl:relcl	_	Translit=daimdablos
-41	თავი	თავი	NOUN	Noun	Case=Nom|Number=Sing	40	obj	_	Translit=tʻavi
-42	თჳსი	თჳსი	PRON	Pron	Case=Nom|Number=Sing|PronType=Prs	41	nmod	_	SpaceAfter=No|Translit=tʻwsi
-43	,	,	PUNCT	F	PunctType=Comm	40	punct	_	Translit=,
-44	ამაღლდეს	ამაღლება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	27	ccomp	_	Translit=amaġldes
-45	და	და	CCONJ	Conj	_	47	cc	_	Translit=da
-46	რომელმან	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	47	nsubj	_	Translit=romelman
-47	აღიმაღლოს	ამაღლება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	44	conj	_	Translit=aġimaġlos
-48	–	–	PUNCT	F	PunctType=Dash	49	punct	_	Translit=–
-49	დამდაბლდეს	დამდაბლება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	44	conj	_	SpaceAfter=No|Translit=damdabldes
-50	“	“	PUNCT	F	PunctSide=Fin|PunctType=Quot	49	punct	_	SpaceAfter=No|Translit=“
-51	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
+32	თანამეინაჴეთა	თანამეინაჴე	NOUN	Noun	Case=Gen|Number=Plur	30	obl	_	Translit=tʻanameinax̣etʻa
+33	შენთა	შენი	PRON	Pron	Case=Gen|Number=Plur|Person=2|PronType=Prs	32	nmod	_	SpaceAfter=No|Translit=šentʻa
+34	,	,	PUNCT	F	PunctType=Comm	27	punct	_	Translit=,
+35	რამეთუ	რამეთუ	SCONJ	SCONJ	_	43	mark	_	Translit=rametʻu
+36	ყოველმან	ყოველი	PRON	Pron	Case=Erg|Number=Sing|PronType=Tot	43	nsubj	_	SpaceAfter=No|Translit=qovelman
+37	,	,	PUNCT	F	PunctType=Comm	43	punct	_	Translit=,
+38	რომელმან	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	39	nsubj	_	Translit=romelman
+39	დაიმდაბლოს	დამდაბლება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	acl:relcl	_	Translit=daimdablos
+40	თავი	თავი	NOUN	Noun	Case=Nom|Number=Sing	39	obj	_	Translit=tʻavi
+41	თჳსი	თჳსი	PRON	Pron	Case=Nom|Number=Sing|PronType=Prs	40	nmod	_	SpaceAfter=No|Translit=tʻwsi
+42	,	,	PUNCT	F	PunctType=Comm	39	punct	_	Translit=,
+43	ამაღლდეს	ამაღლება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	27	ccomp	_	Translit=amaġldes
+44	და	და	CCONJ	Conj	_	46	cc	_	Translit=da
+45	რომელმან	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	46	nsubj	_	Translit=romelman
+46	აღიმაღლოს	ამაღლება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	43	conj	_	Translit=aġimaġlos
+47	–	–	PUNCT	F	PunctType=Dash	48	punct	_	Translit=–
+48	დამდაბლდეს	დამდაბლება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	43	conj	_	SpaceAfter=No|Translit=damdabldes
+49	“	“	PUNCT	F	PunctSide=Fin|PunctType=Quot	48	punct	_	SpaceAfter=No|Translit=“
+50	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
 # sent_id = OGLC_00085
 # text = და ესევე დაიცვებოდედ სხუათაცა სამღდელოთა დასთა ზედა, ვინაჲთგან მსოფლიოთა პატივთასა უვაღრეს არიან სულიერნი.
