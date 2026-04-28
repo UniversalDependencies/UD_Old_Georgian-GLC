@@ -6186,7 +6186,7 @@
 8	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	11	case	_	Translit=tʻwnier
 9	განსაზღვრებულთა	განსაზღვრებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	11	amod	_	Translit=gansazġvrebultʻa
 10	ამათ	ეს	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	11	det	_	Translit=amatʻ
-11	ჟამთასა	ჟამი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	v	obl	_	Translit=žamtʻasa
+11	ჟამთასა	ჟამი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	12	obl	_	Translit=žamtʻasa
 12	ჴელთდასხმულ	ჴელთდასხმული	VERB	Verb	VerbForm=Part|Voice=Pass	15	advcl	_	Translit=x̣eltʻdasxmul
 13	იქმნეს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	cop	_	SpaceAfter=No|Translit=ikʻmnes
 14	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
