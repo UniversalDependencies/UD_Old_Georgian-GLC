@@ -4801,7 +4801,7 @@
 19	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
 20	უკუეთუ	უკუეთუ	SCONJ	Conj	_	21	mark	_	Translit=ukuetʻu
 21-22	მოყუასთაგანნი	_	_	_	_	_	_	_	_
-21	მოყუასთა	მოყუასი	NOUN	Noun	Case=Gen|Number=Plur	14	advcl	_	Translit=moquastʻa
+21	მოყუასთა	მოყუასი	NOUN	Noun	Case=Gen|Number=Plur	17	advcl	_	Translit=moquastʻa
 22	განნი	გან	ADP	Post	AdpType=Post|Case=Gen	21	case	_	Translit=ganni
 23	იყვნენ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	21	cop	_	SpaceAfter=No|Translit=iqvnen
 24	,	,	PUNCT	F	PunctType=Comm	26	punct	_	Translit=,
