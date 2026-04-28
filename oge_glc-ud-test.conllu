@@ -6419,13 +6419,13 @@
 21	ნიკოლაოს	ნიკოლაოს	PROPN	Noun	Case=Nom|Number=Sing	3	conj	_	Translit=nikolaos
 22	მწირი	მწირი	NOUN	Noun	Case=Nom|Number=Sing	21	appos	_	Translit=mciri
 23	ანტიოქელი	ანტიოქელი	NOUN	Noun	Case=Nom|Number=Sing	21	appos	_	SpaceAfter=No|Translit=antiokʻeli
-24	,	,	PUNCT	F	PunctType=Comm	2	punct	_	Translit=,
+24	,	,	PUNCT	F	PunctType=Comm	26	punct	_	Translit=,
 25	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	26	obj	_	Translit=romelni
 26	დაადგინნეს	დადგინება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	Translit=daadginnes
 27	წინაშე	წინაშე	ADP	Post	AdpType=Post|Case=Gen	28	case	_	Translit=cinaše
 28	მოციქულთასა	მოციქული	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	26	obl	_	SpaceAfter=No|Translit=mocʻikʻultʻasa
-29	“	“	PUNCT	F	PunctSide=Fin|PunctType=Quot	26	punct	_	SpaceAfter=No|Translit=“
-30	,	,	PUNCT	F	PunctType=Comm	35	punct	_	Translit=,
+29	“	“	PUNCT	F	PunctSide=Fin|PunctType=Quot	38	punct	_	SpaceAfter=No|Translit=“
+30	,	,	PUNCT	F	PunctType=Comm	31	punct	_	Translit=,
 31	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	33	nmod	_	Translit=romeltʻa
 32	მთარგმანებელი	მთარგმანებელი	NOUN	Noun	Case=Nom|Number=Sing	35	nsubj	_	Translit=mtʻargmanebeli
 33	მოძღუარი	მოძღუარი	NOUN	Noun	Case=Nom|Number=Sing	38	nsubj	_	Translit=możġuari
@@ -6434,8 +6434,8 @@
 36	ოქროპირი	ოქროპირი	PROPN	Noun	Case=Nom|Number=Sing	35	flat	_	Translit=okʻropiri
 37	ესრეთ	ესრეთ	ADV	Adv	AdvType=Man	38	advmod	_	Translit=esretʻ
 38	იტყჳს	თქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	parataxis	_	SpaceAfter=No|Translit=itqws
-39	:	:	PUNCT	F	PunctType=Colo	38	punct	_	Translit=:
-40	„	„	PUNCT	F	PunctSide=Ini|PunctType=Quot	46	punct	_	SpaceAfter=No|Translit=„
+39	:	:	PUNCT	F	PunctType=Colo	31	punct	_	Translit=:
+40	„	„	PUNCT	F	PunctSide=Ini|PunctType=Quot	41	punct	_	SpaceAfter=No|Translit=„
 41	ღირს	ღირსი	ADJ	Adj	Case=Nom|Number=Sing	38	xcomp	_	Translit=ġirs
 42	და	და	CCONJ	Conj	_	43	cc	_	Translit=da
 43	დაკჳრვებისა	დაკჳრვება	NOUN	Noun	Case=Gen|Number=Sing	41	conj	_	Translit=dakwrvebisa
