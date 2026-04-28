@@ -6917,7 +6917,7 @@
 13	პირველთქუმულთა	პირველთქუმული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	16	amod	_	Translit=pirveltʻkʻumultʻa
 14	ამათ	ეს	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	16	det	_	Translit=amatʻ
 15	მამათა	მამაჲ	NOUN	Noun	Case=Gen|Number=Plur	16	nmod	_	Translit=mamatʻa
-16	მოძღურებისა	მოძღურება	NOUN	Noun	Case=Gen|Number=Sing	17	nmod	_	Translit=możġurebisa
+16	მოძღურებისა	მოძღურება	NOUN	Noun	Case=Gen|Number=Sing	18	nmod	_	Translit=możġurebisa
 17	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	18	case	_	Translit=mier
 18	მეცნიერებად	მეცნიერება	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	29	advcl	_	Translit=mecʻnierebad
 19	სასწრაფოთა	სასწრაფო	ADJ	Adj	Case=Gen|Number=Plur	26	amod	_	Translit=sascrapʻotʻa
@@ -6936,7 +6936,7 @@
 32	ცხორებასა	ცხორება	NOUN	Noun	Case=Dat|Number=Sing	31	obj	_	Translit=cʻxorebasa
 33	და	და	CCONJ	Conj	_	38	cc	_	Translit=da
 34	უმეცრებისა	უმეცრება	NOUN	Noun	Case=Gen|Number=Sing	35	nmod	_	Translit=umecʻrebisa
-35	ვნებათა	ვნება	NOUN	Noun	Case=Gen|Number=Plur	36	nmod	_	Translit=vnebatʻa
+35	ვნებათა	ვნება	NOUN	Noun	Case=Gen|Number=Plur	38	obl	_	Translit=vnebatʻa
 36	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	38	case	_	Translit=mier
 37	არა	არა	PART	Part	PartType=Neg	38	advmod:neg	_	Translit=ara
 38	განიხრწნებიან	განხრწნა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Fut|VerbForm=Fin|Voice=Pass	31	conj	_	SpaceAfter=No|Translit=ganixrcnebian
@@ -6950,7 +6950,7 @@
 46	თჳსთა	თჳსი	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	45	det	_	SpaceAfter=No|Translit=tʻwstʻa
 47	,	,	PUNCT	F	PunctType=Comm	44	punct	_	Translit=,
 48	რაჲთა	რაჲთა	SCONJ	Conj	_	50	mark	_	Translit=raytʻa
-49	არარაჲ	არარაჲ	PRON	Pron	Case=Nom|Number=Sing|PronType=Neg	50	nsubj	_	Translit=araray
+49	არარაჲ	არარაჲ	PRON	Pron	Case=Nom|Number=Sing|PronType=Neg	50	advmod:neg	_	Translit=araray
 50	შეემთხჳოს	შემთხვევა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	44	advcl	_	Translit=šeemtʻxwos
 51	მათ	იგი	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	50	iobj	_	Translit=matʻ
 52	ვნებაჲ	ვნება	NOUN	Noun	Case=Nom|Number=Sing	50	nsubj	_	SpaceAfter=No|Translit=vnebay
