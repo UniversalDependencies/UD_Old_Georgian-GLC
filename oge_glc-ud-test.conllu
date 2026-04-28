@@ -5041,7 +5041,7 @@
 29	ეკლესიასა	ეკლესია	NOUN	Noun	Case=Dat|Number=Sing	27	obl	_	Translit=eklesiasa
 30	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	29	case	_	Translit=šina
 31	მათსა	ის	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	29	nmod	_	SpaceAfter=No|Translit=matʻsa
-32	,	,	PUNCT	F	PunctType=Comm	58	punct	_	Translit=,
+32	,	,	PUNCT	F	PunctType=Comm	33	punct	_	Translit=,
 33-34	ვინაჲთგან	_	_	_	_	_	_	_	_
 33	ვინაჲთ	ვინაჲთ	ADV	Adv	_	36	advmod	_	Translit=vinaytʻ
 34	გან	გან	ADP	Post	AdpType=Post|Case=Ins	33	case	_	Translit=gan
