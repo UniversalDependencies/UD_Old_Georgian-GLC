@@ -5584,24 +5584,24 @@
 # text = ამისთჳს ვინაჲთგან ფრიადი მოსწრაფებაჲ გუაქუნდა ჩუენ, რაჲთა ყოველივე სარგებელად ჴელმწიფებასას ჩუენსა ქუეშე მყოფისა სამწყსოჲსა იქმნებოდის, განვაჩინეთ, რაჲთა ამიერითგან არღარა იქმნეს ესევითარი.
 # translit = amistʻws vinaytʻgan pʻriadi moscrapʻebay guakʻunda čʻuen, raytʻa qovelive sargebelad x̣elmcipʻebasas čʻuensa kʻueše mqopʻisa samcqsoysa ikʻmnebodis, ganvačʻinetʻ, raytʻa amieritʻgan arġara ikʻmnes esevitʻari.
 1-2	ამისთჳს	_	_	_	_	_	_	_	_
-1	ამის	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	8	obl	_	Translit=amis
+1	ამის	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	7	obl	_	Translit=amis
 2	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	1	case	_	Translit=tʻws
 3-4	ვინაჲთგან	_	_	_	_	_	_	_	_
-3	ვინაჲთ	ვინაჲთ	ADV	Adv	_	8	advmod	_	Translit=vinaytʻ
+3	ვინაჲთ	ვინაჲთ	ADV	Adv	_	7	advmod	_	Translit=vinaytʻ
 4	გან	გან	ADP	Post	AdpType=Post|Case=Ins	3	case	_	Translit=gan
 5	ფრიადი	ფრიადი	ADJ	Adj	Case=Nom|Number=Sing	6	amod	_	Translit=pʻriadi
-6	მოსწრაფებაჲ	მოსწრაფება	NOUN	Noun	Case=Nom|Number=Sing	8	nsubj	_	Translit=moscrapʻebay
-7	გუაქუნდა	ქონება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	15	advcl	_	Translit=guakʻunda
-8	ჩუენ	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	iobj	_	SpaceAfter=No|Translit=čʻuen
+6	მოსწრაფებაჲ	მოსწრაფება	NOUN	Noun	Case=Nom|Number=Sing	8	obj	_	Translit=moscrapʻebay
+7	გუაქუნდა	ქონება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	20	advcl	_	Translit=guakʻunda
+8	ჩუენ	ჩუენ	PRON	Pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No|Translit=čʻuen
 9	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
-10	რაჲთა	რაჲთა	SCONJ	SCONJ	_	18	mark	_	Translit=raytʻa
+10	რაჲთა	რაჲთა	SCONJ	SCONJ	_	11	mark	_	Translit=raytʻa
 11	ყოველივე	ყოველი	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Tot	7	ccomp	_	Translit=qovelive
-12	სარგებელად	სარგებელი	NOUN	Noun	Case=Ess|Number=Sing	18	xcomp	_	Translit=sargebelad
+12	სარგებელად	სარგებელი	NOUN	Noun	Case=Ess|Number=Sing	11	nmod	_	Translit=sargebelad
 13	ჴელმწიფებასას	ჴელმწიფება	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	16	obl	_	Translit=x̣elmcipʻebasas
 14	ჩუენსა	ჩუენი	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	13	nmod	_	Translit=čʻuensa
 15	ქუეშე	ქუეშე	ADP	Post	AdpType=Post|Case=Dat	16	obl	_	Translit=kʻueše
 16	მყოფისა	მყოფი	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Act	17	amod	_	Translit=mqopʻisa
-17	სამწყსოჲსა	სამწყსოჲ	NOUN	Noun	Case=Gen|Case[stack]=Gen|Number=Sing	18	obl	_	Translit=samcqsoysa
+17	სამწყსოჲსა	სამწყსოჲ	NOUN	Noun	Case=Gen|Case[stack]=Gen|Number=Sing	11	obl	_	Translit=samcqsoysa
 18	იქმნებოდის	ყოფა	AUX	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Pass	11	cop	_	SpaceAfter=No|Translit=ikʻmnebodis
 19	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
 20	განვაჩინეთ	განჩინება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ganvačʻinetʻ
