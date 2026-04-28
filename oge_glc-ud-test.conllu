@@ -6148,14 +6148,14 @@
 45	ეგრეთვე	ეგრეთვე	ADV	Adv	AdvType=Man	43	advmod	_	Translit=egretʻve
 46	ნუცა	ნუცა	PART	Part	PartType=Neg	56	advmod:neg	_	Translit=nucʻa
 47	დიაკონი	დიაკონი	NOUN	Noun	Case=Nom|Number=Sing	56	nsubj:pass	_	Translit=diakoni
-48	უწინარეს	უწინარეს	ADV	Adv	AdvType=Tim	54	advmod	_	Translit=ucinares
+48	უწინარეს	უწინარეს	ADV	Adv	AdvType=Tim	50	advmod	_	Translit=ucinares
 49	ოცდახუთთა	ოცდახუთი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	50	nummod	_	Translit=ocʻdaxutʻtʻa
-50	წელიწადთაჲსა	წელიწადი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	48	obl	_	Translit=celicadtʻaysa
+50	წელიწადთაჲსა	წელიწადი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	56	obl	_	Translit=celicadtʻaysa
 51	ანუ	ანუ	CCONJ	Conj	_	52	cc	_	Translit=anu
 52	დედათ-დიაკონი	დედათ-დიაკონი	NOUN	Noun	Case=Nom|Number=Sing	47	conj	_	Translit=dedatʻ-diakoni
 53	პირველ	პირველ	ADV	Adv	AdvType=Tim	54	advmod	_	Translit=pirvel
 54	ორმეოცთა	ორმეოცი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	55	nummod	_	Translit=ormeocʻtʻa
-55	წელიწადთაჲსა	წელიწადი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	53	obl	_	Translit=celicadtʻaysa
+55	წელიწადთაჲსა	წელიწადი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	56	obl	_	Translit=celicadtʻaysa
 56	ჴელთდასხმულ	ჴელთდასხმული	VERB	Verb	VerbForm=Part|Voice=Pass	30	conj	_	Translit=x̣eltʻdasxmul
 57	იქმნების	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Fut|VerbForm=Fin|Voice=Pass	56	cop	_	SpaceAfter=No|Translit=ikʻmnebis
 58	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
