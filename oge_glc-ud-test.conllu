@@ -4810,7 +4810,7 @@
 27	ხოლო	ხოლო	CCONJ	Conj	_	32	cc	_	Translit=xolo
 28	უკუეთუ	უკუეთუ	SCONJ	Conj	_	29	mark	_	Translit=ukuetʻu
 29	ერისკაცნი	ერისკაცი	NOUN	Noun	Case=Nom|Number=Plur	31	nsubj	_	SpaceAfter=No|Translit=eriskacʻni
-30	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
+30	,	,	PUNCT	F	PunctType=Comm	31	punct	_	Translit=,
 31	უზიარებელ	უზიარებელი	ADJ	Adj	Case=Nom|Number=Sing	25	xcomp	_	Translit=uziarebel
 32	იქმენინ	ყოფა	AUX	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	31	cop	_	SpaceAfter=No|Translit=ikmenin
 33	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
