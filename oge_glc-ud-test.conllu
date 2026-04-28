@@ -5802,8 +5802,8 @@
 69	.	.	PUNCT	F	PunctType=Peri	10	punct	_	Translit=.
 
 # sent_id = OGLC_00101
-# text = ვინაჲცა ვინცა ვინ იპოოს ღირსად ჴელთდასხმისა მიმართ კერძო-დიაკონობისა, ანუ დიაკონობისა, ანუ ხუცობისა, ესე ნუმცა დაიყენების ესევითარსა პატივსა მოსლვად სჯულიერისა მეუღლისა თანამცხორებელ-ყოფისათჳს, ნუცამცა ჟამსა ჴელთ-დასხმისასა მიიჴადების აღსაარებად, რაჲთა განეყენოს სჯულიერსა თანა-ქცევასა მეუღლისა თჳსისასა, რაჲთა არა ღმრთისა მიერ სჯულდებულისა და მისლვითა მისითა კურთხეულისა ქორწილისა შეურაცხყოფად ვიიძულნეთ ამიერ, ვინაჲთგან ჴმაჲ სახარებისაჲ ღაღადებს, ვითარმედ: „რომელნი-იგი ღმერთმან შეაუღლნა, კაცნი ნუ განაშორებნ“.
-# translit = vinaycʻa vincʻa vin ipoos ġirsad x̣eltʻdasxmisa mimartʻ kerżo-diakonobisa, anu diakonobisa, anu xucʻobisa, ese numcʻa daiqenebis esevitʻarsa pativsa moslvad sjulierisa meuġlisa tʻanamcʻxorebel-qopʻisatʻws, nucʻamcʻa žamsa x̣eltʻ-dasxmisasa miix̣adebis aġsaarebad, raytʻa ganeqenos sjuliersa tʻana-kʻcʻevasa meuġlisa tʻwsisasa, raytʻa ara ġmrtʻisa mier sjuldebulisa da mislvitʻa misitʻa kurtʻxeulisa kʻorcilisa šeuracʻxqopʻad viiżulnetʻ amier, vinaytʻgan x̣may saxarebisay ġaġadebs, vitʻarmed: „romelni-igi ġmertʻman šeauġlna, kacʻni nu ganašorebn“.
+# text = ვინაჲცა ვინცა ვინ იპოოს ღირსად ჴელთდასხმისა მიმართ კერძო-დიაკონობისა, ანუ დიაკონობისა, ანუ ხუცობისა, ესე ნუმცა დაიყენების ესევითარსა პატივსა მოსლვად სჯულიერისა მეუღლისა თანამცხორებელ-ყოფისათჳს, ნუცამცა ჟამსა ჴელთ-დასხმისასა მიიჴადების აღსარებად, რაჲთა განეყენოს სჯულიერსა თანა-ქცევასა მეუღლისა თჳსისასა, რაჲთა არა ღმრთისა მიერ სჯულდებულისა და მისლვითა მისითა კურთხეულისა ქორწილისა შეურაცხყოფად ვიიძულნეთ ამიერ, ვინაჲთგან ჴმაჲ სახარებისაჲ ღაღადებს, ვითარმედ: „რომელნი-იგი ღმერთმან შეაუღლნა, კაცნი ნუ განაშორებნ“.
+# translit = vinaycʻa vincʻa vin ipoos ġirsad x̣eltʻdasxmisa mimartʻ kerżo-diakonobisa, anu diakonobisa, anu xucʻobisa, ese numcʻa daiqenebis esevitʻarsa pativsa moslvad sjulierisa meuġlisa tʻanamcʻxorebel-qopʻisatʻws, nucʻamcʻa žamsa x̣eltʻ-dasxmisasa miix̣adebis aġsarebad, raytʻa ganeqenos sjuliersa tʻana-kʻcʻevasa meuġlisa tʻwsisasa, raytʻa ara ġmrtʻisa mier sjuldebulisa da mislvitʻa misitʻa kurtʻxeulisa kʻorcilisa šeuracʻxqopʻad viiżulnetʻ amier, vinaytʻgan x̣may saxarebisay ġaġadebs, vitʻarmed: „romelni-igi ġmertʻman šeauġlna, kacʻni nu ganašorebn“.
 1	ვინაჲცა	ვინაჲცა	ADV	Adv	_	4	advmod	_	Translit=vinaycʻa
 2	ვინცა	ვინცა	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	4	nsubj	_	Translit=vincʻa
 3	ვინ	ვინ	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	2	appos	_	Translit=vin
@@ -5840,7 +5840,7 @@
 31	ჴელთ	ჴელი	NOUN	Noun	Case=Gen|Number=Plur	32	nmod	_	Translit=x̣eltʻ
 32	დასხმისასა	დასხმა	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	30	nmod	_	Translit=dasxmisasa
 33	მიიჴადების	მიხადება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	19	conj	_	Translit=miix̣adebis
-34	აღსაარებად	აღსარება	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	33	xcomp	_	SpaceAfter=No|Translit=aġsaarebad
+34	აღსარებად	აღსარება	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	33	xcomp	_	SpaceAfter=No|Translit=aġsaarebad
 35	,	,	PUNCT	F	PunctType=Comm	33	punct	_	Translit=,
 36	რაჲთა	რაჲთა	SCONJ	SCONJ	_	37	mark	_	Translit=raytʻa
 37	განეყენოს	განყენება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	33	advcl	_	Translit=ganeqenos
