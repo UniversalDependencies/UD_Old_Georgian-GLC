@@ -5454,7 +5454,7 @@
 8	დიაკონი	დიაკონი	NOUN	Noun	Case=Nom|Number=Sing	2	conj	_	SpaceAfter=No|Translit=diakoni
 9	,	,	PUNCT	F	PunctType=Comm	2	punct	_	Translit=,
 10	რომელი	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	15	nsubj	_	Translit=romeli
-11	ვახშსა	ვახში	NOUN	Noun	Case=Dat|Number=Sing	13	obj	_	Translit=vaxšsa
+11	ვახშსა	ვახში	NOUN	Noun	Case=Dat|Number=Sing	15	obj	_	Translit=vaxšsa
 12	ანუ	ანუ	CCONJ	Conj	_	13	cc	_	Translit=anu
 13	რასვე	რაჲ	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Ind	11	conj	_	Translit=rasve
 14	აღნადგინებსა	აღნადგინება	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	2	acl:relcl	_	Translit=aġnadginebsa
