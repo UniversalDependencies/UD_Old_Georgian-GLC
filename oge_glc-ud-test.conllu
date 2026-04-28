@@ -50,7 +50,7 @@
 6	გამორჩევაჲ	გამორჩევაჲ	NOUN	Noun	Case=Nom|Number=Sing	5	obj	_	Translit=gamorčʻevay
 7	თუალუხუავი	თუალუხუავი	ADJ	Adj	Case=Nom|Number=Sing	6	amod	_	SpaceAfter=No|Translit=tʻualuxuavi
 8	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
-9	რაჟამს	რაჟამს	ADV	Adv	AdvType=Int	10	advmod	_	Translit=ražams
+9	რაჟამს	რაჟამს	ADV	Adv	AdvType=Tim	10	advmod	_	Translit=ražams
 10	იქმნას	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=ikʻmnas
 11	ვისთჳმე	ვისთჳმე	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	10	iobj	_	Translit=vistʻwme
 12	სიმართლით	სიმართლე	NOUN	Noun	Case=Ins|Number=Sing	10	obl	_	SpaceAfter=No|Translit=simartʻlitʻ
@@ -3465,7 +3465,7 @@
 28	ამიერ	ამიერ	ADV	Adv	AdvType=Man	27	advmod	_	SpaceAfter=No|Translit=amier
 29	,	,	PUNCT	F	PunctType=Comm	27	punct	_	Translit=,
 30-31	რაჟამს-იგი	_	_	_	_	_	_	_	_
-30	რაჟამს	რაჟამს	SCONJ	Conj	_	37	mark	_	Translit=ražams
+30	რაჟამს	რაჟამს	ADV	Adv	AdvType=Tim	37	admod	_	Translit=ražams
 31	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	37	nsubj	_	Translit=igi
 32	კეთილად	კეთილად	ADV	Adv	AdvType=Man	33	advmod	_	Translit=ketʻilad
 33	მსახურმან	მსახური	NOUN	Noun	Case=Erg|Number=Sing	31	appos	_	Translit=msaxurman
@@ -5091,7 +5091,7 @@
 78	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Dat	76	obl	_	Translit=mimartʻ
 79	–	–	PUNCT	F	PunctType=Dash	76	punct	_	Translit=–
 80	„	„	PUNCT	F	PunctSide=Ini|PunctType=Quot	81	punct	_	SpaceAfter=No|Translit=„
-81	რაჟამს	რაჟამს	SCONJ	SCONJ	_	82	mark	_	Translit=ražams
+81	რაჟამს	რაჟამს	ADV	Adv	AdvType=Tim	82	advmod	_	Translit=ražams
 82	მიგხადოს	მიხდა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	86	advcl	_	Translit=migxados
 83	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	82	nsubj	_	Translit=vinme
 84	ქორწილსა	ქორწილი	NOUN	Noun	Case=Dat|Number=Sing	82	obj	_	SpaceAfter=No|Translit=kʻorcilsa
@@ -5141,7 +5141,7 @@
 # text = არამედ რაჟამს გხადონ, დაჯედ უკუანაჲსკნელსა ადგილსა, რაჲთა რაჟამს მოვიდეს, რომელმან გხადა და გრქუას შენ: „მეგობარო, აღმოვედ ზემორე“, მაშინ იყოს შენდა დიდებაჲ წინაშე ყოველთა თანამეინაჴეთა შენთა, რამეთუ ყოველმან, რომელმან დაიმდაბლოს თავი თჳსი, ამაღლდეს და რომელმან აღიმაღლოს – დამდაბლდეს“.
 # translit = aramed ražams gxadon, dajed ukuanaysknelsa adgilsa, raytʻa ražams movides, romelman gxada da grkʻuas šen: „megobaro, aġmoved zemore“, mašin iqos šenda didebay cinaše qoveltʻa tʻanameinax̣etʻa šentʻa, rametʻu qovelman, romelman daimdablos tʻavi tʻwsi, amaġldes da romelman aġimaġlos – damdabldes“.
 1	არამედ	არამედ	CCONJ	Conj	_	5	cc	_	Translit=aramed
-2	რაჟამს	რაჟამს	SCONJ	SCONJ	_	3	mark	_	Translit=ražams
+2	რაჟამს	რაჟამს	ADV	Adv	AdvType=Tim	3	advmod	_	Translit=ražams
 3	გხადონ	ხდება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=2|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	SpaceAfter=No|Translit=gxadon
 4	,	,	PUNCT	F	PunctType=Comm	3	punct	_	Translit=,
 5	დაჯედ	დაჯდომა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=dajed
@@ -5149,7 +5149,7 @@
 7	ადგილსა	ადგილი	NOUN	Noun	Case=Dat|Number=Sing	5	obl	_	SpaceAfter=No|Translit=adgilsa
 8	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
 9	რაჲთა	რაჲთა	SCONJ	SCONJ	_	29	mark	_	Translit=raytʻa
-10	რაჟამს	რაჟამს	SCONJ	SCONJ	_	11	mark	_	Translit=ražams
+10	რაჟამს	რაჟამს	ADV	Adv	AdvType=Tim	11	advmod	_	Translit=ražams
 11	მოვიდეს	მოსვლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	advcl	_	SpaceAfter=No|Translit=movides
 12	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
 13	რომელმან	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	14	nsubj	_	Translit=romelman
@@ -6726,7 +6726,7 @@
 13	განეშორნეს	განშორება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=ganešornes
 14	მოყუასნი	მოყუასი	NOUN	Noun	Case=Nom|Number=Plur	2	appos	_	SpaceAfter=No|Translit=moquasni
 15	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
-16	რაჟამს	რაჟამს	SCONJ	Conj	AdvType=Rel	19	mark	_	Translit=ražams
+16	რაჟამს	რაჟამს	ADV	Adv	AdvType=Tim	19	advmod	_	Translit=ražams
 17	განსაცდელი	განსაცდელი	NOUN	Noun	Case=Nom|Number=Sing	19	nsubj	_	Translit=gansacʻdeli
 18	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	17	det	_	Translit=igi
 19	დასცხრეს	დაცხრომა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	SpaceAfter=No|Translit=dascʻxres
@@ -7260,7 +7260,7 @@ kd(24) ara ux̣ms samġdelosa mcqobrsa tʻana aġracʻxilsa visme anu monazonsa 
 5	მიიწოდოს	მიწოდება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=miicodos
 6	ქორწილად	ქორწილი	NOUN	Noun	Case=Ess|Number=Sing	5	obl	_	SpaceAfter=No|Translit=kʻorcilad
 7	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
-8	რაჟამს	რაჟამს	SCONJ	Conj	AdvType=Rel	12	mark	_	Translit=ražams
+8	რაჟამს	რაჟამს	ADV	Adv	AdvType=Tim	12	advmod	_	Translit=ražams
 9	სალაღობელნი	სალაღობელი	ADJ	Adj	Case=Nom|Number=Plur	12	nsubj	_	Translit=salaġobelni
 10	იგი	იგი	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	9	det	_	Translit=igi
 11	სახიობანი	სახიობა	NOUN	Noun	Case=Nom|Number=Plur	9	appos	_	Translit=saxiobani
