@@ -6014,12 +6014,12 @@
 40	ყოფაჲ	ყოფა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	37	conj	_	Translit=qopʻay
 41	ყოვლითურთ	ყოვლითურთ	ADV	Adv	AdvType=Man	40	advmod	_	SpaceAfter=No|Translit=qovlitʻurtʻ
 42	,	,	PUNCT	F	PunctType=Comm	28	punct	_	Translit=,
-43	რაჲთა	რაჲთა	SCONJ	Conj	_	45	mark	_	Translit=raytʻa
+43	რაჲთა	რაჲთა	SCONJ	Conj	_	44	mark	_	Translit=raytʻa
 44	შემძლებელ	შემძლებელი	ADJ	Adj	Case=Nom|Number=Plur	28	advcl	_	Translit=šemżlebel
 45	იყვნენ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	44	cop	_	Translit=iqvnen
 46	მიმთხუევასა	მიმთხუევა	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Vnoun	44	obj	_	Translit=mimtʻxuevasa
 47	მათსა	იგი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	46	nmod	_	SpaceAfter=No|Translit=matʻsa
-48	,	,	PUNCT	F	PunctType=Comm	45	punct	_	Translit=,
+48	,	,	PUNCT	F	PunctType=Comm	52	punct	_	Translit=,
 49-50	რომელთა-იგი	_	_	_	_	_	_	_	_
 49	რომელთა	რომელი	PRON	Pron	Case=Dat|Number=Plur|PronType=Rel	52	iobj	_	Translit=romeltʻa
 50	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	52	nsubj	_	Translit=igi
