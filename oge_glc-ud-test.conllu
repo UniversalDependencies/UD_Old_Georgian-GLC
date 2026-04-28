@@ -5811,9 +5811,9 @@
 5	ღირსად	ღირსი	ADJ	Adj	Case=Ess|Number=Sing	4	xcomp	_	Translit=ġirsad
 6-7	ჴელთდასხმისა	_	_	_	_	_	_	_	_
 6	ჴელთ	ჴელი	NOUN	Noun	Case=Gen|Number=Plur	7	nmod	_	Translit=x̣eltʻ
-7	დასხმისა	დასხმა	NOUN	Noun	Case=Gen|Number=Sing	9	nmod	_	Translit=dasxmisa
+7	დასხმისა	დასხმა	NOUN	Noun	Case=Gen|Number=Sing	4	obl	_	Translit=dasxmisa
 8	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Gen	7	case	_	Translit=mimartʻ
-9	კერძო-დიაკონობისა	კერძო-დიაკონობა	NOUN	Noun	Case=Gen|Number=Sing	8	nmod	_	SpaceAfter=No|Translit=kerżo-diakonobisa
+9	კერძო-დიაკონობისა	კერძო-დიაკონობა	NOUN	Noun	Case=Gen|Number=Sing	7	nmod	_	SpaceAfter=No|Translit=kerżo-diakonobisa
 10	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 11	ანუ	ანუ	CCONJ	Conj	_	12	cc	_	Translit=anu
 12	დიაკონობისა	დიაკონობა	NOUN	Noun	Case=Gen|Number=Sing	9	conj	_	SpaceAfter=No|Translit=diakonobisa
@@ -5846,10 +5846,10 @@
 37	განეყენოს	განყენება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	33	advcl	_	Translit=ganeqenos
 38	სჯულიერსა	სჯულიერი	ADJ	Adj	Case=Dat|Number=Sing	39	amod	_	Translit=sjuliersa
 39-40	თანა-ქცევასა	_	_	_	_	_	_	_	_
-39	თანა	თანა	ADV	Adv	_	37	obl	_	Translit=tʻana
-40	ქცევასა	ქცევა	NOUN	Noun	Case=Dat|Number=Sing	39	fixed	_	Translit=kʻcʻevasa
+39	თანა	თანა	ADV	Adv	_	40	compound	_	Translit=tʻana
+40	ქცევასა	ქცევა	NOUN	Noun	Case=Dat|Number=Sing	37	obl	_	Translit=kʻcʻevasa
 41	მეუღლისა	მეუღლე	NOUN	Noun	Case=Gen|Number=Sing	42	nmod	_	Translit=meuġlisa
-42	თჳსისასა	თჳსი	PRON	Pron	Case=Dat|Case[stack]=Gen|Number=Sing|PronType=Prs	41	nmod	_	SpaceAfter=No|Translit=tʻwsisasa
+42	თჳსისასა	თჳსი	PRON	Pron	Case=Dat|Case[stack]=Gen|Number=Sing|PronType=Prs	40	nmod	_	SpaceAfter=No|Translit=tʻwsisasa
 43	,	,	PUNCT	F	PunctType=Comm	37	punct	_	Translit=,
 44	რაჲთა	რაჲთა	SCONJ	SCONJ	_	50	mark	_	Translit=raytʻa
 45	არა	არა	PART	Part	PartType=Neg	50	advmod:neg	_	Translit=ara
