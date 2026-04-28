@@ -6950,7 +6950,7 @@
 46	თჳსთა	თჳსი	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	45	det	_	SpaceAfter=No|Translit=tʻwstʻa
 47	,	,	PUNCT	F	PunctType=Comm	44	punct	_	Translit=,
 48	რაჲთა	რაჲთა	SCONJ	Conj	_	50	mark	_	Translit=raytʻa
-49	არარაჲ	არარაჲ	PRON	Pron	Case=Nom|Number=Sing|PronType=Neg	50	advmod:neg	_	Translit=araray
+49	არარაჲ	PART	Part	PartType=Neg	50	advmod:neg	_	Translit=araray
 50	შეემთხჳოს	შემთხვევა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	44	advcl	_	Translit=šeemtʻxwos
 51	მათ	იგი	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	50	iobj	_	Translit=matʻ
 52	ვნებაჲ	ვნება	NOUN	Noun	Case=Nom|Number=Sing	50	nsubj	_	SpaceAfter=No|Translit=vnebay
