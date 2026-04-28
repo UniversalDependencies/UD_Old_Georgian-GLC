@@ -5836,7 +5836,7 @@
 28	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
 29	ნუცამცა	ნუცამცა	PART	Part	PartType=Neg	33	advmod:neg	_	Translit=nucʻamcʻa
 30	ჟამსა	ჟამი	NOUN	Noun	Case=Dat|Number=Sing	33	obl	_	Translit=žamsa
-31-33	ჴელთ-დასხმისასა	_	_	_	_	_	_	_	_
+31-32	ჴელთ-დასხმისასა	_	_	_	_	_	_	_	_
 31	ჴელთ	ჴელი	NOUN	Noun	Case=Gen|Number=Plur	32	nmod	_	Translit=x̣eltʻ
 32	დასხმისასა	დასხმა	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	30	nmod	_	Translit=dasxmisasa
 33	მიიჴადების	მიხადება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	19	conj	_	Translit=miix̣adebis
@@ -5910,7 +5910,7 @@
 # text = და „შე-თუ-კრულ ხარ მეუღლისადა, ნუ ეძიებ განჴსნასა“.
 # translit = da „še-tʻu-krul xar meuġlisada, nu eżieb ganx̣snasa“.
 1	და	და	CCONJ	Conj	_	4	cc	_	Translit=da
-2	„	„	PUNCT	F	PunctSide=Ini|PunctType=Quot	4	punct	_	Translit=„
+2	„	„	PUNCT	F	PunctSide=Ini|PunctType=Quot	4	punct	_	SpaceAfter=No|Translit=„
 3-5	შე-თუ-კრულ	_	_	_	_	_	_	_	_
 3	შე	შე	PART	Part	PartType=Vb	5	compound	_	Translit=še
 4	თუ	თუ	PART	Part	_	5	advmod	_	Translit=tʻu
