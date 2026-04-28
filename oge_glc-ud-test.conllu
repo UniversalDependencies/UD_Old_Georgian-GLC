@@ -6989,10 +6989,10 @@
 # sent_id = OGLC_00130
 # text = ხოლო უკუეთუ ვინმე განლაღნეს ამისდა ქმნად, ეპისკოპოსობისაგან დასცხერინ, ხოლო სახუცოთა მოქმედებდინ.
 # translit = xolo ukuetʻu vinme ganlaġnes amisda kʻmnad, episkoposobisagan dascʻxerin, xolo saxucʻotʻa mokʻmedebdin.
-1	ხოლო	ხოლო	CCONJ	Conj	_	7	cc	_	Translit=xolo
+1	ხოლო	ხოლო	CCONJ	Conj	_	4	cc	_	Translit=xolo
 2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	4	mark	_	Translit=ukuetʻu
 3	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	4	nsubj	_	Translit=vinme
-4	განლაღნეს	განლაღნება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	Translit=ganlaġnes
+4	განლაღნეს	განლაღნება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	Translit=ganlaġnes
 5	ამისდა	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	6	obl	_	Translit=amisda
 6	ქმნად	ქმნა	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	4	obl	_	SpaceAfter=No|Translit=kʻmnad
 7	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
