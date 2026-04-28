@@ -5035,10 +5035,10 @@
 23	მას	ის	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	22	det	_	Translit=mas
 24	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	22	case	_	SpaceAfter=No|Translit=šina
 25	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
-26	რომელსაცა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel|PartType=Emp	28	obl	_	Translit=romelsacʻa
+26	რომელსაცა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel|PartType=Emp	27	obl	_	Translit=romelsacʻa
 27	დაწესებულ	დაწესებული	VERB	Verb	VerbForm=Part|Voice=Pass	22	acl:relcl	_	Translit=dacesebul
-28	იყოს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	cop	_	Translit=iqos
-29	ეკლესიასა	ეკლესია	NOUN	Noun	Case=Dat|Number=Sing	28	obl	_	Translit=eklesiasa
+28	იყოს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	cop	_	Translit=iqos
+29	ეკლესიასა	ეკლესია	NOUN	Noun	Case=Dat|Number=Sing	27	obl	_	Translit=eklesiasa
 30	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	29	case	_	Translit=šina
 31	მათსა	ის	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	29	nmod	_	SpaceAfter=No|Translit=matʻsa
 32	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
