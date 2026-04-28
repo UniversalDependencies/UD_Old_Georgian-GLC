@@ -4629,9 +4629,9 @@
 33	,	,	PUNCT	F	PunctType=Comm	25	punct	_	Translit=,
 34	ანუ	ანუ	CCONJ	Conj	_	41	cc	_	Translit=anu
 35	რაჲთურთით	რაჲთურთით	ADV	Adv	_	41	advmod	_	Translit=raytʻurtʻitʻ
-36	რომელსა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	41	iobj	_	Translit=romelsacʻa
+36	რომელსაცა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	41	iobj	_	Translit=romelsacʻa
 37	სამღდელოსა	სამღდელო	ADJ	Adj	Case=Dat|Number=Sing	38	amod	_	Translit=samġdelosa
-38	დასა	დას	NOUN	Noun	Case=Dat|Number=Sing	41	obl	_	Translit=dassa
+38	დასსა	დასი	NOUN	Noun	Case=Dat|Number=Sing	41	obl	_	Translit=dassa
 39	თანა	თანა	ADP	Post	AdpType=Post|Case=Dat	38	case	_	Translit=tʻana
 40	შეერთოს	შეერთოს	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	conj	_	SpaceAfter=No|Translit=šeertʻos
 41	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
