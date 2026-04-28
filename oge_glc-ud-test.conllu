@@ -6521,7 +6521,7 @@
 14	ოდენ	ოდენ	ADV	Adv	AdvType=Man	13	advmod	_	SpaceAfter=No|Translit=oden
 15	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 16-17	ვინაჲცა	_	_	_	_	_	_	_	_
-16	ვინაჲ	ვინაჲ	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	16	obl	_	Translit=vinay
+16	ვინაჲ	ვინაჲ	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	24	obl	_	Translit=vinay
 17	ცა	ცა	PART	Part	PartType=Emp	16	fixed	_	Translit=cʻa
 18	არცა	არცა	PART	Part	PartType=Neg	21	advmod:neg	_	Translit=arcʻa
 19	დიაკონთა	დიაკონი	NOUN	Noun	Case=Gen|Number=Plur	23	nmod	_	Translit=diakontʻa
