@@ -5488,8 +5488,8 @@
 16	მეგობრად	მეგობარი	NOUN	Noun	Case=Ess|Number=Sing	17	xcomp	_	Translit=megobrad
 17	იჩენს	ჩენა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	Translit=ičʻens
 18	მათ	ის	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	17	obj	_	Translit=matʻ
-19	და	და	CCONJ	Conj	_	23	cc	_	Translit=da
-20	სნეულებასა	სნეულება	NOUN	Noun	Case=Dat|Number=Sing	23	obl	_	Translit=sneulebasa
+19	და	და	CCONJ	Conj	_	22	cc	_	Translit=da
+20	სნეულებასა	სნეულება	NOUN	Noun	Case=Dat|Number=Sing	22	obl	_	Translit=sneulebasa
 21	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	20	case	_	Translit=šina
 22	მიუწოდს	მიწოდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	Translit=miucods
 23	და	და	CCONJ	Conj	_	25	cc	_	Translit=da
