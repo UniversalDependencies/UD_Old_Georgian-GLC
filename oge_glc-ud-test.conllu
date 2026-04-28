@@ -6177,19 +6177,19 @@
 # text = ხოლო უკუეთუ ვინმე რომელსაცა სამღდელოსა წესსა შინა თჳნიერ განსაზღვრებულთა ამათ ჟამთასა ჴელთდასხმულ იქმნეს, განიკუეთენ.
 # translit = xolo ukuetʻu vinme romelsacʻa samġdelosa cessa šina tʻwnier gansazġvrebultʻa amatʻ žamtʻasa x̣eltʻdasxmul ikʻmnes, ganikuetʻen.
 1	ხოლო	ხოლო	CCONJ	Conj	_	15	cc	_	Translit=xolo
-2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	13	mark	_	Translit=ukuetʻu
-3	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	13	nsubj:pass	_	Translit=vinme
+2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	12	mark	_	Translit=ukuetʻu
+3	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	12	nsubj:pass	_	Translit=vinme
 4	რომელსაცა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Rel	6	det	_	Translit=romelsacʻa
 5	სამღდელოსა	სამღდელო	ADJ	Adj	Case=Dat|Number=Sing	6	amod	_	Translit=samġdelosa
-6	წესსა	წესი	NOUN	Noun	Case=Dat|Number=Sing	13	obl	_	Translit=cessa
+6	წესსა	წესი	NOUN	Noun	Case=Dat|Number=Sing	12	obl	_	Translit=cessa
 7	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	6	case	_	Translit=šina
 8	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	11	case	_	Translit=tʻwnier
 9	განსაზღვრებულთა	განსაზღვრებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	11	amod	_	Translit=gansazġvrebultʻa
 10	ამათ	ეს	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	11	det	_	Translit=amatʻ
-11	ჟამთასა	ჟამი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	13	obl	_	Translit=žamtʻasa
+11	ჟამთასა	ჟამი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	v	obl	_	Translit=žamtʻasa
 12	ჴელთდასხმულ	ჴელთდასხმული	VERB	Verb	VerbForm=Part|Voice=Pass	15	advcl	_	Translit=x̣eltʻdasxmul
 13	იქმნეს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	cop	_	SpaceAfter=No|Translit=ikʻmnes
-14	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
+14	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
 15	განიკუეთენ	განკუეთა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=ganikuetʻen
 16	.	.	PUNCT	F	PunctType=Peri	15	punct	_	Translit=.
 
