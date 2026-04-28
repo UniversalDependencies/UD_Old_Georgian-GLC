@@ -5809,10 +5809,10 @@
 3	ვინ	ვინ	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	2	appos	_	Translit=vin
 4	იპოოს	პოვება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=ipoos
 5	ღირსად	ღირსი	ADJ	Adj	Case=Ess|Number=Sing	4	xcomp	_	Translit=ġirsad
-5-6	ჴელთდასხმისა	_	_	_	_	_	_	_	_
+6-7	ჴელთდასხმისა	_	_	_	_	_	_	_	_
 6	ჴელთ	ჴელი	NOUN	Noun	Case=Gen|Number=Plur	7	nmod	_	Translit=x̣eltʻ
-7	დასხმისა	დასხმა	NOUN	Noun	Case=Gen|Number=Sing	8	nmod	_	Translit=dasxmisa
-8	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Gen	5	obl	_	Translit=mimartʻ
+7	დასხმისა	დასხმა	NOUN	Noun	Case=Gen|Number=Sing	9	nmod	_	Translit=dasxmisa
+8	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Gen	7	case	_	Translit=mimartʻ
 9	კერძო-დიაკონობისა	კერძო-დიაკონობა	NOUN	Noun	Case=Gen|Number=Sing	8	nmod	_	SpaceAfter=No|Translit=kerżo-diakonobisa
 10	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 11	ანუ	ანუ	CCONJ	Conj	_	12	cc	_	Translit=anu
