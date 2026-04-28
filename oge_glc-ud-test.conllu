@@ -6625,7 +6625,7 @@
 23-25	თანა-ჯერ-ჩინებისა	_	_	_	_	_	_	_	_
 23	თანა	თანა	ADV	Adv	_	25	advmod	_	Translit=tʻana
 24	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	25	advmod	_	Translit=jer
-25	ჩინებისა	ჩინება	NOUN	Noun	Case=Gen|Number=Sing	29	obl	_	Translit=čʻinebisa
+25	ჩინებისა	ჩინება	NOUN	Noun	Case=Gen|Number=Sing	29	nmod	_	Translit=čʻinebisa
 26	ეპისკოპოსისა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Sing	25	nmod	_	Translit=episkoposisa
 27	თჳსისა	თჳსი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	26	det	_	Translit=tʻwsisa
 28	უცხოთა	უცხო	ADJ	Adj	Case=Gen|Number=Plur	29	amod	_	Translit=ucʻxotʻa
@@ -6637,7 +6637,7 @@
 34	შეემთხჳა	შემთხვევა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	_	Translit=šeemtʻxwa
 35	მათ	იგი	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	34	iobj	_	Translit=matʻ
 36-37	დაუმორჩილებელ-ყოფაჲ	_	_	_	_	_	_	_	SpaceAfter=No
-36	დაუმორჩილებელ	დაუმორჩილებელი	ADJ	Adj	Case=Nom|Number=Sing	34	nsubj	_	Translit=daumorčʻilebel
+36	დაუმორჩილებელ	დაუმორჩილებელი	ADJ	Adj	ExtPos=NOUN|Case=Nom|Number=Sing	34	nsubj	_	Translit=daumorčʻilebel
 37	ყოფაჲ	ყოფა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	36	fixed	_	Translit=qopʻay
 38	,	,	PUNCT	F	PunctType=Comm	34	punct	_	Translit=,
 39-40	ამისთჳს	_	_	_	_	_	_	_	_
