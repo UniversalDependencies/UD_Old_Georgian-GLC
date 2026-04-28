@@ -4922,11 +4922,11 @@
 # sent_id = OGLC_00082
 # text = ზ(7) ვინაჲთგან ვისწავეთ რომელთამე ეკლესიათა შინა დიაკონთათჳს, რომელთა უფფიკად სახელდებულნი იგი საეკლესიონი აქუნდენ პატივნი, ამიერ თავჴედობათა რათმე და თჳთსჯულობათა მჴუმეველობაჲ და პირველხუცესთასა მსხდომარეობაჲ მათი, განვსაზღვრებთ, რაჲთა დიაკონი დაღათუ პატივსა რასმე, ესე იგი არს საეკლესიოსა რომელსამე უფფიკსა შინა იყოს, ეგევითარი იგი არა დაჯდებოდის უწინარეს ხუცისა, გარნა თუ პირსა თჳსისა პატრიარქისა ანუ მიტროპოლიტისასა მქონებელი სხუასა ქალაქსა მივიდეს მიზეზისა რაჲსათჳსმე, რამეთუ მაშინ, ვითარცა ადგილისა მისისა მქონებელი, პატივ-იცემების.
 # translit = z(7) vinaytʻgan viscavetʻ romeltʻame eklesiatʻa šina diakontʻatʻws, romeltʻa upʻpʻikad saxeldebulni igi saeklesioni akʻunden pativni, amier tʻavx̣edobatʻa ratʻme da tʻwtʻsjulobatʻa mx̣umevelobay da pirvelxucʻestʻasa msxdomareobay matʻi, ganvsazġvrebtʻ, raytʻa diakoni daġatʻu pativsa rasme, ese igi ars saeklesiosa romelsame upʻpʻiksa šina iqos, egevitʻari igi ara dajdebodis ucinares xucʻisa, garna tʻu pirsa tʻwsisa patriarkʻisa anu mitropolitisasa mkʻonebeli sxuasa kʻalakʻsa mivides mizezisa raysatʻwsme, rametʻu mašin, vitʻarcʻa adgilisa misisa mkʻonebeli, pativ-icʻemebis.
-1	ზ(7)	ზ(7)	NUM	Num	NumForm=Georgian|NumType=Card	23	dep	_	Translit=z(7)
+1	ზ(7)	ზ(7)	NUM	Num	NumForm=Georgian|NumType=Card	30	dep	_	Translit=z(7)
 2-3	ვინაჲთგან	_	_	_	_	_	_	_	_
 2	ვინაჲთ	ვინაჲთ	ADV	Adv	_	4	advmod	_	Translit=vinaytʻ
 3	გან	გან	ADP	Post	AdpType=Post|Case=Ins	2	case	_	Translit=gan
-4	ვისწავეთ	სწავლა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin|Voice=Act	23	advcl	_	Translit=viscavetʻ
+4	ვისწავეთ	სწავლა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin|Voice=Act	30	advcl	_	Translit=viscavetʻ
 5	რომელთამე	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	6	det	_	Translit=romeltʻame
 6	ეკლესიათა	ეკლესია	NOUN	Noun	Case=Gen|Number=Plur	7	obl	_	Translit=eklesiatʻa
 7	შინა	შინა	ADP	Post	AdpType=Post|Case=Gen	4	obl	_	Translit=šina
@@ -4941,9 +4941,9 @@
 15	საეკლესიონი	საეკლესიო	NOUN	Noun	Case=Nom|Number=Plur	13	nsubj	_	Translit=saeklesioni
 16	აქუნდენ	ქონება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	13	aux	_	Translit=akʻunden
 17	პატივნი	პატივი	NOUN	Noun	Case=Nom|Number=Plur	15	nmod	_	SpaceAfter=No|Translit=pativni
-18	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
+18	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 19	ამიერ	ამიერ	ADV	Adv	_	20	advmod	_	Translit=amier
-20	თავჴედობათა	თავჴედობა	NOUN	Noun	Case=Gen|Number=Plur	23	obl	_	Translit=tʻavx̣edobatʻa
+20	თავჴედობათა	თავჴედობა	NOUN	Noun	Case=Gen|Number=Plur	30	obl	_	Translit=tʻavx̣edobatʻa
 21	რათმე	რაჲმე	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	20	det	_	Translit=ratʻme
 22	და	და	CCONJ	Conj	_	24	cc	_	Translit=da
 23	თჳთსჯულობათა	თჳთსჯულობა	NOUN	Noun	Case=Gen|Number=Plur	20	conj	_	Translit=tʻwtʻsjulobatʻa
@@ -4952,17 +4952,17 @@
 26	პირველხუცესთასა	პირველხუცესი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	27	nmod	_	Translit=pirvelxucʻestʻasa
 27	მსხდომარეობაჲ	მსხდომარეობა	NOUN	Noun	Case=Nom|Number=Sing	24	conj	_	Translit=msxdomareobay
 28	მათი	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	24	nmod	_	SpaceAfter=No|Translit=matʻi
-29	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
+29	,	,	PUNCT	F	PunctType=Comm	30	punct	_	Translit=,
 30	განვსაზღვრებთ	განსაზღვრა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ganvsazġvrebtʻ
 31	,	,	PUNCT	F	PunctType=Comm	30	punct	_	Translit=,
-32	რაჲთა	რაჲთა	SCONJ	SCONJ	_	44	mark	_	Translit=raytʻa
-33	დიაკონი	დიაკონი	NOUN	Noun	Case=Nom|Number=Sing	44	nsubj	_	Translit=diakoni
+32	რაჲთა	რაჲთა	SCONJ	SCONJ	_	50	mark	_	Translit=raytʻa
+33	დიაკონი	დიაკონი	NOUN	Noun	Case=Nom|Number=Sing	50	nsubj	_	Translit=diakoni
 34	დაღათუ	დაღათუ	SCONJ	SCONJ	_	36	mark	_	Translit=daġatʻu
 35	პატივსა	პატივი	NOUN	Noun	Case=Dat|Number=Sing	36	obj	_	Translit=pativsa
-36	რასმე	რაჲმე	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	44	advcl	_	SpaceAfter=No|Translit=rasme
-37	,	,	PUNCT	F	PunctType=Comm	44	punct	_	Translit=,
-38	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	39	det	_	Translit=ese
-39	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	44	parataxis	_	Translit=igi
+36	რასმე	რაჲმე	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	50	advcl	_	SpaceAfter=No|Translit=rasme
+37	,	,	PUNCT	F	PunctType=Comm	50	punct	_	Translit=,
+38	ესე	ესე	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Dem	40	det	_	Translit=ese
+39	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	38	fixed	_	Translit=igi
 40	არს	არსი	NOUN	Noun	Case=Dat|Number=Sing	44	nsubj	_	Translit=ars
 41	საეკლესიოსა	საეკლესიო	NOUN	Noun	Case=Dat|Number=Sing	43	nmod	_	Translit=saeklesiosa
 42	რომელსამე	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	43	det	_	Translit=romelsame
