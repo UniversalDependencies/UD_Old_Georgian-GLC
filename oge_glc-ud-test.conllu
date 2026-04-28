@@ -6646,7 +6646,7 @@
 41	განვასაზღვრებთ	განსაზღვრა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ganvasazġvrebtʻ
 42	,	,	PUNCT	F	PunctType=Comm	41	punct	_	Translit=,
 43	რაჲთა	რაჲთა	SCONJ	Conj	_	58	mark	_	Translit=raytʻa
-44	იანვარით	იანვარი	NOUN	Noun	Case=Ins|Number=Sing	45	obl	_	Translit=ianvaritʻ
+44	იანვარით	იანვარი	NOUN	Noun	Case=Ins|Number=Sing	45	nmod	_	Translit=ianvaritʻ
 45-46	თთჳთაგან	_	_	_	_	_	_	_	_
 45	თთჳთა	თთჳ	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	47	obl	_	Translit=tʻtʻwtʻa
 46	გან	გან	ADP	Post	AdpType=Post|Case=Ins	45	case	_	Translit=gan
@@ -6663,7 +6663,7 @@
 56	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	55	case	_	Translit=šina
 57	დაწესებულსა	დაწესებული	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Part|Voice=Pass	51	acl	_	Translit=dacesebulsa
 58	ჴელეწიფებოდის	ჴელეწიფება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	41	ccomp	_	Translit=x̣elecipʻebodis
-59	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	61	case	_	Translit=tʻwnier
+59	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	60	case	_	Translit=tʻwnier
 60	ეპისკოპოსისა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Sing	58	obl	_	Translit=episkoposisa
 61	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	60	case	_	Translit=mier
 62	თჳსისა	თჳსი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	60	det	_	Translit=tʻwsisa
