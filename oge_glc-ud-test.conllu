@@ -5961,7 +5961,7 @@
 31	საზღვართაებრ	საზღვართაებრ	ADV	Adv	_	33	advmod	_	Translit=sazġvartʻaebr
 32	თჳსთა	თჳსი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	33	obl	_	Translit=tʻwstʻa
 33-34	მეუღლეთაგანცა	_	_	_	_	_	_	_	_
-33	მეუღლეთა	მეუღლე	NOUN	Noun	Case=Gen|Number=Plur	35	obl	_	Translit=meuġletʻa
+33	მეუღლეთა	მეუღლე	NOUN	Noun	Case=Gen|Number=Plur	35	nmod	_	Translit=meuġletʻa
 34	გან	გან	ADP	Post	AdpType=Post|Case=Ins|PartType=Emp	33	case	_	Translit=gancʻa
 35	თჳსთა	თჳსი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	36	obl	_	Translit=tʻwstʻa
 36	განეყენებოდინ	განყენება	VERB	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Pass	18	ccomp	_	SpaceAfter=No|Translit=ganeqenebodin
