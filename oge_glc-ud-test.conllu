@@ -5960,7 +5960,7 @@
 30	ხუცესნი	ხუცესი	NOUN	Noun	Case=Nom|Number=Plur	21	conj	_	Translit=xucʻesni
 31	საზღვართაებრ	საზღვართაებრ	ADV	Adv	_	33	advmod	_	Translit=sazġvartʻaebr
 32	თჳსთა	თჳსი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	33	obl	_	Translit=tʻwstʻa
-33-35	მეუღლეთაგანცა	_	_	_	_	_	_	_	_
+33-34	მეუღლეთაგანცა	_	_	_	_	_	_	_	_
 33	მეუღლეთა	მეუღლე	NOUN	Noun	Case=Gen|Number=Plur	35	obl	_	Translit=meuġletʻa
 34	გან	გან	ADP	Post	AdpType=Post|Case=Ins|PartType=Emp	33	case	_	Translit=gancʻa
 35	თჳსთა	თჳსი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	36	obl	_	Translit=tʻwstʻa
