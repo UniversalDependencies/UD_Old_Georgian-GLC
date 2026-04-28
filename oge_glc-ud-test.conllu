@@ -5113,9 +5113,9 @@
 100	მოვიდეს	მოსვლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	87	conj	_	SpaceAfter=No|Translit=movides
 101	,	,	PUNCT	F	PunctType=Comm	100	punct	_	Translit=,
 102-103	რომელმან-იგი	_	_	_	_	_	_	_	_
-102	რომელმან	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	104	nsubj	_	Translit=romelman
-103	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	102	fixed	_	Translit=igi
-104	შენ	შენ	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	105	obj	_	Translit=šen
+102	რომელმან	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	107	nsubj	_	Translit=romelman
+103	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	107	obj	_	Translit=igi
+104	შენ	შენ	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	107	iobj	_	Translit=šen
 105	და	და	CCONJ	Conj	_	106	cc	_	Translit=da
 106	მას	ის	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	104	conj	_	Translit=mas
 107	გხადა	ხდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	100	acl:relcl	_	Translit=gxada
