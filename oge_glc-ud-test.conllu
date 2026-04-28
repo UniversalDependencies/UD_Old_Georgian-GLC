@@ -5518,7 +5518,7 @@
 5	ჴელ	ჴელი	NOUN	Noun	Case=Nom|Number=Sing	9	advcl	_	Translit=x̣el
 6	ყოს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	flat	_	Translit=qos
 7	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
-8	უკუეთუ	უკუეთუ	SCONJ	SCONJ	_	10	mark	_	Translit=ukuetʻu
+8	უკუეთუ	უკუეთუ	SCONJ	SCONJ	_	9	mark	_	Translit=ukuetʻu
 9	მოყუასი	მოყუასი	NOUN	Noun	Case=Nom|Number=Sing	12	advcl	_	Translit=moquasi
 10	იყოს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|Translit=iqos
 11	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
@@ -5542,7 +5542,7 @@
 5	სასმენელთა	სასმენელი	NOUN	Noun	Case=Gen|Number=Plur	4	obl	_	Translit=sasmeneltʻa
 6	ჩუენთა	ჩუენი	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	nmod	_	SpaceAfter=No|Translit=čʻuentʻa
 7	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
-8	ვითარმედ	ვითარმედ	SCONJ	SCONJ	_	20	mark	_	Translit=vitʻarmed
+8	ვითარმედ	ვითარმედ	SCONJ	SCONJ	_	34	mark	_	Translit=vitʻarmed
 9	აფრიკეთს	აფრიკე	NOUN	Noun	Case=Dat|Number=Sing	20	obl	_	Translit=apʻriketʻs
 10	და	და	CCONJ	Conj	_	11	cc	_	Translit=da
 11	ლიბიას	ლიბია	NOUN	Noun	Case=Dat|Number=Sing	9	conj	_	Translit=libias
@@ -5555,9 +5555,9 @@
 18	ღმრთისმოყუარენი	ღმრთისმოყუარე	NOUN	Noun	Case=Nom|Number=Plur	19	amod	_	Translit=ġmrtʻismoquareni
 19	ეპისკოპოსნი	ეპისკოპოსი	NOUN	Noun	Case=Nom|Number=Plur	20	nsubj	_	Translit=episkoposni
 20-23	თანა-მკჳდრ-ყოფისაგან	_	_	_	_	_	_	_	_
-20	თანა	თანა	ADV	Adv	_	33	obl	_	Translit=tana
+20	თანა	თანა	ADV	Adv	_	22	compound	_	Translit=tana
 21	მკჳდრ	მკჳდრი	NOUN	Noun	Case=Gen|Number=Sing	22	nmod	_	Translit=mkwdr
-22	ყოფისა	ყოფა	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Vnoun	20	fixed	_	Translit=qopisa
+22	ყოფისა	ყოფა	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Vnoun	34	obl	_	Translit=qopisa
 23	გან	გან	ADP	Post	AdpType=Post|Case=Ins	22	case	_	Translit=gan
 24	თჳსთა	თჳსი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	25	nmod	_	Translit=tʻwstʻa
 25	მეუღლეთაჲსა	მეუღლე	NOUN	Noun	Case=Gen|Case[stack]=Gen|Number=Plur	22	nmod	_	Translit=meuġletʻaysa
