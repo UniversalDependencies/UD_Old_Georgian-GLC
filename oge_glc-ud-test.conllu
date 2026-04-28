@@ -6561,7 +6561,7 @@
 52	საიდუმლოთასა	საიდუმლო	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	51	nmod	_	Translit=saidumlotʻasa
 53	ჰმსახურებენ	მსახურება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	44	acl:relcl	_	Translit=hmsaxureben
 54	პირველთარგმანებულისა	პირველთარგმანებული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Pass	56	amod	_	Translit=pirveltʻargmanebulisa
-55	ამის	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	57	det	_	Translit=amis
+55	ამის	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	56	det	_	Translit=amis
 56-57	მოძღურებისაებრ	_	_	_	_	_	_	_	SpaceAfter=No
 56	მოძღურებისა	მოძღურება	NOUN	Noun	Case=Gen|Number=Sing	53	obl	_	Translit=możġurebisa
 57	ებრ	ებრ	ADP	Post	AdpType=Post|Case=Nom	56	case	_	Translit=ebr
