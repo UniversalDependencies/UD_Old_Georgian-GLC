@@ -6677,7 +6677,7 @@
 69	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	68	case	_	SpaceAfter=No|Translit=šina
 70	,	,	PUNCT	F	PunctType=Comm	58	punct	_	Translit=,
 71-72	ვინაჲცა	_	_	_	_	_	_	_	_
-71	ვინაჲ	ვინაჲ	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	76	obl	_	Translit=vinay
+71	ვინაჲ	ვინაჲ	PRON	Pron	Case=Gen|ExtPos=PRON|Number=Sing|PronType=Rel	76	obl	_	Translit=vinay
 72	ცა	ცა	PART	Part	PartType=Emp	71	fixed	_	Translit=cʻa
 73	რომელმან	რომელი	PRON	Pron	Case=Erg|Number=Sing|PronType=Rel	76	nsubj	_	Translit=romelman
 74-75	ამიერითგან	_	_	_	_	_	_	_	_
@@ -6710,9 +6710,9 @@
 # sent_id = OGLC_00122
 # text = იჱ(18) რომელნი მიზეზითა ბარბაროზთა ზედა-მარბეველობისაჲთა ანუ სხჳსა რაჲსმე განსაცდელისაჲთა ეკლესიათაგან თჳსთა განეშორნეს მოყუასნი, რაჟამს განსაცდელი იგი დასცხრეს, ანუ ბარბაროზთა ზედამარბეველობაჲ ქუეყანად თჳსად მიიქცეს.
 # translit = iē(18) romelni mizezitʻa barbaroztʻa zeda-marbevelobisaytʻa anu sxwsa raysme gansacʻdelisaytʻa eklesiatʻagan tʻwstʻa ganešornes moquasni, ražams gansacʻdeli igi dascʻxres, anu barbaroztʻa zedamarbevelobay kʻueqanad tʻwsad miikʻcʻes.
-1	იჱ(18)	იჱ(18)	NUM	Num	NumForm=Georgian|NumType=Card	11	dep	_	Translit=ie(18)
-2	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	11	nsubj	_	Translit=romelni
-3	მიზეზითა	მიზეზი	NOUN	Noun	Case=Ins|Number=Sing	11	obl	_	Translit=mizezitʻa
+1	იჱ(18)	იჱ(18)	NUM	Num	NumForm=Georgian|NumType=Card	13	dep	_	Translit=ie(18)
+2	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	13	nsubj	_	Translit=romelni
+3	მიზეზითა	მიზეზი	NOUN	Noun	Case=Ins|Number=Sing	13	obl	_	Translit=mizezitʻa
 4	ბარბაროზთა	ბარბაროზი	NOUN	Noun	Case=Gen|Number=Plur	5	nmod	_	Translit=barbaroztʻa
 5	ზედა-მარბეველობისაჲთა	ზედა-მარბეველობა	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	3	nmod	_	Translit=zeda-marbevelobisaytʻa
 6	ანუ	ანუ	CCONJ	Conj	_	9	cc	_	Translit=anu
@@ -6720,9 +6720,9 @@
 8	რაჲსმე	რაჲმე	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	9	det	_	Translit=raysme
 9	განსაცდელისაჲთა	განსაცდელი	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	5	conj	_	Translit=gansacʻdelisaytʻa
 10-11	ეკლესიათაგან	_	_	_	_	_	_	_	_
-10	ეკლესიათა	ეკლესია	NOUN	Noun	Case=Gen|Number=Plur	12	obl	_	Translit=eklesiatʻa
+10	ეკლესიათა	ეკლესია	NOUN	Noun	Case=Gen|Number=Plur	13	obl	_	Translit=eklesiatʻa
 11	გან	გან	ADP	Post	AdpType=Post|Case=Ins	10	case	_	Translit=gan
-12	თჳსთა	თჳსი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	13	det	_	Translit=tʻwstʻa
+12	თჳსთა	თჳსი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	10	det	_	Translit=tʻwstʻa
 13	განეშორნეს	განშორება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=ganešornes
 14	მოყუასნი	მოყუასი	NOUN	Noun	Case=Nom|Number=Plur	2	appos	_	SpaceAfter=No|Translit=moquasni
 15	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
@@ -6764,9 +6764,9 @@
 # text = ხოლო უკუეთუ ვინმე არა აწინდელისა კანონისაებრ იპოოს მოქმედად, დაეცადენ მღდელობისაგან, ვიდრემდის თჳსისავე ეკლესიისა მიმართ კუალად-ქცევითა აღვიდეს.
 # translit = xolo ukuetʻu vinme ara acindelisa kanonisaebr ipoos mokʻmedad, daecʻaden mġdelobisagan, vidremdis tʻwsisave eklesiisa mimartʻ kualad-kʻcʻevitʻa aġvides.
 1	ხოლო	ხოლო	CCONJ	Conj	_	8	cc	_	Translit=xolo
-2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	7	mark	_	Translit=ukuetʻu
-3	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	7	nsubj:pass	_	Translit=vinme
-4	არა	არა	PART	Part	PartType=Neg	7	advmod:neg	_	Translit=ara
+2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	8	mark	_	Translit=ukuetʻu
+3	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	8	nsubj:pass	_	Translit=vinme
+4	არა	არა	PART	Part	PartType=Neg	5	advmod:neg	_	Translit=ara
 5	აწინდელისა	აწინდელი	ADJ	Adj	Case=Gen|Number=Sing	6	amod	_	Translit=acindelisa
 6-7	კანონისაებრ	_	_	_	_	_	_	_	_
 6	კანონისა	კანონი	NOUN	Noun	Case=Gen|Number=Sing	8	obl	_	Translit=kanonisa
