@@ -6232,7 +6232,7 @@
 32-33	კანონისაებრ	_	_	_	_	_	_	_	SpaceAfter=No
 32	კანონისა	კანონი	NOUN	Noun	Case=Gen|Number=Sing	31	obl	_	Translit=kanonisa
 33	ებრ	ებრ	ADP	Post	AdpType=Post|Case=Nom	32	case	_	Translit=ebr
-34	,	,	PUNCT	F	PunctType=Comm	36	punct	_	Translit=,
+34	,	,	PUNCT	F	PunctType=Comm	35	punct	_	Translit=,
 35	დაღათუ	დაღათუ	SCONJ	Conj	_	37	mark	_	Translit=daġatʻu
 36	ყოვლად	ყოვლად	ADV	Adv	AdvType=Man	37	advmod	_	Translit=qovlad
 37	დიდ	დიდი	ADJ	Adj	Case=Nom|Number=Sing	19	advcl	_	Translit=did
