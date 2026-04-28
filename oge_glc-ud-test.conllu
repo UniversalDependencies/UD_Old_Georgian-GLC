@@ -4660,9 +4660,9 @@
 18	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 19	ვერ	ვერ	PART	Part	PartType=Neg	22	advmod:neg	_	Translit=ver
 20-21	ძალ-უც	_	_	_	_	_	_	_	_
-20	ძალ	ძალ	NOUN	Noun	Case=Nom|Number=Sing	22	nsubj	_	Translit=żal
-21	უც	უც	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	aux	_	Translit=ucʻ
-22	მიღებაჲ	მიღება	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	4	conj	_	Translit=miġebay
+20	ძალ	ძალ	NOUN	Noun	Case=Nom|Number=Sing	21	compound	_	Translit=żal
+21	უც	უც	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	Translit=ucʻ
+22	მიღებაჲ	მიღება	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	21	obj	_	Translit=miġebay
 23	ეპისკოპოსობისა	ეპისკოპოსობა	NOUN	Noun	Case=Gen|Number=Sing	22	nmod	_	SpaceAfter=No|Translit=episkoposobisa
 24	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
 25	ანუ	ანუ	CCONJ	Conj	_	26	cc	_	Translit=anu
@@ -4678,7 +4678,7 @@
 35	თანა	თანა	ADP	Post	AdpType=Post|Case=Gen	34	case	_	Translit=tʻana
 36-37	აღრაცხილ-ყოფაჲ	_	_	_	_	_	_	_	SpaceAfter=No
 36	აღრაცხილ	აღრაცხილი	VERB	Verb	VerbForm=Part|Voice=Pass	37	xcomp	_	Translit=aġracʻxil
-37	ყოფაჲ	ყოფა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	4	xcomp	_	SpaceAfter=No|Translit=qopʻay
+37	ყოფაჲ	ყოფა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	22	conj	_	Translit=qopʻay
 38	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 # sent_id = OGLC_00075
