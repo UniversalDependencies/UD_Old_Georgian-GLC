@@ -5716,7 +5716,7 @@
 2	უკუეთუ	უკუეთუ	SCONJ	SCONJ	_	4	mark	_	Translit=ukuetʻu
 3	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	4	nsubj	_	Translit=vinme
 4	განლაღნეს	განლაღნება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	Translit=ganlaġnes
-5	ქმნად	ყოფა	AUX	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	4	xcomp	_	Translit=kʻmnad
+5	ქმნად	ქმნა	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	4	obl	_	Translit=kʻmnad
 6	ესევითარისა	ესევითარი	ADJ	Adj	Case=Gen|Number=Sing	5	obj	_	SpaceAfter=No|Translit=esevitʻarisa
 7	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
 8	განიკუეთენ	განკუეთა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=ganikuetʻen
