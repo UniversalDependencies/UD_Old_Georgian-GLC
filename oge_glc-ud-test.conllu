@@ -6599,14 +6599,14 @@
 # sent_id = OGLC_00121
 # text = იზ(17) ვინაჲთგან მრავალთა ეკლესიათა მოყუასნი დამტევებელ იქმნნეს ეკლესიათა თჳსთა, რომელთა შინა ჴელთდასხმულ იყვნეს და სხუათა ეპისკოპოსთა მიმართ მივიდეს და თჳნიერ თანა-ჯერ-ჩინებისა ეპისკოპოსისა თჳსისა უცხოთა ეკლესიათა შინა დაეწესნეს და ამიერ შეემთხჳა მათ დაუმორჩილებელ-ყოფაჲ, ამისთჳს განვასაზღვრებთ, რაჲთა იანვარით თთჳთაგან გარდასრულისა ამის მეოთხისა ინდიკტიონისაჲთ არავის მოყუასთაგანსა რომელსაცა პატივსა შინა დაწესებულსა ჴელეწიფებოდის თჳნიერ ეპისკოპოსისა მიერ თჳსისა ჴელით-წერით განტევებისა დაწესებაჲ სხუასა ეკლესიასა შინა, ვინაჲცა რომელმან ამიერითგან არა დაიცვას ესე, არამედ არცხჳნოს ჴელთდამსხმელსა მას თჳსსა მისგან განშორებითა თჳსითა, განიკუეთოს იგიცა და უსამართლოდ შემწყნარებელიცა იგი მისი.
 # translit = iz(17) vinaytʻgan mravaltʻa eklesiatʻa moquasni damtevebel ikʻmnnes eklesiatʻa tʻwstʻa, romeltʻa šina x̣eltʻdasxmul iqvnes da sxuatʻa episkopostʻa mimartʻ mivides da tʻwnier tʻana-jer-čʻinebisa episkoposisa tʻwsisa ucʻxotʻa eklesiatʻa šina daecesnes da amier šeemtʻxwa matʻ daumorčʻilebel-qopʻay, amistʻws ganvasazġvrebtʻ, raytʻa ianvaritʻ tʻtʻwtʻagan gardasrulisa amis meotʻxisa indiktionisaytʻ aravis moquastʻagansa romelsacʻa pativsa šina dacesebulsa x̣elecipʻebodis tʻwnier episkoposisa mier tʻwsisa x̣elitʻ-ceritʻ gantevebisa dacesebay sxuasa eklesiasa šina, vinaycʻa romelman amieritʻgan ara daicʻvas ese, aramed arcʻxwnos x̣eltʻdamsxmelsa mas tʻwssa misgan ganšorebitʻa tʻwsitʻa, ganikuetʻos igicʻa da usamartʻlod šemcqnarebelicʻa igi misi.
-1	იზ(17)	იზ(17)	NUM	Num	NumForm=Georgian|NumType=Card	28	dep	_	Translit=iz(17)
+1	იზ(17)	იზ(17)	NUM	Num	NumForm=Georgian|NumType=Card	41	dep	_	Translit=iz(17)
 2-3	ვინაჲთგან	_	_	_	_	_	_	_	_
 2	ვინაჲთ	ვინაჲთ	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	9	obl	_	Translit=vinaytʻ
 3	გან	გან	ADP	Post	AdpType=Post|Case=Ins	2	case	_	Translit=gan
 4	მრავალთა	მრავალი	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	5	det	_	Translit=mravaltʻa
 5	ეკლესიათა	ეკლესია	NOUN	Noun	Case=Gen|Number=Plur	6	nmod	_	Translit=eklesiatʻa
 6	მოყუასნი	მოყუასი	NOUN	Noun	Case=Nom|Number=Plur	9	nsubj:pass	_	Translit=moquasni
-7	დამტევებელ	დამტევებელი	VERB	Verb	VerbForm=Part	28	advcl	_	Translit=damtevebel
+7	დამტევებელ	დამტევებელი	VERB	Verb	VerbForm=Part	41	advcl	_	Translit=damtevebel
 8	იქმნნეს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	cop	_	Translit=ikʻmnnes
 9	ეკლესიათა	ეკლესია	NOUN	Noun	Case=Gen|Number=Plur	7	obj	_	Translit=eklesiatʻa
 10	თჳსთა	თჳსი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	9	det	_	SpaceAfter=No|Translit=tʻwstʻa
@@ -6620,7 +6620,7 @@
 18	ეპისკოპოსთა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Plur	19	nmod	_	Translit=episkopostʻa
 19	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Gen	20	obl	_	Translit=mimartʻ
 20	მივიდეს	მისვლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	Translit=mivides
-21	და	და	CCONJ	Conj	_	29	cc	_	Translit=da
+21	და	და	CCONJ	Conj	_	31	cc	_	Translit=da
 22	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	26	case	_	Translit=tʻwnier
 23-26	თანა-ჯერ-ჩინებისა	_	_	_	_	_	_	_	_
 23	თანა	თანა	ADV	Adv	_	25	advmod	_	Translit=tʻana
@@ -6645,7 +6645,7 @@
 40	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	39	case	_	Translit=tʻws
 41	განვასაზღვრებთ	განსაზღვრა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ganvasazġvrebtʻ
 42	,	,	PUNCT	F	PunctType=Comm	41	punct	_	Translit=,
-43	რაჲთა	რაჲთა	SCONJ	Conj	_	59	mark	_	Translit=raytʻa
+43	რაჲთა	რაჲთა	SCONJ	Conj	_	58	mark	_	Translit=raytʻa
 44	იანვარით	იანვარი	NOUN	Noun	Case=Ins|Number=Sing	45	obl	_	Translit=ianvaritʻ
 45-46	თთჳთაგან	_	_	_	_	_	_	_	_
 45	თთჳთა	თთჳ	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	47	obl	_	Translit=tʻtʻwtʻa
@@ -6654,7 +6654,7 @@
 48	ამის	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	51	det	_	Translit=amis
 49	მეოთხისა	მეოთხე	ADJ	Adj	Case=Gen|Number=Sing|NumType=Ord	51	amod	_	Translit=meotʻxisa
 50	ინდიკტიონისაჲთ	ინდიკტიონი	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	59	obl	_	Translit=indiktionisaytʻ
-51	არავის	არავინ	PRON	Pron	Case=Dat|Number=Sing|PronType=Neg	53	iobj	_	Translit=aravis
+51	არავის	არავინ	PRON	Pron	Case=Dat|Number=Sing|PronType=Neg	58	nsubj	_	Translit=aravis
 52-53	მოყუასთაგანსა	_	_	_	_	_	_	_	_
 52	მოყუასთა	მოყუასი	NOUN	Noun	Case=Gen|Number=Plur	51	nmod	_	Translit=moquastʻa
 53	განსა	გან	ADP	Post	AdpType=Post|Case=Gen	52	case	_	Translit=gansa
@@ -6671,7 +6671,7 @@
 63	ჴელით	ჴელი	NOUN	Noun	Case=Ins|Number=Sing	65	obl	_	Translit=x̣elitʻ
 64	წერით	წერი	NOUN	Noun	Case=Ins|Number=Sing	63	compound	_	Translit=ceritʻ
 65	განტევებისა	განტევება	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Vnoun	66	nmod	_	Translit=gantevebisa
-66	დაწესებაჲ	დაწესება	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	58	nsubj	_	Translit=dacesebay
+66	დაწესებაჲ	დაწესება	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	58	obj	_	Translit=dacesebay
 67	სხუასა	სხუა	ADJ	Adj	Case=Dat|Number=Sing	68	amod	_	Translit=sxuasa
 68	ეკლესიასა	ეკლესია	NOUN	Noun	Case=Dat|Number=Sing	66	obl	_	Translit=eklesiasa
 69	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	68	case	_	SpaceAfter=No|Translit=šina
