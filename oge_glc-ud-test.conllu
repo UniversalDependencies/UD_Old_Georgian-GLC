@@ -4936,10 +4936,10 @@
 10	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 11	რომელთა	რომელი	PRON	Pron	Case=Gen|Number=Plur|PronType=Rel	12	det	_	Translit=romeltʻa
 12	უფფიკად	უფფიკი	NOUN	Noun	Case=Ess|Number=Sing	13	xcomp	_	Translit=upʻpʻikad
-13	სახელდებულნი	სახელდება	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	20	acl:relcl	_	Translit=saxeldebulni
+13	სახელდებულნი	სახელდება	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	16	nsubj	_	Translit=saxeldebulni
 14	იგი	იგი	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	15	det	_	Translit=igi
-15	საეკლესიონი	საეკლესიო	NOUN	Noun	Case=Nom|Number=Plur	13	nsubj	_	Translit=saeklesioni
-16	აქუნდენ	ქონება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	13	aux	_	Translit=akʻunden
+15	საეკლესიონი	საეკლესიო	NOUN	Noun	Case=Nom|Number=Plur	13	conj	_	Translit=saeklesioni
+16	აქუნდენ	ქონება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	13	acl:relcl	_	Translit=akʻunden
 17	პატივნი	პატივი	NOUN	Noun	Case=Nom|Number=Plur	15	nmod	_	SpaceAfter=No|Translit=pativni
 18	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 19	ამიერ	ამიერ	ADV	Adv	_	20	advmod	_	Translit=amier
@@ -4991,7 +4991,7 @@
 65	მიზეზისა	მიზეზი	NOUN	Noun	Case=Gen|Number=Sing	66	obl	_	Translit=mizezisa
 66-67	რაჲსათჳსმე	_	_	_	_	_	_	_	SpaceAfter=No
 66	რაჲსა	რაჲ	PRON	Pron	Case=Gen|Number=Sing|PronType=Ind	64	obl	_	Translit=raysa
-67	თჳსმე	თჳს	ADP	Post	AdpType=Post|Case=Gen|PronType=Ind	66	case	_	Translit=tʻwsme
+67	თჳსმე	თჳს	ADP	Post	AdpType=Post|Case=Gen	66	case	_	Translit=tʻwsme
 68	,	,	PUNCT	F	PunctType=Comm	64	punct	_	Translit=,
 69	რამეთუ	რამეთუ	SCONJ	SCONJ	_	75	mark	_	Translit=rametʻu
 70	მაშინ	მაშინ	ADV	Adv	_	75	advmod	_	SpaceAfter=No|Translit=mašin
