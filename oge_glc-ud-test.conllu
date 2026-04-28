@@ -4845,17 +4845,17 @@
 23	დავიცავთ	დაცვა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=davicʻavtʻ
 24	და	და	CCONJ	Conj	_	25	cc	_	Translit=da
 25	განვასაზღვრებთ	განსაზღვრა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	23	conj	_	SpaceAfter=No|Translit=ganvasazġvrebtʻ
-26	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
+26	,	,	PUNCT	F	PunctType=Comm	44	punct	_	Translit=,
 27	რაჲთა	რაჲთა	SCONJ	SCONJ	_	44	mark	_	Translit=raytʻa
 28-29	ამიერითგან	_	_	_	_	_	_	_	_
 28	ამიერით	ამიერით	ADV	Adv	_	44	advmod	_	Translit=amieritʻ
 29	გან	გან	ADP	Post	AdpType=Post|Case=Ins	28	case	_	Translit=gan
-30	არასადა	არასადა	ADV	Adv	AdvType=Loc|PronType=Neg	44	advmod	_	Translit=arasada
+30	არასადა	არასადა	ADV	Adv	AdvType=Loc	44	advmod	_	Translit=arasada
 31	კერძო-დიაკონსა	კერძო-დიაკონი	NOUN	Noun	Case=Dat|Number=Sing	44	iobj	_	SpaceAfter=No|Translit=kerżo-diakonsa
-32	,	,	PUNCT	F	PunctType=Comm	44	punct	_	Translit=,
+32	,	,	PUNCT	F	PunctType=Comm	34	punct	_	Translit=,
 33	ანუ	ანუ	CCONJ	Conj	_	34	cc	_	Translit=anu
 34	დიაკონსა	დიაკონი	NOUN	Noun	Case=Dat|Number=Sing	31	conj	_	SpaceAfter=No|Translit=diakonsa
-35	,	,	PUNCT	F	PunctType=Comm	44	punct	_	Translit=,
+35	,	,	PUNCT	F	PunctType=Comm	37	punct	_	Translit=,
 36	ანუ	ანუ	CCONJ	Conj	_	37	cc	_	Translit=anu
 37	ხუცესსა	ხუცესი	NOUN	Noun	Case=Dat|Number=Sing	31	conj	_	Translit=xucʻessa
 38	შემდგომად	შემდგომად	ADV	Adv	_	44	advmod	_	Translit=šemdgomad
@@ -4879,9 +4879,9 @@
 # sent_id = OGLC_00080
 # text = ხოლო უკუეთუ იკადროს ამისი ქმნაჲ, განიკუეთენ.
 # translit = xolo ukuetʻu ikadros amisi kʻmnay, ganikuetʻen.
-1	ხოლო	ხოლო	CCONJ	Conj	_	6	cc	_	Translit=xolo
+1	ხოლო	ხოლო	CCONJ	Conj	_	3	cc	_	Translit=xolo
 2	უკუეთუ	უკუეთუ	SCONJ	SCONJ	_	3	mark	_	Translit=ukuetʻu
-3	იკადროს	კადრება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	Translit=ikadros
+3	იკადროს	კადრება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	Translit=ikadros
 4	ამისი	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	5	nmod	_	Translit=amisi
 5	ქმნაჲ	ქმნა	NOUN	Noun	Case=Nom|Number=Sing	3	obj	_	SpaceAfter=No|Translit=kʻmnay
 6	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
