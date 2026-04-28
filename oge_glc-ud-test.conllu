@@ -5798,7 +5798,7 @@
 66	ურთიერთას	ურთიერთა	NOUN	Noun	Case=Gen|Number=Sing	67	nmod	_	Translit=urtʻiertʻas
 67-68	თანაზრახვისაგან	_	_	_	_	_	_	_	SpaceAfter=No
 67	თანაზრახვისა	ზრახვა	NOUN	Noun	Case=Gen|Number=Sing	62	obl	_	Translit=zraxvisa
-68	გან	გან	ADP	Post	AdpType=Post|Case=Ins	68	case	_	Translit=gan
+68	გან	გან	ADP	Post	AdpType=Post|Case=Ins	67	case	_	Translit=gan
 69	.	.	PUNCT	F	PunctType=Peri	10	punct	_	Translit=.
 
 # sent_id = OGLC_00101
