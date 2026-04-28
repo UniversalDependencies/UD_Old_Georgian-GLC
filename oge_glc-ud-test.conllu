@@ -6812,9 +6812,9 @@
 5	ეკლესიისათა	ეკლესია	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	4	nmod	_	Translit=eklesiisatʻa
 6	ეპისკოპოსთა	ეპისკოპოსი	NOUN	Noun	Case=Dat|Number=Plur	4	appos	_	Translit=episkopostʻa
 7	ყოველსა	ყოველი	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	9	det	_	Translit=qovelsa
-8	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	9	case	_	Translit=šina
+8	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	7	case	_	Translit=šina
 9	დღესა	დღე	NOUN	Noun	Case=Dat|Number=Sing	3	obl	_	SpaceAfter=No|Translit=dġesa
-10	,	,	PUNCT	F	PunctType=Comm	3	punct	_	Translit=,
+10	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
 11	ხოლო	ხოლო	CCONJ	Conj	_	13	cc	_	Translit=xolo
 12	უფროჲსღა	უფროჲ	ADJ	Adj	Case=Gen|PartType=Emp	13	amod	_	Translit=upʻroysġa
 13	კჳრიაკეთა	კჳრიაკე	NOUN	Noun	Case=Dat|Number=Plur	9	conj	_	SpaceAfter=No|Translit=kwriaketʻa
