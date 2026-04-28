@@ -4939,7 +4939,7 @@
 13	სახელდებულნი	სახელდება	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	16	nsubj	_	Translit=saxeldebulni
 14	იგი	იგი	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	15	det	_	Translit=igi
 15	საეკლესიონი	საეკლესიო	NOUN	Noun	Case=Nom|Number=Plur	13	conj	_	Translit=saeklesioni
-16	აქუნდენ	ქონება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	13	acl:relcl	_	Translit=akʻunden
+16	აქუნდენ	ქონება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	8	acl:relcl	_	Translit=akʻunden
 17	პატივნი	პატივი	NOUN	Noun	Case=Nom|Number=Plur	15	nmod	_	SpaceAfter=No|Translit=pativni
 18	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 19	ამიერ	ამიერ	ADV	Adv	_	20	advmod	_	Translit=amier
