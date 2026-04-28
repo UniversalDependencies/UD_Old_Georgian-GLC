@@ -6550,9 +6550,9 @@
 42	პირველჴსენებულნი	პირველჴსენებული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	44	amod	_	Translit=pirvelx̣senebulni
 43	ესე	ესე	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	44	det	_	Translit=ese
 44	დიაკონნი	დიაკონი	NOUN	Noun	Case=Nom|Number=Plur	37	ccomp	_	Translit=diakonni
-45	არა	არა	PART	Part	PartType=Neg	48	advmod:neg	_	Translit=ara
+45	არა	არა	PART	Part	PartType=Neg	46	advmod:neg	_	Translit=ara
 46-47	მათგანნი	_	_	_	_	_	_	_	_
-46	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	48	obl	_	Translit=matʻ
+46	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	44	obl	_	Translit=matʻ
 47	განნი	გან	ADP	Post	AdpType=Post|Case=Ins	46	case	_	Translit=ganni
 48	არიან	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	42	cop	_	SpaceAfter=No|Translit=arian
 49	,	,	PUNCT	F	PunctType=Comm	48	punct	_	Translit=,
@@ -6565,7 +6565,7 @@
 56-57	მოძღურებისაებრ	_	_	_	_	_	_	_	SpaceAfter=No
 56	მოძღურებისა	მოძღურება	NOUN	Noun	Case=Gen|Number=Sing	53	obl	_	Translit=możġurebisa
 57	ებრ	ებრ	ADP	Post	AdpType=Post|Case=Nom	56	case	_	Translit=ebr
-58	,	,	PUNCT	F	PunctType=Comm	48	punct	_	Translit=,
+58	,	,	PUNCT	F	PunctType=Comm	59	punct	_	Translit=,
 59	არამედ	არამედ	CCONJ	Conj	_	61	cc	_	Translit=aramed
 60	მაშინ	მაშინ	ADV	Adv	AdvType=Tim	61	advmod	_	Translit=mašin
 61	შეკრებულთა	შეკრებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	48	conj	_	SpaceAfter=No|Translit=šekrebultʻa
