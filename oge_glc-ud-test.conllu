@@ -5395,14 +5395,14 @@
 15	არცათუ	არცათუ	PART	Part	PartType=Neg	20	advmod:neg	_	Translit=arcʻatʻu
 16	შესლვაჲ	შესლვა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	20	nsubj	_	Translit=šeslvay
 17	კაპილიონად	კაპილიონი	NOUN	Noun	Case=Ess|Number=Sing	16	obl	_	Translit=kapilionad
-18	ბრძანებულ	ბრძანებული	VERB	Verb	VerbForm=Part|Voice=Pass	20	xcomp	_	Translit=brżanebul
-19	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	cop	_	Translit=ars
-20	ეგევითარისა	ეგევითარი	ADJ	Adj	Case=Dat|Case[stack]=Gen|Number=Sing	25	advcl	_	Translit=egevitʻarisa
+18	ბრძანებულ	ბრძანებული	VERB	Verb	VerbForm=Part|Voice=Pass	3	advcl	_	Translit=brżanebul
+19	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	Translit=ars
+20	ეგევითარისა	ეგევითარი	ADJ	Adj	Case=Dat|Case[stack]=Gen|Number=Sing	18	amod	_	Translit=egevitʻarisa
 21	მისდა	მისი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	20	nmod	_	SpaceAfter=No|Translit=misda
 22	,	,	PUNCT	F	PunctType=Comm	25	punct	_	Translit=,
 23	რაოდენ	რაოდენ	ADV	Adv	AdvType=Man	24	advmod	_	Translit=raoden
 24	უფროჲს	უფროჲ	ADJ	Adj	Case=Gen|PartType=Emp	25	amod	_	Translit=upʻroys
-25	უწესო	უწესო	ADJ	Adj	Case=Nom|Number=Sing	28	xcomp	_	Translit=uceso
+25	უწესო	უწესო	ADJ	Adj	Case=Nom|Number=Sing	3	advcl	_	Translit=uceso
 26	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	cop	_	Translit=ars
 27-28	მისთჳს	_	_	_	_	_	_	_	_
 27	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	25	obl	_	Translit=mis
@@ -5417,7 +5417,7 @@
 35-36	რომელნი-იგი	_	_	_	_	_	_	_	_
 35	რომელნი	რომელი	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Plur|PronType=Rel	38	nsubj	_	Translit=romelni
 36	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	35	fixed	_	Translit=igi
-37	შეუტყუებელ	შეუტყუებელი	ADJ	Adj	Case=Nom|Number=Plur	39	xcomp	_	Translit=šeutquebel
+37	შეუტყუებელ	შეუტყუებელი	ADJ	Adj	Case=Nom|Number=Plur	30	xcomp	_	Translit=šeutquebel
 38	არიან	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	37	cop	_	Translit=arian
 39	მისდა	მისი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	31	conj	_	SpaceAfter=No|Translit=misda
 40	,	,	PUNCT	F	PunctType=Comm	39	punct	_	Translit=,
