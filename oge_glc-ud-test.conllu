@@ -5197,19 +5197,19 @@
 1	და	და	CCONJ	Conj	_	3	cc	_	Translit=da
 2	ესევე	ესე	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Dem	3	nsubj:pass	_	Translit=eseve
 3	დაიცვებოდედ	დაცვა	VERB	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Pass	0	root	_	Translit=daicʻveboded
-4	სხუათაცა	სხუა	PRON	Pron	Case=Dat|Number=Plur|PartType=Emp|PronType=Ind	7	det	_	Translit=sxuatʻacʻa
+4	სხუათაცა	სხუა	PRON	Pron	Case=Dat|Number=Plur|PartType=Emp|PronType=Ind	6	det	_	Translit=sxuatʻacʻa
 5	სამღდელოთა	სამღდელო	ADJ	Adj	Case=Dat|Number=Plur	6	amod	_	Translit=samġdelotʻa
 6	დასთა	დასი	NOUN	Noun	Case=Dat|Number=Plur	3	obl	_	Translit=dastʻa
 7	ზედა	ზედა	ADP	Post	AdpType=Post|Case=Dat	6	case	_	SpaceAfter=No|Translit=zeda
 8	,	,	PUNCT	F	PunctType=Comm	3	punct	_	Translit=,
 9-10	ვინაჲთგან	_	_	_	_	_	_	_	_
-9	ვინაჲთ	ვინაჲთ	ADV	Adv	_	14	advmod	_	Translit=vinaytʻ
+9	ვინაჲთ	ვინაჲთ	ADV	Adv	_	15	advmod	_	Translit=vinaytʻ
 10	გან	გან	ADP	Post	AdpType=Post|Case=Ins	9	case	_	Translit=gan
 11	მსოფლიოთა	მსოფლიო	ADJ	Adj	Case=Gen|Number=Plur	12	amod	_	Translit=msopʻliotʻa
 12	პატივთასა	პატივი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	13	obl	_	Translit=pativtʻasa
-13	უვაღრეს	უვაღრესი	ADJ	Adj	Case=Nom|Number=Sing	3	advcl	_	Translit=uvaġres
-14	არიან	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	Translit=arian
-15	სულიერნი	სულიერი	NOUN	Noun	Case=Nom|Number=Plur	14	nsubj	_	SpaceAfter=No|Translit=sulierni
+13	უვაღრეს	უვაღრესი	ADJ	Adj	Case=Nom|Number=Sing	15	amod	_	Translit=uvaġres
+14	არიან	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	Translit=arian
+15	სულიერნი	სულიერი	NOUN	Noun	Case=Nom|Number=Plur	3	advcl	_	SpaceAfter=No|Translit=sulierni
 16	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
 
 # sent_id = OGLC_00086
@@ -5251,7 +5251,7 @@
 17	თითოეულსა	თითოეული	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	18	det	_	Translit=tʻitʻoeulsa
 18	სამთავროსა	სამთავრო	NOUN	Noun	Case=Dat|Number=Sing	14	obl	_	SpaceAfter=No|Translit=samtʻavrosa
 19	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
-20	სადაცა	სადაცა	ADV	Adv	AdvType=Loc|PronType=Rel	21	advmod	_	Translit=sadacʻa
+20	სადაცა	სადაცა	ADV	Adv	AdvType=Loc	21	advmod	_	Translit=sadacʻa
 21	განაჩინოს	განჩინება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	_	Translit=ganačʻinos
 22	ეპისკოპოსმან	ეპისკოპოსი	NOUN	Noun	Case=Erg|Number=Sing	21	nsubj	_	Translit=episkoposman
 23	დედაქალაქისამან	დედაქალაქი	NOUN	Noun	Case=Erg|Case[stack]=Gen|Number=Sing	22	nmod	_	SpaceAfter=No|Translit=dedakʻalakʻisaman
