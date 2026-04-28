@@ -5611,7 +5611,7 @@
 23	ამიერით	ამიერით	ADV	Adv	_	26	advmod	_	Translit=amieritʻ
 24	გან	გან	ADP	Post	AdpType=Post|Case=Ins	23	case	_	Translit=gan
 25	არღარა	არღარა	PART	Part	PartType=Neg	26	advmod:neg	_	Translit=arġara
-26	იქმნეს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	26	cop	_	Translit=ikʻmnes
+26	იქმნეს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	27	cop	_	Translit=ikʻmnes
 27	ესევითარი	ესევითარი	ADJ	Adj	Case=Nom|Number=Sing	20	ccomp	_	SpaceAfter=No|Translit=esevitʻari
 28	.	.	PUNCT	F	PunctType=Peri	20	punct	_	Translit=.
 
