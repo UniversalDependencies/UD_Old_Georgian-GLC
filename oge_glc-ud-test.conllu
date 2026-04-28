@@ -4709,8 +4709,8 @@
 23	ღმრთისადა	ღმერთი	NOUN	Noun	Case=Dat|Number=Sing	24	nmod	_	Translit=ġmrtʻisada
 24	შეწირულსა	შეწირული	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Part|Voice=Pass	25	amod	_	Translit=šecirulsa
 25	დედაკაცსა	დედაკაცი	NOUN	Noun	Case=Dat|Number=Sing	26	iobj	_	Translit=dedakacʻsa
-26	შეეყოს	შეყოფა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	advcl	_	SpaceAfter=No|Translit=šeeqos
-27	,	,	PUNCT	F	PunctType=Comm	29	punct	_	Translit=,
+26	შეეყოს	შეყოფა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	advcl	_	SpaceAfter=No|Translit=šeeqos
+27	,	,	PUNCT	F	PunctType=Comm	28	punct	_	Translit=,
 28	განიკუეთენ	განკუეთა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=ganikuetʻen
 29	,	,	PUNCT	F	PunctType=Comm	28	punct	_	Translit=,
 30	ვითარცა	ვითარცა	SCONJ	Conj	_	31	mark	_	Translit=vitʻarcʻa
