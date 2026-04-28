@@ -6869,7 +6869,7 @@
 10	თარგმნიან	თარგმნა	VERB	Verb	Aspect=Imp|Mood=Sub|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=tʻargmnian
 11	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	10	obj	_	SpaceAfter=No|Translit=mas
 12	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
-13	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	22	case	_	Translit=tʻwnier
+13	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	23	case	_	Translit=tʻwnier
 14-15	ვითარ-იგი	_	_	_	_	_	_	_	_
 14	ვითარ	ვითარ	ADV	Adv	AdvType=Rel|ExtPos=ADV	22	advmod	_	Translit=vitʻar
 15	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	14	fixed	_	Translit=igi
