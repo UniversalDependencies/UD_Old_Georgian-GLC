@@ -5342,7 +5342,7 @@
 2	რომელნიცა	რომელი	PRON	Pron	Case=Nom|Number=Plur|PartType=Emp|PronType=Rel	5	nsubj	_	Translit=romelnicʻa
 3	ეპისკოპოსნი	ეპისკოპოსი	NOUN	Noun	Case=Nom|Number=Plur	2	appos	_	Translit=episkoposni
 4	არა	არა	PART	Part	PartType=Neg	5	advmod:neg	_	Translit=ara
-5	მოვიდე	მოსვლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	advcl	_	Translit=movide
+5	მოვიდე	მოსვლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	advcl	_	Translit=movide
 6	კრებასა	კრება	NOUN	Noun	Case=Dat|Number=Sing	5	obl	_	SpaceAfter=No|Translit=krebasa
 7	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
 8	არამედ	არამედ	CCONJ	Conj	_	12	cc	_	Translit=aramed
@@ -5365,12 +5365,12 @@
 24	თავისუფალნი	თავისუფალი	ADJ	Adj	Case=Nom|Number=Plur	16	conj	_	SpaceAfter=No|Translit=tʻavisupʻalni
 25	,	,	PUNCT	F	PunctType=Comm	28	punct	_	Translit=,
 26	ძმებრივითა	ძმებრივი	ADJ	Adj	Case=Ins|Number=Sing	27	amod	_	Translit=żmebrivitʻa
-27	მხილებითა	მხილება	NOUN	Noun	Case=Ins|Number=Sing	29	obl	_	Translit=mxilebitʻa
+27	მხილებითა	მხილება	NOUN	Noun	Case=Ins|Number=Sing	28	obl	_	Translit=mxilebitʻa
 28	კდემულ	კდემული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	Translit=kdemul
 29	იქმნენ	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	28	cop	_	Translit=ikʻmnen
 30	სხუათა	სხუა	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	31	det	_	Translit=sxuatʻa
 31-32	ეპისკოპოსთაგან	_	_	_	_	_	_	_	SpaceAfter=No
-31	ეპისკოპოსთა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Plur	29	obl	_	Translit=episkopostʻa
+31	ეპისკოპოსთა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Plur	28	obl	_	Translit=episkopostʻa
 32	გან	გან	ADP	Post	AdpType=Post|Case=Ins	31	case	_	Translit=gan
 33	.	.	PUNCT	F	PunctType=Peri	29	punct	_	Translit=.
 
