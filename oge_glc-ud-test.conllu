@@ -4700,7 +4700,7 @@
 14	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
 15	ანუ	ანუ	CCONJ	Conj	_	16	cc	_	Translit=anu
 16	წიგნისმკითხველი	წიგნისმკითხველი	NOUN	Noun	Case=Nom|Number=Sing	4	conj	_	SpaceAfter=No|Translit=cignismkitʻxveli
-17	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
+17	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
 18	ანუ	ანუ	CCONJ	Conj	_	19	cc	_	Translit=anu
 19	მგალობელი	მგალობელი	NOUN	Noun	Case=Nom|Number=Sing	4	conj	_	SpaceAfter=No|Translit=mgalobeli
 20	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
