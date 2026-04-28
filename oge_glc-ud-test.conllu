@@ -6220,7 +6220,7 @@
 21	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	20	case	_	Translit=mier
 22	აღწერილთა	აღწერილი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	23	amod	_	Translit=aġceriltʻa
 23	კანონთა	კანონი	NOUN	Noun	Case=Gen|Number=Plur	19	obl	_	Translit=kanontʻa
-24	შინა	შინა	ADP	Post	AdpType=Post|Case=Gen	23	obl	_	SpaceAfter=No|Translit=šina
+24	შინა	შინა	ADP	Post	AdpType=Post|Case=Gen	23	case	_	SpaceAfter=No|Translit=šina
 25	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
 26	ვითარმედ	ვითარმედ	SCONJ	Conj	_	27	mark	_	Translit=vitʻarmed
 27	დიაკონნი	დიაკონი	NOUN	Noun	Case=Nom|Number=Plur	19	advcl	_	Translit=diakonni
@@ -6232,15 +6232,15 @@
 32-33	კანონისაებრ	_	_	_	_	_	_	_	SpaceAfter=No
 32	კანონისა	კანონი	NOUN	Noun	Case=Gen|Number=Sing	31	obl	_	Translit=kanonisa
 33	ებრ	ებრ	ADP	Post	AdpType=Post|Case=Nom	32	case	_	Translit=ebr
-34	,	,	PUNCT	F	PunctType=Comm	38	punct	_	Translit=,
-35	დაღათუ	დაღათუ	SCONJ	Conj	_	38	mark	_	Translit=daġatʻu
+34	,	,	PUNCT	F	PunctType=Comm	36	punct	_	Translit=,
+35	დაღათუ	დაღათუ	SCONJ	Conj	_	37	mark	_	Translit=daġatʻu
 36	ყოვლად	ყოვლად	ADV	Adv	AdvType=Man	37	advmod	_	Translit=qovlad
 37	დიდ	დიდი	ADJ	Adj	Case=Nom|Number=Sing	19	advcl	_	Translit=did
 38	იყოს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	37	cop	_	Translit=iqos
 39	ქალაქი	ქალაქი	NOUN	Noun	Case=Nom|Number=Sing	37	nsubj	_	Translit=kʻalakʻi
 40	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	39	det	_	Translit=igi
 41	და	და	CCONJ	Conj	_	43	cc	_	Translit=da
-42	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	44	nsubj	_	Translit=ese
+42	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	43	nsubj	_	Translit=ese
 43	სარწმუნო	სარწმუნო	ADJ	Adj	Case=Nom|Number=Sing	9	conj	_	Translit=sarcmuno
 44	იყავნ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	43	cop	_	Translit=iqavn
 45-46	წიგნისაგან	_	_	_	_	_	_	_	_
