@@ -5415,7 +5415,7 @@
 33	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	32	case	_	Translit=šina
 34	და	და	CCONJ	Conj	_	39	cc	_	Translit=da
 35-36	რომელნი-იგი	_	_	_	_	_	_	_	_
-35	რომელნი	რომელი	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Plur|PronType=Rel	38	nsubj	_	Translit=romelni
+35	რომელნი	რომელი	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Plur|PronType=Rel	37	nsubj	_	Translit=romelni
 36	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	35	fixed	_	Translit=igi
 37	შეუტყუებელ	შეუტყუებელი	ADJ	Adj	Case=Nom|Number=Plur	30	xcomp	_	Translit=šeutquebel
 38	არიან	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	37	cop	_	Translit=arian
