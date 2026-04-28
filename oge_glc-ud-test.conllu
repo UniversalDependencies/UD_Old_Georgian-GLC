@@ -6434,7 +6434,7 @@
 36	ოქროპირი	ოქროპირი	PROPN	Noun	Case=Nom|Number=Sing	35	flat	_	Translit=okʻropiri
 37	ესრეთ	ესრეთ	ADV	Adv	AdvType=Man	38	advmod	_	Translit=esretʻ
 38	იტყჳს	თქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	parataxis	_	SpaceAfter=No|Translit=itqws
-39	:	:	PUNCT	F	PunctType=Colo	31	punct	_	Translit=:
+39	:	:	PUNCT	F	PunctType=Colo	38	punct	_	Translit=:
 40	„	„	PUNCT	F	PunctSide=Ini|PunctType=Quot	41	punct	_	SpaceAfter=No|Translit=„
 41	ღირს	ღირსი	ADJ	Adj	Case=Nom|Number=Sing	38	xcomp	_	Translit=ġirs
 42	და	და	CCONJ	Conj	_	43	cc	_	Translit=da
