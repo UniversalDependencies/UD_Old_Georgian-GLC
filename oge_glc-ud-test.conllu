@@ -5445,7 +5445,7 @@
 # text = ი(10) ეპისკოპოსი, ანუ ხუცესი, ანუ დიაკონი, რომელი ვახშსა ანუ რასვე აღნადგინებსა მიიღებდეს, ანუ დასცხერინ, ანუ განიკუეთენ.
 # translit = i(10) episkoposi, anu xucʻesi, anu diakoni, romeli vaxšsa anu rasve aġnadginebsa miiġebdes, anu dascʻxerin, anu ganikuetʻen.
 1	ი(10)	ი(10)	NUM	Num	NumForm=Georgian|NumType=Card	14	dep	_	Translit=i(10)
-2	ეპისკოპოსი	ეპისკოპოსი	NOUN	Noun	Case=Nom|Number=Sing	14	nsubj	_	SpaceAfter=No|Translit=episkoposi
+2	ეპისკოპოსი	ეპისკოპოსი	NOUN	Noun	Case=Nom|Number=Sing	15	nsubj	_	SpaceAfter=No|Translit=episkoposi
 3	,	,	PUNCT	F	PunctType=Comm	2	punct	_	Translit=,
 4	ანუ	ანუ	CCONJ	Conj	_	5	cc	_	Translit=anu
 5	ხუცესი	ხუცესი	NOUN	Noun	Case=Nom|Number=Sing	2	conj	_	SpaceAfter=No|Translit=xucʻesi
