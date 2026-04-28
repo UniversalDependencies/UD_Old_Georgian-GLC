@@ -6217,7 +6217,7 @@
 18	განცხადებულად	განცხადებულად	ADV	Adv	AdvType=Man	19	advmod	_	Translit=gancʻxadebulad
 19	მოსცემენ	მიცემა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	Translit=moscʻemen
 20	მათ	იგი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	22	nmod	_	Translit=matʻ
-21	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	21	case	_	Translit=mier
+21	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	20	case	_	Translit=mier
 22	აღწერილთა	აღწერილი	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	23	amod	_	Translit=aġceriltʻa
 23	კანონთა	კანონი	NOUN	Noun	Case=Gen|Number=Plur	19	obl	_	Translit=kanontʻa
 24	შინა	შინა	ADP	Post	AdpType=Post|Case=Gen	23	obl	_	SpaceAfter=No|Translit=šina
