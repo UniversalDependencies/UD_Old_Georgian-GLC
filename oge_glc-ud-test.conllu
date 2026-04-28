@@ -6779,17 +6779,15 @@
 12	მღდელობისა	მღდელობა	NOUN	Noun	Case=Gen|Number=Sing	11	obl	_	Translit=mġdelobisa
 13	გან	გან	ADP	Post	AdpType=Post|Case=Ins	12	case	_	Translit=gan
 14	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
-15-16	ვიდრემდის	_	_	_	_	_	_	_	_
-15	ვიდრე	ვიდრე	SCONJ	Conj	_	22	mark	_	Translit=vidre
-16	მდის	მდე	ADP	Post	AdpType=Post|Case=Ess	15	case	_	Translit=mdis
-17	თჳსისავე	თჳსი	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Prs	18	det	_	Translit=tʻwsisave
-18	ეკლესიისა	ეკლესია	NOUN	Noun	Case=Gen|Number=Sing	19	obl	_	Translit=eklesiisa
-19	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Gen	22	obl	_	Translit=mimartʻ
-20-21	კუალად-ქცევითა	_	_	_	_	_	_	_	_
-20	კუალად	კუალად	ADV	Adv	_	21	advmod	_	Translit=kualad
-21	ქცევითა	ქცევა	VERB	Verb	Case=Ins|Number=Sing|VerbForm=Vnoun	22	obl	_	Translit=kʻcʻevitʻa
-22	აღვიდეს	აღსვლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	SpaceAfter=No|Translit=aġvides
-23	.	.	PUNCT	F	PunctType=Peri	11	punct	_	Translit=.
+15	ვიდრემდის	ვიდრე	SCONJ	Conj	_	21	mark	_	Translit=vidre
+16	თჳსისავე	თჳსი	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Prs	17	det	_	Translit=tʻwsisave
+17	ეკლესიისა	ეკლესია	NOUN	Noun	Case=Gen|Number=Sing	18	obl	_	Translit=eklesiisa
+18	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Gen	21	obl	_	Translit=mimartʻ
+19-20	კუალად-ქცევითა	_	_	_	_	_	_	_	_
+19	კუალად	კუალად	ADV	Adv	_	20	advmod	_	Translit=kualad
+20	ქცევითა	ქცევა	VERB	Verb	Case=Ins|Number=Sing|VerbForm=Vnoun	21	obl	_	Translit=kʻcʻevitʻa
+21	აღვიდეს	აღსვლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	SpaceAfter=No|Translit=aġvides
+22	.	.	PUNCT	F	PunctType=Peri	11	punct	_	Translit=.
 
 # sent_id = OGLC_00125
 # text = და ესევე იქმენინ ეკლესიასა მისისა მპყრობელისა ეპისკოპოსისაცა ზედა.
