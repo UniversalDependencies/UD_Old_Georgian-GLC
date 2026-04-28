@@ -6352,7 +6352,7 @@
 7	თქუენ	თქუენ	PRON	Pron	Case=Gen|Number=Plur|Person=2|PronType=Prs	6	nmod	_	Translit=tʻkʻuen
 8	განნი	გან	ADP	Post	AdpType=Post|Case=Gen	7	case	_	Translit=ganni
 9	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
-10	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	12	nsubj	_	Translit=romelni
+10	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	11	nsubj	_	Translit=romelni
 11	წამებულ	წამებული	VERB	Verb	VerbForm=Part|Voice=Pass	6	acl:relcl	_	Translit=camebul
 12	იყვნენ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	11	cop	_	SpaceAfter=No|Translit=iqvnen
 13	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
@@ -6372,12 +6372,12 @@
 # sent_id = OGLC_00115
 # text = ხოლო ჩუენ ლოცვათა და მსახურებასა სიტყჳსასა განვეკრძალნეთ.
 # translit = xolo čʻuen locʻvatʻa da msaxurebasa sitqwsasa ganvekrżalnetʻ.
-1	ხოლო	ხოლო	CCONJ	Conj	_	5	cc	_	Translit=xolo
-2	ჩუენ	ჩუენ	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	Translit=čʻuen
-3	ლოცვათა	ლოცვა	NOUN	Noun	Case=Dat|Number=Plur	5	obl	_	Translit=locʻvatʻa
+1	ხოლო	ხოლო	CCONJ	Conj	_	7	cc	_	Translit=xolo
+2	ჩუენ	ჩუენ	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	Translit=čʻuen
+3	ლოცვათა	ლოცვა	NOUN	Noun	Case=Dat|Number=Plur	6	nmod	_	Translit=locʻvatʻa
 4	და	და	CCONJ	Conj	_	5	cc	_	Translit=da
-5	მსახურებასა	მსახურება	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Vnoun	6	obl	_	Translit=msaxurebasa
-6	სიტყჳსასა	სიტყუაჲ	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	5	nmod	_	Translit=sitqwsasa
+5	მსახურებასა	მსახურება	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Vnoun	3	conj	_	Translit=msaxurebasa
+6	სიტყჳსასა	სიტყუაჲ	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	7	obj	_	Translit=sitqwsasa
 7	განვეკრძალნეთ	განკრძალვა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=ganvekrżalnetʻ
 8	.	.	PUNCT	F	PunctType=Peri	7	punct	_	Translit=.
 
