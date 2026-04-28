@@ -4966,7 +4966,7 @@
 40	არს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	43	cop	_	Translit=ars
 41	საეკლესიოსა	საეკლესიო	NOUN	Noun	Case=Dat|Number=Sing	43	nmod	_	Translit=saeklesiosa
 42	რომელსამე	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	43	det	_	Translit=romelsame
-43	უფფიკსა	უფფიკი	NOUN	Noun	Case=Dat|Number=Sing	44	obl	_	Translit=upʻpʻiksa
+43	უფფიკსა	უფფიკი	NOUN	Noun	Case=Dat|Number=Sing	50	advcl	_	Translit=upʻpʻiksa
 44	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	43	case	_	Translit=šina
 45	იყოს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Fut|VerbForm=Fin|Voice=Act	43	cop	_	SpaceAfter=No|Translit=iqos
 46	,	,	PUNCT	F	PunctType=Comm	50	punct	_	Translit=,
