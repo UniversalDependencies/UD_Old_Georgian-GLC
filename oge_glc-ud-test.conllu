@@ -197,7 +197,7 @@
 26	მოხუცებულისასა	მოხუცებული	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	23	nmod	_	Translit=moxucʻebulisasa
 27	მხოლოდ	მხოლოდ	ADV	Adv	AdvType=Man	30	advmod	_	Translit=mxolod
 28	სახელისა	სახელი	NOUN	Noun	Case=Gen|Number=Sing	30	obj	_	Translit=saxelisa
-29	ოდენ	ოდენ	PART	Part	PartType=Emp	28	advmod:emph	_	Translit=oden
+29	ოდენ	ოდენ	ADV	Adv	AdvType=Man	28	advmod	_	Translit=oden
 30	დამტევებელნი	დამტევებელი	VERB	Verb	VerbForm=Part	25	xcomp	_	Translit=damtevebelni
 31	მისდა	მისი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	30	iobj	_	SpaceAfter=No|Translit=misda
 32	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
@@ -818,7 +818,7 @@
 3	ვინმე	ვინმე	PRON	Pron	Case=Nom|PronType=Ind	2	det	_	Translit=vinme
 4	და	და	CCONJ	Conj	_	10	cc	_	Translit=da
 5	აწ	აწ	ADV	Adv	AdvType=Tim	10	advmod	_	Translit=ac
-6	ოდენ	ოდენ	PART	Part	PartType=Emp	10	advmod:emph	_	Translit=oden
+6	ოდენ	ოდენ	ADV	Adv	AdvType=Man	10	advmod	_	Translit=oden
 7	სასძლოთა	სასძლო	NOUN	Noun	Case=Gen|Number=Plur	8	nmod	_	Translit=sasżlotʻa
 8-9	კუბოთაგან	_	_	_	_	_	_	_	_
 8	კუბოთა	კუბო	NOUN	Noun	Case=Gen|Number=Plur	10	obl	_	Translit=kubotʻa
@@ -1268,7 +1268,7 @@
 19	რომელი	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	22	nsubj	_	Translit=romeli
 20	მხოლოდ	მხოლოდ	ADV	Adv	AdvType=Man	22	advmod	_	Translit=mxolod
 21	ორთა	ორი	NUM	Num	Case=Gen|Number=Plur	23	nummod	_	Translit=ortʻa
-22	ოდენ	ოდენ	PART	Part	PartType=Emp	21	advmod:emph	_	Translit=oden
+22	ოდენ	ოდენ	ADV	Adv	AdvType=Man	21	advmod	_	Translit=oden
 23	ეპისკოპოსთა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Plur	24	obl	_	Translit=episkopostʻa
 24	ქმნილ	ქმნილი	VERB	Verb	VerbForm=Part|Voice=Pass	17	acl:relcl	_	Translit=kʻmnil
 25	იყო	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	24	cop	_	Translit=iqo
@@ -4076,7 +4076,7 @@
 191	სამთავროჲსა	სამთავრო	NOUN	Noun	Case=Gen|Number=Sing	192	nmod	_	Translit=samtʻavroysa
 192	ადგილთა	ადგილი	NOUN	Noun	Case=Dat|Number=Plur	196	obl	_	Translit=adgiltʻa
 193	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	192	case	_	Translit=šina
-194	ოდენ	ოდენ	ADV	Adv	AdvType=Emp	195	advmod:emph	_	Translit=oden
+194	ოდენ	ოდენ	ADV	Adv	AdvType=Man	195	advmod	_	Translit=oden
 195	ჩუეულებად	ჩუეულება	NOUN	Noun	Case=Ess|Number=Sing	196	xcomp	_	Translit=čʻueulebad
 196	დამტკიცებულ	დამტკიცებული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	185	acl:relcl	_	Translit=damtkicʻebul
 197	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	196	cop	_	SpaceAfter=No|Translit=ars
@@ -6518,7 +6518,7 @@
 11	არამედ	არამედ	CCONJ	Conj	_	13	cc	_	Translit=aramed
 12	მხოლოდ	მხოლოდ	ADV	Adv	AdvType=Man	13	advmod	_	Translit=mxolod
 13	მოციქულნი	მოციქული	NOUN	Noun	Case=Nom|Number=Plur	9	conj	_	Translit=mocʻikʻulni
-14	ოდენ	ოდენ	PART	Part	PartType=Emp	13	advmod:emph	_	SpaceAfter=No|Translit=oden
+14	ოდენ	ოდენ	ADV	Adv	AdvType=Man	13	advmod	_	SpaceAfter=No|Translit=oden
 15	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 16-17	ვინაჲცა	_	_	_	_	_	_	_	_
 16	ვინაჲ	ვინაჲ	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	16	obl	_	Translit=vinay
@@ -7661,7 +7661,7 @@ kd(24) ara ux̣ms samġdelosa mcqobrsa tʻana aġracʻxilsa visme anu monazonsa 
 45	მისატევებლად	მისატევებელი	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Part|Voice=Pass	42	conj	_	Translit=misateveblad
 46	მხოლოდ	მხოლოდ	ADV	Adv	AdvType=Man	49	advmod	_	Translit=mxolod
 47	საიდუმლოჲ	საიდუმლოჲ	NOUN	Noun	Case=Nom|Number=Sing	49	nsubj:pass	_	Translit=saidumloy
-48	ოდენ	ოდენ	PART	Part	PartType=Emp	47	advmod:emph	_	Translit=oden
+48	ოდენ	ოდენ	ADV	Adv	AdvType=Man	47	advmod	_	Translit=oden
 49	მსხუერპლი	მსხუერპლი	NOUN	Noun	Case=Nom|Number=Sing	36	conj	_	Translit=msxuerpli
 50	მიეცემოდედ	მიცემა	VERB	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Pass	49	cop	_	Translit=miecʻemoded
 51	ერსა	ერი	NOUN	Noun	Case=Dat|Number=Sing	50	iobj	_	SpaceAfter=No|Translit=ersa
