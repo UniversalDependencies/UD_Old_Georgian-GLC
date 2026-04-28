@@ -4961,7 +4961,7 @@
 35	პატივსა	პატივი	NOUN	Noun	Case=Dat|Number=Sing	36	obj	_	Translit=pativsa
 36	რასმე	რაჲმე	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	50	advcl	_	SpaceAfter=No|Translit=rasme
 37	,	,	PUNCT	F	PunctType=Comm	50	punct	_	Translit=,
-38	ესე	ესე	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Dem	40	nsubj	_	Translit=ese
+38	ესე	ესე	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Dem	43	nsubj	_	Translit=ese
 39	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	38	fixed	_	Translit=igi
 40	არს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	43	cop	_	Translit=ars
 41	საეკლესიოსა	საეკლესიო	NOUN	Noun	Case=Dat|Number=Sing	43	nmod	_	Translit=saeklesiosa
