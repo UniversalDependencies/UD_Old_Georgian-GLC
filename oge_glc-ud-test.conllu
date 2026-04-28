@@ -4645,7 +4645,7 @@
 4	შეირთოს	შერთვა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=šeirtʻos
 5	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 6	ანუ	ანუ	CCONJ	Conj	_	7	cc	_	Translit=anu
-7	განტევებული	განტევებული	VERB	Verb	VerbForm=Part|Voice=Pass|Case=Nom|Number=Sing	3	conj	_	SpaceAfter=No|Translit=gantevebuli
+7	განტევებული	განტევებული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	3	conj	_	SpaceAfter=No|Translit=gantevebuli
 8	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 9	ანუ	ანუ	CCONJ	Conj	_	10	cc	_	Translit=anu
 10	მეძავი	მეძავი	NOUN	Noun	Case=Nom|Number=Sing	3	conj	_	SpaceAfter=No|Translit=meżavi
@@ -4677,8 +4677,8 @@
 34	დასისა	დასი	NOUN	Noun	Case=Gen|Number=Sing	38	obl	_	Translit=dasisa
 35	თანა	თანა	ADP	Post	AdpType=Post|Case=Gen	34	case	_	Translit=tʻana
 36-37	აღრაცხილ-ყოფაჲ	_	_	_	_	_	_	_	SpaceAfter=No
-36	აღრაცხილ	აღრაცხილი	VERB	Verb	VerbForm=Part|Voice=Pass	38	xcomp	_	Translit=aġracʻxil
-37	ყოფაჲ	ყოფა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	22	conj	_	SpaceAfter=No|Translit=qopʻay
+36	აღრაცხილ	აღრაცხილი	VERB	Verb	VerbForm=Part|Voice=Pass	37	xcomp	_	Translit=aġracʻxil
+37	ყოფაჲ	ყოფა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	4	xcomp	_	SpaceAfter=No|Translit=qopʻay
 38	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 # sent_id = OGLC_00075
