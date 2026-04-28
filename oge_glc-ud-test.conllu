@@ -5703,8 +5703,8 @@
 3	იყვენით	ყოფა	AUX	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Plur|Person[subj]=2|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=iqvenitʻ
 4	,	,	PUNCT	F	PunctType=Comm	3	punct	_	Translit=,
 5	ვითარცა	ვითარცა	SCONJ	SCONJ	_	8	mark	_	Translit=vitʻarcʻa
-6	–	–	PUNCT	F	PunctType=Dash	8	punct	_	Translit=–
-7	მე	მე	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Translit=me
+6	მე	მე	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Translit=me
+7	–	–	PUNCT	F	PunctType=Dash	8	punct	_	Translit=–
 8	ქრისტესა	ქრისტე	NOUN	Noun	Case=Dat|Number=Sing	3	advcl	_	SpaceAfter=No|Translit=kʻristesa
 9	“	“	PUNCT	F	PunctSide=Fin|PunctType=Quot	8	punct	_	SpaceAfter=No|Translit=“
 10	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
