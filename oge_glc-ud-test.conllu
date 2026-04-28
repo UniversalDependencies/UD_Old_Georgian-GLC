@@ -4736,7 +4736,7 @@
 7	დაწესებული	დაწესებული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	3	acl	_	Translit=dacesebuli
 8	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	16	obl	_	Translit=tʻwnier
 9	კანონისა	კანონი	NOUN	Noun	Case=Gen|Number=Sing	10	nmod	_	Translit=kanonisa
-10	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	7	case	_	Translit=mier
+10	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	9	case	_	Translit=mier
 11	მოჴსენებულთა	მოჴსენებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	14	amod	_	Translit=mox̣senebultʻa
 12	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	14	det	_	Translit=matʻ
 13	უეჭუელთა	უეჭუელი	ADJ	Adj	Case=Gen|Number=Plur	14	amod	_	Translit=uečueltʻa
@@ -4764,10 +4764,10 @@
 # sent_id = OGLC_00077
 # text = ხოლო უკუეთუ ვინმე გარდაჰჴდეს ჩუენ მიერ განსაზღვრებულსა ამას, განიკუეთენ.
 # translit = xolo ukuetʻu vinme gardahx̣des čʻuen mier gansazġvrebulsa amas, ganikuetʻen.
-1	ხოლო	ხოლო	CCONJ	Conj	_	7	cc	_	Translit=xolo
+1	ხოლო	ხოლო	CCONJ	Conj	_	10	cc	_	Translit=xolo
 2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	4	mark	_	Translit=ukuetʻu
 3	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	4	nsubj	_	Translit=vinme
-4	გარდაჰჴდეს	გარდაჰჴდომა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	Translit=gardahx̣des
+4	გარდაჰჴდეს	გარდაჰჴდომა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	Translit=gardahx̣des
 5	ჩუენ	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	nmod	_	Translit=čʻuen
 6	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	4	case	_	Translit=mier
 7	განსაზღვრებულსა	განსაზღვრებული	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Part|Voice=Pass	4	obl	_	Translit=gansazġvrebulsa
