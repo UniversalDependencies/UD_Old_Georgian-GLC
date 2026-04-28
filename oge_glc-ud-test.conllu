@@ -6132,16 +6132,16 @@
 30	განიცადებოდედ	განცდა	VERB	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Pass	20	conj	_	Translit=ganicʻadeboded
 31	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	30	nsubj:pass	_	SpaceAfter=No|Translit=ese
 32	,	,	PUNCT	F	PunctType=Comm	30	punct	_	Translit=,
-33	რამეთუ	რამეთუ	SCONJ	Conj	_	42	mark	_	Translit=rametʻu
-34	უფალმან	უფალი	NOUN	Noun	Case=Erg|Number=Sing	42	nsubj	_	Translit=upʻalman
+33	რამეთუ	რამეთუ	SCONJ	Conj	_	41	mark	_	Translit=rametʻu
+34	უფალმან	უფალი	NOUN	Noun	Case=Erg|Number=Sing	41	nsubj	_	Translit=upʻalman
 35	ჩუენმან	ჩუენი	PRON	Pron	Case=Erg|Number=Sing|Person=1|PronType=Prs	34	det:poss	_	Translit=čʻuenman
 36	იესუ	იესუ	PROPN	Noun	Case=Nom|Number=Sing	37	flat	_	Translit=iesu
 37	ქრისტემან	ქრისტე	PROPN	Noun	Case=Erg|Number=Sing	34	appos	_	Translit=kʻristeman
 38	ოცდაათისა	ოცდაათი	NUM	Num	Case=Gen|Number=Sing|NumType=Card	39	nummod	_	Translit=ocʻdaatʻisa
-39	წლისამან	წელი	NOUN	Noun	Case=Erg|Case[stack]=Gen|Number=Sing	42	obl	_	Translit=clisaman
+39	წლისამან	წელი	NOUN	Noun	Case=Erg|Case[stack]=Gen|Number=Sing	41	obl	_	Translit=clisaman
 40-41	ნათელ-იღო	_	_	_	_	_	_	_	_
 40	ნათელ	ნათელი	NOUN	Noun	Case=Nom|Number=Sing	41	obl	_	Translit=natʻel
-41	იღო	ღება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	42	conj	_	Translit=iġo
+41	იღო	ღება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	30	advcl	_	Translit=iġo
 42	და	და	CCONJ	Conj	_	43	cc	_	Translit=da
 43	იწყო	წყება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	41	conj	_	Translit=icqo
 44	სწავლად	სწავლა	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	43	obl	_	Translit=scavlad
@@ -6156,7 +6156,7 @@
 53	პირველ	პირველ	ADV	Adv	AdvType=Tim	54	advmod	_	Translit=pirvel
 54	ორმეოცთა	ორმეოცი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	55	nummod	_	Translit=ormeocʻtʻa
 55	წელიწადთაჲსა	წელიწადი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	53	obl	_	Translit=celicadtʻaysa
-56	ჴელთდასხმულ	ჴელთდასხმული	VERB	Verb	VerbForm=Part|Voice=Pass	43	xcomp	_	Translit=x̣eltʻdasxmul
+56	ჴელთდასხმულ	ჴელთდასხმული	VERB	Verb	VerbForm=Part|Voice=Pass	30	conj	_	Translit=x̣eltʻdasxmul
 57	იქმნების	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Fut|VerbForm=Fin|Voice=Pass	56	cop	_	SpaceAfter=No|Translit=ikʻmnebis
 58	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
 
