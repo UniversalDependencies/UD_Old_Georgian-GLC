@@ -5250,9 +5250,9 @@
 16	თანი	თანა	ADP	Post	AdpType=Post|Case=Gen	15	case	_	Translit=tʻani
 17	თითოეულსა	თითოეული	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	18	det	_	Translit=tʻitʻoeulsa
 18	სამთავროსა	სამთავრო	NOUN	Noun	Case=Dat|Number=Sing	13	obl	_	SpaceAfter=No|Translit=samtʻavrosa
-19	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
+19	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
 20	სადაცა	სადაცა	ADV	Adv	AdvType=Loc	21	advmod	_	Translit=sadacʻa
-21	განაჩინოს	განჩინება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	_	Translit=ganačʻinos
+21	განაჩინოს	განჩინება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	Translit=ganačʻinos
 22	ეპისკოპოსმან	ეპისკოპოსი	NOUN	Noun	Case=Erg|Number=Sing	21	nsubj	_	Translit=episkoposman
 23	დედაქალაქისამან	დედაქალაქი	NOUN	Noun	Case=Erg|Case[stack]=Gen|Number=Sing	22	nmod	_	SpaceAfter=No|Translit=dedakʻalakʻisaman
 24	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
