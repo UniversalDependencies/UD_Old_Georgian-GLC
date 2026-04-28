@@ -5783,24 +5783,23 @@
 52	არასადა	არასადა	ADV	Adv	AdvType=Loc	53	advmod	_	Translit=arasada
 53	განყენებითა	განყენება	NOUN	Noun	Case=Ins|Number=Sing	49	obl	_	Translit=ganqenebitʻa
 54	მათითა	მათი	PRON	Pron	Case=Ins|Number=Plur|PronType=Prs	53	nmod	_	Translit=matʻitʻa
-55	მეუღლეთა	მეუღლე	NOUN	Noun	Case=Dat|Number=Plur	56	obl	_	Translit=meuġletʻa
+55	მეუღლეთა	მეუღლე	NOUN	Noun	Case=Dat|Number=Plur	56	nmod	_	Translit=meuġletʻa
 56	მიმართისა	მიმართი	NOUN	Noun	Case=Gen|Number=Sing	53	nmod	_	Translit=mimartʻisa
 57-59	თანამცხორებელ-ყოფისაგან	_	_	_	_	_	_	_	SpaceAfter=No
 57	თანამცხორებელ	თანამცხორებელი	ADJ	Adj	Case=Gen|Number=Sing	58	amod	_	Translit=tʻanamcʻxorebel
-58	ყოფისა	ყოფა	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Vnoun	53	obl	_	Translit=qopʻisa
+58	ყოფისა	ყოფა	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Vnoun	53	nmod	_	Translit=qopʻisa
 59	გან	გან	ADP	Post	AdpType=Post|Case=Ins	58	case	_	Translit=gan
 60	,	,	PUNCT	F	PunctType=Comm	49	punct	_	Translit=,
 61	რაჲთამცა	რაჲთა	PART	Part	PartType=Emp	62	mark	_	Translit=raytʻamcʻa
 62	დავაკლენით	დაკლება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	49	advcl	_	Translit=davaklenitʻ
 63	იგინი	იგი	PRON	Pron	Case=Nom|Number=Plur|PronType=Prs	62	obj	_	Translit=igini
-64	ჟამად-ჟამად	ჟამი	NOUN	Noun	Case=Ess|Number=Sing	62	advmod	_	Translit=žamad-žamad
+64	ჟამად-ჟამად	ჟამი	ADV	Adv	AdvType=Tim	62	advmod	_	Translit=žamad-žamad
 65	ჯეროვნისა	ჯეროვანი	ADJ	Adj	Case=Gen|Number=Sing	66	amod	_	Translit=jerovnisa
 66	ურთიერთას	ურთიერთა	NOUN	Noun	Case=Gen|Number=Sing	67	nmod	_	Translit=urtʻiertʻas
-67-69	თანა-ზრახვისაგან	_	_	_	_	_	_	_	SpaceAfter=No
-67	თანა	თანა	ADV	Adv	_	62	obl	_	Translit=tʻana
-68	ზრახვისა	ზრახვა	NOUN	Noun	Case=Gen|Number=Sing	67	fixed	_	Translit=zraxvisa
-69	გან	გან	ADP	Post	AdpType=Post|Case=Ins	68	case	_	Translit=gan
-70	.	.	PUNCT	F	PunctType=Peri	10	punct	_	Translit=.
+67-68	თანაზრახვისაგან	_	_	_	_	_	_	_	SpaceAfter=No
+67	თანაზრახვისა	ზრახვა	NOUN	Noun	Case=Gen|Number=Sing	67	fixed	_	Translit=zraxvisa
+68	გან	გან	ADP	Post	AdpType=Post|Case=Ins	68	case	_	Translit=gan
+69	.	.	PUNCT	F	PunctType=Peri	10	punct	_	Translit=.
 
 # sent_id = OGLC_00101
 # text = ვინაჲცა ვინცა ვინ იპოოს ღირსად ჴელთდასხმისა მიმართ კერძო-დიაკონობისა, ანუ დიაკონობისა, ანუ ხუცობისა, ესე ნუმცა დაიყენების ესევითარსა პატივსა მოსლვად სჯულიერისა მეუღლისა თანამცხორებელ-ყოფისათჳს, ნუცამცა ჟამსა ჴელთ-დასხმისასა მიიჴადების აღსაარებად, რაჲთა განეყენოს სჯულიერსა თანა-ქცევასა მეუღლისა თჳსისასა, რაჲთა არა ღმრთისა მიერ სჯულდებულისა და მისლვითა მისითა კურთხეულისა ქორწილისა შეურაცხყოფად ვიიძულნეთ ამიერ, ვინაჲთგან ჴმაჲ სახარებისაჲ ღაღადებს, ვითარმედ: „რომელნი-იგი ღმერთმან შეაუღლნა, კაცნი ნუ განაშორებნ“.
