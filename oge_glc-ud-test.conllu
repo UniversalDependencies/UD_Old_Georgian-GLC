@@ -5338,7 +5338,7 @@
 # sent_id = OGLC_00089
 # text = ხოლო რომელნიცა ეპისკოპოსნი არა მოვიდე კრებასა, არამედ თჳსთა ქალაქთა შინა დაადგრენ და ესენი სიმრთელით მყოფნი და ყოვლისავე თანაწარუვალისა და საჭიროჲსა უცალოებისაგან თავისუფალნი, ძმებრივითა მხილებითა კდემულ იქმნენ სხუათა ეპისკოპოსთაგან.
 # translit = xolo romelnicʻa episkoposni ara movide krebasa, aramed tʻwstʻa kʻalakʻtʻa šina daadgren da eseni simrtʻelitʻ mqopʻni da qovlisave tʻanacaruvalisa da sačiroysa ucʻaloebisagan tʻavisupʻalni, żmebrivitʻa mxilebitʻa kdemul ikʻmnen sxuatʻa episkopostʻagan.
-1	ხოლო	ხოლო	CCONJ	Conj	_	18	cc	_	Translit=xolo
+1	ხოლო	ხოლო	CCONJ	Conj	_	28	cc	_	Translit=xolo
 2	რომელნიცა	რომელი	PRON	Pron	Case=Nom|Number=Plur|PartType=Emp|PronType=Rel	5	nsubj	_	Translit=romelnicʻa
 3	ეპისკოპოსნი	ეპისკოპოსი	NOUN	Noun	Case=Nom|Number=Plur	2	appos	_	Translit=episkoposni
 4	არა	არა	PART	Part	PartType=Neg	5	advmod:neg	_	Translit=ara
@@ -5350,8 +5350,8 @@
 10	ქალაქთა	ქალაქი	NOUN	Noun	Case=Gen|Number=Plur	11	obl	_	Translit=kʻalakʻtʻa
 11	შინა	შინა	ADP	Post	AdpType=Post|Case=Gen	12	obl	_	Translit=šina
 12	დაადგრენ	დადგომა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	Translit=daadgren
-13	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
-14	ესენი	ესე	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	18	nsubj	_	Translit=eseni
+13	და	და	CCONJ	Conj	_	28	cc	_	Translit=da
+14	ესენი	ესე	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	28	nsubj	_	Translit=eseni
 15	სიმრთელით	სიმრთელე	NOUN	Noun	Case=Ins|Number=Sing	16	obl	_	Translit=simrtʻelitʻ
 16	მყოფნი	მყოფი	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Act	14	acl	_	Translit=mqopʻni
 17	და	და	CCONJ	Conj	_	22	cc	_	Translit=da
@@ -5363,7 +5363,7 @@
 22	უცალოებისა	უცალოება	NOUN	Noun	Case=Gen|Number=Sing	24	obl	_	Translit=ucʻaloebisa
 23	გან	გან	ADP	Post	AdpType=Post|Case=Ins	22	case	_	Translit=gan
 24	თავისუფალნი	თავისუფალი	ADJ	Adj	Case=Nom|Number=Plur	16	conj	_	SpaceAfter=No|Translit=tʻavisupʻalni
-25	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
+25	,	,	PUNCT	F	PunctType=Comm	28	punct	_	Translit=,
 26	ძმებრივითა	ძმებრივი	ADJ	Adj	Case=Ins|Number=Sing	27	amod	_	Translit=żmebrivitʻa
 27	მხილებითა	მხილება	NOUN	Noun	Case=Ins|Number=Sing	29	obl	_	Translit=mxilebitʻa
 28	კდემულ	კდემული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	Translit=kdemul
