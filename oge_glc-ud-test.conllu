@@ -5500,7 +5500,7 @@
 27	გან	გან	ADP	Post	AdpType=Post|Case=Ins	26	case	_	Translit=gan
 28	,	,	PUNCT	F	PunctType=Comm	25	punct	_	Translit=,
 29	ანუ	ანუ	CCONJ	Conj	_	33	cc	_	Translit=anu
-30	აბანოსა	აბანო	NOUN	Noun	Case=Dat|Number=Sing	33	obl	_	Translit=abanosa
+30	აბანოსა	აბანო	NOUN	Noun	Case=Dat|Number=Sing	33	nmod	_	Translit=abanosa
 31	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	30	case	_	Translit=šina
 32	იბანების	ბანება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	17	conj	_	Translit=ibanebis
 33	მათ	ის	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	32	obl	_	Translit=matʻ
@@ -5513,7 +5513,7 @@
 1	ხოლო	ხოლო	CCONJ	Conj	_	9	cc	_	Translit=xolo
 2	უკუეთუ	უკუეთუ	SCONJ	SCONJ	_	5	mark	_	Translit=ukuetʻu
 3	ამათდა	ესე	PRON	Pron	Case=Dat|Number=Plur|PronType=Dem	4	obj	_	Translit=amatʻda
-4	ქმნად	ყოფა	AUX	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	5	xcomp	_	Translit=kʻmnad
+4	ქმნად	ქმნა	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	5	xcomp	_	Translit=kʻmnad
 5-6	ჴელ-ყოს	_	_	_	_	_	_	_	SpaceAfter=No
 5	ჴელ	ჴელი	NOUN	Noun	Case=Nom|Number=Sing	9	advcl	_	Translit=x̣el
 6	ყოს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	flat	_	Translit=qos
