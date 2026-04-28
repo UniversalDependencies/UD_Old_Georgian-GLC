@@ -6781,7 +6781,7 @@
 14	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
 15-16	ვიდრემდის	_	_	_	_	_	_	_	_
 15	ვიდრე	ვიდრე	SCONJ	Conj	_	22	mark	_	Translit=vidre
-16	მდის	მდე	ADP	Post	AdpType=Post|Case=Ess	15	fixed	_	Translit=mdis
+16	მდის	მდე	ADP	Post	AdpType=Post|Case=Ess	15	case	_	Translit=mdis
 17	თჳსისავე	თჳსი	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Prs	18	det	_	Translit=tʻwsisave
 18	ეკლესიისა	ეკლესია	NOUN	Noun	Case=Gen|Number=Sing	19	obl	_	Translit=eklesiisa
 19	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Gen	22	obl	_	Translit=mimartʻ
