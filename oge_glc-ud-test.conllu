@@ -6548,7 +6548,7 @@
 40	ვითარმედ	ვითარმედ	SCONJ	Conj	_	45	mark	_	Translit=vitʻarmed
 41	შჳდნი	შჳდი	NUM	Num	Case=Nom|Number=Plur|NumType=Card	44	nummod	_	Translit=šwdni
 42	პირველჴსენებულნი	პირველჴსენებული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	44	amod	_	Translit=pirvelx̣senebulni
-43	ესე	ესე	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	43	det	_	Translit=ese
+43	ესე	ესე	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	44	det	_	Translit=ese
 44	დიაკონნი	დიაკონი	NOUN	Noun	Case=Nom|Number=Plur	37	ccomp	_	Translit=diakonni
 45	არა	არა	PART	Part	PartType=Neg	48	advmod:neg	_	Translit=ara
 46-47	მათგანნი	_	_	_	_	_	_	_	_
