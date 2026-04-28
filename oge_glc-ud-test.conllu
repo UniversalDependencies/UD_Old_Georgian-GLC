@@ -1571,7 +1571,7 @@
 12	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
 13-14	ვითარ-ესე	_	_	_	_	_	_	_	_
 13	ვითარ	ვითარ	SCONJ	Conj	_	16	mark	_	Translit=vitar
-14	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	13	fixed	_	Translit=ese
+14	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	15	det	_	Translit=ese
 15-16	სათნო-მიჩნს	_	_	_	_	_	_	_	_
 15	სათნო	სათნო	ADJ	Adj	Case=Nom|Number=Sing	16	xcomp	_	Translit=satʻno
 16	მიჩნს	ჩენა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	parataxis	_	Translit=mičʻns
@@ -2509,7 +2509,7 @@
 6	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
 7-8	ვითარ-იგი	_	_	_	_	_	_	_	_
 7	ვითარ	ვითარ	SCONJ	Conj	_	18	mark	_	Translit=vitʻar
-8	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	7	fixed	_	Translit=igi
+8	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	9	det	_	Translit=igi
 9	სხუათა	სხუა	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	15	det	_	Translit=sxuatʻa
 10	მათ	ის	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	15	det	_	Translit=matʻ
 11	ოთხთა	ოთხი	NUM	Num	Case=Gen|Number=Plur	15	nummod	_	Translit=otʻxtʻa
@@ -2986,7 +2986,7 @@
 32	,	,	PUNCT	F	PunctType=Comm	36	punct	_	Translit=,
 33-34	ვითარ-იგი	_	_	_	_	_	_	_	_
 33	ვითარ	ვითარ	SCONJ	Conj	_	36	mark	_	Translit=vitʻar
-34	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	33	fixed	_	Translit=igi
+34	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	36	det	_	Translit=igi
 35	უსაკუთრესად	უსაკუთრესად	ADV	Adv	AdvType=Man	36	advmod	_	Translit=usakutʻresad
 36	სათქუმელ	სათქუმელი	ADJ	Adj	Case=Nom|Number=Sing	39	advcl	_	Translit=satʻkʻumel
 37	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	cop	_	SpaceAfter=No|Translit=ars
@@ -6871,8 +6871,8 @@
 12	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 13	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	23	case	_	Translit=tʻwnier
 14-15	ვითარ-იგი	_	_	_	_	_	_	_	_
-14	ვითარ	ვითარ	SCONJ	Conj	_	22	mark	_	Translit=vitʻar
-15	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	14	fixed	_	Translit=igi
+14	ვითარ	ვითარ	SCONJ	Conj	_	23	mark	_	Translit=vitʻar
+15	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	16	det	_	Translit=igi
 16	მნათობთა	მნათობი	NOUN	Noun	Case=Gen|Number=Plur	22	obl	_	Translit=mnatʻobtʻa
 17	ეკლესიისათა	ეკლესია	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	16	nmod	_	Translit=eklesiisatʻa
 18	და	და	CCONJ	Conj	_	19	cc	_	Translit=da
