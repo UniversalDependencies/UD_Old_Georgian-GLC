@@ -4437,7 +4437,7 @@
 4	სამღდელოჲსაჲ	სამღდელოჲ	NOUN	Noun	Case=Gen|Number=Sing	3	nmod	_	Translit=samġdeloysay
 5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
 6	ადგილი	ადგილი	NOUN	Noun	Case=Nom|Number=Sing	2	conj	_	Translit=adgili
-7	დგომისა	დგომა	VERB	Verb	VerbForm=Vnoun|Case=Gen|Number=Sing	6	nmod	_	Translit=dgomisa
+7	დგომისა	დგომა	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Vnoun	6	nmod	_	Translit=dgomisa
 8	თჳსისაჲ	თჳსი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	7	nmod	_	Translit=tʻwsisay
 9	აქუნდეს	ქონება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=akʻundes
 10	და	და	CCONJ	Conj	_	12	cc	_	Translit=da
@@ -4447,12 +4447,12 @@
 13	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	12	nsubj	_	Translit=ese
 14	მათ	ის	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	12	iobj	_	Translit=matʻ
 15	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	16	obj	_	Translit=ese
-16	ქველისმოქმედებად	ქველისმოქმედება	VERB	Verb	VerbForm=Vnoun|Case=Ess|Number=Sing	12	xcomp	_	Translit=kʻvelismokʻmedebad
+16	ქველისმოქმედებად	ქველისმოქმედება	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Vnoun	12	xcomp	_	Translit=kʻvelismokʻmedebad
 17	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
 18	შესტიროდინ	შესტირილი	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	Translit=šestirodin
 19	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	18	nsubj	_	Translit=igi
 20	უფლისა	უფალი	NOUN	Noun	Case=Gen|Number=Sing	18	obj	_	SpaceAfter=No|Translit=upʻlisa
-21	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
+21	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
 22	რაჲთა	რაჲთა	SCONJ	Conj	_	23	mark	_	Translit=raytʻa
 23	შეუნდოს	შენდობა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	Translit=šeundos
 24	მათ	ის	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	23	iobj	_	Translit=matʻ
