@@ -6508,7 +6508,7 @@
 1	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
 2	რამეთუ	რამეთუ	SCONJ	Conj	_	6	mark	_	Translit=rametʻu
 3	ჯერეთ	ჯერეთ	ADV	Adv	AdvType=Tim	6	advmod	_	Translit=jeretʻ
-4	არღასადა	არღასადა	ADV	Adv	AdvType=Neg	6	advmod	_	Translit=arġasada
+4	არღასადა	არღასადა	PART	Part	PartType=Neg	6	advmod	_	Translit=arġasada
 5	არცა	არცა	PART	Part	PartType=Neg	6	advmod:neg	_	Translit=arcʻa
 6	ერთი	ერთი	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	7	nsubj	_	Translit=ertʻi
 7	ვინ	ვინ	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	9	nsubj	_	Translit=vin
@@ -6521,7 +6521,7 @@
 14	ოდენ	ოდენ	ADV	Adv	AdvType=Man	13	advmod	_	SpaceAfter=No|Translit=oden
 15	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 16-17	ვინაჲცა	_	_	_	_	_	_	_	_
-16	ვინაჲ	ვინაჲ	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	24	obl	_	Translit=vinay
+16	ვინაჲ	ვინაჲ	PRON	Pron	Case=Gen|ExtPos=PRON|Number=Sing|PronType=Rel	24	obl	_	Translit=vinay
 17	ცა	ცა	PART	Part	PartType=Emp	16	fixed	_	Translit=cʻa
 18	არცა	არცა	PART	Part	PartType=Neg	21	advmod:neg	_	Translit=arcʻa
 19	დიაკონთა	დიაკონი	NOUN	Noun	Case=Gen|Number=Plur	23	nmod	_	Translit=diakontʻa
@@ -6543,7 +6543,7 @@
 35	თანა	თანა	ADP	Post	AdpType=Post|Case=Dat	37	obl	_	Translit=tʻana
 36	უკუე	უკუე	ADV	Adv	_	37	advmod	_	Translit=ukue
 37	ვქადაგებთ	ქადაგება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	24	conj	_	Translit=vkʻadagebtʻ
-38	ჩუენცა	ჩუენ	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs|PartType=Emp	37	nsubj	_	SpaceAfter=No|Translit=čʻuencʻa
+38	ჩუენცა	ჩუენ	PRON	Pron	Case=Nom|Number=Plur|Person=1|PartType=Emp|PronType=Prs	37	nsubj	_	SpaceAfter=No|Translit=čʻuencʻa
 39	,	,	PUNCT	F	PunctType=Comm	37	punct	_	Translit=,
 40	ვითარმედ	ვითარმედ	SCONJ	Conj	_	45	mark	_	Translit=vitʻarmed
 41	შჳდნი	შჳდი	NUM	Num	Case=Nom|Number=Plur|NumType=Card	45	nsubj	_	Translit=šwdni
