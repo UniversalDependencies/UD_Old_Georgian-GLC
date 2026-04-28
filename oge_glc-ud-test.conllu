@@ -6120,14 +6120,14 @@
 18	არა	არა	PART	Part	PartType=Neg	19	advmod:neg	_	Translit=ara
 19	ჴელთდასხმულ	ჴელთდასხმული	VERB	Verb	VerbForm=Part|Voice=Pass	8	ccomp	_	Translit=x̣eltʻdasxmul
 20	იქმნებოდის	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Pass	19	cop	_	SpaceAfter=No|Translit=ikʻmnebodis
-21	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
+21	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
 22	დაღათუ	დაღათუ	SCONJ	Conj	_	26	mark	_	Translit=daġatʻu
 23	ყოვლად	ყოვლად	ADV	Adv	AdvType=Man	24	advmod	_	Translit=qovlad
 24	ღირს	ღირსი	ADJ	Adj	Case=Nom|Number=Sing	19	advcl	_	Translit=ġirs
 25	იყოს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	cop	_	Translit=iqos
 26	კაცი	კაცი	NOUN	Noun	Case=Nom|Number=Sing	24	nsubj	_	Translit=kacʻi
 27	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	26	det	_	SpaceAfter=No|Translit=igi
-28	,	,	PUNCT	F	PunctType=Comm	20	punct	_	Translit=,
+28	,	,	PUNCT	F	PunctType=Comm	30	punct	_	Translit=,
 29	არამედ	არამედ	CCONJ	Conj	_	30	cc	_	Translit=aramed
 30	განიცადებოდედ	განცდა	VERB	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Pass	20	conj	_	Translit=ganicʻadeboded
 31	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	30	nsubj:pass	_	SpaceAfter=No|Translit=ese
@@ -6135,8 +6135,8 @@
 33	რამეთუ	რამეთუ	SCONJ	Conj	_	41	mark	_	Translit=rametʻu
 34	უფალმან	უფალი	NOUN	Noun	Case=Erg|Number=Sing	41	nsubj	_	Translit=upʻalman
 35	ჩუენმან	ჩუენი	PRON	Pron	Case=Erg|Number=Sing|Person=1|PronType=Prs	34	det:poss	_	Translit=čʻuenman
-36	იესუ	იესუ	PROPN	Noun	Case=Nom|Number=Sing	37	flat	_	Translit=iesu
-37	ქრისტემან	ქრისტე	PROPN	Noun	Case=Erg|Number=Sing	34	appos	_	Translit=kʻristeman
+36	იესუ	იესუ	PROPN	Noun	Case=Nom|Number=Sing	34	appos	_	Translit=iesu
+37	ქრისტემან	ქრისტე	PROPN	Noun	Case=Erg|Number=Sing	36	flat	_	Translit=kʻristeman
 38	ოცდაათისა	ოცდაათი	NUM	Num	Case=Gen|Number=Sing|NumType=Card	39	nummod	_	Translit=ocʻdaatʻisa
 39	წლისამან	წელი	NOUN	Noun	Case=Erg|Case[stack]=Gen|Number=Sing	41	obl	_	Translit=clisaman
 40-41	ნათელ-იღო	_	_	_	_	_	_	_	_
