@@ -4548,7 +4548,7 @@
 67-68	ცხად-არს	_	_	_	_	_	_	_	SpaceAfter=No
 67	ცხად	ცხად	ADV	Adv	AdvType=Man	5	parataxis	_	Translit=cxʻad
 68	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	67	cop	_	Translit=ars
-69	,	,	PUNCT	F	PunctType=Comm	81	punct	_	Translit=,
+69	,	,	PUNCT	F	PunctType=Comm	70	punct	_	Translit=,
 70	ვითარმედ	ვითარმედ	SCONJ	Conj	_	81	mark	_	Translit=vitʻarmed
 71	შემდგომად	შემდგომად	ADV	Adv	_	81	advmod	_	Translit=šemdgomad
 72	დაჴსნისაცა	დაჴსნა	NOUN	Noun	Case=Gen|Number=Sing|PartType=Emp	71	nmod	_	Translit=dax̣snisacʻa
@@ -4563,7 +4563,7 @@
 81-82	მათთჳს	_	_	_	_	_	_	_	SpaceAfter=No
 81	მათ	იგი	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	68	conj	_	Translit=matʻ
 82	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Dat	81	case	_	Translit=tʻws
-83	,	,	PUNCT	F	PunctType=Comm	70	punct	_	Translit=,
+83	,	,	PUNCT	F	PunctType=Comm	84	punct	_	Translit=,
 84	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	79	acl	_	Translit=romelni
 85	უკუე	უკუე	ADV	Adv	_	102	advmod	_	Translit=ukue
 86	ვიდრე	ვიდრე	SCONJ	Conj	_	88	mark	_	Translit=vidre
