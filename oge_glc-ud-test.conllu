@@ -5342,7 +5342,7 @@
 2	რომელნიცა	რომელი	PRON	Pron	Case=Nom|Number=Plur|PartType=Emp|PronType=Rel	5	nsubj	_	Translit=romelnicʻa
 3	ეპისკოპოსნი	ეპისკოპოსი	NOUN	Noun	Case=Nom|Number=Plur	2	appos	_	Translit=episkoposni
 4	არა	არა	PART	Part	PartType=Neg	5	advmod:neg	_	Translit=ara
-5	მოვიდე	მოსვლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	Translit=movide
+5	მოვიდე	მოსვლა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	advcl	_	Translit=movide
 6	კრებასა	კრება	NOUN	Noun	Case=Dat|Number=Sing	5	obl	_	SpaceAfter=No|Translit=krebasa
 7	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
 8	არამედ	არამედ	CCONJ	Conj	_	12	cc	_	Translit=aramed
