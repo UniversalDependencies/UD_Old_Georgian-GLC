@@ -4907,10 +4907,10 @@
 13	მიღებისა	მიღება	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Vnoun	12	nmod	_	Translit=miġebisa
 14	ჴელთდასხმასა	ჴელთდასხმა	NOUN	Noun	Case=Dat|Number=Sing	13	obj	_	Translit=x̣eltʻdasxmasa
 15	კერძო-დიაკონობისასა	კერძო-დიაკონობა	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	14	nmod	_	SpaceAfter=No|Translit=kerżo-diakonobisasa
-16	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
+16	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
 17	ანუ	ანუ	CCONJ	Conj	_	18	cc	_	Translit=anu
 18	დიაკონობისა	დიაკონობა	NOUN	Noun	Case=Gen|Number=Sing	15	conj	_	SpaceAfter=No|Translit=diakonobisa
-19	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
+19	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
 20	ანუ	ანუ	CCONJ	Conj	_	21	cc	_	Translit=anu
 21	ხუცობისასა	ხუცობა	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	15	conj	_	SpaceAfter=No|Translit=xucʻobisasa
 22	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
@@ -4963,7 +4963,7 @@
 37	,	,	PUNCT	F	PunctType=Comm	44	punct	_	Translit=,
 38	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	39	det	_	Translit=ese
 39	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	44	parataxis	_	Translit=igi
-40	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	cop	_	Translit=ars
+40	არს	არსი	NOUN	Noun	Case=Dat|Number=Sing	44	nsubj	_	Translit=ars
 41	საეკლესიოსა	საეკლესიო	NOUN	Noun	Case=Dat|Number=Sing	43	nmod	_	Translit=saeklesiosa
 42	რომელსამე	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	43	det	_	Translit=romelsame
 43	უფფიკსა	უფფიკი	NOUN	Noun	Case=Dat|Number=Sing	44	obl	_	Translit=upʻpʻiksa
