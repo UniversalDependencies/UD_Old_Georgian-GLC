@@ -5356,7 +5356,7 @@
 16	მყოფნი	მყოფი	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Act	14	acl	_	Translit=mqopʻni
 17	და	და	CCONJ	Conj	_	22	cc	_	Translit=da
 18	ყოვლისავე	ყოველი	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Tot	19	det	_	Translit=qovlisave
-19	თანაწარუვალისა	თანაწარუვალი	ADJ	Adj	Case=Gen|Number=Sing	21	amod	_	Translit=tʻanacaruvalisa
+19	თანაწარუვალისა	თანაწარუვალი	ADJ	Adj	Case=Gen|Number=Sing	22	amod	_	Translit=tʻanacaruvalisa
 20	და	და	CCONJ	Conj	_	21	cc	_	Translit=da
 21	საჭიროჲსა	საჭიროჲ	ADJ	Adj	Case=Gen|Number=Sing	19	conj	_	Translit=sačiroysa
 22-23	უცალოებისაგან	_	_	_	_	_	_	_	_
