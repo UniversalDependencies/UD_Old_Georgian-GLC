@@ -4561,13 +4561,13 @@
 79	ესენი	ესე	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	81	nsubj	_	Translit=eseni
 80	უკუე	უკუე	ADV	Adv	_	81	advmod	_	Translit=ukue
 81	მათთჳს	ის	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	68	conj	_	SpaceAfter=No|Translit=matʻtʻws
-82	,	,	PUNCT	F	PunctType=Comm	69	punct	_	Translit=,
+82	,	,	PUNCT	F	PunctType=Comm	70	punct	_	Translit=,
 83	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	101	nsubj	_	Translit=romelni
 84	უკუე	უკუე	ADV	Adv	_	101	advmod	_	Translit=ukue
 85	ვიდრე	ვიდრე	SCONJ	Conj	_	87	mark	_	Translit=vidre
 86	მეათხუთმეტედ	მეათხუთმეტე	ADJ	Adj	Case=Ess|Number=Sing	87	amod	_	Translit=meatʻxutʻmeted
 87	დღედმდე	დღე	NOUN	Noun	Case=Ess|Number=Sing	101	obl	_	SpaceAfter=No|Translit=dġedmde
-88	,	,	PUNCT	F	PunctType=Comm	93	punct	_	Translit=,
+88	,	,	PUNCT	F	PunctType=Comm	89	punct	_	Translit=,
 89	ვითარცა	ვითარცა	SCONJ	Conj	_	90	mark	_	Translit=vitʻarcʻa
 90	ითქუა	თქმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	101	advcl	_	SpaceAfter=No|Translit=itʻkʻua
 91	,	,	PUNCT	F	PunctType=Comm	90	punct	_	Translit=,
