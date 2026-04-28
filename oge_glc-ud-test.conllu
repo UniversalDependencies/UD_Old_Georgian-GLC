@@ -6569,7 +6569,7 @@
 59	არამედ	არამედ	CCONJ	Conj	_	61	cc	_	Translit=aramed
 60	მაშინ	მაშინ	ADV	Adv	AdvType=Tim	61	advmod	_	Translit=mašin
 61	შეკრებულთა	შეკრებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	48	conj	_	SpaceAfter=No|Translit=šekrebultʻa
-62	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
+62	.	.	PUNCT	F	PunctType=Peri	9	punct	_	Translit=.
 
 # sent_id = OGLC_00120
 # text = მათ ერთა საზოგადოსა საჴმრისა განმგებელობასა რწმუნებულთაჲ არს მსახურებაჲ მათი, რაჲთა ამიერცა მივიღოთ ჩუენ სახე მოქენეთა მიმართისა კაცთმოყუარებისა და მოსწრაფებისაჲ.
