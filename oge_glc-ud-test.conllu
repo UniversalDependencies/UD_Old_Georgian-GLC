@@ -6637,8 +6637,8 @@
 34	შეემთხჳა	შემთხვევა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	_	Translit=šeemtʻxwa
 35	მათ	იგი	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	34	iobj	_	Translit=matʻ
 36-37	დაუმორჩილებელ-ყოფაჲ	_	_	_	_	_	_	_	SpaceAfter=No
-36	დაუმორჩილებელ	დაუმორჩილებელი	ADJ	Adj	ExtPos=NOUN|Case=Nom|Number=Sing	34	nsubj	_	Translit=daumorčʻilebel
-37	ყოფაჲ	ყოფა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	36	fixed	_	Translit=qopʻay
+36	დაუმორჩილებელ	დაუმორჩილებელი	ADJ	Adj	Case=Nom|Number=Sing	37	nmod	_	Translit=daumorčʻilebel
+37	ყოფაჲ	ყოფა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	34	obj	_	Translit=qopʻay
 38	,	,	PUNCT	F	PunctType=Comm	34	punct	_	Translit=,
 39-40	ამისთჳს	_	_	_	_	_	_	_	_
 39	ამის	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	41	obl	_	Translit=amis
