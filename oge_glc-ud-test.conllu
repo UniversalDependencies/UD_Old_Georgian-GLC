@@ -7713,7 +7713,7 @@
 4-5	მოყუასთაგანმან	_	_	_	_	_	_	_	_
 4	მოყუასთა	მოყუასი	NOUN	Noun	Case=Erg|Case[stack]=Gen|Number=Plur	8	obl	_	Translit=moquastʻa
 5	განმან	გან	ADP	Post	AdpType=Post|Case=Gen	4	case	_	Translit=ganman
-6	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	7	det	_	Translit=tʻwnier
+6	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	7	nmod	_	Translit=tʻwnier
 7	განწესებულთასა	განწესებული	VERB	Verb	Case=Dat|Case[stack]=Gen|Number=Plur|VerbForm=Part|Voice=Pass	4	nmod	_	Translit=gancesebultʻasa
 8	იკადროს	კადრება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	_	Translit=ikadros
 9	რასმე	რაჲმე	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	10	obj	_	Translit=rasme
@@ -7754,7 +7754,7 @@
 20	ერთისა	ერთი	NUM	Num	Case=Gen|Number=Sing|NumType=Card	23	nummod	_	Translit=ertʻisa
 21	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	23	det	_	Translit=mis
 22	წელიწდეულისა	წელიწდეული	ADJ	Adj	Case=Gen|Number=Sing	23	amod	_	Translit=celicdeulisa
-23	დღისა	დღე	NOUN	Noun	Case=Gen|Number=Sing	18	obl	_	SpaceAfter=No|Translit=dġisa
+23	დღისა	დღე	NOUN	Noun	Case=Gen|Number=Sing	17	obl	_	SpaceAfter=No|Translit=dġisa
 24	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
 25	რომელსა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	27	obl	_	Translit=romelsa
 26	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	27	obl	_	Translit=šina
