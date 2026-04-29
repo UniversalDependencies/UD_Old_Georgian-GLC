@@ -7501,8 +7501,8 @@
 48	რაჲთა	რაჲთა	SCONJ	Conj	_	49	mark	_	Translit=raytʻa
 49	შეუნდოს	შენდობა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	45	advcl	_	Translit=šeundos
 50	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	49	iobj	_	Translit=mas
-51	უმეცრებისა	უმეცრება	NOUN	Noun	Case=Gen|Number=Sing	52	nmod	_	Translit=umecʻrebisa
-52	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	53	case	_	Translit=mier
+51	უმეცრებისა	უმეცრება	NOUN	Noun	Case=Gen|Number=Sing	53	nmod	_	Translit=umecʻrebisa
+52	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	21	case	_	Translit=mier
 53	შემთხუეული	შემთხუეული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	54	amod	_	Translit=šemtʻxueuli
 54	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	49	nsubj	_	Translit=igi
 55	უსჯულოებაჲ	უსჯულოება	NOUN	Noun	Case=Nom|Number=Sing	54	appos	_	SpaceAfter=No|Translit=usjuloebay
@@ -7551,12 +7551,12 @@
 # text = კზ(27) ნუმცა ვინ სამღდელოთა მწყობრსა დაწესებულთაგანი შეუტყუებელთა თჳსთა შესამოსელთა შეიმოსს.
 # translit = kz(27) numcʻa vin samġdelotʻa mcqobrsa dacesebultʻagani šeutquebeltʻa tʻwstʻa šesamoseltʻa šeimoss.
 1	კზ(27)	კზ(27)	NUM	Num	NumForm=Georgian|NumType=Card	7	dep	_	Translit=kz(27)
-2	ნუმცა	ნუმცა	PART	Part	PartType=Neg	7	advmod:neg	_	Translit=numcʻa
-3	ვინ	ვინ	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	7	nsubj	_	Translit=vin
+2	ნუმცა	ნუმცა	PART	Part	PartType=Neg	11	advmod:neg	_	Translit=numcʻa
+3	ვინ	ვინ	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	11	nsubj	_	Translit=vin
 4	სამღდელოთა	სამღდელოჲ	NOUN	Noun	Case=Gen|Number=Plur	5	nmod	_	Translit=samġdelotʻa
-5	მწყობრსა	მწყობრი	NOUN	Noun	Case=Dat|Number=Sing	7	obl	_	Translit=mcqobrsa
+5	მწყობრსა	მწყობრი	NOUN	Noun	Case=Dat|Number=Sing	6	obl	_	Translit=mcqobrsa
 6-7	დაწესებულთაგანი	_	_	_	_	_	_	_	_
-6	დაწესებულთა	დაწესებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	3	acl	_	Translit=dacesebultʻa
+6	დაწესებულთა	დაწესებული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	3	amod	_	Translit=dacesebultʻa
 7	განი	გან	ADP	Post	AdpType=Post|Case=Gen	6	case	_	Translit=gani
 8	შეუტყუებელთა	შეუტყუებელი	ADJ	Adj	Case=Gen|Number=Plur	10	amod	_	Translit=šeutquebeltʻa
 9	თჳსთა	თჳსი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	10	det	_	Translit=tʻwstʻa
