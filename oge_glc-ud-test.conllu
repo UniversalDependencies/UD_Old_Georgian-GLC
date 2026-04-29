@@ -7502,7 +7502,7 @@
 49	შეუნდოს	შენდობა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	45	advcl	_	Translit=šeundos
 50	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	49	iobj	_	Translit=mas
 51	უმეცრებისა	უმეცრება	NOUN	Noun	Case=Gen|Number=Sing	53	nmod	_	Translit=umecʻrebisa
-52	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	21	case	_	Translit=mier
+52	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	51	case	_	Translit=mier
 53	შემთხუეული	შემთხუეული	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	54	amod	_	Translit=šemtʻxueuli
 54	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	49	nsubj	_	Translit=igi
 55	უსჯულოებაჲ	უსჯულოება	NOUN	Noun	Case=Nom|Number=Sing	54	appos	_	SpaceAfter=No|Translit=usjuloebay
@@ -7550,7 +7550,7 @@
 # sent_id = OGLC_00145
 # text = კზ(27) ნუმცა ვინ სამღდელოთა მწყობრსა დაწესებულთაგანი შეუტყუებელთა თჳსთა შესამოსელთა შეიმოსს.
 # translit = kz(27) numcʻa vin samġdelotʻa mcqobrsa dacesebultʻagani šeutquebeltʻa tʻwstʻa šesamoseltʻa šeimoss.
-1	კზ(27)	კზ(27)	NUM	Num	NumForm=Georgian|NumType=Card	7	dep	_	Translit=kz(27)
+1	კზ(27)	კზ(27)	NUM	Num	NumForm=Georgian|NumType=Card	11	dep	_	Translit=kz(27)
 2	ნუმცა	ნუმცა	PART	Part	PartType=Neg	11	advmod:neg	_	Translit=numcʻa
 3	ვინ	ვინ	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	11	nsubj	_	Translit=vin
 4	სამღდელოთა	სამღდელოჲ	NOUN	Noun	Case=Gen|Number=Plur	5	nmod	_	Translit=samġdelotʻa
@@ -7597,14 +7597,14 @@
 27	ხოლო	ხოლო	CCONJ	Conj	_	30	cc	_	Translit=xolo
 28	უკუეთუ	უკუეთუ	SCONJ	Conj	_	30	mark	_	Translit=ukuetʻu
 29	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	30	nsubj	_	Translit=vinme
-30	ქმნას	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	cop	_	Translit=kʻmnas
+30	ქმნას	ქმნა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	Translit=kʻmnas
 31	რაჲმე	რაჲმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	35	advcl	_	Translit=rayme
 32	ესევითარი	ესევითარი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	31	det	_	SpaceAfter=No|Translit=esevitʻari
 33	,	,	PUNCT	F	PunctType=Comm	30	punct	_	Translit=,
 34	შჳდეულსა	შჳდეული	ADJ	Adj	Case=Dat|Number=Sing	35	obl	_	Translit=šwdeulsa
 35	ერთსა	ერთი	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	36	obl	_	Translit=ertʻsa
-36	უზიარებელ	უზიარებელი	ADJ	Adj	Case=Nom|Number=Sing	37	xcomp	_	Translit=uziarebel
-37	იქმენინ	ყოფა	AUX	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	16	conj	_	SpaceAfter=No|Translit=ikʻmenin
+36	უზიარებელ	უზიარებელი	ADJ	Adj	Case=Nom|Number=Sing	29	acl	_	Translit=uziarebel
+37	იქმენინ	ყოფა	AUX	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	36	cop	_	SpaceAfter=No|Translit=ikʻmenin
 38	.	.	PUNCT	F	PunctType=Peri	11	punct	_	Translit=.
 
 # sent_id = OGLC_00147
