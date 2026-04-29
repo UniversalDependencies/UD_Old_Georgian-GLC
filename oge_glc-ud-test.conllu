@@ -7614,7 +7614,7 @@
 2-3	ვინაჲთგან	_	_	_	_	_	_	_	_
 2	ვინაჲთ	ვინაჲთ	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	3	obl	_	Translit=vinaytʻ
 3	გან	გან	ADP	Post	AdpType=Post|Case=Ins	4	case	_	Translit=gan
-4	ვისწავლეთ	სწავლა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=viscavetʻ
+4	ვისწავეთ	სწავლა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=viscavetʻ
 5	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 6	ვითარმედ	ვითარმედ	SCONJ	Conj	_	22	mark	_	Translit=vitʻarmed
 7	მრავალთა	მრავალი	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	8	det	_	Translit=mravaltʻa
@@ -7654,15 +7654,15 @@
 39	განმან	გან	ADP	Post	AdpType=Post|Case=Gen	38	case	_	Translit=ganman
 40	,	,	PUNCT	F	PunctType=Comm	36	punct	_	Translit=,
 41	არამედ	არამედ	CCONJ	Conj	_	49	cc	_	Translit=aramed
-42	ცხოველსმყოფელად	ცხოველსმყოფელი	ADJ	Adj	Case=Ess|Number=Sing	49	advmod	_	Translit=cʻxovelsmqopʻelad
+42	ცხოველსმყოფელად	ცხოველსმყოფელი	ADJ	Adj	Case=Ess|Number=Sing	50	advmod	_	Translit=cʻxovelsmqopʻelad
 43	და	და	CCONJ	Conj	_	45	cc	_	Translit=da
 44	ცოდვათა	ცოდვა	NOUN	Noun	Case=Gen|Number=Plur	45	nmod	_	Translit=cʻodvatʻa
 45	მისატევებლად	მისატევებელი	VERB	Verb	Case=Ess|Number=Sing|VerbForm=Part|Voice=Pass	42	conj	_	Translit=misateveblad
-46	მხოლოდ	მხოლოდ	ADV	Adv	AdvType=Man	49	advmod	_	Translit=mxolod
-47	საიდუმლოჲ	საიდუმლოჲ	NOUN	Noun	Case=Nom|Number=Sing	49	nsubj:pass	_	Translit=saidumloy
-48	ოდენ	ოდენ	ADV	Adv	AdvType=Man	47	advmod	_	Translit=oden
-49	მსხუერპლი	მსხუერპლი	NOUN	Noun	Case=Nom|Number=Sing	36	conj	_	Translit=msxuerpli
-50	მიეცემოდედ	მიცემა	VERB	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Pass	49	cop	_	Translit=miecʻemoded
+46	მხოლოდ	მხოლოდ	ADV	Adv	AdvType=Man	50	advmod	_	Translit=mxolod
+47	საიდუმლოჲ	საიდუმლოჲ	NOUN	Noun	Case=Nom|Number=Sing	49	nmod	_	Translit=saidumloy
+48	ოდენ	ოდენ	ADV	Adv	AdvType=Man	49	advmod	_	Translit=oden
+49	მსხუერპლი	მსხუერპლი	NOUN	Noun	Case=Nom|Number=Sing	50	nsubj	_	Translit=msxuerpli
+50	მიეცემოდედ	მიცემა	VERB	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Pass	37	conj	_	Translit=miecʻemoded
 51	ერსა	ერი	NOUN	Noun	Case=Dat|Number=Sing	50	iobj	_	SpaceAfter=No|Translit=ersa
 52	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
