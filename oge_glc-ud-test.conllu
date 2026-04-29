@@ -7344,11 +7344,11 @@
 1	ხოლო	ხოლო	CCONJ	Conj	_	5	cc	_	Translit=xolo
 2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	5	mark	_	Translit=ukuetʻu
 3	შინაგან	შინაგან	ADV	Adv	AdvType=Loc	5	advmod	_	Translit=šinagan
-4	ოცდაათთა	ოცდაათი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	5	obl	_	Translit=ocʻdaatʻtʻa
-5	წელიწადთაჲსა	წელიწადი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	6	obl	_	Translit=celicadtʻaysa
+4	ოცდაათთა	ოცდაათი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	5	nmod	_	Translit=ocʻdaatʻtʻa
+5	წელიწადთაჲსა	წელიწადი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	7	obl	_	Translit=celicadtʻaysa
 6	იქმნა	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	cop	_	Translit=ikʻmna
 7	რაჲმე	რაჲმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	0	root	_	SpaceAfter=No|Translit=rayme
-8	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
+8	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
 9	ანუ	ანუ	CCONJ	Conj	_	14	cc	_	Translit=anu
 10	იქმნეს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	14	cop	_	Translit=ikʻmnes
 11-12	ამისთჳს	_	_	_	_	_	_	_	_
@@ -7356,10 +7356,10 @@
 12	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	11	case	_	Translit=tʻws
 13	ცილობითი	ცილობითი	ADJ	Adj	Case=Nom|Number=Sing	14	amod	_	Translit=cʻilobitʻi
 14	ძიებაჲ	ძიებაჲ	NOUN	Noun	Case=Nom|Number=Sing	5	conj	_	SpaceAfter=No|Translit=żiebay
-15	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
+15	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
 16	უღირს	უღირსი	ADJ	Adj	Case=Nom|Number=Sing	17	amod	_	Translit=uġirs
 17	მათ	იგი	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	7	iobj	_	SpaceAfter=No|Translit=matʻ
-18	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
+18	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
 19	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	22	nsubj	_	Translit=romelni
 20	მიმძლავრებულებასა	მიმძლავრებულება	NOUN	Noun	Case=Dat|Number=Sing	22	obj	_	Translit=mimżlavrebulebasa
 21	თჳსსა	თჳსი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	20	det	_	Translit=tʻwssa
