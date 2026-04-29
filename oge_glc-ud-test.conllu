@@ -7466,7 +7466,7 @@
 14	რომლისა	რომელი	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	22	obl	_	Translit=romlisa
 15	თჳსცა	თჳს	ADP	Post	AdpType=Post|Case=Gen|PartType=Emp	14	case	_	Translit=tʻwscʻa
 16	ნუცა	ნუცა	PART	Part	PartType=Neg	17	advmod:neg	_	Translit=nucʻa
-17	საეროდ	საეროდ	ADV	Adv	AdvType=Man	19	advmod	_	Translit=saerod
+17	საეროდ	საეროდ	ADV	Adv	AdvType=Man	22	advmod	_	Translit=saerod
 18	და	და	CCONJ	Conj	_	20	cc	_	Translit=da
 19	ნუცა	ნუცა	PART	Part	PartType=Neg	20	advmod:neg	_	Translit=nucʻa
 20-21	თჳსაგან	_	_	_	_	_	_	_	_
