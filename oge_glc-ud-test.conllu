@@ -7031,7 +7031,7 @@
 19	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
 20	უკუეთუ	უკუეთუ	SCONJ	Conj	_	23	mark	_	Translit=ukuetʻu
 21	ნებსით	ნებსით	ADV	Adv	AdvType=Man	23	advmod	_	Translit=nebsitʻ
-22	შეიტკბონ	შეტკბობა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	Translit=šeitkbon
+22	შეიტკბონ	შეტკბობა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	Translit=šeitkbon
 23	მოქცევაჲ	მოქცევა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	22	obj	_	Translit=mokʻcʻevay
 24	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	23	det	_	SpaceAfter=No|Translit=igi
 25	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
