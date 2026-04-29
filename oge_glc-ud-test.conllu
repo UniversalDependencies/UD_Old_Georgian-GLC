@@ -7285,7 +7285,7 @@
 2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	6	mark	_	Translit=ukuetʻu
 3	ვინმე	ვინმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	6	nsubj	_	Translit=vinme
 4	ამას	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	5	obl	_	Translit=amas
-5	ზედა	ზედა	ADP	Post	AdpType=Post|Case=Dat	6	obl	_	SpaceAfter=No|Translit=zeda
+5	ზედა	ზედა	ADP	Post	AdpType=Post|Case=Dat	6	obl	_	Translit=zeda
 6	სცთებოდის	ცდომა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=sctebodis
 7	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
 8	ანუ	ანუ	CCONJ	Conj	_	9	cc	_	Translit=anu
@@ -7327,9 +7327,9 @@
 27	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
 28	უკუეთუ	უკუეთუ	SCONJ	Conj	_	34	mark	_	Translit=ukuetʻu
 29	ოცდაათა	ოცდაათი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	30	nummod	_	Translit=ocʻdaatʻa
-30	წელიწადთა	წელიწადი	NOUN	Noun	Case=Gen|Number=Plur	31	obl	_	Translit=celicadtʻa
-31	შინა	შინა	ADP	Post	AdpType=Post|Case=Gen	34	obl	_	Translit=šina
-32	თავისუფლებით	თავისუფლება	NOUN	Noun	Case=Ins|Number=Sing	34	obl	_	Translit=tʻavisupʻlebitʻ
+30	წელიწადთა	წელიწადი	NOUN	Noun	Case=Gen|Number=Plur	33	obl	_	Translit=celicadtʻa
+31	შინა	შინა	ADP	Post	AdpType=Post|Case=Gen	30	case	_	Translit=šina
+32	თავისუფლებით	თავისუფლება	NOUN	Noun	Case=Ins|Number=Sing	33	obl	_	Translit=tʻavisupʻlebitʻ
 33	აქუნდეს	ქონება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	21	advcl	_	Translit=akʻundes
 34	იგინი	იგი	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	33	nsubj	_	Translit=igini
 35	და	და	CCONJ	Conj	_	37	cc	_	Translit=da
