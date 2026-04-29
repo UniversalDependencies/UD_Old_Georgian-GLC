@@ -7394,10 +7394,10 @@
 15	აქუნდეს	ქონება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	2	conj	_	SpaceAfter=No|Translit=akʻundes
 16	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
 17	ვითარცა	ვითარცა	SCONJ	Conj	_	20	mark	_	Translit=vitʻarcʻa
-18	სჯულმიდვა	სჯულმიდვა	NOUN	Noun	Case=Nom|Number=Sing	20	nsubj	_	Translit=sjulmidva
-19	ჩუენ	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	20	det	_	Translit=čʻuen
+18	სჯულმიდვა	სჯულიდვა	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	15	advcl	_	Translit=sjulmidva
+19	ჩუენ	ჩუენ	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	18	iobj	_	Translit=čʻuen
 20	საღმრთომან	საღმრთო	ADJ	Adj	Case=Nom|Number=Sing	21	amod	_	Translit=saġmrtʻoman
-21	კანონმან	კანონი	NOUN	Noun	Case=Nom|Number=Sing	15	advcl	_	SpaceAfter=No|Translit=kanonman
+21	კანონმან	კანონი	NOUN	Noun	Case=Nom|Number=Sing	18	nsubj	_	SpaceAfter=No|Translit=kanonman
 22	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
 23	ხოლო	ხოლო	CCONJ	Conj	_	26	cc	_	Translit=xolo
 24	სხუათა	სხუა	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	25	det	_	Translit=sxuatʻa
@@ -7406,13 +7406,13 @@
 27	განეყენოს	განეყენება	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	15	conj	_	SpaceAfter=No|Translit=ganeqenos
 28	,	,	PUNCT	F	PunctType=Comm	27	punct	_	Translit=,
 29	რამეთუ	რამეთუ	SCONJ	Conj	_	31	mark	_	Translit=rametʻu
-30	კმა	კმა	ADV	Adv	AdvType=Man	15	advcl	_	Translit=kma
+30	კმა	კმა	ADV	Adv	AdvType=Man	27	advcl	_	Translit=kma
 31	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	cop	_	Translit=ars
-32	ეგევითარისა	ეგევითარი	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	34	det	_	Translit=egevitʻarisa
+32	ეგევითარისა	ეგევითარი	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	33	det	_	Translit=egevitʻarisa
 33-34	მისთჳს	_	_	_	_	_	_	_	_
 33	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	35	obl	_	Translit=mis
 34	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	33	case	_	Translit=tʻws
-35	შენდობაჲ	შენდობაჲ	NOUN	Noun	Case=Nom|Number=Sing	31	nsubj	_	Translit=šendobay
+35	შენდობაჲ	შენდობაჲ	NOUN	Noun	Case=Nom|Number=Sing	30	nsubj	_	Translit=šendobay
 36	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	35	det	_	SpaceAfter=No|Translit=ese
 37	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
 
