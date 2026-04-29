@@ -7756,10 +7756,10 @@
 22	წელიწდეულისა	წელიწდეული	ADJ	Adj	Case=Gen|Number=Sing	23	amod	_	Translit=celicdeulisa
 23	დღისა	დღე	NOUN	Noun	Case=Gen|Number=Sing	17	obl	_	SpaceAfter=No|Translit=dġisa
 24	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
-25	რომელსა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	27	obl	_	Translit=romelsa
-26	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	27	obl	_	Translit=šina
-27	საუფლოჲ	საუფლო	NOUN	Noun	Case=Nom|Number=Sing	29	nsubj:pass	_	Translit=saupʻloy
-28	სერობაჲ	სერობა	NOUN	Noun	Case=Nom|Number=Sing	27	appos	_	Translit=serobay
+25	რომელსა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	29	obl	_	Translit=romelsa
+26	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	25	case	_	Translit=šina
+27	საუფლოჲ	საუფლო	NOUN	Noun	Case=Nom|Number=Sing	28	nmod	_	Translit=saupʻloy
+28	სერობაჲ	სერობა	NOUN	Noun	Case=Nom|Number=Sing	29	nsubj:pass	_	Translit=serobay
 29	აღესრულების	აღსრულება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	23	acl:relcl	_	SpaceAfter=No|Translit=aġesrulebis
 30	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
 
