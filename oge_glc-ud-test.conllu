@@ -7115,7 +7115,7 @@
 20	განნი	გან	ADP	Post	AdpType=Post|Case=Gen	19	case	_	Translit=ganni
 21	და	და	CCONJ	Conj	_	23	cc	_	Translit=da
 22	არა	არა	PART	Part	PartType=Neg	23	advmod:neg	_	Translit=ara
-23	გამოცდილებითა	გამოცდილება	NOUN	Noun	Case=Ins|Number=Sing	27	nmod	_	Translit=gamocʻdilebitʻa
+23	გამოცდილებითა	გამოცდილება	NOUN	Noun	Case=Ins|Number=Sing	19	conj	_	Translit=gamocʻdilebitʻa
 24	და	და	CCONJ	Conj	_	26	cc	_	Translit=da
 25-26	სათნო-ყოფითა	_	_	_	_	_	_	_	_
 25	სათნო	სათნო	ADJ	Adj	Case=Ins|Number=Sing	26	amod	_	Translit=satʻno
