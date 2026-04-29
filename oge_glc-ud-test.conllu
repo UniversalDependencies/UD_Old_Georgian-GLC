@@ -7387,10 +7387,10 @@
 8	ბრალსა	ბრალი	NOUN	Noun	Case=Dat|Number=Sing	9	obj	_	Translit=bralsa
 9	შთავარდეს	შთავარდნა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	SpaceAfter=No|Translit=štʻavardes
 10	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
-11	საჯდომი	საჯდომი	NOUN	Noun	Case=Nom|Number=Sing	13	nsubj	_	Translit=sajdomi
-12	უკუე	უკუე	ADV	Adv	_	13	advmod	_	Translit=ukue
-13	პატივისა	პატივის	NOUN	Noun	Case=Gen|Number=Sing	14	nmod	_	Translit=pativisa
-14	თჳსისაჲ	თჳსი	PRON	Pron	Case=Nom|Case[stack]=Gen|Number=Sing|PronType=Prs	11	nmod	_	Translit=tʻwsisay
+11	საჯდომი	საჯდომი	NOUN	Noun	Case=Nom|Number=Sing	15	nsubj	_	Translit=sajdomi
+12	უკუე	უკუე	ADV	Adv	_	15	advmod	_	Translit=ukue
+13	პატივისა	პატივის	NOUN	Noun	Case=Gen|Number=Sing	11	nmod	_	Translit=pativisa
+14	თჳსისაჲ	თჳსი	PRON	Pron	Case=Nom|Case[stack]=Gen|Number=Sing|PronType=Prs	13	nmod	_	Translit=tʻwsisay
 15	აქუნდეს	ქონება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	2	conj	_	SpaceAfter=No|Translit=akʻundes
 16	,	,	PUNCT	F	PunctType=Comm	15	punct	_	Translit=,
 17	ვითარცა	ვითარცა	SCONJ	Conj	_	20	mark	_	Translit=vitʻarcʻa
