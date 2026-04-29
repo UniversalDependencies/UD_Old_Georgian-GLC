@@ -7161,7 +7161,7 @@
 25	რადმე	რაჲმე	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	26	det	_	Translit=radme
 26	სახედ	სახე	NOUN	Noun	Case=Ess|Number=Sing	22	conj	_	Translit=saxed
 27	სავაჭროჲსა	სავაჭროჲ	ADJ	Adj	Case=Gen|Number=Sing	28	amod	_	Translit=savačroysa
-28	ნივთვისად	ნივთი	NOUN	Noun	Case=Ess|Number=Sing	26	nmod	_	SpaceAfter=No|Translit=nivtʻisad
+28	ნივთისად	ნივთი	NOUN	Noun	Case=Ess|Number=Sing	26	nmod	_	SpaceAfter=No|Translit=nivtʻisad
 29	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 30	რამეთუ	რამეთუ	SCONJ	Conj	_	32	mark	_	Translit=rametʻu
 31	არა	არა	PART	Part	PartType=Neg	32	advmod:neg	_	Translit=ara
@@ -7188,8 +7188,8 @@
 51	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 # sent_id = OGLC_00135
-# text = ხოლო უკუეთუ ემხილოს ვისმე სამღდელოსა დასსა შინა დაწესებულთაგანსა ძიებაჲ რაჲსაცა საჴმრისაჲ მისგან, რომელსა მისცემდეს უხრწნელსა ზიარებასა, განიკუეთენ, ვითარცა სჳმონ მოგჳსა შურისა და საცთურისა და ბოროტების მოქმედებისა ზიარი. 
-# translit = xolo ukuetʻu emxilos visme samġdelosa dassa šina dacesebultʻagansa żiebay raysacʻa sax̣mrisay misgan, romelsa miscʻemdes uxrcnelsa ziarebasa, ganikuetʻen, vitʻarcʻa swmon mogwsa šurisa da sacʻtʻurisa da borotebis mokʻmedebisa ziari. 
+# text = ხოლო უკუეთუ ემხილოს ვისმე სამღდელოსა დასსა შინა დაწესებულთაგანსა ძიებაჲ რაჲსაცა საჴმრისაჲ მისგან, რომელსა მისცემდეს უხრწნელსა ზიარებასა, განიკუეთენ, ვითარცა სჳმონ მოგჳსა შურისა და საცთურისა და ბოროტების მოქმედებისა ზიარი.
+# translit = xolo ukuetʻu emxilos visme samġdelosa dassa šina dacesebultʻagansa żiebay raysacʻa sax̣mrisay misgan, romelsa miscʻemdes uxrcnelsa ziarebasa, ganikuetʻen, vitʻarcʻa swmon mogwsa šurisa da sacʻtʻurisa da borotebis mokʻmedebisa ziari.
 1	ხოლო	ხოლო	CCONJ	Conj	_	10	cc	_	Translit=xolo
 2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	10	mark	_	Translit=ukuetʻu
 3	ემხილოს	მხილება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	advcl	_	Translit=emxilos
@@ -7227,8 +7227,8 @@
 33	.	.	PUNCT	F	PunctType=Peri	10	punct	_	Translit=.
 
 # sent_id = OGLC_00136
-# translit = კდ(24) არა უჴმს სამღდელოსა მწყობრსა თანა აღრაცხილსა ვისმე ანუ მონაზონსა მისლვაჲ იპოდრომად ანუ ხუმრობითთა სახიობათა ხილვაჲ.
-kd(24) ara ux̣ms samġdelosa mcqobrsa tʻana aġracʻxilsa visme anu monazonsa mislvay ipodromad anu xumrobitʻtʻa saxiobatʻa xilvay.
+# text = კდ(24) არა უჴმს სამღდელოსა მწყობრსა თანა აღრაცხილსა ვისმე ანუ მონაზონსა მისლვაჲ იპოდრომად ანუ ხუმრობითთა სახიობათა ხილვაჲ.
+# translit = kd(24) ara ux̣ms samġdelosa mcqobrsa tʻana aġracʻxilsa visme anu monazonsa mislvay ipodromad anu xumrobitʻtʻa saxiobatʻa xilvay.
 1	კდ(24)	კდ(24)	NUM	Num	NumForm=Georgian|NumType=Card	3	dep	_	Translit=kd(24)
 2	არა	არა	PART	Part	PartType=Neg	3	advmod:neg	_	Translit=ara
 3	უჴმს	უჴმს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=ux̣ms
