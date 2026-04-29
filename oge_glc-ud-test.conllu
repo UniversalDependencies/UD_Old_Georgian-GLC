@@ -7766,25 +7766,25 @@
 # sent_id = OGLC_00151
 # text = და ნუუკუე და მაშინ მიზეზთა რათათჳსმე და ადგილ-ადგილადისა ეკლესიათა ჩუეულებისა საღმრთოთა მათ მამათა მიერ ჴუმეულ იქმნა ესევითარი განგებულებაჲ.
 # translit = da nuukue da mašin mizeztʻa ratʻatʻwsme da adgil-adgiladisa eklesiatʻa čʻueulebisa saġmrtʻotʻa matʻ mamatʻa mier x̣umeul ikʻmna esevitʻari gangebulebay.
-1	და	და	CCONJ	Conj	_	14	cc	_	Translit=da
-2	ნუუკუე	ნუუკუე	PART	Part	PartType=Neg	14	advmod:neg	_	Translit=nuukue
+1	და	და	CCONJ	Conj	_	16	cc	_	Translit=da
+2	ნუუკუე	ნუუკუე	PART	Part	PartType=Neg	16	advmod:neg	_	Translit=nuukue
 3	და	და	CCONJ	Conj	_	4	cc	_	Translit=da
-4	მაშინ	მაშინ	ADV	Adv	AdvType=Tim	14	advmod	_	Translit=mašin
-5	მიზეზთა	მიზეზი	NOUN	Noun	Case=Gen|Number=Plur	14	obl	_	Translit=mizeztʻa
+4	მაშინ	მაშინ	ADV	Adv	AdvType=Tim	2	conj	_	Translit=mašin
+5	მიზეზთა	მიზეზი	NOUN	Noun	Case=Gen|Number=Plur	11	obl	_	Translit=mizeztʻa
 6-7	რათათჳსმე	_	_	_	_	_	_	_	_
 6	რათა	რაჲ	PRON	Pron	Case=Gen|Number=Plur|PronType=Int	5	det	_	Translit=ratʻa
 7	თჳსმე	თჳს	ADP	Post	AdpType=Post|Case=Gen|PronType=Ind	6	case	_	Translit=tʻwsme
 8	და	და	CCONJ	Conj	_	10	cc	_	Translit=da
 9	ადგილ-ადგილადისა	ადგილ-ადგილადი	ADJ	Adj	Case=Gen|Number=Sing	10	amod	_	Translit=adgil-adgiladisa
-10	ეკლესიათა	ეკლესია	NOUN	Noun	Case=Gen|Number=Plur	11	nmod	_	Translit=eklesiatʻa
-11	ჩუეულებისა	ჩუეულება	NOUN	Noun	Case=Gen|Number=Sing	5	conj	_	Translit=čʻueulebisa
+10	ეკლესიათა	ეკლესია	NOUN	Noun	Case=Gen|Number=Plur	5	conj	_	Translit=eklesiatʻa
+11	ჩუეულებისა	ჩუეულება	NOUN	Noun	Case=Gen|Number=Sing	12	nmod	_	Translit=čʻueulebisa
 12	საღმრთოთა	საღმრთო	ADJ	Adj	Case=Gen|Number=Plur	14	obl	_	Translit=saġmrtʻotʻa
 13	მათ	იგი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	14	det	_	Translit=matʻ
-14	მამათა	მამაჲ	NOUN	Noun	Case=Gen|Number=Plur	15	nmod	_	Translit=mamatʻa
+14	მამათა	მამაჲ	NOUN	Noun	Case=Gen|Number=Plur	16	nmod	_	Translit=mamatʻa
 15	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	14	case	_	Translit=mier
 16	ჴუმეულ	ჴუმეული	VERB	Verb	VerbForm=Part|Voice=Pass	0	root	_	Translit=x̣umeul
 17	იქმნა	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	16	cop	_	Translit=ikʻmna
 18	ესევითარი	ესევითარი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	19	det	_	Translit=esevitʻari
-19	განგებულებაჲ	განგებულება	NOUN	Noun	Case=Nom|Number=Sing	17	nsubj:pass	_	SpaceAfter=No|Translit=gangebulebay
-20	.	.	PUNCT	F	PunctType=Peri	17	punct	_	Translit=.
+19	განგებულებაჲ	განგებულება	NOUN	Noun	Case=Nom|Number=Sing	16	nsubj:pass	_	SpaceAfter=No|Translit=gangebulebay
+20	.	.	PUNCT	F	PunctType=Peri	16	punct	_	Translit=.
 
