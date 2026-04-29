@@ -7437,7 +7437,7 @@
 15	რამეთუ	რამეთუ	SCONJ	Conj	_	19	mark	_	Translit=rametʻu
 16	კურთხევაჲ	კურთხევაჲ	NOUN	Noun	Case=Nom|Number=Sing	17	nsubj	_	Translit=kurtʻxevay
 17	გარდაცემაჲ	გარდაცემაჲ	NOUN	Noun	Case=Nom|Number=Sing	13	advcl	_	Translit=gardacʻemay
-18	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	Translit=ars
+18	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	Translit=ars
 19	სიწმიდისაჲ	სიწმიდე	NOUN	Noun	Case=Gen|Number=Sing	20	nmod	_	Translit=sicmidisay
 20-21	განწმედილობისაგან	_	_	_	_	_	_	_	_
 20	განწმედილობისა	განწმედილობა	NOUN	Noun	Case=Gen|Number=Sing	17	nmod	_	Translit=gancmedilobisa
