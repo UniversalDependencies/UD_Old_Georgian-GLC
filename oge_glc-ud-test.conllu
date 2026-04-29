@@ -7038,7 +7038,7 @@
 26	განაქარვებენ	განაქარვება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Fut|VerbForm=Fin|Voice=Act	22	conj	_	Translit=ganakʻarveben
 27	ცოდვასა	ცოდვა	NOUN	Noun	Case=Dat|Number=Sing	26	obj	_	Translit=cʻodvasa
 28	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	27	det	_	SpaceAfter=No|Translit=mas
-29	,	,	PUNCT	F	PunctType=Comm	26	punct	_	Translit=,
+29	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
 30	რომლისა	რომელი	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	32	obl	_	Translit=romlisa
 31	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	30	case	_	Translit=mier
 32	განვარდეს	განვარდება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	27	acl:relcl	_	Translit=ganvardes
@@ -7046,7 +7046,7 @@
 33	მადლისა	მადლი	NOUN	Noun	Case=Gen|Number=Sing	32	obl	_	Translit=madlisa
 34	გან	გან	ADP	Post	AdpType=Post|Case=Ins	33	case	_	Translit=gan
 35	და	და	CCONJ	Conj	_	39	cc	_	SpaceAfter=No|Translit=da
-36	,	,	PUNCT	F	PunctType=Comm	42	punct	_	Translit=,
+36	,	,	PUNCT	F	PunctType=Comm	37	punct	_	Translit=,
 37	სრულიად	სრულიად	ADV	Adv	AdvType=Man	38	advmod	_	Translit=sruliad
 38	უცხოდ	უცხოდ	ADV	Adv	AdvType=Man	39	advmod	_	Translit=ucʻxod
 39	გამოაჩინნენ	გამოჩინება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	conj	_	Translit=gamoačʻinnen
@@ -7061,7 +7061,7 @@
 47	იგინი	იგი	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	46	nsubj:pass	_	Translit=igini
 48	სახითა	სახე	NOUN	Noun	Case=Ins|Number=Sing	46	obl	_	Translit=saxitʻa
 49	სამღდელოთაჲთა	სამღდელოჲ	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Plur	48	nmod	_	SpaceAfter=No|Translit=samġdelotʻaytʻa
-50	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
+50	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
 # sent_id = OGLC_00132
 # text = ხოლო უკუეთუ არა თჳსით ნებსით შეიტკბობ იგი, ვითარცა ერისკაცთა მოიზარდონ თმაჲ, ვითარცა სოფელსა შინა ქცევასა უფროჲს პატივისმცემელსა ზეციერისა მოქალაქობისასა. 
