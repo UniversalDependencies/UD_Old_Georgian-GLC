@@ -7773,7 +7773,7 @@
 5	მიზეზთა	მიზეზი	NOUN	Noun	Case=Gen|Number=Plur	11	nmod	_	Translit=mizeztʻa
 6-7	რათათჳსმე	_	_	_	_	_	_	_	_
 6	რათა	რაჲ	PRON	Pron	Case=Gen|Number=Plur|PronType=Int	5	det	_	Translit=ratʻa
-7	თჳსმე	თჳს	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	6	case	_	Translit=tʻwsme
+7	თჳსმე	თჳს	ADP	Post	AdpType=Post|Case=Gen	6	case	_	Translit=tʻwsme
 8	და	და	CCONJ	Conj	_	10	cc	_	Translit=da
 9	ადგილ-ადგილადისა	ადგილ-ადგილადი	ADJ	Adj	Case=Gen|Number=Sing	10	amod	_	Translit=adgil-adgiladisa
 10	ეკლესიათა	ეკლესია	NOUN	Noun	Case=Gen|Number=Plur	5	conj	_	Translit=eklesiatʻa
