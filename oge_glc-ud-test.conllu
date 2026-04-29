@@ -7106,8 +7106,8 @@
 12	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
 13	გინათუ	გინათუ	CCONJ	Conj	_	14	cc	_	Translit=ginatʻu
 14	ეპისკოპოსნი	ეპისკოპოსი	NOUN	Noun	Case=Nom|Number=Plur	10	conj	_	SpaceAfter=No|Translit=episkoposni
-15	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
-16	ანუ	ანუ	CCONJ	Conj	_	21	cc	_	Translit=anu
+15	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
+16	ანუ	ანუ	CCONJ	Conj	_	19	cc	_	Translit=anu
 17	რომლისაცა	რომელი	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Rel	19	det	_	Translit=romlisacʻa
 18	სამღდელოჲსა	სამღდელოჲ	NOUN	Noun	Case=Gen|Number=Sing	19	nmod	_	Translit=samġdeloysa
 19-20	დასისაგანნი	_	_	_	_	_	_	_	_
@@ -7115,7 +7115,7 @@
 20	განნი	გან	ADP	Post	AdpType=Post|Case=Gen	19	case	_	Translit=ganni
 21	და	და	CCONJ	Conj	_	23	cc	_	Translit=da
 22	არა	არა	PART	Part	PartType=Neg	23	advmod:neg	_	Translit=ara
-23	გამოცდილებითა	გამოცდილება	NOUN	Noun	Case=Ins|Number=Sing	10	obl	_	Translit=gamocʻdilebitʻa
+23	გამოცდილებითა	გამოცდილება	NOUN	Noun	Case=Ins|Number=Sing	27	nmod	_	Translit=gamocʻdilebitʻa
 24	და	და	CCONJ	Conj	_	26	cc	_	Translit=da
 25-26	სათნო-ყოფითა	_	_	_	_	_	_	_	_
 25	სათნო	სათნო	ADJ	Adj	Case=Ins|Number=Sing	26	amod	_	Translit=satʻno
