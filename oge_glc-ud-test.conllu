@@ -7347,18 +7347,18 @@
 4	ოცდაათთა	ოცდაათი	NUM	Num	Case=Gen|Number=Plur|NumType=Card	5	obl	_	Translit=ocʻdaatʻtʻa
 5	წელიწადთაჲსა	წელიწადი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	6	obl	_	Translit=celicadtʻaysa
 6	იქმნა	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	cop	_	Translit=ikʻmna
-7	რაჲმე	რაჲმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	12	advcl	_	SpaceAfter=No|Translit=rayme
+7	რაჲმე	რაჲმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	0	root	_	SpaceAfter=No|Translit=rayme
 8	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
-9	ანუ	ანუ	CCONJ	Conj	_	12	cc	_	Translit=anu
-10	იქმნეს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	conj	_	Translit=ikʻmnes
+9	ანუ	ანუ	CCONJ	Conj	_	14	cc	_	Translit=anu
+10	იქმნეს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	14	cop	_	Translit=ikʻmnes
 11-12	ამისთჳს	_	_	_	_	_	_	_	_
 11	ამის	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	13	obl	_	Translit=amis
 12	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	11	case	_	Translit=tʻws
 13	ცილობითი	ცილობითი	ADJ	Adj	Case=Nom|Number=Sing	14	amod	_	Translit=cʻilobitʻi
-14	ძიებაჲ	ძიებაჲ	NOUN	Noun	Case=Nom|Number=Sing	10	nsubj:pass	_	SpaceAfter=No|Translit=żiebay
+14	ძიებაჲ	ძიებაჲ	NOUN	Noun	Case=Nom|Number=Sing	5	conj	_	SpaceAfter=No|Translit=żiebay
 15	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
-16	უღირს	უღირსი	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	Translit=uġirs
-17	მათ	იგი	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	16	iobj	_	SpaceAfter=No|Translit=matʻ
+16	უღირს	უღირსი	ADJ	Adj	Case=Nom|Number=Sing	17	amod	_	Translit=uġirs
+17	მათ	იგი	PRON	Pron	Case=Dat|Number=Plur|PronType=Prs	7	iobj	_	SpaceAfter=No|Translit=matʻ
 18	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
 19	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	22	nsubj	_	Translit=romelni
 20	მიმძლავრებულებასა	მიმძლავრებულება	NOUN	Noun	Case=Dat|Number=Sing	22	obj	_	Translit=mimżlavrebulebasa
@@ -7366,13 +7366,13 @@
 22	იტყოდინ	თქმა	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Act	17	acl:relcl	_	SpaceAfter=No|Translit=itqodin
 23	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
 24	რაჲთა	რაჲთა	SCONJ	Conj	_	25	mark	_	Translit=raytʻa
-25	აუწყონ	უწყება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	Translit=aucqon
+25	აუწყონ	უწყება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	advcl	_	Translit=aucqon
 26-27	ამათთჳს	_	_	_	_	_	_	_	_
 26	ამათ	ესე	PRON	Pron	Case=Dat|Number=Plur|PronType=Dem	25	iobj	_	Translit=amatʻ
 27	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Dat	26	case	_	Translit=tʻws
 28	კრებასა	კრება	NOUN	Noun	Case=Dat|Number=Sing	25	obj	_	Translit=krebasa
 29	სამთავროჲსასა	სამთავროჲ	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	28	nmod	_	SpaceAfter=No|Translit=samtʻavroysasa
-30	.	.	PUNCT	F	PunctType=Peri	16	punct	_	Translit=.
+30	.	.	PUNCT	F	PunctType=Peri	7	punct	_	Translit=.
 
 # sent_id = OGLC_00141
 # text = კვ(26) ხუცესი, რომელი უმეცრებით უწესოჲსა ქორწილსა ბრალსა შთავარდეს, საჯდომი უკუე პატივისა თჳსისაჲ აქუნდეს, ვითარცა სჯულმიდვა ჩუენ საღმრთომან კანონმან, ხოლო სხუათა სამღდელოთა მოქმედებათა განეყენოს, რამეთუ კმა არს ეგევითარისა მისთჳს შენდობაჲ ესე.
