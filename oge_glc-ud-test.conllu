@@ -7092,18 +7092,18 @@
 # sent_id = OGLC_00133
 # text = კბ(22) რომელნიცა წარგებითა საჴმართაჲთა, ესე იგი არს ქრთამითა ჴელთდასხმულ იქმნენ, გინათუ ეპისკოპოსნი, ანუ რომლისაცა სამღდელოჲსა დასისაგანნი და არა გამოცდილებითა და სათნო-ყოფითა ცხორებისაჲთა, განკუეთასა ვბრძანებთ მათსა, არამედ ჴელთდამსხმელთაცა მათთასა.
 # translit = kb(22) romelnicʻa cargebitʻa sax̣martʻaytʻa, ese igi ars kʻrtʻamitʻa x̣eltʻdasxmul ikʻmnen, ginatʻu episkoposni, anu romlisacʻa samġdeloysa dasisaganni da ara gamocʻdilebitʻa da satʻno-qopʻitʻa cʻxorebisaytʻa, gankuetʻasa vbrżanebtʻ matʻsa, aramed x̣eltʻdamsxmeltʻacʻa matʻtʻasa.
-1	კბ(22)	კბ(22)	NUM	Num	NumForm=Georgian|NumType=Card	22	dep	_	Translit=kb(22)
-2	რომელნიცა	რომელი	PRON	Pron	Case=Nom|Number=Plur|PartType=Emp|PronType=Rel	8	nsubj:pass	_	Translit=romelnicʻa
+1	კბ(22)	კბ(22)	NUM	Num	NumForm=Georgian|NumType=Card	30	dep	_	Translit=kb(22)
+2	რომელნიცა	რომელი	PRON	Pron	Case=Nom|Number=Plur|PartType=Emp|PronType=Rel	10	nsubj:pass	_	Translit=romelnicʻa
 3	წარგებითა	წარგება	NOUN	Noun	Case=Ins|Number=Sing	8	obl	_	Translit=cargebitʻa
 4	საჴმართაჲთა	საჴმართაჲ	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	3	nmod	_	SpaceAfter=No|Translit=sax̣martʻaytʻa
 5	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
-6	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	22	advcl	_	Translit=ese
+6	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	10	advcl	_	Translit=ese
 7	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	6	fixed	_	Translit=igi
 8	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	Translit=ars
 9	ქრთამითა	ქრთამი	NOUN	Noun	Case=Ins|Number=Sing	8	obl	_	Translit=kʻrtʻamitʻa
-10	ჴელთდასხმულ	ჴელთდასხმული	VERB	Verb	VerbForm=Part|Voice=Pass	2	acl:relcl	_	Translit=x̣eltʻdasxmul
+10	ჴელთდასხმულ	ჴელთდასხმული	VERB	Verb	VerbForm=Part|Voice=Pass	30	acl:relcl	_	Translit=x̣eltʻdasxmul
 11	იქმნენ	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	cop	_	SpaceAfter=No|Translit=ikʻmnen
-12	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
+12	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 13	გინათუ	გინათუ	CCONJ	Conj	_	14	cc	_	Translit=ginatʻu
 14	ეპისკოპოსნი	ეპისკოპოსი	NOUN	Noun	Case=Nom|Number=Plur	2	appos	_	SpaceAfter=No|Translit=episkoposni
 15	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
@@ -7121,7 +7121,7 @@
 25	სათნო	სათნო	ADJ	Adj	Case=Ins|Number=Sing	26	amod	_	Translit=satʻno
 26	ყოფითა	ყოფა	VERB	Verb	Case=Ins|Number=Sing|VerbForm=Vnoun	23	conj	_	Translit=qopʻitʻa
 27	ცხორებისაჲთა	ცხორება	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	26	nmod	_	SpaceAfter=No|Translit=cʻxorebisaytʻa
-28	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
+28	,	,	PUNCT	F	PunctType=Comm	30	punct	_	Translit=,
 29	განკუეთასა	განკუეთა	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Vnoun	30	obj	_	Translit=gankuetʻasa
 30	ვბრძანებთ	ბრძანება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=vbrżanebtʻ
 31	მათსა	იგი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	29	nmod	_	SpaceAfter=No|Translit=matʻsa
