@@ -7094,19 +7094,19 @@
 # translit = kb(22) romelnicʻa cargebitʻa sax̣martʻaytʻa, ese igi ars kʻrtʻamitʻa x̣eltʻdasxmul ikʻmnen, ginatʻu episkoposni, anu romlisacʻa samġdeloysa dasisaganni da ara gamocʻdilebitʻa da satʻno-qopʻitʻa cʻxorebisaytʻa, gankuetʻasa vbrżanebtʻ matʻsa, aramed x̣eltʻdamsxmeltʻacʻa matʻtʻasa.
 1	კბ(22)	კბ(22)	NUM	Num	NumForm=Georgian|NumType=Card	30	dep	_	Translit=kb(22)
 2	რომელნიცა	რომელი	PRON	Pron	Case=Nom|Number=Plur|PartType=Emp|PronType=Rel	10	nsubj:pass	_	Translit=romelnicʻa
-3	წარგებითა	წარგება	NOUN	Noun	Case=Ins|Number=Sing	8	obl	_	Translit=cargebitʻa
+3	წარგებითა	წარგება	NOUN	Noun	Case=Ins|Number=Sing	10	obl	_	Translit=cargebitʻa
 4	საჴმართაჲთა	საჴმართაჲ	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	3	nmod	_	SpaceAfter=No|Translit=sax̣martʻaytʻa
-5	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
-6	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	10	advcl	_	Translit=ese
+5	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
+6	ესე	ესე	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Dem	10	advcl	_	Translit=ese
 7	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	6	fixed	_	Translit=igi
 8	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	Translit=ars
-9	ქრთამითა	ქრთამი	NOUN	Noun	Case=Ins|Number=Sing	8	obl	_	Translit=kʻrtʻamitʻa
+9	ქრთამითა	ქრთამი	NOUN	Noun	Case=Ins|Number=Sing	10	obl	_	Translit=kʻrtʻamitʻa
 10	ჴელთდასხმულ	ჴელთდასხმული	VERB	Verb	VerbForm=Part|Voice=Pass	30	acl:relcl	_	Translit=x̣eltʻdasxmul
 11	იქმნენ	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	cop	_	SpaceAfter=No|Translit=ikʻmnen
-12	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
+12	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
 13	გინათუ	გინათუ	CCONJ	Conj	_	14	cc	_	Translit=ginatʻu
-14	ეპისკოპოსნი	ეპისკოპოსი	NOUN	Noun	Case=Nom|Number=Plur	2	appos	_	SpaceAfter=No|Translit=episkoposni
-15	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
+14	ეპისკოპოსნი	ეპისკოპოსი	NOUN	Noun	Case=Nom|Number=Plur	10	conj	_	SpaceAfter=No|Translit=episkoposni
+15	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
 16	ანუ	ანუ	CCONJ	Conj	_	21	cc	_	Translit=anu
 17	რომლისაცა	რომელი	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Rel	19	det	_	Translit=romlisacʻa
 18	სამღდელოჲსა	სამღდელოჲ	NOUN	Noun	Case=Gen|Number=Sing	19	nmod	_	Translit=samġdeloysa
@@ -7115,7 +7115,7 @@
 20	განნი	გან	ADP	Post	AdpType=Post|Case=Gen	19	case	_	Translit=ganni
 21	და	და	CCONJ	Conj	_	23	cc	_	Translit=da
 22	არა	არა	PART	Part	PartType=Neg	23	advmod:neg	_	Translit=ara
-23	გამოცდილებითა	გამოცდილება	NOUN	Noun	Case=Ins|Number=Sing	11	obl	_	Translit=gamocʻdilebitʻa
+23	გამოცდილებითა	გამოცდილება	NOUN	Noun	Case=Ins|Number=Sing	10	obl	_	Translit=gamocʻdilebitʻa
 24	და	და	CCONJ	Conj	_	26	cc	_	Translit=da
 25-26	სათნო-ყოფითა	_	_	_	_	_	_	_	_
 25	სათნო	სათნო	ADJ	Adj	Case=Ins|Number=Sing	26	amod	_	Translit=satʻno
