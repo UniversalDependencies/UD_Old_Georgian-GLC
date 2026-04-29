@@ -7612,8 +7612,8 @@
 # translit = kē(28) vinaytʻgan viscavetʻ, vitʻarmed mravaltʻa eklesiatʻa šina axalsa qurżensa sakurtʻxevelad mirtʻumulsa żueltʻganisa misebr cesisa usisxloysa mis šesaciravisa msxuerplsa tʻana šeaqopʻen mġdelni da esretʻ orsave ertʻbamad ganuqopʻen ersa, vamcʻnebtʻ, raytʻa arġaravin kʻmnas ese samġdelotʻaganman, aramed cʻxovelsmqopʻelad da cʻodvatʻa misateveblad mxolod saidumloy oden msxuerpli miecʻemoded ersa.
 1	კჱ(28)	კჱ(28)	NUM	Num	NumForm=Georgian|NumType=Card	3	dep	_	Translit=ke(28)
 2-3	ვინაჲთგან	_	_	_	_	_	_	_	_
-2	ვინაჲთ	ვინაჲთ	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	3	obl	_	Translit=vinaytʻ
-3	გან	გან	ADP	Post	AdpType=Post|Case=Ins	4	case	_	Translit=gan
+2	ვინაჲთ	ვინაჲთ	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	4	obl	_	Translit=vinaytʻ
+3	გან	გან	ADP	Post	AdpType=Post|Case=Ins	2	case	_	Translit=gan
 4	ვისწავეთ	სწავლა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=viscavetʻ
 5	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 6	ვითარმედ	ვითარმედ	SCONJ	Conj	_	22	mark	_	Translit=vitʻarmed
@@ -7645,14 +7645,14 @@
 31	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 32	ვამცნებთ	უწყება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	SpaceAfter=No|Translit=vamcʻnebtʻ
 33	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
-34	რაჲთა	რაჲთა	SCONJ	Conj	_	36	mark	_	Translit=raytʻa
+34	რაჲთა	რაჲთა	SCONJ	Conj	_	37	mark	_	Translit=raytʻa
 35	არღარავინ	არღარავინ	PRON	Pron	Case=Nom|Number=Sing|PronType=Neg	32	nsubj	_	Translit=arġaravin
 36	ქმნას	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	37	cop	_	Translit=kʻmnas
 37	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	32	ccomp	_	Translit=ese
 38-39	სამღდელოთაგანმან	_	_	_	_	_	_	_	SpaceAfter=No
-38	სამღდელოთა	სამღდელოჲ	NOUN	Noun	Case=Erg|Case[stack]=Gen|Number=Plur	36	obl	_	Translit=samġdelotʻa
+38	სამღდელოთა	სამღდელოჲ	NOUN	Noun	Case=Erg|Case[stack]=Gen|Number=Plur	37	obl	_	Translit=samġdelotʻa
 39	განმან	გან	ADP	Post	AdpType=Post|Case=Gen	38	case	_	Translit=ganman
-40	,	,	PUNCT	F	PunctType=Comm	36	punct	_	Translit=,
+40	,	,	PUNCT	F	PunctType=Comm	37	punct	_	Translit=,
 41	არამედ	არამედ	CCONJ	Conj	_	49	cc	_	Translit=aramed
 42	ცხოველსმყოფელად	ცხოველსმყოფელი	ADJ	Adj	Case=Ess|Number=Sing	50	advmod	_	Translit=cʻxovelsmqopʻelad
 43	და	და	CCONJ	Conj	_	45	cc	_	Translit=da
