@@ -7079,7 +7079,7 @@
 11	მოიზარდონ	მოიზარდა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	advcl	_	Translit=moizardon
 12	თმაჲ	თმა	NOUN	Noun	Case=Nom|Number=Sing	11	nsubj:pass	_	SpaceAfter=No|Translit=tʻmay
 13	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
-14	ვითარცა	ვითარცა	SCONJ	Conj	_	19s	mark	_	Translit=vitʻarcʻa
+14	ვითარცა	ვითარცა	SCONJ	Conj	_	19	mark	_	Translit=vitʻarcʻa
 15	სოფელსა	სოფელი	NOUN	Noun	Case=Dat|Number=Sing	19	obl	_	Translit=sopʻelsa
 16	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	15	case	_	Translit=šina
 17	ქცევასა	ქცევა	VERB	Verb	Case=Dat|Number=Sing|VerbForm=Vnoun	19	nmod	_	Translit=kʻcʻevasa
