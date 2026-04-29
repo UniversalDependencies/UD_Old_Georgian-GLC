@@ -7419,28 +7419,28 @@
 # sent_id = OGLC_00142
 # text = ხოლო მაკურთხეველ-ყოფაჲ სხუათაჲ, რომელსა თჳსთა წყლულებათა კურნებაჲ უჴმდეს, არა შეუგავს, რამეთუ კურთხევაჲ გარდაცემაჲ არს სიწმიდისაჲ განწმედილობისაგან თჳსისა.
 # translit = xolo makurtʻxevel-qopʻay sxuatʻay, romelsa tʻwstʻa cqlulebatʻa kurnebay ux̣mdes, ara šeugavs, rametʻu kurtʻxevay gardacʻemay ars sicmidisay gancmedilobisagan tʻwsisa.
-1	ხოლო	ხოლო	CCONJ	Conj	_	9	cc	_	Translit=xolo
+1	ხოლო	ხოლო	CCONJ	Conj	_	10	cc	_	Translit=xolo
 2-3	მაკურთხეველ-ყოფაჲ	_	_	_	_	_	_	_	_
-2	მაკურთხეველ	მაკურთხეველი	VERB	Verb	VerbForm=Part	9	nsubj	_	Translit=makurtʻxevel
-3	ყოფაჲ	ყოფა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	2	fixed	_	Translit=qopʻay
+2	მაკურთხეველ	მაკურთხეველი	VERB	Verb	VerbForm=Part	3	nmod	_	Translit=makurtʻxevel
+3	ყოფაჲ	ყოფა	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	13	nsubj	_	Translit=qopʻay
 4	სხუათაჲ	სხუა	PRON	Pron	Case=Gen|Number=Plur|PronType=Ind	2	nmod	_	SpaceAfter=No|Translit=sxuatʻay
 5	,	,	PUNCT	F	PunctType=Comm	2	punct	_	Translit=,
-6	რომელსა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	9	iobj	_	Translit=romelsa
+6	რომელსა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	10	iobj	_	Translit=romelsa
 7	თჳსთა	თჳსი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	8	det	_	Translit=tʻwstʻa
-8	წყლულებათა	წყლულება	NOUN	Noun	Case=Gen|Number=Plur	9	nsubj	_	Translit=cqlulebatʻa
-9	კურნებაჲ	კურნებაჲ	NOUN	Noun	Case=Nom|Number=Sing	2	acl:relcl	_	Translit=kurnebay
-10	უჴმდეს	უჴმდეს	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|Translit=ux̣mdes
+8	წყლულებათა	წყლულება	NOUN	Noun	Case=Gen|Number=Plur	9	nmod	_	Translit=cqlulebatʻa
+9	კურნებაჲ	კურნებაჲ	NOUN	Noun	Case=Nom|Number=Sing	10	nsubj	_	Translit=kurnebay
+10	უჴმდეს	უჴმდეს	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	SpaceAfter=No|Translit=ux̣mdes
 11	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 12	არა	არა	PART	Part	PartType=Neg	13	advmod:neg	_	Translit=ara
 13	შეუგავს	შეუგავს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=šeugavs
 14	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
 15	რამეთუ	რამეთუ	SCONJ	Conj	_	19	mark	_	Translit=rametʻu
-16	კურთხევაჲ	კურთხევაჲ	NOUN	Noun	Case=Nom|Number=Sing	19	nsubj	_	Translit=kurtʻxevay
-17	გარდაცემაჲ	გარდაცემაჲ	NOUN	Noun	Case=Nom|Number=Sing	16	appos	_	Translit=gardacʻemay
-18	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	cop	_	Translit=ars
-19	სიწმიდისაჲ	სიწმიდე	NOUN	Noun	Case=Gen|Number=Sing	13	advcl	_	Translit=sicmidisay
+16	კურთხევაჲ	კურთხევაჲ	NOUN	Noun	Case=Nom|Number=Sing	17	nsubj	_	Translit=kurtʻxevay
+17	გარდაცემაჲ	გარდაცემაჲ	NOUN	Noun	Case=Nom|Number=Sing	13	advcl	_	Translit=gardacʻemay
+18	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	Translit=ars
+19	სიწმიდისაჲ	სიწმიდე	NOUN	Noun	Case=Gen|Number=Sing	20	nmod	_	Translit=sicmidisay
 20-21	განწმედილობისაგან	_	_	_	_	_	_	_	_
-20	განწმედილობისა	განწმედილობა	NOUN	Noun	Case=Gen|Number=Sing	19	nmod	_	Translit=gancmedilobisa
+20	განწმედილობისა	განწმედილობა	NOUN	Noun	Case=Gen|Number=Sing	17	nmod	_	Translit=gancmedilobisa
 21	გან	გან	ADP	Post	AdpType=Post|Case=Ins	20	case	_	Translit=gan
 22	თჳსისა	თჳსი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	20	det	_	SpaceAfter=No|Translit=tʻwsisa
 23	.	.	PUNCT	F	PunctType=Peri	13	punct	_	Translit=.
