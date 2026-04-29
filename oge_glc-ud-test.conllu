@@ -7019,7 +7019,6 @@
 8-9	ამისთჳს	_	_	_	_	_	_	_	_
 8	ამის	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	16	obl	_	Translit=amis
 9	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	8	case	_	Translit=tʻws
-10-11	ყოვლითურთსა	_	_	_	_	_	_	_	_
 10	ყოვლითურთსა	ყოვლითურთ	ADV	Adv	AdvType=Man	14	advmod	_	Translit=qovlitʻurtʻsa
 11	და	და	CCONJ	Conj	_	12	cc	_	Translit=da
 12	სამარდისოსა	სამარდისო	NOUN	Noun	Case=Dat|Number=Sing	14	conj	_	Translit=samardisosa
