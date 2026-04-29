@@ -7064,7 +7064,7 @@
 50	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
 # sent_id = OGLC_00132
-# text = ხოლო უკუეთუ არა თჳსით ნებსით შეიტკბობ იგი, ვითარცა ერისკაცთა მოიზარდონ თმაჲ, ვითარცა სოფელსა შინა ქცევასა უფროჲს პატივისმცემელსა ზეციერისა მოქალაქობისასა. 
+# text = ხოლო უკუეთუ არა თჳსით ნებსით შეიტკბობ იგი, ვითარცა ერისკაცთა მოიზარდონ თმაჲ, ვითარცა სოფელსა შინა ქცევასა უფროჲს პატივისმცემელსა ზეციერისა მოქალაქობისასა.
 # translit = xolo ukuetʻu ara tʻwsitʻ nebsitʻ šeitkbob igi, vitʻarcʻa eriskacʻtʻa moizardon tʻmay, vitʻarcʻa sopʻelsa šina kʻcʻevasa upʻroys/pativismcʻemelsa zecʻierisa mokʻalakʻobisasa.
 1	ხოლო	ხოლო	CCONJ	Conj	_	6	cc	_	Translit=xolo
 2	უკუეთუ	უკუეთუ	SCONJ	Conj	_	6	mark	_	Translit=ukuetʻu
@@ -7090,7 +7090,7 @@
 22	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
 
 # sent_id = OGLC_00133
-კბ(22) რომელნიცა წარგებითა საჴმართაჲთა, ესე იგი არს ქრთამითა ჴელთდასხმულ იქმნენ, გინათუ ეპისკოპოსნი, ანუ რომლისაცა სამღდელოჲსა დასისაგანნი და არა გამოცდილებითა და სათნო-ყოფითა ცხორებისაჲთა, განკუეთასა ვბრძანებთ მათსა, არამედ ჴელთდამსხმელთაცა მათთასა.
+# text = კბ(22) რომელნიცა წარგებითა საჴმართაჲთა, ესე იგი არს ქრთამითა ჴელთდასხმულ იქმნენ, გინათუ ეპისკოპოსნი, ანუ რომლისაცა სამღდელოჲსა დასისაგანნი და არა გამოცდილებითა და სათნო-ყოფითა ცხორებისაჲთა, განკუეთასა ვბრძანებთ მათსა, არამედ ჴელთდამსხმელთაცა მათთასა.
 # translit = kb(22) romelnicʻa cargebitʻa sax̣martʻaytʻa, ese igi ars kʻrtʻamitʻa x̣eltʻdasxmul ikʻmnen, ginatʻu episkoposni, anu romlisacʻa samġdeloysa dasisaganni da ara gamocʻdilebitʻa da satʻno-qopʻitʻa cʻxorebisaytʻa, gankuetʻasa vbrżanebtʻ matʻsa, aramed x̣eltʻdamsxmeltʻacʻa matʻtʻasa.
 1	კბ(22)	კბ(22)	NUM	Num	NumForm=Georgian|NumType=Card	22	dep	_	Translit=kb(22)
 2	რომელნიცა	რომელი	PRON	Pron	Case=Nom|Number=Plur|PartType=Emp|PronType=Rel	8	nsubj:pass	_	Translit=romelnicʻa
