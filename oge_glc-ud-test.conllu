@@ -1893,7 +1893,7 @@
 13	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	12	det	_	Translit=igi
 14	დიდი	დიდი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	15	amod	_	Translit=didi
 15	ასურასტანელი	ასურასტანელი	NOUN	Noun	Case=Nom|Number=Sing	12	nmod	_	Translit=asurastaneli
-16	პირველ	ერთი	NUM	Num	Case=Gen|Number=Sing|NumForm=Word|NumType=Ord	_	19	nummod	_	Translit=pirvel
+16	პირველ	ერთი	NUM	Num	Case=Gen|Number=Sing|NumForm=Word|NumType=Ord	19	nummod	_	Translit=pirvel
 17	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	19	nmod	_	Translit=mis
 18	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	17	case	_	Translit=mier
 19	ტყუექმნულთა	ტყუექმნული	VERB	Verb	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	20	nmod	_	Translit=tquekʻmnultʻa
@@ -2162,7 +2162,7 @@
 171	მიმართ	მიმართ	ADP	Post	AdpType=Post|Case=Gen	173	obl	_	Translit=mimartʻ
 172	უსჯულოებისათა	უსჯულოება	NOUN	Noun	Case=Gen|Number=Plur	170	nmod	_	Translit=usjuloebisatʻa
 173	უმეცრებითა	უმეცრება	NOUN	Noun	Case=Ins|Number=Sing	168	conj	_	Translit=umecʻrebitʻa
-174	უმჯობესისაჲთა	მჯობი	ADJ	Adj	Case=Ins|Degree=Sup|Case[stack]=Gen|Number=Sing	173	nmod	_	Translit=umjobesisaytʻa
+174	უმჯობესისაჲთა	მჯობი	ADJ	Adj	Case=Ins|Case[stack]=Gen|Degree=Sup|Number=Sing	173	nmod	_	Translit=umjobesisaytʻa
 175	შთაიბნეოდინ	შთაიბნევა	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	168	conj	_	SpaceAfter=No|Translit=štʻaibneodin
 176	,	,	PUNCT	F	PunctType=Comm	178	punct	_	Translit=,
 177	რამეთუ	რამეთუ	SCONJ	Conj	_	178	mark	_	Translit=rametʻu
@@ -4298,7 +4298,7 @@
 116	და	და	CCONJ	Conj	_	117	cc	_	Translit=da
 117	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	131	nsubj	_	Translit=romelni
 118	ვიდრე	ვიდრე	ADP	Post	AdpType=Post|Case=Gen	119	case	_	Translit=vidre
-119	მეათხუთმეტედმდე	ათხუთმეტი	NUM	Num	Case=Ess|Number=Sing|NumForm=Word|NumType=Ord	138	obl	_	Translit=meatʻxutʻmetedmde
+119	მეათხუთმეტედმდე	ათხუთმეტი	NUM	Num	Case=Ess|Number=Sing|NumForm=Word|NumType=Ord	138	nmod	_	Translit=meatʻxutʻmetedmde
 120	თანაწარსულისა	თანაწარსული	VERB	Verb	Case=Gen|Number=Sing|VerbForm=Part|Voice=Act	121	amod	_	Translit=tʻanacarsulisa
 121	იანვარისა	იანვარი	NOUN	Noun	Case=Gen|Number=Sing	122	nmod	_	Translit=ianvarisa
 122	თთჳსა	თთუე	NOUN	Noun	Case=Gen|Number=Sing	119	nmod	_	Translit=tʻtʻwsa
