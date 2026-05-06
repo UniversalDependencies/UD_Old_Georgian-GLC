@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>151</sentences><tokens>6575</tokens><words>6884</words><fused>302</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>151</sentences><tokens>6575</tokens><words>6884</words><fused>302</fused></test>
+  </size>
+  <lemmas unique="1669" /><!-- ,, და, ყოფა, ., იგი, გან, რომელი, ესე, შინა, ხოლო, ანუ, არა, თჳსი, მიერ, რაჲთა -->
+  <forms unique="2720" /><!-- ,, და, ., გან, ხოლო, ანუ, შინა, იგი, არა, მიერ, რაჲთა, არს, თჳს, მათ, მის -->
+  <fusions unique="221" /><!-- ვინაჲთგან, ჯერ-არს, ამისთჳს, მისგან, რომელმან-იგი, ამიერითგან, რომელთა-იგი, ვითარ-იგი, მისთჳს, მათგან, მღდელობისაგან, რომლისათჳს, რომლისათჳსცა, ჴელთ-დასხმისა, ამიერითგანცა -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="14">
+    <tag name="ADJ">354</tag><!-- წმიდაჲ, წმიდა, უფროჲ, ღირსი, დიდი, საღმრთოჲ, სამღდელო, სამეუფოჲ, საღმრთო, ნეტარი -->
+    <tag name="ADP">450</tag><!-- გან, შინა, მიერ, თჳს, თანა, მიმართ, ზედა, თჳნიერ, ებრ, ზე -->
+    <tag name="ADV">410</tag><!-- უკუე, კეთილად, ღმრთივ, ესრეთ, ჯერ, კუალად, აწ, ყოვლად, ამიერ, ეგრეთვე -->
+    <tag name="AUX">166</tag><!-- ყოფა, არის -->
+    <tag name="CCONJ">595</tag><!-- და, ანუ, ხოლო, არამედ, გარნა, გინა, გინათუ -->
+    <tag name="NOUN">1645</tag><!-- ეპისკოპოსი, ეკლესია, ღმერთი, კანონი, კრება, მამა, სიტყუაჲ, ქალაქი, დიაკონი, თავი -->
+    <tag name="NUM">100</tag><!-- ორი, ერთი, ოცდაათი, სამი, ოთხი, შჳდი, ათორმეტი, ათრვამეტი, ათხუთმეტი, ასი -->
+    <tag name="PART">147</tag><!-- არა, არცა, ნუცა, თჳთ, ნუ, ნუმცა, თუ, ვერ, ნუუკუე, რაჲ -->
+    <tag name="PRON">938</tag><!-- იგი, რომელი, ესე, თჳსი, მისი, ყოველი, ჩუენ, ის, ჩუენი, ვინმე -->
+    <tag name="PROPN">174</tag><!-- ქრისტე, თეოფილე, იუსტინიანე, ანკჳრია, გრიგოლი, იესუ, ნეკტარი, ალექსანდრია, ანტიოქია, არაბიანე -->
+    <tag name="PUNCT">765</tag><!-- ,, ., :, “, „, –, ?, ; -->
+    <tag name="SCONJ">223</tag><!-- რაჲთა, ვითარცა, უკუეთუ, რამეთუ, ვითარმედ, ვითარ, თუ, ვიდრე, გინათუ, დაღათუ -->
+    <tag name="VERB">916</tag><!-- თქმა, ყოფა, განკუეთა, სწავლა, ქონება, შეკრებული, მიცემა, დაცვა, მყოფი, ჴელთდასხმული -->
+    <tag name="X">1</tag><!-- სა -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="78">
+    <feat name="AdpType" value="Post" upos="ADP">450</feat><!-- გან, შინა, მიერ, თჳს, თანა, ზედა, მიმართ, თჳნიერ, ებრ, ზე -->
+    <feat name="AdvType" value="Cau" upos="ADV">1</feat><!-- ამისთჳს -->
+    <feat name="AdvType" value="Loc" upos="ADV">21</feat><!-- მუნ, არასადა, ეგერა, აქა, ზემორე, ზემოჲთ, ზეშთა, მისდადვე, სადა, სადაცა -->
+    <feat name="AdvType" value="Man" upos="ADV">217</feat><!-- კეთილად, ღმრთივ, ესრეთ, ყოვლად, ეგრეთვე, მხოლოდ, ოდენ, ბოროტად, წმიდად, ამიერ -->
+    <feat name="AdvType" value="Rel" upos="ADV">1</feat><!-- სადა -->
+    <feat name="AdvType" value="Tim" upos="ADV">84</feat><!-- უკუე, ჯერ, აწ, რაჟამს, მერმეცა, კუალად, პირველად, უწინარეს, მარადის, მაშინ -->
+    <feat name="Aspect" value="Imp" upos="AUX,VERB">285</feat><!-- არს, იყვნენ, იყო, არიან, აქუნდეს, უჴმს, ვიტყჳთ, იქმნებოდის, იყავნ, ჰნებავს -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">389</feat><!-- იყოს, განიკუეთენ, თქუა, იტყჳს, იქმნა, იქმნეს, იქმენინ, იქმნნეს, განვასაზღვრებთ, დასცხერინ -->
+    <feat name="Case" value="Dat" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">854</feat><!-- შინა, ამას, მას, მათ, თანა, ზედა, ქალაქსა, ეკლესიასა, თჳსსა, რომელსა -->
+    <feat name="Case" value="Erg" upos="ADJ,NOUN,NUM,PRON,PROPN,VERB">99</feat><!-- ეპისკოპოსმან, რომელმან, მან, ჩუენმან, ღმერთმან, წმიდამან, ანკჳრიისამან, განჩინებამან, დედაქალაქისამან, მეფემან -->
+    <feat name="Case" value="Ess" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">124</feat><!-- უფროჲსად, ქმნად, ყოფად, აღსაშენებელად, მდე, აღსაარებად, განსამტკიცებელად, თქუმად, მღდელად, მღდელობად -->
+    <feat name="Case" value="Gen" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">1638</feat><!-- მიერ, თჳს, მის, მათ, რომელთა, ამის, მიმართ, მამათა, შინა, ჩუენისა -->
+    <feat name="Case" value="Ins" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">272</feat><!-- გან, სიმართლით, კერძო, მიზეზითა, მსახურებით, მსახურებისაჲთა, სულითა, ყოვლით, ყოფითა, თჳსით -->
+    <feat name="Case" value="Nom" upos="ADJ,ADP,NOUN,NUM,PRON,PROPN,VERB">991</feat><!-- იგი, ესე, ვინმე, რომელი, რომელნი, ყოფაჲ, რაჲმე, ჩუენ, ვინ, იგინი -->
+    <feat name="Case" value="Voc" upos="NOUN">2</feat><!-- მეგობარო, ძმანო -->
+    <feat name="Case[stack]" value="Gen" upos="ADJ,NOUN,PRON,PROPN,VERB">189</feat><!-- ეკლესიისათა, უფროჲსად, წელიწადთაჲსა, ალექსანდრიელისანი, მსახურებისაჲთა, ანკჳრიისამან, დედაქალაქისამან, ეკლესიისასა, ეფესელთასა, თჳსისასა -->
+    <feat name="Degree" value="Pos" upos="ADJ">121</feat><!-- წმიდათა, წმიდისა, სათნო, დიდისა, წმიდასა, წმიდაჲ, ნეტართა, ღირს, წმიდამან, ბოროტი -->
+    <feat name="Degree" value="Sup" upos="ADJ">16</feat><!-- უმჯობესისა, უპირატესთა, უდარესთა, უდარესისა, უდიდესია, უვაღრეს, უვაღრესისა, უმეტესი, უმცირეს, უმჯობესისაჲთა -->
+    <feat name="ExtPos" value="ADV" upos="ADJ,ADV,PART">4</feat><!-- შემდგომითი, არა, მცირედ -->
+    <feat name="ExtPos" value="PRON" upos="PRON">25</feat><!-- ესე, რომელმან, რომელთა, ვინაჲ, რომელი, ვინცა, თავს, რაოდენისა, რაჲ, რაჲცა -->
+    <feat name="Mood" value="Imp" upos="AUX,VERB">74</feat><!-- განიკუეთენ, იქმენინ, დასცხერინ, იყავნ, დაეცადენ, ეც, იქმნებოდის, იყვენით, მიეცემოდედ, არწმუნე -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">415</feat><!-- არს, იყო, არიან, იტყჳს, თქუა, იქმნა, იყვნენ, უჴმს, განვასაზღვრებთ, ვიტყჳთ -->
+    <feat name="Mood" value="Sub" upos="AUX,VERB">185</feat><!-- იყოს, იყვნენ, აქუნდეს, იქმნეს, იკადროს, მოვიდეს, იქმნენ, ქმნას, განაჩინოს, განიკუეთოს -->
+    <feat name="Number" value="Plur" upos="ADJ,NOUN,NUM,PRON,PROPN,VERB">1081</feat><!-- მათ, რომელთა, ჩუენ, მამათა, რომელნი, თჳსთა, ამათ, წმიდათა, ეპისკოპოსთა, ყოველთა -->
+    <feat name="Number" value="Sing" upos="ADJ,NOUN,NUM,PRON,PROPN,VERB">2432</feat><!-- იგი, მის, ამას, ესე, მას, ამის, რომელი, ვინმე, ღმრთისა, ეპისკოპოსმან -->
+    <feat name="Number[io]" value="Plur" upos="VERB">19</feat><!-- გუნებავს, აქუნდა, გამოგეცხადო, გამოგჳცხადეს, განგჳნათლეს, გუასმიეს, გუაქუნდა, გუთნდა, გჳღირს, გჳჩნდა -->
+    <feat name="Number[io]" value="Sing" upos="AUX,VERB">13</feat><!-- აქუნდეს, აღუჩნდეს, გშუენოდა, მექმნებიან, მეშინის, მიჩნს, სთნდა, უვის, უჩნდა, უჴმდა -->
+    <feat name="Number[obj]" value="Plur" upos="VERB">28</feat><!-- გევედრები, აღწერნეს, გამოაჩინნენ, განაგებდეს, განანათლნეს, განაშორნა, განაწყვნა, განვჰყრით, განუყოფენ, გჳჩუენნეს -->
+    <feat name="Number[obj]" value="Sing" upos="VERB">44</feat><!-- ჰყოფს, აუწყონ, აღაშფოთებენ, აღგზარდა, აღიყვანა, აღმიდგინა, აღუწოდა, აჩუენებდინ, გამოგაჩინა, გამომიძიეთ -->
+    <feat name="Number[subj]" value="Plur" upos="AUX,VERB">250</feat><!-- იყვნენ, განიკუეთენ, არიან, განვასაზღვრებთ, ვიტყჳთ, იქმნნეს, დავიცავთ, იქმნებიან, იქმნენ, განვაახლებთ -->
+    <feat name="Number[subj]" value="Sing" upos="AUX,VERB">424</feat><!-- არს, იყოს, იყო, იტყჳს, აქუნდეს, თქუა, იქმნა, იქმნეს, უჴმს, იქმენინ -->
+    <feat name="NumForm" value="Georgian" upos="NUM">29</feat><!-- ა(1), ბ(2), გ(3), დ(4), ე(5), ვ(6), ზ(7), თ(9), ი(10), ია(11) -->
+    <feat name="NumForm" value="Word" upos="NUM">22</feat><!-- მეოთხისა, პირველთა, პირველისა, ათორმეტთა, ათრვამეტთა, ერთი, მეათხუთმეტედ, მეათხუთმეტედმდე, მეორე, მეორემან -->
+    <feat name="NumType" value="Card" upos="NUM">69</feat><!-- ოცდაათთა, ორნი, ათორმეტთა, ათრვამეტთა, ას, ექუსას, ორასთა, ორთა, სამას, შჳდნი -->
+    <feat name="NumType" value="Ord" upos="NUM">20</feat><!-- მეოთხისა, პირველთა, პირველისა, ერთი, მეათხუთმეტედ, მეათხუთმეტედმდე, მეორე, მეორემან, მეორესა, მეორითა -->
+    <feat name="PartType" value="Emp" upos="ADJ,ADP,ADV,NOUN,PART,PRON,PROPN,VERB">118</feat><!-- უფროჲსღა, განცა, თჳთ, მერმეცა, რომელსაცა, რომელნიცა, უფროჲსად, ჩუენცა, ამასცა, ესევე -->
+    <feat name="PartType" value="Neg" upos="ADV,PART">125</feat><!-- არა, არცა, ნუცა, ნუ, ნუმცა, ვერ, ნუუკუე, არღარა, ნუღარამცა, არარაჲ -->
+    <feat name="Person" value="1" upos="PRON">89</feat><!-- ჩუენ, ჩუენისა, ჩუენთა, ჩუენდა, მე, ჩუენმან, ჩემ, ჩუენცა, ჩუენისასა, ჩუენისაჲ -->
+    <feat name="Person" value="2" upos="PRON">28</feat><!-- შენ, შენისა, თქუენ, შენსა, შენდა, შენი, თქუენითა, თქუენისაჲთა, თქუენმან, შენთა -->
+    <feat name="Person" value="3" upos="PRON">2</feat><!-- თავს, მის -->
+    <feat name="Person[io]" value="1" upos="AUX,VERB">15</feat><!-- გუნებავს, გამოგჳცხადეს, განგჳნათლეს, გუასმიეს, გუაქუნდა, გუთნდა, გჳღირს, გჳჩნდა, გჳჩნს, გჳჩუენნეს -->
+    <feat name="Person[io]" value="2" upos="VERB">2</feat><!-- გამოგეცხადო, გშუენოდა -->
+    <feat name="Person[io]" value="3" upos="VERB">16</feat><!-- ამხილებს, აქუნდა, აქუნდეს, აღუჩნდეს, ესწავოს, ვეყოფი, მოუწოდეს, სთნდა, უბრძანებთ, უვის -->
+    <feat name="Person[obj]" value="1" upos="VERB">8</feat><!-- გამომიძიეთ, გჳწამებს, დამიტევნა, მასწავნა, მიხილნა, მოგუმადლა, მომიგოთ, შეგვედრა -->
+    <feat name="Person[obj]" value="2" upos="VERB">10</feat><!-- გევედრები, აღგზარდა, აღმიდგინა, გამოგაჩინა, გასწავა, გრქუას, გხადა, გხადონ, წარგგრაგნა -->
+    <feat name="Person[obj]" value="3" upos="VERB">54</feat><!-- ჰყოფს, აუწყონ, აღაშფოთებენ, აღიყვანა, აღუწოდა, აღწერნეს, აჩუენებდინ, გამოაჩინნენ, განაგებდეს, განანათლნეს -->
+    <feat name="Person[subj]" value="1" upos="AUX,VERB">75</feat><!-- განვასაზღვრებთ, ვიტყჳთ, დავიცავთ, განვაახლებთ, აღვიარებთ, გევედრები, დავამტკიცებთ, დავჰბეჭდავთ, ვისწავეთ, აღვწერენით -->
+    <feat name="Person[subj]" value="2" upos="AUX,VERB">29</feat><!-- იყვენით, არწმუნე, აღემატე, აღმოვედ, გამოარჩიენით, გამოიძიეთ, გამომიძიეთ, განარინე, განჰგუმირე, გეგულებოდის -->
+    <feat name="Person[subj]" value="3" upos="AUX,VERB">570</feat><!-- არს, იყოს, იყვნენ, განიკუეთენ, იყო, არიან, იტყჳს, აქუნდეს, თქუა, იქმნა -->
+    <feat name="Poss" value="Yes" upos="PRON">1</feat><!-- თავს -->
+    <feat name="PronType" value="Dem" upos="PRON">244</feat><!-- იგი, ესე, ამას, ამის, ამათ, მას, მათ, მის, იგინი, ეგევითარისა -->
+    <feat name="PronType" value="Ind" upos="PRON">141</feat><!-- ვინმე, სხუათა, რაჲმე, ერთი, ერთისა, ვინ, მრავალთა, სხუასა, რათმე, რასმე -->
+    <feat name="PronType" value="Int" upos="PRON">11</feat><!-- ვითარი, ვინ, ვის, რა, რათა, რაოდენისა, რომელი -->
+    <feat name="PronType" value="Neg" upos="PRON">5</feat><!-- არავის, არავინ, არარაჲ, არღარავინ -->
+    <feat name="PronType" value="Prs" upos="PRON">336</feat><!-- მათ, მის, ჩუენ, თჳსთა, მას, ჩუენისა, თჳსისა, ჩუენთა, თჳსსა, ჩუენდა -->
+    <feat name="PronType" value="Rcp" upos="PRON">4</feat><!-- ურთიერთას -->
+    <feat name="PronType" value="Rel" upos="PRON">135</feat><!-- რომელთა, რომელი, რომელნი, რომელმან, ვინაჲთ, რომლისა, რომელსა, რომელსაცა, რომელნიცა, ვინცა -->
+    <feat name="PronType" value="Tot" upos="PRON">62</feat><!-- ყოველთა, ყოვლისა, ყოვლისავე, ყოველსა, თითოეულსა, ყოველთავე, ყოვლით, თითოეულნი, ყოველთაჲსა, ყოველი -->
+    <feat name="PunctSide" value="Fin" upos="PUNCT">15</feat><!-- “ -->
+    <feat name="PunctSide" value="Ini" upos="PUNCT">14</feat><!-- „ -->
+    <feat name="PunctType" value="Colo" upos="PUNCT">19</feat><!-- : -->
+    <feat name="PunctType" value="Comm" upos="PUNCT">557</feat><!-- , -->
+    <feat name="PunctType" value="Dash" upos="PUNCT">8</feat><!-- – -->
+    <feat name="PunctType" value="Peri" upos="PUNCT">148</feat><!-- . -->
+    <feat name="PunctType" value="Qest" upos="PUNCT">3</feat><!-- ? -->
+    <feat name="PunctType" value="Quot" upos="PUNCT">29</feat><!-- “, „ -->
+    <feat name="PunctType" value="Semi" upos="PUNCT">1</feat><!-- ; -->
+    <feat name="Subcat" value="Intr" upos="VERB">2</feat><!-- იშვების, მეშინოდა -->
+    <feat name="Subcat" value="Tran" upos="AUX,VERB">3</feat><!-- ამხილებს, მექმნებიან, მიჴსნიან -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">15</feat><!-- იქმნების, დავიცავთ, განამჴნობენ, განაქარვებენ, განვარდებიან, განვეკრძალნეთ, განიხრწნებიან, გარდასცვალებენ, დავადგინნეთ, დაჰბრკოლდებიან -->
+    <feat name="Tense" value="Imp" upos="VERB">1</feat><!-- ვიდოდინ -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">234</feat><!-- იყვნენ, იყო, თქუა, იქმნა, აქუნდეს, იქმნებოდის, იქმნნეს, ასწავეს, აქუნდენ, განასაზღვრა -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">424</feat><!-- არს, იყოს, განიკუეთენ, არიან, იტყჳს, იქმნეს, უჴმს, განვასაზღვრებთ, ვიტყჳთ, იქმენინ -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">674</feat><!-- არს, იყოს, იყვნენ, განიკუეთენ, იყო, არიან, იტყჳს, აქუნდეს, თქუა, იქმნა -->
+    <feat name="VerbForm" value="Part" upos="VERB">299</feat><!-- შეკრებულთა, ჴელთდასხმულ, აღწერილთა, დაცვულისა, მოჴსენებულისა, ქმნილ, ღმერთშემოსილთა, დასხმულთა, დაცვულსა, დაცულსა -->
+    <feat name="VerbForm" value="Vnoun" upos="VERB">109</feat><!-- ყოფაჲ, ქმნად, ყოფად, აღსაშენებელად, ყოფისა, აღსაარებად, განკუეთასა, განსამტკიცებელად, თქუმად, მსახურებასა -->
+    <feat name="Voice" value="Act" upos="AUX,VERB">588</feat><!-- არს, იყოს, იყვნენ, იყო, არიან, იტყჳს, აქუნდეს, თქუა, უჴმს, განვასაზღვრებთ -->
+    <feat name="Voice" value="Pass" upos="AUX,VERB">347</feat><!-- განიკუეთენ, შეკრებულთა, ჴელთდასხმულ, იქმნა, იქმნეს, იქმენინ, იქმნნეს, აღწერილთა, დაცვულისა, იქმნებიან -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="34">
+    <dep name="acl">29</dep>
+    <dep name="acl:relcl">76</dep>
+    <dep name="advcl">183</dep>
+    <dep name="advmod">390</dep>
+    <dep name="advmod:emph">7</dep>
+    <dep name="advmod:neg">120</dep>
+    <dep name="amod">364</dep>
+    <dep name="appos">61</dep>
+    <dep name="case">373</dep>
+    <dep name="cc">595</dep>
+    <dep name="ccomp">66</dep>
+    <dep name="compound">6</dep>
+    <dep name="conj">599</dep>
+    <dep name="cop">134</dep>
+    <dep name="csubj">7</dep>
+    <dep name="dep">27</dep>
+    <dep name="det">328</dep>
+    <dep name="det:poss">18</dep>
+    <dep name="discourse">1</dep>
+    <dep name="fixed">28</dep>
+    <dep name="flat">8</dep>
+    <dep name="iobj">112</dep>
+    <dep name="mark">224</dep>
+    <dep name="nmod">845</dep>
+    <dep name="nsubj">324</dep>
+    <dep name="nsubj:pass">28</dep>
+    <dep name="nummod">58</dep>
+    <dep name="obj">253</dep>
+    <dep name="obl">600</dep>
+    <dep name="parataxis">18</dep>
+    <dep name="punct">765</dep>
+    <dep name="root">151</dep>
+    <dep name="vocative">2</dep>
+    <dep name="xcomp">84</dep>
+  </deps>
+</treebank>
