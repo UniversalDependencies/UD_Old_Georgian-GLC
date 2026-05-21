@@ -5,20 +5,20 @@ The Old Georgian UD Treebank (UD_Old_Georgian-GLC) is the first syntactically an
 
 # Introduction
 
-The Old Georgian UD Treebank (UD_Georgian-GLC) serves as the first syntactically annotated corpus of the Old Georgian language. It includes 151 utterances (5809 tokens) randomly selected from the OGLC (Doborjginidze et al. 2013), providing detailed annotations encompassing the grammatical structure and dependencies within the sentences.
+The Old Georgian UD Treebank (UD_Old_Georgian-GLC) serves as the first syntactically annotated corpus of the Old Georgian language. It includes 151 utterances (6575 tokens) randomly selected from the OGLC (Doborjginidze et al. 2013), providing detailed annotations encompassing the grammatical structure and dependencies within the sentences.
 
 The treebank's annotations align with the Universal Dependencies (UD) specifications, allowing for greater consistency and compatibility with other UD treebanks. Although the tokenization and segmentation principles of the GLC differ slightly from those of the UD, the UD_Old_Georgian-GLC follows the UD approach, particularly regarding multiword tokens, to minimize differences.
 
 Morpho-syntactic annotations, as discussed in Lobzhanidze (2022), have been automatically adapted to UD requirements. This includes annotations for lemmas (LEMMA), part-of-speech categories (UPOS; XPOS), morphological features (FEATS), transliteration, and tokenization issues (MISC). Furthermore, heads of words (HEADS), dependency relations (DEPREL), and enhanced dependency graphs (DEPS) were automatically converted and then reviewed and manually corrected.
 
-The current version of the UD_Georgian-GLC treebank includes 151 utterances (sentences) consisting of 5809 tokens. These sentences served as a training set, enriching the treebank and offering a more comprehensive representation of the Old Georgian language. The primary objective is to provide a more comprehensive and representative dataset for training and analysis purposes.
+The current version of the UD_Old_Georgian-GLC treebank includes 151 utterances (sentences) consisting of 6575 tokens. These sentences served as a training set, enriching the treebank and offering a more comprehensive representation of the Old Georgian language. The primary objective is to provide a more comprehensive and representative dataset for training and analysis purposes.
 
 
 # Acknowledgments
 
-The UD_Georgian-GLC release is based on the data from the Georgian Language Corpus (GLC) developed with the financial support of the Shota Rustaveli National Science Foundation (Project Nos. DP2016_23, LE/17/1-30/13, AR/320/4-105/11, Y-04-10).
+The UD_Old_Georgian-GLC release is based on the data from the Georgian Language Corpus (GLC) developed with the financial support of the Shota Rustaveli National Science Foundation (Project Nos. DP2016_23, LE/17/1-30/13, AR/320/4-105/11, Y-04-10).
 
-Special gratitudes goes to Prof. Dr. Dan Zeman for his invaluable contributions in making the dataset available on GitHub and offering valuable suggestions.
+Special gratitudes goes to Prof. Dr. Dan Zeman for his invaluable contributions in making the language and dataset available on GitHub and offering valuable suggestions.
 
 ## References
 
