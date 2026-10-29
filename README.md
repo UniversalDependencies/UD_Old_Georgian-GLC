@@ -12,9 +12,26 @@ The treebank's annotations align with the Universal Dependencies (UD) specificat
 Morpho-syntactic annotations, as discussed in Lobzhanidze (2022), have been automatically adapted to UD requirements. This includes annotations for lemmas (LEMMA), part-of-speech categories (UPOS; XPOS), morphological features (FEATS), transliteration, and tokenization issues (MISC). Furthermore, heads of words (HEADS), dependency relations (DEPREL), and enhanced dependency graphs (DEPS) were automatically converted and then reviewed and manually corrected.
 
 The current treebank is divided into three datasets for training, development, and evaluation, with complete source documents assigned to individual partitions to minimize data leakage:
+
 Training set (train): 734 sentences, 20937 syntactic words.
+
 Development set (dev): 122 sentences, 2577 syntactic words.
+
 Test set (test): 376 sentences, 10116 syntactic words.
+
+
+| Text | Date | Tokens | Sentences |
+|---|:---:|---:|---:|
+| The Great Nomocanon: Cyril of Alexandria’s Epistle to Domnus | 883 | 6,575 | 151 |
+| The Great Nomocanon: Decree of the Council of Constantinople (394) | 883 | 615 | 14 |
+| Gregory of Nazianzus, On the Resurrection | 10th–11th c. | 7,804 | 322 |
+| Martyrdom of Barlaam the Ascetic | 11th c. | 5,623 | 188 |
+| Andrew of Crete, On the Nativity of the Theotokos | 11th c. | 4,585 | 188 |
+| On the Exaltation of the Life-Giving Cross | 11th c. | 2,637 | 122 |
+| Book of Baruch | 12th c. | 4,154 | 184 |
+| Epistle to the Antiochians by Ignatius the God-Bearer | 12th–13th c. | 1,486 | 63 |
+| **Total** | | **33,479** | **1,232** |
+
 
 # Contributors
 
