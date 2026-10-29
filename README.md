@@ -9,15 +9,15 @@ The Old Georgian UD Treebank (UD_Old_Georgian-GLC) serves as the first syntactic
 
 | Text | Date | Tokens | Sentences |
 |---|:---:|---:|---:|
-| The Great Nomocanon: Cyril of Alexandria’s Epistle to Domnus | 883 | 6,575 | 151 |
+| The Great Nomocanon: Cyril of Alexandria’s Epistle to Domnus | 883 | 6575 | 151 |
 | The Great Nomocanon: Decree of the Council of Constantinople (394) | 883 | 615 | 14 |
-| Gregory of Nazianzus, On the Resurrection | 10th–11th c. | 7,804 | 322 |
-| Martyrdom of Barlaam the Ascetic | 11th c. | 5,623 | 188 |
-| Andrew of Crete, On the Nativity of the Theotokos | 11th c. | 4,585 | 188 |
-| On the Exaltation of the Life-Giving Cross | 11th c. | 2,637 | 122 |
-| Book of Baruch | 12th c. | 4,154 | 184 |
-| Epistle to the Antiochians by Ignatius the God-Bearer | 12th–13th c. | 1,486 | 63 |
-| **Total** | | **33,479** | **1,232** |
+| Gregory of Nazianzus, On the Resurrection | 10th–11th c. | 7804 | 322 |
+| Martyrdom of Barlaam the Ascetic | 11th c. | 5623 | 188 |
+| Andrew of Crete, On the Nativity of the Theotokos | 11th c. | 4585 | 188 |
+| On the Exaltation of the Life-Giving Cross | 11th c. | 2637 | 122 |
+| Book of Baruch | 12th c. | 4154 | 184 |
+| Epistle to the Antiochians by Ignatius the God-Bearer | 12th–13th c. | 1486 | 63 |
+| **Total** | | **33479** | **1232** |
 
 The treebank's annotations align with the Universal Dependencies (UD) specifications, allowing for greater consistency and compatibility with other UD treebanks. Although the tokenization and segmentation principles of the GLC differ slightly from those of the UD, the UD_Old_Georgian-GLC follows the UD approach, particularly regarding multiword tokens, to minimize differences.
 
