@@ -5,20 +5,7 @@ The Old Georgian UD Treebank (UD_Old_Georgian-GLC) is the first syntactically an
 
 # Introduction
 
-The Old Georgian UD Treebank (UD_Old_Georgian-GLC) serves as the first syntactically annotated corpus of the Old Georgian language. It includes 1232 utterances (33630 tokens) randomly selected from the OGLC (Doborjginidze et al. 2013), providing detailed annotations encompassing the grammatical structure and dependencies within the sentences.
-
-The treebank's annotations align with the Universal Dependencies (UD) specifications, allowing for greater consistency and compatibility with other UD treebanks. Although the tokenization and segmentation principles of the GLC differ slightly from those of the UD, the UD_Old_Georgian-GLC follows the UD approach, particularly regarding multiword tokens, to minimize differences.
-
-Morpho-syntactic annotations, as discussed in Lobzhanidze (2022), have been automatically adapted to UD requirements. This includes annotations for lemmas (LEMMA), part-of-speech categories (UPOS; XPOS), morphological features (FEATS), transliteration, and tokenization issues (MISC). Furthermore, heads of words (HEADS), dependency relations (DEPREL), and enhanced dependency graphs (DEPS) were automatically converted and then reviewed and manually corrected.
-
-The current treebank is divided into three datasets for training, development, and evaluation, with complete source documents assigned to individual partitions to minimize data leakage:
-
-Training set (train): 734 sentences, 20937 syntactic words.
-
-Development set (dev): 122 sentences, 2577 syntactic words.
-
-Test set (test): 376 sentences, 10116 syntactic words.
-
+The Old Georgian UD Treebank (UD_Old_Georgian-GLC) serves as the first syntactically annotated corpus of the Old Georgian language. It includes 1232 utterances (33630 tokens) selected from the OGLC (Doborjginidze et al. 2013), providing detailed annotations encompassing the grammatical structure and dependencies within the sentences.
 
 | Text | Date | Tokens | Sentences |
 |---|:---:|---:|---:|
@@ -31,6 +18,18 @@ Test set (test): 376 sentences, 10116 syntactic words.
 | Book of Baruch | 12th c. | 4,154 | 184 |
 | Epistle to the Antiochians by Ignatius the God-Bearer | 12th–13th c. | 1,486 | 63 |
 | **Total** | | **33,479** | **1,232** |
+
+The treebank's annotations align with the Universal Dependencies (UD) specifications, allowing for greater consistency and compatibility with other UD treebanks. Although the tokenization and segmentation principles of the GLC differ slightly from those of the UD, the UD_Old_Georgian-GLC follows the UD approach, particularly regarding multiword tokens, to minimize differences.
+
+Morpho-syntactic annotations, as discussed in Lobzhanidze (2022), have been automatically adapted to UD requirements. This includes annotations for lemmas (LEMMA), part-of-speech categories (UPOS; XPOS), morphological features (FEATS), transliteration, and tokenization issues (MISC). Furthermore, heads of words (HEADS), dependency relations (DEPREL), and enhanced dependency graphs (DEPS) were automatically converted and then reviewed and manually corrected.
+
+The current treebank is divided into three datasets for training, development, and evaluation, with complete source documents assigned to individual partitions to minimize data leakage:
+
+Training set (train): 734 sentences, 20937 syntactic words.
+
+Development set (dev): 122 sentences, 2577 syntactic words.
+
+Test set (test): 376 sentences, 10116 syntactic words.
 
 
 # Contributors
