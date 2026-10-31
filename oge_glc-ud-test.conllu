@@ -13266,7 +13266,7 @@
 5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
 6	მოსპოლვაჲ	მოსპოლვა	VERB	VerbalNoun	Case=Nom|Number=Sing|VerbForm=Vnoun	3	conj	_	Translit=mospolvay
 7	ცომოვანისაჲ	ცომოვანი	NOUN	Noun	Case=Nom|Case[stack]=Gen|Number=Sing	6	nmod	_	Translit=cʻomovanisay
-8	შჳდ	შჳდი	NUM	Num	Case=Nom|NumForm=Word|NumType=Card|Number=Sing	9	nummod	_	Translit=šwd
+8	შჳდ	შჳდი	NUM	Num	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	9	nummod	_	Translit=šwd
 9	დღე	დღე	NOUN	Noun	Case=Nom|Number=Sing	2	obl	_	Translit=dġe
 10	(	(	PUNCT	F	_	13	punct	_	SpaceAfter=No|Translit=(
 11	რამეთუ	რამეთუ	SCONJ	Conj	_	13	mark	_	Translit=rametʻu

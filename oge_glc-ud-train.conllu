@@ -20049,7 +20049,7 @@
 14	შენი	შენი	PRON	Pron	Case=Nom|Number=Sing|Person=2|Poss=Yes|PronType=Prs	13	det:poss	_	SpaceAfter=No|Translit=šeni
 15	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
 16	უფალი	უფალი	NOUN	Noun	Case=Nom|Number=Sing	12	appos	_	Translit=upʻali
-17	ერთ	ერთი	NUM	Num	Case=Abs|NumForm=Word|NumType=Card|Number=Sing	9	ccomp	_	Translit=ertʻ
+17	ერთ	ერთი	NUM	Num	Case=Abs|Number=Sing|NumForm=Word|NumType=Card	9	ccomp	_	Translit=ertʻ
 18	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|VerbType=Aux	17	cop	_	SpaceAfter=No|Translit=ars
 19	“	“	PUNCT	F	PunctType=Quot	21	punct	_	Translit=“
 20	და	და	CCONJ	Conj	_	21	cc	_	Translit=da
