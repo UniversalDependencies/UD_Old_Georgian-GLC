@@ -1844,7 +1844,7 @@
 7	მაცხოვრისა	მაცხოვარი	NOUN	Noun	Case=Gen|Number=Sing	5	conj	_	Translit=macʻxovrisa
 8	ჩუენისა	ჩუენი	PRON	Pron	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	Translit=čʻuenisa
 9	იესუ	იესუ	PROPN	Prop	Case=Nom|NameType=Prs|Number=Sing	4	nmod	_	Translit=iesu
-10	ქრისტესმან	ქრისტე	PROPN	Prop	Case=Erg|NameType=Prs|Number=Sing	9	flat	_	Translit=kʻristesman
+10	ქრისტესმან	ქრისტე	PROPN	Prop	Case=Erg|Case[stack]=Gen|NameType=Prs|Number=Sing	9	flat	_	Translit=kʻristesman
 11-12	გარე-შეიცვა	_	_	_	_	_	_	_	_
 11	გარე	გარე	ADV	Adv	AdvType=Loc	12	advmod	_	Translit=gare
 12	შეიცვა	შეცვა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=šeicʻva

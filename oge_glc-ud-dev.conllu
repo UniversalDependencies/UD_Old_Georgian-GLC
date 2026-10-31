@@ -2708,7 +2708,7 @@
 20	მოქალაქობასა	მოქალაქობა	NOUN	Noun	Case=Dat|Number=Sing	14	conj	_	Translit=mokʻalakʻobasa
 21	და	და	CCONJ	Conj	_	37	cc	_	Translit=da
 22	ნეტარისა	ნეტარი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	23	amod	_	Translit=netarisa
-23	ბარლაამისსა	ბარლაამ	PROPN	Prop	Case=Dat|NameType=Prs|Number=Sing	24	obl	_	Translit=barlaamissa
+23	ბარლაამისსა	ბარლაამ	PROPN	Prop	Case=Dat|Case[stack]=Gen|NameType=Prs|Number=Sing	24	obl	_	Translit=barlaamissa
 24	ვიწყებდე	დაწყება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Fut|VerbForm=Fin|Voice=Act	37	advcl	_	Translit=vicqebde
 25	რაჲ	რა	SCONJ	Conj	_	24	mark	_	Translit=ray
 26	მითხრობად	მითხრობა	NOUN	Noun	Case=Ess|Number=Sing	24	xcomp	_	SpaceAfter=No|Translit=mitʻxrobad

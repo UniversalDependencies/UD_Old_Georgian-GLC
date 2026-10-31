@@ -6616,7 +6616,7 @@
 3	მათსა	მათი	PRON	Pron	Case=Dat|Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	obl	_	Translit=matʻsa
 4	ვჴმობდეთ	ჴმობა	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Translit=vx̣mobdetʻ
 5	ჴმასა	ჴმა	NOUN	Noun	Case=Dat|Number=Sing	4	obj	_	Translit=x̣masa
-6	გაბრიელისსა	გაბრიელ	PROPN	Prop	Case=Gen|NameType=Prs|Number=Sing	5	nmod	_	Translit=gabrielissa
+6	გაბრიელისსა	გაბრიელ	PROPN	Prop	Case=Dat|Case[stack]=Gen|NameType=Prs|Number=Sing	5	nmod	_	Translit=gabrielissa
 7	და	და	CCONJ	Conj	_	8	cc	_	Translit=da
 8	ვეტყოდეთ	თქუმა	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=1|Tense=Fut|VerbForm=Fin|Voice=Act	4	conj	_	Translit=vetqodetʻ
 9	დედოფალსა	დედოფალი	NOUN	Noun	Case=Dat|Number=Sing	8	iobj	_	Translit=dedopʻalsa
@@ -6867,7 +6867,7 @@
 20	წესსა	წესი	NOUN	Noun	Case=Dat|Number=Sing	15	obl	_	Translit=cessa
 21	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	20	nmod	_	Translit=mas
 22	ზედა	ზედა	ADV	Adv	AdvType=Loc	20	advmod	_	Translit=zeda
-23	მელქისედეკისსა	მელქისედეკი	PROPN	Prop	Case=Dat|NameType=Prs|Number=Sing	20	nmod	_	SpaceAfter=No|Translit=melkʻisedekissa
+23	მელქისედეკისსა	მელქისედეკი	PROPN	Prop	Case=Dat|Case[stack]=Gen|NameType=Prs|Number=Sing	20	nmod	_	SpaceAfter=No|Translit=melkʻisedekissa
 24	.	.	PUNCT	F	PunctType=Peri	1	punct	_	Translit=.
 
 # sent_id = OGLC_00699
@@ -8698,7 +8698,7 @@
 30	გან	გან	ADP	Post	AdpType=Post|Case=Gen	29	case	_	Translit=gan
 31	და	და	CCONJ	Conj	_	32	cc	_	Translit=da
 32	ტომისა	ტომი	NOUN	Noun	Case=Gen|Number=Sing	29	conj	_	Translit=tomisa
-33	დავითისსა	დავით	PROPN	Prop	Case=Gen|NameType=Prs|Number=Sing	32	nmod	_	SpaceAfter=No|Translit=davitʻissa
+33	დავითისსა	დავით	PROPN	Prop	Case=Dat|Case[stack]=Gen|NameType=Prs|Number=Sing	32	nmod	_	SpaceAfter=No|Translit=davitʻissa
 34	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
 
 # sent_id = OGLC_00760
@@ -9387,7 +9387,7 @@
 2	მეუფებდეს	მეუფება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	Translit=meupʻebdes
 3	სახლსა	სახლი	NOUN	Noun	Case=Dat|Number=Sing	2	obl	_	Translit=saxlsa
 4	ზედა	ზედა	ADV	Adv	AdvType=Loc	3	advmod	_	Translit=zeda
-5	იაკობისსა	იაკობ	PROPN	Prop	Case=Dat|NameType=Prs|Number=Sing	3	nmod	_	Translit=iakobissa
+5	იაკობისსა	იაკობ	PROPN	Prop	Case=Dat|Case[stack]=Gen|NameType=Prs|Number=Sing	3	nmod	_	Translit=iakobissa
 6	საუკუნოდ	საუკუნოდ	ADV	Adv	AdvType=Man	2	advmod	_	SpaceAfter=No|Translit=saukunod
 7	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
 
@@ -11342,7 +11342,7 @@
 15-16	თესლისაგან	_	_	_	_	_	_	_	_
 15	თესლისა	თესლი	NOUN	Noun	Case=Gen|Number=Sing	18	obl	_	Translit=tʻeslisa
 16	გან	გან	ADP	Post	AdpType=Post|Case=Gen	15	case	_	Translit=gan
-17	დავითისსა	დავით	PROPN	Prop	Case=Gen|NameType=Prs|Number=Sing	15	nmod	_	Translit=davitʻissa
+17	დავითისსა	დავით	PROPN	Prop	Case=Dat|Case[stack]=Gen|NameType=Prs|Number=Sing	15	nmod	_	Translit=davitʻissa
 18	განკაცებულსა	განკაცებული	VERB	VerbalAdj	Case=Dat|Number=Sing|VerbForm=Part	14	iobj	_	Translit=gankacʻebulsa
 19	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	18	nmod	_	SpaceAfter=No|Translit=mas
 20	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
@@ -12567,7 +12567,7 @@
 4	იწოდების	წოდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=icodebis
 5	და	და	CCONJ	Conj	_	9	cc	_	Translit=da
 6	სიმაღლე	სიმაღლე	NOUN	Noun	Case=Nom|Number=Sing	9	nsubj	_	Translit=simaġle
-7	ქრისტესსა	ქრისტე	NOUN	Noun	Case=Dat|Number=Sing	9	iobj	_	Translit=kʻristessa
+7	ქრისტესსა	ქრისტე	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	9	iobj	_	Translit=kʻristessa
 8-9	სახელ-იდების	_	_	_	_	_	_	_	SpaceAfter=No
 8	სახელ	სახელი	NOUN	Noun	Case=Abs|Number=Sing	9	obj	_	Translit=saxel
 9	ედების	დება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	conj	_	Translit=edebis
