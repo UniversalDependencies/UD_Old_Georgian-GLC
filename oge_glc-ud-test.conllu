@@ -1447,7 +1447,7 @@
 21	,	,	PUNCT	F	PunctType=Comm	27	punct	_	Translit=,
 22	რაჲთა	რაჲთა	SCONJ	Conj	_	27	mark	_	Translit=raytʻa
 23	არა	არა	PART	Part	PartType=Neg	24	advmod:neg	_	Translit=ara
-24	უმცირეს	მცირე	ADJ	Adj	Case=Nom|Degree=Sup|Number=Plur	27	xcomp	_	Translit=umcʻires
+24	უმცირეს	მცირე	ADJ	Adj	Case=Abs|Degree=Sup|Number=Plur	27	xcomp	_	Translit=umcʻires
 25	სამთასა	სამი	NUM	Num	Case=Gen|Case[stack]=Gen|Number=Plur|NumForm=Word|NumType=Card	24	obl	_	Translit=samtʻasa
 26	იყვნენ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	27	cop	_	Translit=iqvnen
 27	ჴელთდამსხმელნი	ჴელთდამსხმელი	NOUN	Noun	Case=Nom|Number=Plur	20	ccomp	_	Translit=x̣eltʻdamsxmelni
@@ -4308,7 +4308,7 @@
 89	რაჲთა	რაჲთა	SCONJ	Conj	_	96	mark	_	Translit=raytʻa
 90	არცა	არცა	PART	Part	PartType=Neg	91	advmod:neg	_	Translit=arcʻa
 91	სიმშჳდე	სიმშჳდე	NOUN	Noun	Case=Nom|Number=Sing	96	nsubj	_	Translit=simšwde
-92	დამჴსნელ	დამჴსნელი	ADJ	Adj	Case=Abs|Degree=Pos|Number=Sing	91	amod	_	SpaceAfter=No|Translit=damx̣snel
+92	დამჴსნელ	დამჴსნელი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	91	amod	_	SpaceAfter=No|Translit=damx̣snel
 93	,	,	PUNCT	F	PunctType=Comm	95	punct	_	Translit=,
 94	არცა	არცა	PART	Part	PartType=Neg	95	advmod:neg	_	Translit=arcʻa
 95	სიფიცხე	სიფიცხე	NOUN	Noun	Case=Nom|Number=Sing	91	conj	_	Translit=sipʻicʻxe
@@ -4704,7 +4704,7 @@
 18	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 19	ვერ	ვერ	PART	Part	PartType=Neg	22	advmod:neg	_	Translit=ver
 20-21	ძალ-უც	_	_	_	_	_	_	_	_
-20	ძალ	ძალა	NOUN	Noun	Case=Nom|Number=Sing	21	compound	_	Translit=ʒal
+20	ძალ	ძალა	NOUN	Noun	Case=Abs|Number=Sing	21	compound	_	Translit=ʒal
 21	უც	უც	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	Translit=ucʻ
 22	მიღებაჲ	მიღება	VERB	VerbalNoun	Case=Nom|Number=Sing|VerbForm=Vnoun	21	obj	_	Translit=miġebay
 23	ეპისკოპოსობისა	ეპისკოპოსობა	NOUN	Noun	Case=Gen|Number=Sing	22	nmod	_	SpaceAfter=No|Translit=episkoposobisa
@@ -8337,7 +8337,7 @@
 26	აქა	აქა	ADV	Adv	AdvType=Loc	25	advmod	_	Translit=akʻa
 27	ეგერა	ეგერა	ADV	Adv	AdvType=Loc	29	advmod	_	Translit=egera
 28	საქმით	საქმე	NOUN	Noun	Case=Ins|Number=Sing	29	obl	_	Translit=sakʻmitʻ
-29	დასჯილ	დასჯა	VERB	VerbalAdj	Aspect=Perf|Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	12	advcl	_	Translit=dasǯil
+29	დასჯილ	დასჯა	VERB	VerbalAdj	Aspect=Perf|Case=Abs|Number=Plur|VerbForm=Part|Voice=Pass	12	advcl	_	Translit=dasǯil
 30	არიან	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	cop	_	Translit=arian
 31	იგინი	იგინი	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	29	nsubj	_	SpaceAfter=No|Translit=igini
 32	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
@@ -9081,7 +9081,7 @@
 17	ვითარცა	ვითარცა	SCONJ	Conj	_	20	mark	_	Translit=vitʻarcʻa
 18	ვის	ვინ	PRON	Pron	Case=Dat|Number=Sing|PronType=Ind	20	iobj	_	Translit=vis
 19-20	ძალ-ედვას	_	_	_	_	_	_	_	_
-19	ძალ	ძალა	NOUN	Noun	Case=Nom|Number=Sing	20	obj	_	Translit=ʒal
+19	ძალ	ძალა	NOUN	Noun	Case=Abs|Number=Sing	20	obj	_	Translit=ʒal
 20	ედვას	ძალდება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|VerbForm=Fin	3	advcl	_	Translit=edvas
 21	სულიერისა	სულიერი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	23	amod	_	Translit=sulierisa
 22	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	23	det	_	Translit=mis
@@ -12968,7 +12968,7 @@
 42	კულა	კულა	ADV	Adv	AdvType=Tim	45	advmod	_	Translit=kula
 43	ვერ	ვერ	PART	Part	PartType=Neg	45	advmod:neg	_	Translit=ver
 44-45	ძალ-ედვას	_	_	_	_	_	_	_	_
-44	ძალ	ძალა	NOUN	Noun	Case=Nom|Number=Sing	45	obj	_	Translit=ʒal
+44	ძალ	ძალა	NOUN	Noun	Case=Abs|Number=Sing	45	obj	_	Translit=ʒal
 45	ედვას	დება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	36	advcl	_	Translit=edvas
 46-47	სიგლახაკისაგან	_	_	_	_	_	_	_	SpaceAfter=No
 46	სიგლახაკისა	სიგლახაკე	NOUN	Noun	Case=Gen|Number=Sing	45	obl	_	Translit=siglaxakisa
@@ -13266,7 +13266,7 @@
 5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
 6	მოსპოლვაჲ	მოსპოლვა	VERB	VerbalNoun	Case=Nom|Number=Sing|VerbForm=Vnoun	3	conj	_	Translit=mospolvay
 7	ცომოვანისაჲ	ცომოვანი	NOUN	Noun	Case=Nom|Case[stack]=Gen|Number=Sing	6	nmod	_	Translit=cʻomovanisay
-8	შჳდ	შჳდი	NUM	Num	Case=Abs|Number=Sing|NumForm=Word|NumType=Card	9	nummod	_	Translit=šwd
+8	შჳდ	შჳდი	NUM	Num	Case=Nom|NumForm=Word|NumType=Card|Number=Sing	9	nummod	_	Translit=šwd
 9	დღე	დღე	NOUN	Noun	Case=Nom|Number=Sing	2	obl	_	Translit=dġe
 10	(	(	PUNCT	F	_	13	punct	_	SpaceAfter=No|Translit=(
 11	რამეთუ	რამეთუ	SCONJ	Conj	_	13	mark	_	Translit=rametʻu
@@ -14403,7 +14403,7 @@
 21	ცა	ცა	PART	Part	PartType=Emp	20	advmod:emph	_	Translit=cʻa
 22	შეიმოსს	შემოსვა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	Translit=šeimoss
 23-24	სამოსლებრ	_	_	_	_	_	_	_	SpaceAfter=No
-23	სამოსლ	სამოსელი	NOUN	Noun	Case=Nom|Number=Sing	22	obl	_	Translit=samosl
+23	სამოსლ	სამოსელი	NOUN	Noun	Case=Abs|Number=Sing	22	obl	_	Translit=samosl
 24	ებრ	ებრ	ADP	Post	AdpType=Post|Case=Gen	23	case	_	Translit=ebr
 25	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
 

@@ -1222,7 +1222,7 @@
 # translit = vitʻarmed upʻali ʒlier x̣elmcipʻe ars da mtkicʻe“, romeli-igi ʒlier ars qovelsa šina, raycʻa kʻmna da ikʻms da upʻroysad brʒolasa mas šina da ʒlevasa kacʻebisatʻws.
 1	ვითარმედ	ვითარმედ	SCONJ	Conj	_	5	mark	_	Translit=vitʻarmed
 2	უფალი	უფალი	NOUN	Noun	Case=Nom|Number=Sing	5	nsubj	_	Translit=upʻali
-3	ძლიერ	ძლიერი	ADJ	Adj	Case=Abs|Degree=Pos|Number=Sing	4	amod	_	Translit=ʒlier
+3	ძლიერ	ძლიერი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	Translit=ʒlier
 4	ჴელმწიფე	ჴელმწიფე	NOUN	Noun	Case=Nom|Number=Sing	5	xcomp	_	Translit=x̣elmcipʻe
 5	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=ars
 6	და	და	CCONJ	Conj	_	7	cc	_	Translit=da
@@ -3178,7 +3178,7 @@
 32	ქუესკნელთა	ქუესკნელი	NOUN	Noun	Case=Gen|Number=Plur	33	nmod	_	Translit=kʻueskneltʻa
 33	ჯოჯოხეთისათა	ჯოჯოხეთი	NOUN	Noun	Case=Gen|Case[stack]=Gen|Number=Plur	31	nmod	_	SpaceAfter=No|Translit=ǯoǯoxetʻisatʻa
 34	,	,	PUNCT	F	PunctType=Comm	33	punct	_	Translit=,
-35	უქუეს	უქუჱსი	ADJ	Adj	Case=Nom|Degree=Sup|Number=Sing	36	nmod	_	Translit=ukʻues
+35	უქუეს	უქუჱსი	ADJ	Adj	Case=Abs|Degree=Sup|Number=Sing	36	nmod	_	Translit=ukʻues
 36	ყოველთასა	ყოველი	PRON	Pron	Case=Dat|Case[stack]=Gen|Number=Plur|PronType=Tot	33	nmod	_	SpaceAfter=No|Translit=qoveltʻasa
 37	,	,	PUNCT	F	PunctType=Comm	36	punct	_	Translit=,
 38	დაშჯილ	დაშჯილი	ADJ	Adj	Case=Abs|Degree=Pos|Number=Sing	1	obl	_	Translit=dašǯil
@@ -3186,7 +3186,7 @@
 40	,	,	PUNCT	F	PunctType=Comm	38	punct	_	Translit=,
 41	ბუნებაჲ	ბუნება	NOUN	Noun	Case=Nom|Number=Sing	48	obj	_	Translit=bunebay
 42	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	41	nmod	_	Translit=igi
-43	უმაღლჱს	მაღალი	ADJ	Adj	Case=Nom|Degree=Sup|Number=Sing	48	obl	_	Translit=umaġlēs
+43	უმაღლჱს	მაღალი	ADJ	Adj	Case=Abs|Degree=Sup|Number=Sing	48	obl	_	Translit=umaġlēs
 44	ყოველთა	ყოველი	PRON	Pron	Case=Dat|Number=Plur|PronType=Tot	45	nmod	_	Translit=qoveltʻa
 45	ცათა	ცა	NOUN	Noun	Case=Gen|Number=Plur	43	nmod	_	Translit=cʻatʻa
 46	და	და	CCONJ	Conj	_	47	cc	_	Translit=da
