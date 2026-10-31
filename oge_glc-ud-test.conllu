@@ -1656,7 +1656,7 @@
 14	არა	არა	PART	Part	PartType=Neg	19	advmod:neg	_	Translit=ara
 15	მიზეზითა	მიზეზი	NOUN	Noun	Case=Ins|Number=Sing	19	obl	_	Translit=mizezitʻa
 16	პირთა	პირი	NOUN	Noun	Case=Gen|Number=Plur	15	nmod	_	Translit=pirtʻa
-17	ვიეთთაჲთამე	ვიეთი	PRON	Pron	Case=Ins|Case[stack]=Gen|Number=Plur|PartType=Emp|PronType=Ind|PartType=Emp	16	det	_	Translit=vietʻtʻaytʻame
+17	ვიეთთაჲთამე	ვიეთი	PRON	Pron	Case=Ins|Case[stack]=Gen|Number=Plur|PartType=Emp|PronType=Ind	16	det	_	Translit=vietʻtʻaytʻame
 18	ქმნილად	ქმნილი	VERB	VerbalAdj	Case=Ess|Number=Sing|VerbForm=Part|Voice=Pass	19	xcomp	_	Translit=kʻmnilad
 19	უწყით	ცოდნა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	Translit=ucqitʻ
 20	ჩუენ	ჩუენ	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	19	nsubj	_	Translit=čʻuen
