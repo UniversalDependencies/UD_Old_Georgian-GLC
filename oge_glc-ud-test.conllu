@@ -340,7 +340,7 @@
 31	ვითარმედ	ვითარმედ	SCONJ	Conj	_	33	mark	_	Translit=vitʻarmed
 32	წარტაცებაჲ	წარტაცება	NOUN	Noun	Case=Nom|Number=Sing	33	nsubj	_	Translit=cartacʻebay
 33	შეემთხჳა	შემთხვევა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	29	ccomp	_	Translit=šeemtʻxwa
-34	ყოველთავე	ყოველთავე	PRON	Pron	Case=Gen|Number=Plur|PronType=Tot	35	det	_	Translit=qoveltʻave
+34	ყოველთავე	ყოველთავე	PRON	Pron	Case=Gen|Number=Plur|PartType=Emp|PronType=Tot	35	det	_	Translit=qoveltʻave
 35	ქონებულთა	ქონებული	VERB	VerbalAdj	Case=Gen|Number=Plur|VerbForm=Part	33	obl	_	Translit=kʻonebultʻa
 36	მისდა	მისი	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	35	nmod	_	Translit=misda
 37	საჴმართაჲ	საჴმარი	NOUN	Noun	Case=Nom|Case[stack]=Gen|Number=Sing	35	nsubj	_	SpaceAfter=No|Translit=sax̣martʻay
@@ -1283,7 +1283,7 @@
 26	და	და	CCONJ	Conj	_	34	cc	_	Translit=da
 27	მათცა	ის	PRON	Pron	Case=Gen|Number=Plur|PartType=Emp|Person=3|PronType=Prs	28	obl	_	Translit=matʻcʻa
 28	ეგერა	ეგერა	ADV	Adv	AdvType=Loc	34	advmod	_	Translit=egera
-29	პირველვე	ერთი	NUM	Num	Case=Gen|Number=Sing|NumForm=Word|NumType=Ord	34	nummod	_	Translit=pirvelve
+29	პირველვე	ერთი	NUM	Num	Case=Gen|NumForm=Word|NumType=Ord|Number=Sing|PartType=Emp	34	nummod	_	Translit=pirvelve
 30	აღსრულებულთა	აღსრულებული	VERB	VerbalAdj	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	34	nmod	_	Translit=aġsrulebultʻa
 31	და	და	CCONJ	Conj	_	33	cc	_	Translit=da
 32	არღარა	არღარა	PART	Part	PartType=Neg	33	advmod:neg	_	Translit=arġara
@@ -1330,7 +1330,7 @@
 29-30	ჯერ-არს	_	_	_	_	_	_	_	_
 29	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	30	advmod	_	Translit=ǯer
 30	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	conj	_	Translit=ars
-31	ორთავე	ორი	NUM	Num	Case=Gen|Number=Plur|NumForm=Word|NumType=Card	32	nummod	_	Translit=ortʻave
+31	ორთავე	ორი	NUM	Num	Case=Gen|NumForm=Word|NumType=Card|Number=Plur|PartType=Emp	32	nummod	_	Translit=ortʻave
 32	ეპისკოპოსთა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Plur	34	nmod	_	Translit=episkopostʻa
 33	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	32	case	_	Translit=mier
 34	ქმნაჲ	ქმნა	NOUN	Noun	Case=Nom|Number=Sing	30	nsubj	_	Translit=kʻmnay
@@ -1656,7 +1656,7 @@
 14	არა	არა	PART	Part	PartType=Neg	19	advmod:neg	_	Translit=ara
 15	მიზეზითა	მიზეზი	NOUN	Noun	Case=Ins|Number=Sing	19	obl	_	Translit=mizezitʻa
 16	პირთა	პირი	NOUN	Noun	Case=Gen|Number=Plur	15	nmod	_	Translit=pirtʻa
-17	ვიეთთაჲთამე	ვიეთი	PRON	Pron	Case=Ins|Case[stack]=Gen|Number=Plur|PartType=Emp|PronType=Ind	16	det	_	Translit=vietʻtʻaytʻame
+17	ვიეთთაჲთამე	ვიეთი	PRON	Pron	Case=Ins|Case[stack]=Gen|Number=Plur|PartType=Emp|PronType=Ind|PartType=Emp	16	det	_	Translit=vietʻtʻaytʻame
 18	ქმნილად	ქმნილი	VERB	VerbalAdj	Case=Ess|Number=Sing|VerbForm=Part|Voice=Pass	19	xcomp	_	Translit=kʻmnilad
 19	უწყით	ცოდნა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	Translit=ucqitʻ
 20	ჩუენ	ჩუენ	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	19	nsubj	_	Translit=čʻuen
@@ -2725,7 +2725,7 @@
 70	შენი	შენი	PRON	Pron	Case=Nom|Number=Sing|Person=2|Poss=Yes|PronType=Prs	69	det	_	Translit=šeni
 71	და	და	CCONJ	Conj	_	94	cc	_	SpaceAfter=No|Translit=da
 72	,	,	PUNCT	F	PunctType=Comm	71	punct	_	Translit=,
-73	რაჲცა	რაჲცა	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	75	det	_	Translit=raycʻa
+73	რაჲცა	რაჲცა	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Rel	75	det	_	Translit=raycʻa
 74	რაჲმე	რაჲმე	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	75	det	_	Translit=rayme
 75	ნეშტი	ნეშტი	NOUN	Noun	Case=Nom|Number=Sing	94	nsubj	_	Translit=nešti
 76-77	ელენებრისა	_	_	_	_	_	_	_	_
@@ -2900,7 +2900,7 @@
 1	ა(1)	ა(1)	NUM	Num	NumForm=Georgian|NumType=Card	2	nummod	_	Translit=a(1)
 2	წესი	წესი	NOUN	Noun	Case=Nom|Number=Sing	13	nsubj	_	Translit=cesi
 3	რჩეული	რჩეული	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	Translit=rčʻeuli
-4	ყოვლისავე	ყოველი	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	5	det	_	Translit=qovlisave
+4	ყოვლისავე	ყოველი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Tot	5	det	_	Translit=qovlisave
 5	სიტყუად	სიტყუა	NOUN	Noun	Case=Ess|Number=Sing	3	obl	_	Translit=sitquad
 6	და	და	CCONJ	Conj	_	7	cc	_	Translit=da
 7	საქმედ	საქმე	NOUN	Noun	Case=Ess|Number=Sing	5	conj	_	Translit=sakʻmed
@@ -3028,7 +3028,7 @@
 42	აღსაარებითა	აღსაარება	NOUN	Noun	Case=Ins|Number=Sing	48	nmod	_	Translit=aġsaarebitʻa
 43	სარწმუნოებისაჲთა	სარწმუნოება	NOUN	Noun	Case=Ins|Case[stack]=Gen|Number=Sing	42	nmod	_	Translit=sarcmunoebisaytʻa
 44	ერთარსებაჲ	ერთარსება	NOUN	Noun	Case=Nom|Number=Sing	48	obj	_	Translit=ertʻarsebay
-45	სამთავე	სამთავე	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	47	amod	_	Translit=samtʻave
+45	სამთავე	სამთავე	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing|PartType=Emp	47	amod	_	Translit=samtʻave
 46	ღმერთმთავრობითისა	ღმერთმთავრობითი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	47	amod	_	Translit=ġmertʻmtʻavrobitʻisa
 47	ბუნებისა	ბუნება	NOUN	Noun	Case=Gen|Number=Sing	44	nmod	_	Translit=bunebisa
 48	გუამოვნებათაჲ	გუამოვნება	NOUN	Noun	Case=Nom|Case[stack]=Gen|Number=Plur	49	nsubj	_	Translit=guamovnebatʻay
@@ -3642,7 +3642,7 @@
 81	შემოკლებულად	შემოკლებული	ADJ	Adj	Case=Ess|Degree=Pos|Number=Sing	82	obl	_	Translit=šemoklebulad
 82	ვიტყოდით	თქმა	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin|Voice=Act	73	advcl	_	SpaceAfter=No|Translit=vitqoditʻ
 83	,	,	PUNCT	F	PunctType=Comm	82	punct	_	Translit=,
-84	ყოველთავე	ყოველივე	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	85	det	_	Translit=qoveltʻave
+84	ყოველთავე	ყოველივე	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Tot	85	det	_	Translit=qoveltʻave
 85	ეკლესიასა	ეკლესია	NOUN	Noun	Case=Dat|Number=Sing	97	obl	_	Translit=eklesiasa
 86	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	85	case	_	Translit=šina
 87	ღმრთისასა	ღმერთი	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	85	nmod	_	Translit=ġmrtʻisasa
@@ -3784,7 +3784,7 @@
 66	,	,	PUNCT	F	PunctType=Comm	68	punct	_	Translit=,
 67	ანუ	ანუ	CCONJ	Conj	_	68	cc	_	Translit=anu
 68	გარდავჰჴდებით	ჴდომა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	59	conj	_	Translit=gardavhx̣debitʻ
-69	რომელსაცა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	70	det	_	Translit=romelsacʻa
+69	რომელსაცა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Rel	70	det	_	Translit=romelsacʻa
 70	სიტყუასა	სიტყუა	NOUN	Noun	Case=Dat|Number=Sing	68	obj	_	SpaceAfter=No|Translit=sitquasa
 71	.	.	PUNCT	F	PunctType=Peri	7	punct	_	Translit=.
 
@@ -4299,7 +4299,7 @@
 80	სჯული	სჯული	NOUN	Noun	Case=Nom|Number=Sing	68	conj	_	Translit=sǯuli
 81	ერთად	ერთად	ADV	Adv	AdvType=Man	82	advmod	_	Translit=ertʻad
 82	შევხზავენით	შევხზავენით	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin|Voice=Act	17	conj	_	Translit=ševxzavenitʻ
-83	ორნივე	ორი	NUM	Num	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	68	appos	_	Translit=ornive
+83	ორნივე	ორი	NUM	Num	Case=Nom|NumForm=Word|NumType=Card|Number=Plur|PartType=Emp	68	appos	_	Translit=ornive
 84	მამობრივად	მამობრივი	ADJ	Adj	Case=Ess|Degree=Pos|Number=Sing	82	obl	_	Translit=mamobrivad
 85	ერთბამად	ერთბამად	ADV	Adv	AdvType=Man	84	conj	_	Translit=ertʻbamad
 86	და	და	CCONJ	Conj	_	87	cc	_	Translit=da
@@ -4352,7 +4352,7 @@
 131	ასოთხმეოცდაათცხრამეტთა	ასოთხმეოცდაათცხრამეტი	NUM	Num	Case=Gen|Number=Plur|NumForm=Word|NumType=Card	128	nummod	_	Translit=asotʻxmeocʻdaatʻcʻxramettʻa
 132	დამონებულ	დამონებული	VERB	VerbalAdj	Case=Abs|Number=Plur|VerbForm=Part|Voice=Pass	106	acl	_	Translit=damonebul
 133	არიან	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	132	cop	_	Translit=arian
-134	ცოდვისადა	ცოდვა	NOUN	Noun	Case=Dat|Number=Sing	132	obl	_	Translit=cʻodvisada
+134	ცოდვისადა	ცოდვა	NOUN	Noun	Case=Dat|Number=Sing|PartType=Emp	132	obl	_	Translit=cʻodvisada
 135	არა	არა	PART	Part	PartType=Neg	136	advmod:neg	_	Translit=ara
 136	ჰნებავს	ნება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	132	conj	_	Translit=hnebavs
 137-138	მისგან	_	_	_	_	_	_	_	_
@@ -4452,7 +4452,7 @@
 23	რაჲთა	რაჲთა	SCONJ	Conj	_	24	mark	_	Translit=raytʻa
 24	დასცხრენ	დაცხრომა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	ccomp	_	Translit=dascʻxren
 25	უკუე	უკუე	ADV	Adv	AdvType=Man	24	advmod	_	Translit=ukue
-26	ყოვლისავე	ყოველი	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	28	det	_	Translit=qovlisave
+26	ყოვლისავე	ყოველი	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Tot	28	det	_	Translit=qovlisave
 27	სამღდელოჲსა	სამღდელო	NOUN	Noun	Case=Gen|Number=Sing	28	nmod	_	Translit=samġdeloysa
 28	მსახურებისა	მსახურება	NOUN	Noun	Case=Gen|Number=Sing	24	obl	_	SpaceAfter=No|Translit=msaxurebisa
 29	,	,	PUNCT	F	PunctType=Comm	24	punct	_	Translit=,
@@ -4543,7 +4543,7 @@
 22	ჴელთ	ჴელი	NOUN	Noun	Case=Gen|Number=Plur	23	nmod	_	Translit=x̣eltʻ
 23	დასხმისა	დასხმა	NOUN	Noun	Case=Gen|Number=Sing	21	nmod	_	Translit=dasxmisa
 24	ერთისა	ერთი	NUM	Num	Case=Gen|Number=Sing|NumForm=Word|NumType=Card	25	nmod	_	Translit=ertʻisa
-25	ქორწილისადა	ქორწილი	NOUN	Noun	Case=Dat|Number=Sing	27	obl	_	Translit=kʻorcilisada
+25	ქორწილისადა	ქორწილი	NOUN	Noun	Case=Dat|Number=Sing|PartType=Emp	27	obl	_	Translit=kʻorcilisada
 26	უსჯულოებით	უსჯულოება	NOUN	Noun	Case=Ins|Number=Sing	27	obl	_	Translit=usǯuloebitʻ
 27	ზრახებულ	ზრახებული	VERB	VerbalAdj	Case=Abs|Number=Sing|VerbForm=Part|Voice=Pass	5	conj	_	Translit=zraxebul
 28	იყვნენ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	27	cop	_	SpaceAfter=No|Translit=iqvnen
@@ -4673,7 +4673,7 @@
 33	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
 34	ანუ	ანუ	CCONJ	Conj	_	40	cc	_	Translit=anu
 35	რაჲთურთით	რაჲთურთით	ADV	Adv	AdvType=Cau	40	advmod	_	Translit=raytʻurtʻitʻ
-36	რომელსაცა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	40	iobj	_	Translit=romelsacʻa
+36	რომელსაცა	რომელი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Rel	40	iobj	_	Translit=romelsacʻa
 37	სამღდელოსა	სამღდელო	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	38	amod	_	Translit=samġdelosa
 38	დასსა	დასი	NOUN	Noun	Case=Dat|Number=Sing	40	obl	_	Translit=dassa
 39	თანა	თან	ADP	Post	AdpType=Post|Case=Dat	38	case	_	Translit=tʻana
@@ -4750,7 +4750,7 @@
 20	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
 21	ანუ	ანუ	CCONJ	Conj	_	22	cc	_	Translit=anu
 22	მეკარე	მეკარე	NOUN	Noun	Case=Nom|Number=Sing	4	conj	_	Translit=mekare
-23	ღმრთისადა	ღმერთი	NOUN	Noun	Case=Dat|Number=Sing	24	nmod	_	Translit=ġmrtʻisada
+23	ღმრთისადა	ღმერთი	NOUN	Noun	Case=Dat|Number=Sing|PartType=Emp	24	nmod	_	Translit=ġmrtʻisada
 24	შეწირულსა	შეწირული	VERB	VerbalAdj	Case=Dat|Number=Sing|VerbForm=Part|Voice=Pass	25	amod	_	Translit=šecirulsa
 25	დედაკაცსა	დედაკაცი	NOUN	Noun	Case=Dat|Number=Sing	26	iobj	_	Translit=dedakacʻsa
 26	შეეყოს	შეყოფა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	advcl	_	SpaceAfter=No|Translit=šeeqos
@@ -5849,7 +5849,7 @@
 # text = ვინაჲცა ვინცა ვინ იპოოს ღირსად ჴელთდასხმისა მიმართ კერძო-დიაკონობისა, ანუ დიაკონობისა, ანუ ხუცობისა, ესე ნუმცა დაიყენების ესევითარსა პატივსა მოსლვად სჯულიერისა მეუღლისა თანამცხორებელ-ყოფისათჳს, ნუცამცა ჟამსა ჴელთ-დასხმისასა მიიჴადების აღსაარებად, რაჲთა განეყენოს სჯულიერსა თანა-ქცევასა მეუღლისა თჳსისასა, რაჲთა არა ღმრთისა მიერ სჯულდებულისა და მისლვითა მისითა კურთხეულისა ქორწილისა შეურაცხყოფად ვიიძულნეთ ამიერ, ვინაჲთგან ჴმაჲ სახარებისაჲ ღაღადებს, ვითარმედ: „რომელნი-იგი ღმერთმან შეაუღლნა, კაცნი ნუ განაშორებნ“.
 # translit = vinaycʻa vincʻa vin ipoos ġirsad x̣eltʻdasxmisa mimartʻ kerʒo-diakonobisa, anu diakonobisa, anu xucʻobisa, ese numcʻa daiqenebis esevitʻarsa pativsa moslvad sǯulierisa meuġlisa tʻanamcʻxorebel-qopʻisatʻws, nucʻamcʻa žamsa x̣eltʻ-dasxmisasa miix̣adebis aġsaarebad, raytʻa ganeqenos sǯuliersa tʻana-kʻcʻevasa meuġlisa tʻwsisasa, raytʻa ara ġmrtʻisa mier sǯuldebulisa da mislvitʻa misitʻa kurtʻxeulisa kʻorcilisa šeuracʻxqopʻad viiʒulnetʻ amier, vinaytʻgan x̣may saxarebisay ġaġadebs, vitʻarmed: „romelni-igi ġmertʻman šeauġlna, kacʻni nu ganašorebn“.
 1	ვინაჲცა	ვინა	PRON	Pron	Case=Gen|ExtPos=PRON|Number=Sing|PartType=Emp|PronType=Rel	4	obl	_	Translit=vinaycʻa
-2	ვინცა	ვინცა	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	4	nsubj	_	Translit=vincʻa
+2	ვინცა	ვინცა	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Rel	4	nsubj	_	Translit=vincʻa
 3	ვინ	ვინ	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	2	appos	_	Translit=vin
 4	იპოოს	პოვება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=ipoos
 5	ღირსად	ღირსი	ADJ	Adj	Case=Ess|Degree=Pos|Number=Sing	4	xcomp	_	Translit=ġirsad
@@ -5959,7 +5959,7 @@
 3	თუ	თუ	SCONJ	Conj	_	4	mark	_	Translit=tʻu
 4	შეკრულ	კრული	VERB	VerbalAdj	Case=Abs|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Translit=šekrul
 5	ხარ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Translit=xar
-6	მეუღლისადა	მეუღლე	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	4	obl	_	SpaceAfter=No|Translit=meuġlisada
+6	მეუღლისადა	მეუღლე	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing|PartType=Emp	4	obl	_	SpaceAfter=No|Translit=meuġlisada
 7	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 8	ნუ	ნუ	PART	Part	PartType=Neg	9	advmod:neg	_	Translit=nu
 9	ეძიებ	ძიება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	Translit=eʒieb
@@ -6033,7 +6033,7 @@
 15	ვითარცა	ვითარცა	SCONJ	Conj	_	25	mark	_	Translit=vitʻarcʻa
 16	მეცნიერთა	მეცნიერი	NOUN	Noun	Case=Gen|Number=Plur	17	nmod	_	Translit=mecʻniertʻa
 17	ჟამსა	ჟამი	NOUN	Noun	Case=Dat|Number=Sing	25	obl	_	Translit=žamsa
-18	ყოვლისავე	ყოველი	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	19	det	_	Translit=qovlisave
+18	ყოვლისავე	ყოველი	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Tot	19	det	_	Translit=qovlisave
 19	საქმისასა	საქმე	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Sing	17	nmod	_	Translit=sakʻmisasa
 20	და	და	CCONJ	Conj	_	22	cc	_	Translit=da
 21	უფროჲსღა	უფრო	ADJ	Adj	Case=Gen|Number=Sing|PartType=Emp	22	amod	_	Translit=upʻroysġa
@@ -6081,7 +6081,7 @@
 # translit = ac ukue vincʻa vin ikadros gareše samocʻikʻulotʻa kanontʻasa aġʒrulman mġdelad gančʻinebultʻa vietʻicʻa, xucʻestʻa vitqwtʻ, diakontʻa da kerʒo-diakontʻa daklebul-qopʻay sǯuliertʻa meuġletʻa mimartʻisa ziarebisa da šeqopʻisagan, ganikuetʻen.
 1	აწ	აწ	ADV	Adv	AdvType=Tim	5	advmod	_	Translit=ac
 2	უკუე	უკუე	ADV	Adv	AdvType=Man	5	advmod	_	Translit=ukue
-3	ვინცა	ვინცა	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Rel	5	nsubj	_	Translit=vincʻa
+3	ვინცა	ვინცა	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PartType=Emp|PronType=Rel	5	nsubj	_	Translit=vincʻa
 4	ვინ	ვინ	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	3	fixed	_	Translit=vin
 5	იკადროს	კადრება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	advcl	_	Translit=ikadros
 6	გარეშე	გარეშე	ADP	Post	AdpType=Post|Case=Gen	8	case	_	Translit=gareše
@@ -6863,7 +6863,7 @@
 12	უფროჲსღა	უფრო	ADJ	Adj	Case=Gen|Number=Sing|PartType=Emp	13	amod	_	Translit=upʻroysġa
 13	კჳრიაკეთა	კჳრიაკე	NOUN	Noun	Case=Dat|Number=Plur	9	conj	_	SpaceAfter=No|Translit=kwriaketʻa
 14	,	,	PUNCT	F	PunctType=Comm	13	punct	_	Translit=,
-15	ყოვლისავე	ყოველი	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	16	det	_	Translit=qovlisave
+15	ყოვლისავე	ყოველი	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Tot	16	det	_	Translit=qovlisave
 16	სამღდელოჲსა	სამღდელო	NOUN	Noun	Case=Gen|Number=Sing	17	nmod	_	Translit=samġdeloysa
 17	მწყობრისა	მწყობრი	NOUN	Noun	Case=Gen|Number=Sing	22	nmod	_	Translit=mcqobrisa
 18	და	და	CCONJ	Conj	_	20	cc	_	Translit=da
@@ -7684,7 +7684,7 @@
 25	მღდელნი	მღდელი	NOUN	Noun	Case=Nom|Number=Plur	24	nsubj	_	Translit=mġdelni
 26	და	და	CCONJ	Conj	_	30	cc	_	Translit=da
 27	ესრეთ	ესრეთ	ADV	Adv	AdvType=Man	30	advmod	_	Translit=esretʻ
-28	ორსავე	ორი	NUM	Num	Case=Dat|Number=Plur|NumForm=Word|NumType=Card	30	obj	_	Translit=orsave
+28	ორსავე	ორი	NUM	Num	Case=Dat|NumForm=Word|NumType=Card|Number=Plur|PartType=Emp	30	obj	_	Translit=orsave
 29	ერთბამად	ერთბამად	ADV	Adv	AdvType=Man	30	advmod	_	Translit=ertʻbamad
 30	განუყოფენ	განყოფა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	conj	_	Translit=ganuqopʻen
 31	ერსა	ერი	NOUN	Noun	Case=Dat|Number=Sing	30	iobj	_	SpaceAfter=No|Translit=ersa
@@ -8066,7 +8066,7 @@
 26	და	და	CCONJ	Conj	_	27	cc	_	Translit=da
 27	მათცა	იგი	PRON	Pron	Case=Gen|Number=Plur|PartType=Emp|Person=3|PronType=Prs	23	conj	_	Translit=matʻcʻa
 28	ეგერა	ეგერა	ADV	Adv	AdvType=Loc	30	advmod	_	Translit=egera
-29	პირველვე	ერთი	NUM	Num	Case=Gen|Number=Sing|NumForm=Word|NumType=Ord	30	nummod	_	Translit=pirvelve
+29	პირველვე	ერთი	NUM	Num	Case=Gen|NumForm=Word|NumType=Ord|Number=Sing|PartType=Emp	30	nummod	_	Translit=pirvelve
 30	აღსრულებულთა	აღსრულებული	ADJ	Adj	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	Translit=aġsrulebultʻa
 31	და	და	CCONJ	Conj	_	33	cc	_	Translit=da
 32	არღარა	არღარა	PART	Part	PartType=Neg	33	advmod:neg	_	Translit=arġara
@@ -8111,7 +8111,7 @@
 28-29	ჯერ-არს	_	_	_	_	_	_	_	_
 28	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	29	advmod	_	Translit=ǯer
 29	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	conj	_	Translit=ars
-30	ორთავე	ორივე	NUM	Num	Case=Gen|Number=Plur|NumForm=Word|NumType=Card	31	nummod	_	Translit=ortʻave
+30	ორთავე	ორივე	NUM	Num	Case=Gen|NumForm=Word|NumType=Card|Number=Plur|PartType=Emp	31	nummod	_	Translit=ortʻave
 31	ეპისკოპოსთა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Plur	33	obl	_	Translit=episkopostʻa
 32	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	31	case	_	Translit=mier
 33	ქმნაჲ	ქმნა	NOUN	Noun	Case=Nom|Number=Sing	29	csubj	_	Translit=kʻmnay
@@ -8379,7 +8379,7 @@
 27	უკუეთუ	უკუეთუ	SCONJ	Conj	_	28	mark	_	Translit=ukuetʻu
 28	შესაძლებელ	შესაძლებელი	VERB	VerbalAdj	Case=Abs|Number=Sing|VerbForm=Part	22	conj	_	Translit=šesaʒlebel
 29	იყოს	ყოფა	AUX	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	cop	_	Translit=iqos
-30	ყოველთავე	ყოველივე	PRON	Pron	Case=Dat|Number=Plur|PronType=Tot	28	nsubj	_	Translit=qoveltʻave
+30	ყოველთავე	ყოველივე	PRON	Pron	Case=Dat|Number=Plur|PartType=Emp|PronType=Tot	28	nsubj	_	Translit=qoveltʻave
 31	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	32	det	_	Translit=mis
 32	სამთავროჲსათა	სამთავრო	NOUN	Noun	Case=Dat|Case[stack]=Gen|Number=Plur	30	nmod	_	SpaceAfter=No|Translit=samtʻavroysatʻa
 33	,	,	PUNCT	F	PunctType=Comm	37	punct	_	Translit=,
@@ -8562,7 +8562,7 @@
 # text = და მეცა დღეს მის თანა მოცემულსა ამას ჩემდა სულისა მიერ ჴელმწიფებასა და ხედვასა ზედა დავდგე და განვიცადო და ვცნა, რაჲ მეჩუენოს და რაჲ ითქუას ჩემდა მომართ.
 # translit = da mecʻa dġes mis tʻana mocʻemulsa amas čʻemda sulisa mier x̣elmcipʻebasa da xedvasa zeda davdge da ganvicʻado da vcʻna, ray mečʻuenos da ray itʻkʻuas čʻemda momartʻ.
 1	და	და	CCONJ	Conj	_	15	cc	_	Translit=da
-2	მეცა	მე	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	Translit=mecʻa
+2	მეცა	მე	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|Person=1|PronType=Prs	15	nsubj	_	Translit=mecʻa
 3	დღეს	დღეს	ADV	Adv	_	15	advmod	_	Translit=dġes
 4	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	obl	_	Translit=mis
 5	თანა	თან	ADP	Post	AdpType=Post|Case=Gen	4	case	_	Translit=tʻana
@@ -8688,11 +8688,11 @@
 6	არს	ყოფა	AUX	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	5	cop	_	Translit=ars
 7	სოფლისაჲ	სოფელი	NOUN	Noun	Case=Nom|Case[stack]=Gen|Number=Sing	5	nmod	_	SpaceAfter=No|Translit=sopʻlisay
 8	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
-9	რავდენიცა	რავდენიცა	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	11	nsubj	_	Translit=ravdenicʻa
+9	რავდენიცა	რავდენიცა	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Rel	11	nsubj	_	Translit=ravdenicʻa
 10	არს	ყოფა	AUX	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	11	cop	_	Translit=ars
 11	ხილული	ხილული	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	5	acl:relcl	_	Translit=xiluli
 12	და	და	CCONJ	Conj	_	15	cc	_	Translit=da
-13	რავდენიცა	რავდენიცა	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	15	nsubj	_	Translit=ravdenicʻa
+13	რავდენიცა	რავდენიცა	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Rel	15	nsubj	_	Translit=ravdenicʻa
 14	არს	ყოფა	AUX	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	15	cop	_	Translit=ars
 15	უხილავი	უხილავი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	11	conj	_	SpaceAfter=No|Translit=uxilavi
 16	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
@@ -8750,7 +8750,7 @@
 # sent_id = OGLC_00178
 # text = რავდენიცა არს ქრისტეს მიერ ახალი დაბადებული, განახლდებოდეთ.
 # translit = ravdenicʻa ars kʻristes mier axali dabadebuli, ganaxldebodetʻ.
-1	რავდენიცა	რავდენიცა	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	5	det	_	Translit=ravdenicʻa
+1	რავდენიცა	რავდენიცა	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Rel	5	det	_	Translit=ravdenicʻa
 2	არს	ყოფა	AUX	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	5	cop	_	Translit=ars
 3	ქრისტეს	ქრისტე	PROPN	Prop	Case=Gen|NameType=Prs|Number=Sing	5	obl	_	Translit=kʻristes
 4	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	3	case	_	Translit=mier
@@ -8812,10 +8812,10 @@
 # translit = romeltʻa tʻana mecʻa tʻkʻuen šoris amasve vitqw (xolo iqavn čʻemda mocʻemul x̣may angelozebrisa mis ġirsi da mimcutʻomeli qoveltʻa kidetʻa sopʻlisatʻa); pasekʻi ars upʻlisay.
 1	რომელთა	რომელი	PRON	PRON	Case=Gen|Number=Plur|PronType=Rel	7	obl	_	Translit=romeltʻa
 2	თანა	თან	ADP	Post	AdpType=Post|Case=Gen	1	case	_	Translit=tʻana
-3	მეცა	მე	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit=mecʻa
+3	მეცა	მე	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|Person=1|PronType=Prs	7	nsubj	_	Translit=mecʻa
 4	თქუენ	თქუენ	PRON	Pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	7	obl	_	Translit=tʻkʻuen
 5	შორის	შორის	ADP	Post	AdpType=Post|Case=Dat	4	case	_	Translit=šoris
-6	ამასვე	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	7	obj	_	Translit=amasve
+6	ამასვე	ესე	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Dem	7	obj	_	Translit=amasve
 7	ვიტყჳ	სიტყუა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=vitqw
 8	(	(	PUNCT	Punct	_	17	punct	_	SpaceAfter=No|Translit=(
 9	ხოლო	ხოლო	CCONJ	Conj	_	17	cc	_	Translit=xolo
@@ -8881,7 +8881,7 @@
 10	მდაბალთა	მდაბალი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Plur	7	conj	_	SpaceAfter=No|Translit=mdabaltʻa
 11	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
 12	არამედ	არამედ	CCONJ	Conj	_	14	cc	_	Translit=aramed
-13	თავადისაცა	თავადი	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	14	nmod	_	Translit=tʻavadisacʻa
+13	თავადისაცა	თავადი	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Tot	14	nmod	_	Translit=tʻavadisacʻa
 14	ქრისტესთა	ქრისტესა	ADJ	Adj	Case=Dat|Case[stack]=Gen|Degree=Pos|Number=Plur	7	conj	_	Translit=kʻristestʻa
 15	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
 16	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	18	obl	_	Translit=mas
@@ -8902,7 +8902,7 @@
 1	რამეთუ	რამეთუ	SCONJ	Conj	_	2	mark	_	Translit=rametʻu
 2	კეთილ	კეთილი	ADJ	Adj	Case=Abs|Degree=Pos|Number=Sing	0	root	_	Translit=ketʻil
 3	იყო	ყოფა	AUX	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	2	cop	_	Translit=iqo
-4	გუშინდელიცა	გუშინდელი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	8	amod	_	Translit=gušindelicʻa
+4	გუშინდელიცა	გუშინდელი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing|PartType=Emp	8	amod	_	Translit=gušindelicʻa
 5	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	8	det	_	Translit=igi
 6	ჩუენი	ჩუენი	PRON	Pron	Case=Nom|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	Translit=čʻueni
 7	ნათლითა	ნათელი	NOUN	Noun	Case=Ins|Number=Sing	8	nmod	_	Translit=natʻlitʻa
@@ -8928,7 +8928,7 @@
 11	ნათესავმან	ნათესავი	NOUN	Noun	Case=Erg|Number=Sing	9	nsubj	_	Translit=natʻesavman
 12	კაცთამან	კაცი	NOUN	Noun	Case=Erg|Case[stack]=Gen|Number=Plur	11	nmod	_	Translit=kacʻtʻaman
 13	და	და	CCONJ	Conj	_	15	cc	_	Translit=da
-14	ყოველმანვე	ყოველი	PRON	Pron	Case=Erg|Number=Sing|PronType=Tot	15	det	_	Translit=qovelmanve
+14	ყოველმანვე	ყოველი	PRON	Pron	Case=Erg|Number=Sing|PartType=Emp|PronType=Tot	15	det	_	Translit=qovelmanve
 15	ჰასაკმან	ჰასაკი	NOUN	Noun	Case=Erg|Number=Sing	11	conj	_	Translit=hasakman
 16	და	და	CCONJ	Conj	_	21	cc	_	Translit=da
 17	ბრწყინვალითა	ბრწყინვალე	ADJ	Adj	Case=Ins|Degree=Pos|Number=Sing	19	amod	_	Translit=brcqinvalitʻa
@@ -8951,9 +8951,9 @@
 8	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 9	რამეთუ	რამეთუ	SCONJ	Conj	_	10	mark	_	Translit=rametʻu
 10	ვდღესასწაულობდით	დღესასწაულობა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	Translit=vdġesascaulobditʻ
-11	ყოველნივე	ყოველი	PRON	Pron	Case=Nom|Number=Plur|PronType=Tot	10	nsubj	_	SpaceAfter=No|Translit=qovelnive
+11	ყოველნივე	ყოველი	PRON	Pron	Case=Nom|Number=Plur|PartType=Emp|PronType=Tot	10	nsubj	_	SpaceAfter=No|Translit=qovelnive
 12	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
-13	რომელნიცა	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	14	nsubj	_	Translit=romelnicʻa
+13	რომელნიცა	რომელი	PRON	Pron	Case=Nom|Number=Plur|PartType=Emp|PronType=Rel	14	nsubj	_	Translit=romelnicʻa
 14	ვართ	ყოფა	AUX	Verb	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	Translit=vartʻ
 15	ცასა	ცა	NOUN	Noun	Case=Dat|Number=Sing	14	obl	_	Translit=cʻasa
 16	ქუეშე	ქუეშე	ADP	Post	AdpType=Post|Case=Dat	15	case	_	SpaceAfter=No|Translit=kʻueše
@@ -8967,7 +8967,7 @@
 # text = და რავდენნიცა არიან ცათა ზედა ანგელოზნი და პირველი იგი ნათელი ბუნებაჲ შემდგომად პირველისა, რამეთუ მის მიერ არიან; და რავდენნიცა მდგომარე არიან წინაშე სამებისა, რომლისა მიერ არს ყოველივე ნათელი, განუყოფელისა მის ნათლისაგან განყოფილი და პატივცემული.
 # translit = da ravdennicʻa arian cʻatʻa zeda angelozni da pirveli igi natʻeli bunebay šemdgomad pirvelisa, rametʻu mis mier arian; da ravdennicʻa mdgomare arian cinaše samebisa, romlisa mier ars qovelive natʻeli, ganuqopʻelisa mis natʻlisagan ganqopʻili da pativcʻemuli.
 1	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
-2	რავდენნიცა	რავდენი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	6	det	_	Translit=ravdennicʻa
+2	რავდენნიცა	რავდენი	PRON	Pron	Case=Nom|Number=Plur|PartType=Emp|PronType=Rel	6	det	_	Translit=ravdennicʻa
 3	არიან	ყოფა	AUX	Verb	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=arian
 4	ცათა	ცა	NOUN	Noun	Case=Dat|Number=Plur	6	nmod	_	Translit=cʻatʻa
 5	ზედა	ზედა	ADV	Adv	AdvType=Loc	4	advmod	_	Translit=zeda
@@ -8986,7 +8986,7 @@
 18	არიან	ყოფა	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	11	acl	_	SpaceAfter=No|Translit=arian
 19	;	;	PUNCT	F	PunctType=Semi	22	punct	_	Translit=;
 20	და	და	CCONJ	Conj	_	22	cc	_	Translit=da
-21	რავდენნიცა	რავდენი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	22	det	_	Translit=ravdennicʻa
+21	რავდენნიცა	რავდენი	PRON	Pron	Case=Nom|Number=Plur|PartType=Emp|PronType=Rel	22	det	_	Translit=ravdennicʻa
 22	მდგომარე	მდგომარე	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	6	conj	_	Translit=mdgomare
 23	არიან	ყოფა	AUX	Verb	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	22	cop	_	Translit=arian
 24	წინაშე	წინაშე	ADP	Post	AdpType=Post|Case=Gen	25	case	_	Translit=cinaše
@@ -8995,7 +8995,7 @@
 27	რომლისა	რომელი	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	29	obl	_	Translit=romlisa
 28	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	27	case	_	Translit=mier
 29	არს	ყოფა	AUX	AUX	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	Translit=ars
-30	ყოველივე	ყოველი	PRON	PRON	Case=Nom|Number=Sing|PronType=Tot	29	nsubj	_	Translit=qovelive
+30	ყოველივე	ყოველი	PRON	PRON	Case=Nom|Number=Sing|PartType=Emp|PronType=Tot	29	nsubj	_	Translit=qovelive
 31	ნათელი	ნათელი	NOUN	Noun	Case=Nom|Number=Sing	30	nmod	_	SpaceAfter=No|Translit=natʻeli
 32	,	,	PUNCT	F	PunctType=Comm	37	punct	_	Translit=,
 33	განუყოფელისა	განუყოფელი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	35	amod	_	Translit=ganuqopʻelisa
@@ -9095,7 +9095,7 @@
 30	ღირსებით	ღირსება	NOUN	Noun	Case=Ins|Number=Sing	31	nmod	_	Translit=ġirsebitʻ
 31	შეწირვასა	შეწირვა	VERB	VerbalNoun	Case=Dat|Number=Sing|VerbForm=Vnoun	34	obl	_	Translit=šecirvasa
 32	ძლით	ძლით	ADP	Post	AdpType=Post	31	case	_	Translit=ʒlitʻ
-33	ანგელოზნიცა	ანგელოზი	NOUN	Noun	Case=Nom|Number=Plur	34	nsubj	_	Translit=angeloznicʻa
+33	ანგელოზნიცა	ანგელოზი	NOUN	Noun	Case=Nom|Number=Plur|PartType=Emp	34	nsubj	_	Translit=angeloznicʻa
 34	მიემთხუევინ	მიმთხუევა	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=3|VerbForm=Fin|Voice=Mid	3	advcl	_	SpaceAfter=No|Translit=miemtʻxuevin
 35	,	,	PUNCT	Punct	PunctType=Comm	36	punct	_	Translit=,
 36	პირველნი	ერთი	NUM	Num	Case=Nom|Number=Plur|NumForm=Word|NumType=Ord	33	appos	_	Translit=pirvelni
@@ -9114,7 +9114,7 @@
 49	უკუეთუ	უკუეთუ	SCONJ	Conj	_	51	mark	_	Translit=ukuetʻu
 50	ოდენ	ოდენ	ADV	Adv	AdvType=Man	51	advmod	_	Translit=oden
 51	მისწუთებიან	მიწუთომა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Mid	34	advcl	_	Translit=miscutʻebian
-52	იგინიცა	იგინი	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	51	nsubj	_	Translit=iginicʻa
+52	იგინიცა	იგინი	PRON	Pron	Case=Nom|Number=Plur|PartType=Emp|Person=3|PronType=Prs	51	nsubj	_	Translit=iginicʻa
 53	ღირსად	ღირსი	ADJ	Adj	Case=Ess|Degree=Pos|Number=Sing	51	obl	_	Translit=ġirsad
 54	გალობად	გალობა	VERB	VerbalNoun	Case=Ess|Number=Sing|VerbForm=Vnoun	51	xcomp	_	Translit=galobad
 55	ღმრთისა	ღმერთი	NOUN	Noun	Case=Gen|Number=Sing	54	nmod	_	SpaceAfter=No|Translit=ġmrtʻisa
@@ -9135,7 +9135,7 @@
 10	უმჯობესი	უმჯობესი	ADJ	Adjective	Case=Nom|Number=Sing	3	amod	_	SpaceAfter=No|Translit=umǯobesi
 11	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
 12	რამეთუ	რამეთუ	SCONJ	Conj	_	14	mark	_	Translit=rametʻu
-13	სიტყუასაცა	სიტყუა	NOUN	Noun	Case=Dat|Number=Sing	14	iobj	_	Translit=sitquasacʻa
+13	სიტყუასაცა	სიტყუა	NOUN	Noun	Case=Dat|Number=Sing|PartType=Emp	14	iobj	_	Translit=sitquasacʻa
 14	უგალობთ	გალობა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Sing|Number[subj]=Plur|Person[io]=3|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	SpaceAfter=No|Translit=ugalobtʻ
 15	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
 16	მოსრულსა	მოსრული	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing|VerbForm=Part	13	amod	_	Translit=mosrulsa
@@ -9197,13 +9197,13 @@
 3-4	წმიდა-ყვენით	_	_	_	_	_	_	_	_
 3	წმიდა	წმიდა	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	4	xcomp	_	Translit=cmida
 4	ყვენით	ყოფა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=2|VerbForm=Fin|Voice=Act	0	root	_	Translit=qvenitʻ
-5	გოონებანიცა	გონება	NOUN	Noun	Case=Nom|Number=Plur	4	obj	_	Translit=goonebanicʻa
+5	გოონებანიცა	გონება	NOUN	Noun	Case=Nom|Number=Plur|PartType=Emp	4	obj	_	Translit=goonebanicʻa
 6	და	და	CCONJ	Conj	_	7	cc	_	Translit=da
 7	სასმენელნი	სასმენელი	NOUN	Noun	Case=Nom|Number=Plur	5	conj	_	Translit=sasmenelni
 8	და	და	CCONJ	Conj	_	9	cc	_	Translit=da
 9	გულნი	გული	NOUN	Noun	Case=Nom|Number=Plur	5	conj	_	SpaceAfter=No|Translit=gulni
 10	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
-11	რომელთაცა	რომელი	PRON	Pron	Case=Dat|Number=Plur|PronType=Rel	12	iobj	_	Translit=romeltʻacʻa
+11	რომელთაცა	რომელი	PRON	Pron	Case=Dat|Number=Plur|PartType=Emp|PronType=Rel	12	iobj	_	Translit=romeltʻacʻa
 12	გნებავს	ნებება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=2|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	Translit=gnebavs
 13	შუებაჲ	შუება	VERB	VerbalNoun	Case=Nom|Number=Sing|VerbForm=Vnoun	12	nsubj	_	Translit=šuebay
 14	შუებითა	შუება	VERB	VerbalNoun	Case=Ins|Number=Sing|VerbForm=Vnoun	12	obl	_	Translit=šuebitʻa
@@ -9297,7 +9297,7 @@
 # text = რამეთუ ყოველივე არსებაჲ შემოუკრებიეს და აქუს თავსა შორის თჳსსა, რომლისაჲ არცა დასაბამი არს, არცა დასასრული, ვითარცა უფსკრული რაჲმე არსებისაჲ, მიუწთომელი და უსაზღვროჲ, რომელი გარეგან არს ყოვლისავე მოგონებისა და ჟამთა და ბუნებისა;
 # translit = rametʻu qovelive arsebay šemoukrebies da akʻus tʻavsa šoris tʻwssa, romlisay arcʻa dasabami ars, arcʻa dasasruli, vitʻarcʻa upʻskruli rayme arsebisay, miuctʻomeli da usazġvroy, romeli garegan ars qovlisave mogonebisa da žamtʻa da bunebisa;
 1	რამეთუ	რამეთუ	SCONJ	Conj	_	4	mark	_	Translit=rametʻu
-2	ყოველივე	ყოველივე	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	3	det	_	Translit=qovelive
+2	ყოველივე	ყოველივე	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Tot	3	det	_	Translit=qovelive
 3	არსებაჲ	არსება	NOUN	Noun	Case=Nom|Number=Sing	4	obj	_	Translit=arsebay
 4	შემოუკრებიეს	შემოკრება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Sing|Number[obj]=Sing|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=šemoukrebies
 5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
@@ -9326,7 +9326,7 @@
 28	რომელი	რომელი	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	30	nsubj	_	Translit=romeli
 29	გარეგან	გარეგან	ADP	Post	_	32	case	_	Translit=garegan
 30	არს	ყოფა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	acl:relcl	_	Translit=ars
-31	ყოვლისავე	ყოველივე	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	32	det	_	Translit=qovlisave
+31	ყოვლისავე	ყოველივე	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Tot	32	det	_	Translit=qovlisave
 32	მოგონებისა	მოგონება	VERB	VerbalNoun	Case=Gen|Number=Sing|VerbForm=Vnoun	30	obl	_	Translit=mogonebisa
 33	და	და	CCONJ	Conj	_	34	cc	_	Translit=da
 34	ჟამთა	ჟამი	NOUN	Noun	Case=Gen|Number=Plur	32	conj	_	Translit=žamtʻa
@@ -9712,7 +9712,7 @@
 # translit = xolo ražams orive šemokribos, mašin saukuno saxel-edebis, rametʻu saukunoy arcʻa žami ars, arcʻa nacil žamisay,
 1	ხოლო	ხოლო	CCONJ	Conj	_	9	cc	_	Translit=xolo
 2	რაჟამს	რაჟამს	SCONJ	Conj	_	4	mark	_	Translit=ražams
-3	ორივე	ორივე	NUM	Num	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	4	obj	_	Translit=orive
+3	ორივე	ორივე	NUM	Num	Case=Nom|NumForm=Word|NumType=Card|Number=Sing|PartType=Emp	4	obj	_	Translit=orive
 4	შემოკრიბოს	შემოკრება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|VerbForm=Fin|Voice=Act	9	advcl	_	SpaceAfter=No|Translit=šemokribos
 5	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 6	მაშინ	მაშინ	ADV	Adv	_	9	advmod	_	Translit=mašin
@@ -9903,8 +9903,8 @@
 20	და	და	CCONJ	Conj	_	21	cc	_	Translit=da
 21	უფლებად	უფლება	NOUN	Noun	Case=Nom|Number=Sing	19	conj	_	SpaceAfter=No|Translit=upʻlebad
 22	,	,	PUNCT	F	PunctType=Comm	28	punct	_	Translit=,
-23	რომელიცა	რომელიცა	PRON	PRON	Case=Nom|Number=Sing|PronType=Rel	28	obj	_	Translit=romelicʻa
-24	სხუამანცა	სხუა	ADJ	Adj	Case=Erg|Degree=Pos|Number=Sing	25	amod	_	Translit=sxuamancʻa
+23	რომელიცა	რომელიცა	PRON	PRON	Case=Nom|Number=Sing|PartType=Emp|PronType=Rel	28	obj	_	Translit=romelicʻa
+24	სხუამანცა	სხუა	ADJ	Adj	Case=Erg|Degree=Pos|Number=Sing|PartType=Emp	25	amod	_	Translit=sxuamancʻa
 25	ვინმე	ვინმე	PRON	Pron	Case=Erg|Number=Sing|PronType=Ind	28	nsubj	_	Translit=vinme
 26	უწინარეს	უწინარეს	ADP	ADP	AdpType=Post	27	case	_	Translit=ucinares
 27	ჩუენსა	ჩუენი	PRON	Pron	Case=Dat|Number=Sing|Poss=Yes|PronType=Prs	28	obl	_	Translit=čʻuensa
@@ -10242,7 +10242,7 @@
 31	შემძლებელ	შემძლებელი	VERB	VerbalAdj	Case=Abs|Number=Sing|VerbForm=Part	28	ccomp	_	Translit=šemʒlebel
 32	არს	ყოფა	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	31	cop	_	Translit=ars
 33	დაბადებად	დაბადება	VERB	VerbalNoun	Case=Ess|Number=Sing|VerbForm=Vnoun	31	xcomp	_	Translit=dabadebad
-34	ყოვლისავე	ყოველი	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	35	det	_	Translit=qovlisave
+34	ყოვლისავე	ყოველი	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Tot	35	det	_	Translit=qovlisave
 35	ბუნებისა	ბუნება	NOUN	Noun	Case=Gen|Number=Sing	33	nmod	_	Translit=bunebisa
 36	-	-	PUNCT	Punct	PunctType=Dash	38	punct	_	Translit=-
 37	არა	არა	PART	Part	PartType=Neg	38	advmod:neg	_	Translit=ara
@@ -10253,7 +10253,7 @@
 42	,	,	PUNCT	Punct	PunctType=Comm	44	punct	_	Translit=,
 43	არამედ	არამედ	CCONJ	Conj	_	44	cc	_	Translit=aramed
 44	ფრიად	ფრიად	ADV	Adv	AdvType=Man	45	advmod	_	Translit=pʻriad
-45	შორიელსაცა	შორიელი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	39	conj	_	Translit=šorielsacʻa
+45	შორიელსაცა	შორიელი	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing|PartType=Emp	39	conj	_	Translit=šorielsacʻa
 46	და	და	CCONJ	Conj	_	47	cc	_	Translit=da
 47	უცხოსა	უცხო	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	45	conj	_	Translit=ucʻxosa
 48	ყოვლითურთ	ყოვლითურთ	ADV	Adv	AdvType=Man	47	advmod	_	SpaceAfter=No|Translit=qovlitʻurtʻ
@@ -10284,7 +10284,7 @@
 20	არიან	ყოფა	AUX	Verb	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	SpaceAfter=No|Translit=arian
 21	,	,	PUNCT	Punct	PunctType=Comm	24	punct	_	Translit=,
 22-23	რომელნიცა-იგი	_	_	_	_	_	_	_	_
-22	რომელნიცა	რომელი	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Plur|PronType=Rel	24	nsubj	_	Translit=romelnicʻa
+22	რომელნიცა	რომელი	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Plur|PartType=Emp|PronType=Rel	24	nsubj	_	Translit=romelnicʻa
 23	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	22	fixed	_	Translit=igi
 24	ხილულ	ხილული	ADJ	Adj	Case=Abs|Degree=Pos|Number=Sing	16	acl:relcl	_	Translit=xilul
 25	არიან	ყოფა	AUX	Aux	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	24	cop	_	Translit=arian
@@ -10413,7 +10413,7 @@
 31-32	მისგან	_	_	_	_	_	_	_	_
 31	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	30	det	_	Translit=mis
 32	გან	გან	ADP	Post	AdpType=Post|Case=Gen	30	case	_	Translit=gan
-33	პირველვე	ერთი	NUM	Num	Case=Gen|Number=Sing|NumForm=Word|NumType=Ord	34	nummod	_	Translit=pirvelve
+33	პირველვე	ერთი	NUM	Num	Case=Gen|NumForm=Word|NumType=Ord|Number=Sing|PartType=Emp	34	nummod	_	Translit=pirvelve
 34	დაბადებულისა	დაბადებული	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing|VerbForm=Part	30	amod	_	SpaceAfter=No|Translit=dabadebulisa
 35	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
@@ -10495,7 +10495,7 @@
 52	და	და	CCONJ	Conj	_	53	cc	_	Translit=da
 53	სიმცირესა	სიმცირე	NOUN	Noun	Case=Dat|Number=Sing	51	conj	_	SpaceAfter=No|Translit=simcʻiresa
 54	,	,	PUNCT	Punct	PunctType=Comm	56	punct	_	Translit=,
-55	იგივე	იგივე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	56	det	_	Translit=igive
+55	იგივე	იგივე	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Dem	56	det	_	Translit=igive
 56	სულ	სული	NOUN	Noun	Case=Abs|Number=Sing	18	conj	_	Translit=sul
 57	და	და	CCONJ	Conj	_	58	cc	_	Translit=da
 58	ჴორც	ჴორცი	NOUN	Noun	Case=Abs|Number=Sing	56	conj	_	Translit=x̣orcʻ
@@ -10598,7 +10598,7 @@
 4	შინა	შინა	ADP	Post	AdpType=Post|Case=Dat	3	case	_	SpaceAfter=No|Translit=šina
 5	,	,	PUNCT	Punct	PunctType=Comm	8	punct	_	Translit=,
 6-7	რაჲცა-იგი	_	_	_	_	_	_	_	_
-6	რაჲცა	რაჲცა	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Rel	8	xcomp	_	Translit=raycʻa
+6	რაჲცა	რაჲცა	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PartType=Emp|PronType=Rel	8	xcomp	_	Translit=raycʻa
 7	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	6	fixed	_	Translit=igi
 8	იყო	ყოფა	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	3	acl	_	Translit=iqo
 9	მაშინ	მაშინ	ADV	Adv	AdvType=Tim	8	advmod	_	Translit=mašin
@@ -10646,7 +10646,7 @@
 35	გულისსიტყუანი	გულისსიტყუა	NOUN	Noun	Case=Nom|Number=Plur	30	xcomp	_	Translit=gulissitquani
 36	საღმრთონი	საღმრთო	ADJ	Adj	Case=Nom|Degree=Pos|Number=Plur	35	amod	_	SpaceAfter=No|Translit=saġmrtʻoni
 37	,	,	PUNCT	Punct	PunctType=Comm	38	punct	_	Translit=,
-38	მარტივნიცა	მარტივი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Plur	35	amod	_	Translit=martivnicʻa
+38	მარტივნიცა	მარტივი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Plur|PartType=Emp	35	amod	_	Translit=martivnicʻa
 39	და	და	CCONJ	Conj	_	40	cc	_	Translit=da
 40	სრულნი	სრული	ADJ	Adj	Case=Nom|Degree=Pos|Number=Plur	38	conj	_	SpaceAfter=No|Translit=srulni
 41	,	,	PUNCT	Punct	PunctType=Comm	42	punct	_	Translit=,
@@ -11127,7 +11127,7 @@
 7	წამალი	წამალი	NOUN	Noun	Case=Nom|Number=Sing	6	nsubj	_	Translit=camali
 8	უძლიერესი	ძლიერი	ADJ	Adj	Case=Nom|Degree=Sup|Number=Sing	7	amod	_	SpaceAfter=No|Translit=uʒlieresi
 9	,	,	PUNCT	Punct	PunctType=Comm	6	punct	_	Translit=,
-10	უძლიერესიცა	ძლიერი	ADJ	Adj	Case=Nom|Degree=Sup|Number=Sing	11	obj	_	Translit=uʒlieresicʻa
+10	უძლიერესიცა	ძლიერი	ADJ	Adj	Case=Nom|Degree=Sup|Number=Sing|PartType=Emp	11	obj	_	Translit=uʒlieresicʻa
 11	ეპოვა	პოვნა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=epova
 12	.	.	PUNCT	Punct	PunctType=Peri	11	punct	_	Translit=.
 
@@ -11222,7 +11222,7 @@
 1	და	და	CCONJ	Conj	_	3	cc	_	Translit=da
 2	კაც	კაცი	NOUN	Noun	Case=Abs|Number=Sing	3	compound	_	Translit=kacʻ
 3	იქმნა	ქმნა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	33	advcl	_	Translit=ikʻmna
-4	ყოვლითავე	ყოველივე	PRON	Pron	Case=Ins|Number=Sing|PronType=Tot	3	obl	_	Translit=qovlitʻave
+4	ყოვლითავე	ყოველივე	PRON	Pron	Case=Ins|Number=Sing|PartType=Emp|PronType=Tot	3	obl	_	Translit=qovlitʻave
 5	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	6	case	_	Translit=tʻwnier
 6	ცოდვისა	ცოდვა	NOUN	Noun	Case=Gen|Number=Sing	3	obl	_	SpaceAfter=No|Translit=cʻodvisa
 7	,	,	PUNCT	Punct	PunctType=Comm	8	punct	_	Translit=,
@@ -11233,7 +11233,7 @@
 11	,	,	PUNCT	Punct	PunctType=Comm	12	punct	_	Translit=,
 12	განწმედილისა	განწმედილი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing|VerbForm=Part	9	acl	_	Translit=gancmedilisa
 13	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	12	det	_	Translit=mis
-14	პირველივე	ერთი	NUM	Num	Case=Ins|Number=Sing|NumForm=Word|NumType=Ord	15	nummod	_	Translit=pirvelive
+14	პირველივე	ერთი	NUM	Num	Case=Ins|NumForm=Word|NumType=Ord|Number=Sing|PartType=Emp	15	nummod	_	Translit=pirvelive
 15	სულით	სული	NOUN	Noun	Case=Ins|Number=Sing	12	obl	_	Translit=sulitʻ
 16	და	და	CCONJ	Conj	_	17	cc	_	Translit=da
 17	ჴორცით	ჴორცი	NOUN	Noun	Case=Ins|Number=Sing	15	conj	_	Translit=x̣orcʻitʻ
@@ -11420,11 +11420,11 @@
 4	ჩემთა	ჩემი	PRON	Pron	Case=Dat|Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	SpaceAfter=No|Translit=čʻemtʻa
 5	,	,	PUNCT	Punct	PunctType=Comm	9	punct	_	Translit=,
 6	რაჲთა	რაჲთა	SCONJ	Conj	_	9	mark	_	Translit=raytʻa
-7	ხატიცა	ხატი	NOUN	Noun	Case=Nom|Number=Sing	9	obj	_	Translit=xaticʻa
+7	ხატიცა	ხატი	NOUN	Noun	Case=Nom|Number=Sing|PartType=Emp	9	obj	_	Translit=xaticʻa
 8	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	7	det	_	Translit=igi
 9	აცხოვნოს	ცხოვნება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	Translit=acʻxovnos
 10	და	და	CCONJ	Conj	_	14	cc	_	Translit=da
-11	ჴორცნიცა	ჴორცი	NOUN	Noun	Case=Nom|Number=Plur	14	obj	_	Translit=x̣orcʻnicʻa
+11	ჴორცნიცა	ჴორცი	NOUN	Noun	Case=Nom|Number=Plur|PartType=Emp	14	obj	_	Translit=x̣orcʻnicʻa
 12	იგი	იგი	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Dem	11	det	_	Translit=igi
 13-14	უკუდავ-ყვნეს	_	_	_	_	_	_	_	SpaceAfter=No
 13	უკუდავ	უკუდავი	ADJ	Adj	Case=Abs|Degree=Pos|Number=Plur	14	xcomp	_	Translit=ukudav
@@ -11469,7 +11469,7 @@
 # translit = ese, romeltʻacʻa gonebay akʻundes, umaġlesad šeuracʻxies.
 1	ესე	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	8	nsubj	_	SpaceAfter=No|Translit=ese
 2	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
-3	რომელთაცა	რომელიმე	PRON	Pron	Case=Dat|Number=Plur|PronType=Rel	5	iobj	_	Translit=romeltʻacʻa
+3	რომელთაცა	რომელიმე	PRON	Pron	Case=Dat|Number=Plur|PartType=Emp|PronType=Rel	5	iobj	_	Translit=romeltʻacʻa
 4	გონებაჲ	გონება	NOUN	Noun	Case=Nom|Number=Sing	5	nsubj	_	Translit=gonebay
 5	აქუნდეს	ქონება	VERB	Verb	Aspect=Imp|Mood=Sub|Number[io]=Plur|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	SpaceAfter=No|Translit=akʻundes
 6	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
@@ -11752,7 +11752,7 @@
 21	ვითარმედ	ვითარმედ	SCONJ	Conj	_	23	mark	_	SpaceAfter=No|Translit=vitʻarmed
 22	:	:	PUNCT	Punct	PunctType=Colo	21	punct	_	Translit=:
 23	ჰქმნე	ქმნა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|VerbForm=Fin|Voice=Act	19	ccomp	_	Translit=hkʻmne
-24	ყოველივე	ყოველივე	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	23	obj	_	Translit=qovelive
+24	ყოველივე	ყოველივე	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Tot	23	obj	_	Translit=qovelive
 25	წესისა	წესი	NOUN	Noun	Case=Gen|Number=Sing	23	obl	_	Translit=cesisa
 26-27	მისებრ	_	_	_	_	_	_	_	SpaceAfter=No
 26	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	25	nmod	_	Translit=mis
@@ -11965,7 +11965,7 @@
 1	ხოლო	ხოლო	CCONJ	Conj	_	10	cc	_	Translit=xolo
 2	მაშინ	მაშინ	ADV	Adv	AdvType=Tim	10	advmod	_	Translit=mašin
 3	არა	არა	PART	Part	PartType=Neg	4	advmod:neg	_	Translit=ara
-4	ყოველნივე	ყოველივე	PRON	Pron	Case=Nom|Number=Plur|PronType=Tot	10	nsubj	_	Translit=qovelnive
+4	ყოველნივე	ყოველივე	PRON	Pron	Case=Nom|Number=Plur|PartType=Emp|PronType=Tot	10	nsubj	_	Translit=qovelnive
 5	ერთსა	ერთი	NUM	Num	Case=Dat|Number=Sing|NumForm=Word|NumType=Card	6	nummod	_	Translit=ertʻsa
 6	საზომსა	საზომი	NOUN	Noun	Case=Dat|Number=Sing	9	obl	_	Translit=sazomsa
 7	და	და	CCONJ	Conj	_	8	cc	_	Translit=da
@@ -11986,7 +11986,7 @@
 20	ებრ	ებრ	ADP	Post	AdpType=Post|Case=Gen	19	case	_	Translit=ebr
 21	თითოეულისა	თითოეული	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	19	nmod	_	Translit=tʻitʻoeulisa
 22	მიიღეს	მიღება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	Translit=miiġes
-23	დგომაჲცა	დგომა	NOUN	Noun	Case=Nom|Number=Sing	22	obj	_	Translit=dgomaycʻa
+23	დგომაჲცა	დგომა	NOUN	Noun	Case=Nom|Number=Sing|PartType=Emp	22	obj	_	Translit=dgomaycʻa
 24	და	და	CCONJ	Conj	_	28	cc	_	Translit=da
 25	კუალად	კუალად	ADV	Adv	AdvType=Tim	28	advmod	_	Translit=kualad
 26	სხუანი	სხუა	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	28	nsubj:pass	_	Translit=sxuani
@@ -12001,7 +12001,7 @@
 35	ზეგარდამოჲ	ზეგარდამო	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	32	amod	_	Translit=zegardamoy
 36	ესმოდა	სმენა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin	10	conj	_	SpaceAfter=No|Translit=esmoda
 37	,	,	PUNCT	F	PunctType=Comm	40	punct	_	Translit=,
-38	რავდენნიცა	რავდენიცა	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	40	nsubj	_	Translit=ravdennicʻa
+38	რავდენნიცა	რავდენიცა	PRON	Pron	Case=Nom|Number=Plur|PartType=Emp|PronType=Rel	40	nsubj	_	Translit=ravdennicʻa
 39	მჴეცისა	მჴეცი	NOUN	Noun	Case=Gen|Number=Sing	40	nmod	_	Translit=mx̣ecʻisa
 40	მსგავს	მსგავსი	ADJ	Adj	Case=Abs|Degree=Pos|Number=Sing	36	acl:relcl	_	Translit=msgavs
 41	იყვნეს	ყოფა	AUX	Verb	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	40	cop	_	Translit=iqvnes
@@ -12074,7 +12074,7 @@
 54	ამპარტავანებისაჲ	ამპარტავანება	NOUN	Noun	Case=Nom|Case[stack]=Gen|Number=Sing	52	conj	_	Translit=ampartavanebisay
 55	არს	ყოფა	AUX	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	52	cop	_	Translit=ars
 56	და	და	CCONJ	Conj	_	58	cc	_	Translit=da
-57	ორივე	ორივე	PRON	Pron	Case=Nom|Number=Plur|PronType=Tot	58	nsubj	_	Translit=orive
+57	ორივე	ორივე	PRON	Pron	Case=Nom|Number=Plur|PartType=Emp|PronType=Tot	58	nsubj	_	Translit=orive
 58	უჯერო	უჯერო	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	40	conj	_	Translit=uǯero
 59	არს	ყოფა	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	58	cop	_	SpaceAfter=No|Translit=ars
 60	)	)	PUNCT	F	_	40	punct	_	SpaceAfter=No|Translit=)
@@ -12303,7 +12303,7 @@
 1-2	ამისათჳს	_	_	_	_	_	_	_	_
 1	ამისა	ესე	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	4	obl	_	Translit=amisa
 2	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	1	case	_	Translit=tʻws
-3	ღმერთმანცა	ღმერთი	NOUN	Noun	Case=Erg|Number=Sing	4	nsubj	_	Translit=ġmertʻmancʻa
+3	ღმერთმანცა	ღმერთი	NOUN	Noun	Case=Erg|Number=Sing|PartType=Emp	4	nsubj	_	Translit=ġmertʻmancʻa
 4	მოგუცა	მოცემა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=mogucʻa
 5	პირველად	ერთი	NUM	Num	Case=Ess|Number=Sing|NumForm=Word|NumType=Ord	4	nummod	_	Translit=pirvelad
 6	შჯული	შჯული	NOUN	Noun	Case=Nom|Number=Sing	4	obj	_	Translit=šǯuli
@@ -12362,7 +12362,7 @@
 3	ჟამსა	ჟამი	NOUN	Noun	Case=Dat|Number=Sing	5	obl	_	Translit=žamsa
 4	თჳსსა	თჳსი	PRON	Pron	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod	_	Translit=tʻwssa
 5	დაჰჴსნნეს	დაჴსნა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=dahx̣snnes
-6	მსხუერპლნიცა	მსხუერპლი	NOUN	Noun	Case=Nom|Number=Plur	5	obj	_	SpaceAfter=No|Translit=msxuerplnicʻa
+6	მსხუერპლნიცა	მსხუერპლი	NOUN	Noun	Case=Nom|Number=Plur|PartType=Emp	5	obj	_	SpaceAfter=No|Translit=msxuerplnicʻa
 7	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
 8	რაჟამს	რაჟამს	SCONJ	Conj	_	12	mark	_	Translit=ražams
 9	ესრეთ	ესრეთ	ADV	Adv	AdvType=Man	12	advmod	_	Translit=esretʻ
@@ -12483,7 +12483,7 @@
 31	მცირედჟამ	მცირედჟამ	ADV	Adv	AdvType=Tim	26	conj	_	SpaceAfter=No|Translit=mcʻiredžam
 32	,	,	PUNCT	F	PunctType=Comm	34	punct	_	Translit=,
 33	არამედ	არამედ	CCONJ	Conj	_	34	cc	_	Translit=aramed
-34	ყოვლისავე	ყოველივე	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	26	conj	_	Translit=qovlisave
+34	ყოვლისავე	ყოველივე	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Tot	26	conj	_	Translit=qovlisave
 35	და	და	CCONJ	Conj	_	36	cc	_	Translit=da
 36	საუკუნოდ	საუკუნოდ	ADV	Adv	AdvType=Tim	34	conj	_	Translit=saukunod
 37	განმწმედელ	განმწმედელი	VERB	VerbalNoun	Case=Abs|Number=Sing|VerbForm=Vnoun	6	acl:relcl	_	Translit=ganmcmedel
@@ -12580,7 +12580,7 @@
 11-12	ჩუენთჳს	_	_	_	_	_	_	_	_
 11	ჩუენ	ჩუენი	PRON	Pron	Case=Dat|Number=Plur|Person=1|Poss=Yes|PronType=Prs	13	obl	_	Translit=čʻuen
 12	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	11	case	_	Translit=tʻws
-13	შეწირულიცა	შეწირული	VERB	VerbalAdj	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	16	nsubj	_	Translit=šecirulicʻa
+13	შეწირულიცა	შეწირული	VERB	VerbalAdj	Case=Nom|Number=Sing|PartType=Emp|VerbForm=Part|Voice=Pass	16	nsubj	_	Translit=šecirulicʻa
 14	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	13	det	_	Translit=igi
 15	ჭეშმარიტად	ჭეშმარიტი	ADJ	Adj	Case=Ess|Degree=Pos|Number=Sing	16	obl	_	Translit=češmaritad
 16	სრულ	სრული	ADJ	Adj	Case=Abs|Degree=Pos|Number=Sing	2	advcl	_	Translit=srul
@@ -12798,7 +12798,7 @@
 24	რომელი	რომელი	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Rel	26	nsubj:pass	_	Translit=romeli
 25	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	24	fixed	_	Translit=igi
 26	გამოიცადა	გამოცდა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	14	acl:relcl	_	Translit=gamoicʻada
-27	ყოვლითავე	ყოველივე	PRON	Pron	Case=Ins|Number=Sing|PronType=Tot	28	nmod	_	Translit=qovlitʻave
+27	ყოვლითავე	ყოველივე	PRON	Pron	Case=Ins|Number=Sing|PartType=Emp|PronType=Tot	28	nmod	_	Translit=qovlitʻave
 28	მსგავსებითა	მსგავსება	NOUN	Noun	Case=Ins|Number=Sing	26	obl	_	Translit=msgavsebitʻa
 29	ჩუენითა	ჩუენი	PRON	Pron	Case=Ins|Number=Plur|Person=1|Poss=Yes|PronType=Prs	28	nmod	_	Translit=čʻuenitʻa
 30	თჳნიერ	თჳნიერ	ADP	Post	AdpType=Post|Case=Gen	31	case	_	Translit=tʻwnier
@@ -12952,7 +12952,7 @@
 27	არა	არა	PART	Part	PartType=Neg	28	advmod:neg	_	Translit=ara
 28	საკჳრველ	საკჳრველი	ADJ	Adj	Case=Abs|Degree=Pos|Number=Sing	2	conj	_	Translit=sakwrvel
 29	არს	ყოფა	AUX	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	28	cop	_	Translit=ars
-30	ესეცა	ესე	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	28	nsubj	_	SpaceAfter=No|Translit=esecʻa
+30	ესეცა	ესე	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Dem	28	nsubj	_	SpaceAfter=No|Translit=esecʻa
 31	,	,	PUNCT	F	PunctType=Comm	36	punct	_	Translit=,
 32	რომელ	რომელი	SCONJ	Conj	_	36	mark	_	Translit=romel
 33	ყოველთა	ყოველი	PRON	Pron	Case=Gen|Number=Plur|PronType=Tot	34	det	_	Translit=qoveltʻa
@@ -12976,7 +12976,7 @@
 48	,	,	PUNCT	F	PunctType=Comm	50	punct	_	Translit=,
 49	რაჲთა	რაჲთა	SCONJ	Conj	_	50	mark	_	Translit=raytʻa
 50	მოუწოდოს	მოწოდება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	45	advcl	_	Translit=moucodos
-51	მეზობელთაცა	მეზობელი	NOUN	Noun	Case=Dat|Number=Plur	50	iobj	_	SpaceAfter=No|Translit=mezobeltʻacʻa
+51	მეზობელთაცა	მეზობელი	NOUN	Noun	Case=Dat|Number=Plur|PartType=Emp	50	iobj	_	SpaceAfter=No|Translit=mezobeltʻacʻa
 52	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
 
 # sent_id = OGLC_00296
@@ -13023,7 +13023,7 @@
 6	უძლურებისა	უძლურება	NOUN	Noun	Case=Gen|Number=Sing	4	obl	_	Translit=uʒlurebisa
 7	გან	გან	ADP	Post	AdpType=Post|Case=Gen	6	case	_	Translit=gan
 8	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
-9	თანაშემწედცა	თანაშემწე	NOUN	Noun	Case=Ess|Number=Sing	10	xcomp	_	Translit=tʻanašemcedcʻa
+9	თანაშემწედცა	თანაშემწე	NOUN	Noun	Case=Ess|Number=Sing|PartType=Emp	10	xcomp	_	Translit=tʻanašemcedcʻa
 10	მიიხუნეს	მიხუნება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=miixunes
 11	ზიარნი	ზიარი	NOUN	Noun	Case=Nom|Number=Plur	10	obj	_	Translit=ziarni
 12	იგი	იგი	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Dem	11	det	_	Translit=igi
@@ -13066,7 +13066,7 @@
 21	და	და	CCONJ	Conj	_	23	cc	_	Translit=da
 22	ნათლად	ნათელი	NOUN	Noun	Case=Ess|Number=Sing	23	xcomp	_	Translit=natʻlad
 23	შეიცვალა	შეცვლა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Pass	17	conj	_	Translit=šeicʻvala
-24	ყოველივე	ყოველივე	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	23	nsubj:pass	_	Translit=qovelive
+24	ყოველივე	ყოველივე	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Tot	23	nsubj:pass	_	Translit=qovelive
 25	და	და	CCONJ	Conj	_	26	cc	_	Translit=da
 26	წესიერებად	წესიერება	VERB	VerbalNoun	Case=Ess|Number=Sing|VerbForm=Vnoun	22	conj	_	Translit=cesierebad
 27	და	და	CCONJ	Conj	_	31	cc	_	Translit=da
@@ -13082,7 +13082,7 @@
 # translit = esretʻ vivltitʻ čʻuencʻa egwptitʻ, bnelisa misgan cʻodvisa da pʻaraoysgan, uxilavisa misgan mʒlavrisa da mcaretʻa matʻgan zedamdgomeltʻa sakʻmisatʻa da zecʻisa sasupʻevelad mivicʻvalebitʻ; da tʻix̣isa misgan da alizisa da bzisa ganvtʻavisupʻldebitʻ, romel ars x̣orcʻtʻa ese boroti monebay da gulissitquatʻa matʻ msgavsad bzisa dasacuveltʻa.
 1	ესრეთ	ესრეთ	ADV	Adv	AdvType=Man	2	advmod	_	Translit=esretʻ
 2	ვივლტით	ვლტოლა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=vivltitʻ
-3	ჩუენცა	ჩუენი	PRON	Pron	Case=Nom|Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	Translit=čʻuencʻa
+3	ჩუენცა	ჩუენი	PRON	Pron	Case=Nom|Number=Plur|PartType=Emp|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	Translit=čʻuencʻa
 4	ეგჳპტით	ეგჳპტე	PROPN	Prop	Case=Ins|NameType=Geo|Number=Sing	2	obl	_	SpaceAfter=No|Translit=egwptitʻ
 5	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
 6	ბნელისა	ბნელი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	2	obl	_	Translit=bnelisa
@@ -13214,7 +13214,7 @@
 7	გულისსიტყუათა	გულისსიტყუა	NOUN	Noun	Case=Gen|Number=Plur	5	conj	_	Translit=gulissitquatʻa
 8	მისთა	მისი	PRON	Pron	Case=Gen|Case[stack]=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	Translit=mistʻa
 9	(	(	PUNCT	F	_	14	punct	_	SpaceAfter=No|Translit=(
-10	რომელთაცა	რომელი	PRON	Pron	Case=Dat|Number=Plur|PronType=Rel	14	iobj	_	Translit=romeltʻacʻa
+10	რომელთაცა	რომელი	PRON	Pron	Case=Dat|Number=Plur|PartType=Emp|PronType=Rel	14	iobj	_	Translit=romeltʻacʻa
 11	თესლ	თესლი	NOUN	Noun	Case=Abs|Number=Sing	14	xcomp	_	Translit=tʻesl
 12	ქალდეველ	ქალდეველი	ADJ	Adj	Case=Abs|Degree=Pos|Number=Sing	11	amod	_	Translit=kʻaldevel
 13	აღჴოცილ	აღჴოცილი	VERB	VerbalAdj	Case=Abs|Number=Sing|VerbForm=Part	11	amod	_	Translit=aġx̣ocʻil
@@ -13229,7 +13229,7 @@
 22	კლდესა	კლდე	NOUN	Noun	Case=Dat|Number=Sing	21	nmod	_	SpaceAfter=No|Translit=kldesa
 23	)	)	PUNCT	F	_	14	punct	_	Translit=)
 24	და	და	CCONJ	Conj	_	29	cc	_	Translit=da
-25	ყოველივე	ყოველივე	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	29	nsubj	_	Translit=qovelive
+25	ყოველივე	ყოველივე	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Tot	29	nsubj	_	Translit=qovelive
 26	ჴმითა	ჴმა	NOUN	Noun	Case=Ins|Number=Sing	29	obl	_	Translit=x̣mitʻa
 27	და	და	CCONJ	Conj	_	28	cc	_	Translit=da
 28	გოდებითა	გოდება	VERB	VerbalNoun	Case=Ins|Number=Sing|VerbForm=Vnoun	26	conj	_	Translit=godebitʻa
@@ -13261,7 +13261,7 @@
 # translit = esretʻ ikʻmnebis aġvsebaycʻa igi da mospolvay cʻomovanisay šwd dġe (rametʻu ese ars sruli ricʻxutʻa šoris da šescorebuli sopʻlisa amis žamtʻa).
 1	ესრეთ	ესრეთ	ADV	Adv	AdvType=Man	2	advmod	_	Translit=esretʻ
 2	იქმნების	ქმნა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=ikʻmnebis
-3	აღვსებაჲცა	აღვსება	VERB	VerbalNoun	Case=Nom|Number=Sing|VerbForm=Vnoun	2	nsubj:pass	_	Translit=aġvsebaycʻa
+3	აღვსებაჲცა	აღვსება	VERB	VerbalNoun	Case=Nom|Number=Sing|PartType=Emp|VerbForm=Vnoun	2	nsubj:pass	_	Translit=aġvsebaycʻa
 4	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	3	det	_	Translit=igi
 5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
 6	მოსპოლვაჲ	მოსპოლვა	VERB	VerbalNoun	Case=Nom|Number=Sing|VerbForm=Vnoun	3	conj	_	Translit=mospolvay
@@ -13611,7 +13611,7 @@
 3	არს	ყოფა	AUX	Verb	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=ars
 4	,	,	PUNCT	F	PunctType=Comm	32	punct	_	Translit=,
 5	რაჲთა	რაჲთა	SCONJ	Conj	_	7	mark	_	Translit=raytʻa
-6	რავდენიცა	რავდენიცა	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	7	nsubj	_	Translit=ravdenicʻa
+6	რავდენიცა	რავდენიცა	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Rel	7	nsubj	_	Translit=ravdenicʻa
 7	იყოს	ყოფა	AUX	Verb	Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	32	advcl	_	Translit=iqos
 8	საიდუმლოთა	საიდუმლო	NOUN	Noun	Case=Gen|Number=Plur	11	nmod	_	Translit=saidumlotʻa
 9	მათ	იგი	PRON	Pron	Case=Gen|Number=Plur|PronType=Dem	8	det	_	Translit=matʻ
@@ -13711,7 +13711,7 @@
 10	სული	სული	NOUN	Noun	Case=Nom|Number=Sing	9	xcomp	_	Translit=suli
 11	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	10	det	_	SpaceAfter=No|Translit=igi
 12	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
-13	ყოვლისავე	ყოველივე	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	14	nmod	_	Translit=qovlisave
+13	ყოვლისავე	ყოველივე	PRON	Pron	Case=Gen|Number=Sing|PartType=Emp|PronType=Tot	14	nmod	_	Translit=qovlisave
 14	მცნობელი	მცნობელი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	10	amod	_	Translit=mcʻnobeli
 15	და	და	CCONJ	Conj	_	16	cc	_	Translit=da
 16	წმიდაჲ	წმიდა	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	14	conj	_	SpaceAfter=No|Translit=cmiday
@@ -13881,7 +13881,7 @@
 1	ნუცა	ნუცა	CCONJ	Conj	_	3	cc	_	Translit=nucʻa
 2	კუალად	კუალად	ADV	Adv	AdvType=Man	3	advmod	_	Translit=kualad
 3	მივიქცევით	მიქცევა	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=mivikʻcʻevitʻ
-4	პირველისავე	ერთი	NUM	Num	Case=Gen|Number=Sing|NumForm=Word|NumType=Ord	5	nummod	_	Translit=pirvelisave
+4	პირველისავე	ერთი	NUM	Num	Case=Gen|NumForm=Word|NumType=Ord|Number=Sing|PartType=Emp	5	nummod	_	Translit=pirvelisave
 5	ჩუეულებისა	ჩუეულება	NOUN	Noun	Case=Gen|Number=Sing	6	nmod	_	Translit=čʻueulebisa
 6	მიქცევად	მიქცევა	VERB	VerbalNoun	Case=Dat|Number=Sing|VerbForm=Vnoun	3	obl	_	Translit=mikʻcʻevad
 7	და	და	CCONJ	Conj	_	8	cc	_	Translit=da
@@ -13919,7 +13919,7 @@
 19	,	,	PUNCT	F	PunctType=Comm	23	punct	_	Translit=,
 20	რაჲთა	რაჲთა	SCONJ	Conj	_	23	mark	_	Translit=raytʻa
 21	არა	არა	PART	Part	PartType=Neg	23	advmod:neg	_	Translit=ara
-22	ყოველივე	ყოველივე	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	23	nsubj	_	Translit=qovelive
+22	ყოველივე	ყოველივე	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Tot	23	nsubj	_	Translit=qovelive
 23	დაამჟავოს	დამჟავება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	Translit=daamžavos
 24	და	და	CCONJ	Conj	_	26	cc	_	Translit=da
 25	თჳსად	თჳსი	PRON	Pron	Case=Ess|Number=Sing|Poss=Yes|PronType=Prs	26	obl	_	Translit=tʻwsad
@@ -14005,7 +14005,7 @@
 4	საქმითა	საქმე	NOUN	Noun	Case=Ins|Number=Sing	10	obl	_	Translit=sakʻmitʻa
 5	და	და	CCONJ	Conj	_	7	cc	_	Translit=da
 6	სხჳთა	სხუა	ADJ	Adj	Case=Ins|Degree=Pos|Number=Sing	7	amod	_	Translit=sxwtʻa
-7	ყოვლითავე	ყოველივე	PRON	Pron	Case=Ins|Number=Sing|PronType=Tot	4	conj	_	Translit=qovlitʻave
+7	ყოვლითავე	ყოველივე	PRON	Pron	Case=Ins|Number=Sing|PartType=Emp|PronType=Tot	4	conj	_	Translit=qovlitʻave
 8	ვინმცა	ვინმცა	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Ind	10	nsubj	_	Translit=vinmcʻa
 9	არა	არა	PART	Part	PartType=Neg	10	advmod:neg	_	Translit=ara
 10	თქუა	თქუმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=tʻkʻua
@@ -14917,7 +14917,7 @@
 8	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 9	კეთილად	კეთილი	ADJ	Adj	Case=Ess|Degree=Pos|Number=Sing	10	obl	_	Translit=ketʻilad
 10	წარმოუღე	წარმოღება	VERB	Verb	Aspect=Perf|Mood=Imp|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=2|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	Translit=carmouġe
-11	ყოველივე	ყოველივე	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	10	obj	_	SpaceAfter=No|Translit=qovelive
+11	ყოველივე	ყოველივე	PRON	Pron	Case=Nom|Number=Sing|PartType=Emp|PronType=Tot	10	obj	_	SpaceAfter=No|Translit=qovelive
 12	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
 
 # sent_id = OGLC_00363
@@ -15090,7 +15090,7 @@
 13	და	და	CCONJ	Conj	_	14	cc	_	Translit=da
 14	დიდ	დიდი	ADJ	Adj	Case=Abs|Degree=Pos|Number=Sing	12	conj	_	SpaceAfter=No|Translit=did
 15	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
-16	კერპნიცა	კერპი	NOUN	Noun	Case=Nom|Number=Plur	17	obj	_	Translit=kerpnicʻa
+16	კერპნიცა	კერპი	NOUN	Noun	Case=Nom|Number=Plur|PartType=Emp	17	obj	_	Translit=kerpnicʻa
 17	მოიპარნე	მოპარვა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=moiparne
 18	,	,	PUNCT	F	PunctType=Comm	20	punct	_	Translit=,
 19	რომელნიცა	რომელი	PRON	Pron	Case=Nom|Number=Plur|PartType=Emp|PronType=Rel	20	obj	_	Translit=romelnicʻa
