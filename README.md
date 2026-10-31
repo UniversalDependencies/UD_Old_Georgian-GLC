@@ -34,11 +34,7 @@ Test set (test): 376 sentences, 10116 syntactic words.
 
 # Contributors
 
-The development, annotation, expansion, and refinement of the Old Georgian UD Treebank have been carried out by the following contributors:
-Nino Doborjginidze
-Natia Dundua
-Anamaria Glonti
-Irina Lobzhanidze
+The development, annotation, expansion, and refinement of the Old Georgian UD Treebank have been carried out by the following contributors: Prof. Dr. Nino Doborjginidze, Natia Dundua (PhD), Anamaria Glonti (PhD student) and Prof. Dr. Irina Lobzhanidze
 
 # Acknowledgments
 
