@@ -19,11 +19,11 @@ The Old Georgian UD Treebank (UD_Old_Georgian-GLC) serves as the first syntactic
 | Epistle to the Antiochians by Ignatius the God-Bearer | 12th–13th c. | 1486 | 63 |
 | **Total** | | **33479** | **1232** |
 
-The treebank's annotations align with the Universal Dependencies (UD) specifications, allowing for greater consistency and compatibility with other UD treebanks. Although the tokenization and segmentation principles of the GLC differ slightly from those of the UD, the UD_Old_Georgian-GLC follows the UD approach, particularly regarding multiword tokens, to minimize differences.
+The treebank's annotations align with the Universal Dependencies (UD) specifications, allowing for greater consistency and compatibility with other UD treebanks. Although the tokenization and segmentation principles of the original GLC corpus differ slightly from those of the UD, the UD_Old_Georgian-GLC treebank adopts UD-compliant tokenization and segmentation principles, including the treatment of multiword tokens.
 
 Morpho-syntactic annotations, as discussed in Lobzhanidze (2022), have been automatically adapted to UD requirements. This includes annotations for lemmas (LEMMA), part-of-speech categories (UPOS; XPOS), morphological features (FEATS), transliteration, and tokenization issues (MISC). Furthermore, heads of words (HEADS), dependency relations (DEPREL), and enhanced dependency graphs (DEPS) were automatically converted and then reviewed and manually corrected.
 
-The current treebank is divided into three datasets for training, development, and evaluation, with complete source documents assigned to individual partitions to minimize data leakage:
+The current treebank is divided into three datasets for training, development, and evaluation, following the Universal Dependencies framework.
 
 Training set (train): 734 sentences, 20937 syntactic words.
 
@@ -34,11 +34,7 @@ Test set (test): 376 sentences, 10116 syntactic words.
 
 # Contributors
 
-The development, annotation, expansion, and refinement of the Old Georgian UD Treebank have been carried out by the following contributors:
-Nino Doborjginidze
-Natia Dundua
-Anamaria Glonti
-Irina Lobzhanidze
+The development, annotation, expansion, and refinement of the Old Georgian UD Treebank have been carried out by the following contributors: Prof. Dr. Nino Doborjginidze, Natia Dundua (PhD), Anamaria Glonti (PhD student) and Prof. Dr. Irina Lobzhanidze
 
 # Acknowledgments
 
