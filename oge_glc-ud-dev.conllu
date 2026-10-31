@@ -1112,7 +1112,7 @@
 12	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	11	det	_	Translit=igi
 13	ორკეცისა	ორკეცი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing	15	amod	_	Translit=orkecʻisa
 14	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	15	det	_	Translit=mis
-15	შთასლვისაჲ	შთასვლა	VERB	VerbalNoun	Case=Gen|Number=Sing|VerbForm=Vnoun	11	nmod	_	SpaceAfter=No|Translit=štʻaslvisay
+15	შთასლვისაჲ	შთასვლა	VERB	VerbalNoun	Case=Nom|Case[stack]=Gen|Number=Sing|VerbForm=Vnoun	11	nmod	_	SpaceAfter=No|Translit=štʻaslvisay
 16	,	,	PUNCT	F	PunctType=Comm	19	punct	_	Translit=,
 17	ანუ	ანუ	CCONJ	Conj	_	19	cc	_	Translit=anu
 18	თუ	თუ	SCONJ	Conj	_	19	cc	_	Translit=tʻu
@@ -2489,7 +2489,7 @@
 17	:	:	PUNCT	F	PunctType=Colo	19	punct	_	Translit=:
 18	ჵ	ჵ	INTJ	Intj	_	19	discourse	_	Translit=ō
 19	სიტყუაო	სიტყუა	NOUN	Noun	Case=Voc|Number=Sing	16	vocative	_	Translit=sitquao
-20	ღმრთისაო	ღმერთი	NOUN	Noun	Case=Voc|Number=Sing	19	nmod	_	SpaceAfter=No|Translit=ġmrtʻisao
+20	ღმრთისაო	ღმერთი	NOUN	Noun	Case=Voc|Case[stack]=Gen|Number=Sing	19	nmod	_	SpaceAfter=No|Translit=ġmrtʻisao
 21	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
 22	ნათელო	ნათელი	NOUN	Noun	Case=Voc|Number=Sing	19	conj	_	Translit=natʻelo
 23	და	და	CCONJ	Conj	_	24	cc	_	Translit=da
@@ -2524,7 +2524,7 @@
 11	ბეჭედო	ბეჭედი	NOUN	Noun	Case=Voc|Number=Sing	9	conj	_	Translit=bečedo
 12	მისისა	მისი	PRON	Pron	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	Translit=misisa
 13	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	14	det	_	Translit=mis
-14	დიდებისაო	დიდება	NOUN	Noun	Case=Voc|Number=Sing	9	nmod	_	SpaceAfter=No|Translit=didebisao
+14	დიდებისაო	დიდება	NOUN	Noun	Case=Voc|Case[stack]=Gen|Number=Sing	9	nmod	_	SpaceAfter=No|Translit=didebisao
 15	!	!	PUNCT	F	PunctType=Excl	6	punct	_	Translit=!
 
 # sent_id = OGLC_00482
