@@ -2854,7 +2854,7 @@
 3	ვითარ	ვითარ	SCONJ	Conj	ExtPos=SCONJ	5	mark	_	Translit=vitʻar
 4	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	3	fixed	_	Translit=igi
 5	ვთქუ	თქუმა	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|VerbForm=Fin|Voice=Mid	11	obl	_	Translit=vtʻkʻu
-6	პირველადცა	ერთი	NUM	Num	Case=Ess|NumForm=Word|NumType=Ord|Number=Sing|PartType=Emp	5	obl	_	SpaceAfter=No|Translit=pirveladcʻa
+6	პირველადცა	ერთი	NUM	Num	Case=Ess|Number=Sing|NumForm=Word|NumType=Ord|PartType=Emp	5	obl	_	SpaceAfter=No|Translit=pirveladcʻa
 7	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
 8	თჳსისა	თჳსი	PRON	Pron	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	Translit=tʻwsisa
 9-10	სახიერებისაგან	_	_	_	_	_	_	_	_

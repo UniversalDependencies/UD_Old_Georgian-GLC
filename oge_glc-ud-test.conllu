@@ -1283,7 +1283,7 @@
 26	და	და	CCONJ	Conj	_	34	cc	_	Translit=da
 27	მათცა	ის	PRON	Pron	Case=Gen|Number=Plur|PartType=Emp|Person=3|PronType=Prs	28	obl	_	Translit=matʻcʻa
 28	ეგერა	ეგერა	ADV	Adv	AdvType=Loc	34	advmod	_	Translit=egera
-29	პირველვე	ერთი	NUM	Num	Case=Gen|NumForm=Word|NumType=Ord|Number=Sing|PartType=Emp	34	nummod	_	Translit=pirvelve
+29	პირველვე	ერთი	NUM	Num	Case=Gen|Number=Sing|NumForm=Word|NumType=Ord|PartType=Emp	34	nummod	_	Translit=pirvelve
 30	აღსრულებულთა	აღსრულებული	VERB	VerbalAdj	Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	34	nmod	_	Translit=aġsrulebultʻa
 31	და	და	CCONJ	Conj	_	33	cc	_	Translit=da
 32	არღარა	არღარა	PART	Part	PartType=Neg	33	advmod:neg	_	Translit=arġara
@@ -1330,7 +1330,7 @@
 29-30	ჯერ-არს	_	_	_	_	_	_	_	_
 29	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	30	advmod	_	Translit=ǯer
 30	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	conj	_	Translit=ars
-31	ორთავე	ორი	NUM	Num	Case=Gen|NumForm=Word|NumType=Card|Number=Plur|PartType=Emp	32	nummod	_	Translit=ortʻave
+31	ორთავე	ორი	NUM	Num	Case=Gen|Number=Plur|NumForm=Word|NumType=Card|PartType=Emp	32	nummod	_	Translit=ortʻave
 32	ეპისკოპოსთა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Plur	34	nmod	_	Translit=episkopostʻa
 33	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	32	case	_	Translit=mier
 34	ქმნაჲ	ქმნა	NOUN	Noun	Case=Nom|Number=Sing	30	nsubj	_	Translit=kʻmnay
@@ -1656,7 +1656,7 @@
 14	არა	არა	PART	Part	PartType=Neg	19	advmod:neg	_	Translit=ara
 15	მიზეზითა	მიზეზი	NOUN	Noun	Case=Ins|Number=Sing	19	obl	_	Translit=mizezitʻa
 16	პირთა	პირი	NOUN	Noun	Case=Gen|Number=Plur	15	nmod	_	Translit=pirtʻa
-17	ვიეთთაჲთამე	ვიეთი	PRON	Pron	Case=Ins|Case[stack]=Gen|Number=Plur|PartType=Emp|PronType=Ind|PartType=Emp	16	det	_	Translit=vietʻtʻaytʻame
+17	ვიეთთაჲთამე	ვიეთი	PRON	Pron	Case=Ins|Case[stack]=Gen|Number=Plur|PartType=Emp|PronType=Ind	16	det	_	Translit=vietʻtʻaytʻame
 18	ქმნილად	ქმნილი	VERB	VerbalAdj	Case=Ess|Number=Sing|VerbForm=Part|Voice=Pass	19	xcomp	_	Translit=kʻmnilad
 19	უწყით	ცოდნა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	Translit=ucqitʻ
 20	ჩუენ	ჩუენ	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	19	nsubj	_	Translit=čʻuen
@@ -4299,7 +4299,7 @@
 80	სჯული	სჯული	NOUN	Noun	Case=Nom|Number=Sing	68	conj	_	Translit=sǯuli
 81	ერთად	ერთად	ADV	Adv	AdvType=Man	82	advmod	_	Translit=ertʻad
 82	შევხზავენით	შევხზავენით	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin|Voice=Act	17	conj	_	Translit=ševxzavenitʻ
-83	ორნივე	ორი	NUM	Num	Case=Nom|NumForm=Word|NumType=Card|Number=Plur|PartType=Emp	68	appos	_	Translit=ornive
+83	ორნივე	ორი	NUM	Num	Case=Nom|Number=Plur|NumForm=Word|NumType=Card|PartType=Emp	68	appos	_	Translit=ornive
 84	მამობრივად	მამობრივი	ADJ	Adj	Case=Ess|Degree=Pos|Number=Sing	82	obl	_	Translit=mamobrivad
 85	ერთბამად	ერთბამად	ADV	Adv	AdvType=Man	84	conj	_	Translit=ertʻbamad
 86	და	და	CCONJ	Conj	_	87	cc	_	Translit=da
@@ -7684,7 +7684,7 @@
 25	მღდელნი	მღდელი	NOUN	Noun	Case=Nom|Number=Plur	24	nsubj	_	Translit=mġdelni
 26	და	და	CCONJ	Conj	_	30	cc	_	Translit=da
 27	ესრეთ	ესრეთ	ADV	Adv	AdvType=Man	30	advmod	_	Translit=esretʻ
-28	ორსავე	ორი	NUM	Num	Case=Dat|NumForm=Word|NumType=Card|Number=Plur|PartType=Emp	30	obj	_	Translit=orsave
+28	ორსავე	ორი	NUM	Num	Case=Dat|Number=Plur|NumForm=Word|NumType=Card|PartType=Emp	30	obj	_	Translit=orsave
 29	ერთბამად	ერთბამად	ADV	Adv	AdvType=Man	30	advmod	_	Translit=ertʻbamad
 30	განუყოფენ	განყოფა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	conj	_	Translit=ganuqopʻen
 31	ერსა	ერი	NOUN	Noun	Case=Dat|Number=Sing	30	iobj	_	SpaceAfter=No|Translit=ersa
@@ -8066,7 +8066,7 @@
 26	და	და	CCONJ	Conj	_	27	cc	_	Translit=da
 27	მათცა	იგი	PRON	Pron	Case=Gen|Number=Plur|PartType=Emp|Person=3|PronType=Prs	23	conj	_	Translit=matʻcʻa
 28	ეგერა	ეგერა	ADV	Adv	AdvType=Loc	30	advmod	_	Translit=egera
-29	პირველვე	ერთი	NUM	Num	Case=Gen|NumForm=Word|NumType=Ord|Number=Sing|PartType=Emp	30	nummod	_	Translit=pirvelve
+29	პირველვე	ერთი	NUM	Num	Case=Gen|Number=Sing|NumForm=Word|NumType=Ord|PartType=Emp	30	nummod	_	Translit=pirvelve
 30	აღსრულებულთა	აღსრულებული	ADJ	Adj	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	Translit=aġsrulebultʻa
 31	და	და	CCONJ	Conj	_	33	cc	_	Translit=da
 32	არღარა	არღარა	PART	Part	PartType=Neg	33	advmod:neg	_	Translit=arġara
@@ -8111,7 +8111,7 @@
 28-29	ჯერ-არს	_	_	_	_	_	_	_	_
 28	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	29	advmod	_	Translit=ǯer
 29	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	conj	_	Translit=ars
-30	ორთავე	ორივე	NUM	Num	Case=Gen|NumForm=Word|NumType=Card|Number=Plur|PartType=Emp	31	nummod	_	Translit=ortʻave
+30	ორთავე	ორივე	NUM	Num	Case=Gen|Number=Plur|NumForm=Word|NumType=Card|PartType=Emp	31	nummod	_	Translit=ortʻave
 31	ეპისკოპოსთა	ეპისკოპოსი	NOUN	Noun	Case=Gen|Number=Plur	33	obl	_	Translit=episkopostʻa
 32	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	31	case	_	Translit=mier
 33	ქმნაჲ	ქმნა	NOUN	Noun	Case=Nom|Number=Sing	29	csubj	_	Translit=kʻmnay
@@ -9712,7 +9712,7 @@
 # translit = xolo ražams orive šemokribos, mašin saukuno saxel-edebis, rametʻu saukunoy arcʻa žami ars, arcʻa nacil žamisay,
 1	ხოლო	ხოლო	CCONJ	Conj	_	9	cc	_	Translit=xolo
 2	რაჟამს	რაჟამს	SCONJ	Conj	_	4	mark	_	Translit=ražams
-3	ორივე	ორივე	NUM	Num	Case=Nom|NumForm=Word|NumType=Card|Number=Sing|PartType=Emp	4	obj	_	Translit=orive
+3	ორივე	ორივე	NUM	Num	Case=Nom|Number=Sing|NumForm=Word|NumType=Card|PartType=Emp	4	obj	_	Translit=orive
 4	შემოკრიბოს	შემოკრება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|VerbForm=Fin|Voice=Act	9	advcl	_	SpaceAfter=No|Translit=šemokribos
 5	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 6	მაშინ	მაშინ	ADV	Adv	_	9	advmod	_	Translit=mašin
@@ -10413,7 +10413,7 @@
 31-32	მისგან	_	_	_	_	_	_	_	_
 31	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	30	det	_	Translit=mis
 32	გან	გან	ADP	Post	AdpType=Post|Case=Gen	30	case	_	Translit=gan
-33	პირველვე	ერთი	NUM	Num	Case=Gen|NumForm=Word|NumType=Ord|Number=Sing|PartType=Emp	34	nummod	_	Translit=pirvelve
+33	პირველვე	ერთი	NUM	Num	Case=Gen|Number=Sing|NumForm=Word|NumType=Ord|PartType=Emp	34	nummod	_	Translit=pirvelve
 34	დაბადებულისა	დაბადებული	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing|VerbForm=Part	30	amod	_	SpaceAfter=No|Translit=dabadebulisa
 35	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
@@ -11233,7 +11233,7 @@
 11	,	,	PUNCT	Punct	PunctType=Comm	12	punct	_	Translit=,
 12	განწმედილისა	განწმედილი	ADJ	Adj	Case=Gen|Degree=Pos|Number=Sing|VerbForm=Part	9	acl	_	Translit=gancmedilisa
 13	მის	იგი	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Dem	12	det	_	Translit=mis
-14	პირველივე	ერთი	NUM	Num	Case=Ins|NumForm=Word|NumType=Ord|Number=Sing|PartType=Emp	15	nummod	_	Translit=pirvelive
+14	პირველივე	ერთი	NUM	Num	Case=Ins|Number=Sing|NumForm=Word|NumType=Ord|PartType=Emp	15	nummod	_	Translit=pirvelive
 15	სულით	სული	NOUN	Noun	Case=Ins|Number=Sing	12	obl	_	Translit=sulitʻ
 16	და	და	CCONJ	Conj	_	17	cc	_	Translit=da
 17	ჴორცით	ჴორცი	NOUN	Noun	Case=Ins|Number=Sing	15	conj	_	Translit=x̣orcʻitʻ
@@ -13881,7 +13881,7 @@
 1	ნუცა	ნუცა	CCONJ	Conj	_	3	cc	_	Translit=nucʻa
 2	კუალად	კუალად	ADV	Adv	AdvType=Man	3	advmod	_	Translit=kualad
 3	მივიქცევით	მიქცევა	VERB	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=mivikʻcʻevitʻ
-4	პირველისავე	ერთი	NUM	Num	Case=Gen|NumForm=Word|NumType=Ord|Number=Sing|PartType=Emp	5	nummod	_	Translit=pirvelisave
+4	პირველისავე	ერთი	NUM	Num	Case=Gen|Number=Sing|NumForm=Word|NumType=Ord|PartType=Emp	5	nummod	_	Translit=pirvelisave
 5	ჩუეულებისა	ჩუეულება	NOUN	Noun	Case=Gen|Number=Sing	6	nmod	_	Translit=čʻueulebisa
 6	მიქცევად	მიქცევა	VERB	VerbalNoun	Case=Dat|Number=Sing|VerbForm=Vnoun	3	obl	_	Translit=mikʻcʻevad
 7	და	და	CCONJ	Conj	_	8	cc	_	Translit=da
