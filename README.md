@@ -5,20 +5,42 @@ The Old Georgian UD Treebank (UD_Old_Georgian-GLC) is the first syntactically an
 
 # Introduction
 
-The Old Georgian UD Treebank (UD_Georgian-GLC) serves as the first syntactically annotated corpus of the Old Georgian language. It includes 151 utterances (5809 tokens) randomly selected from the OGLC (Doborjginidze et al. 2013), providing detailed annotations encompassing the grammatical structure and dependencies within the sentences.
+The Old Georgian UD Treebank (UD_Old_Georgian-GLC) serves as the first syntactically annotated corpus of the Old Georgian language. It includes 1232 utterances (33630 tokens) selected from the OGLC (Doborjginidze et al. 2013), providing detailed annotations encompassing the grammatical structure and dependencies within the sentences.
 
-The treebank's annotations align with the Universal Dependencies (UD) specifications, allowing for greater consistency and compatibility with other UD treebanks. Although the tokenization and segmentation principles of the GLC differ slightly from those of the UD, the UD_Old_Georgian-GLC follows the UD approach, particularly regarding multiword tokens, to minimize differences.
+| Text | Date | Tokens | Sentences |
+|---|:---:|---:|---:|
+| The Great Nomocanon: Cyril of Alexandria’s Epistle to Domnus | 883 | 6575 | 151 |
+| The Great Nomocanon: Decree of the Council of Constantinople (394) | 883 | 615 | 14 |
+| Gregory of Nazianzus, On the Resurrection | 10th–11th c. | 7804 | 322 |
+| Martyrdom of Barlaam the Ascetic | 11th c. | 5623 | 188 |
+| Andrew of Crete, On the Nativity of the Theotokos | 11th c. | 4585 | 188 |
+| On the Exaltation of the Life-Giving Cross | 11th c. | 2637 | 122 |
+| Book of Baruch | 12th c. | 4154 | 184 |
+| Epistle to the Antiochians by Ignatius the God-Bearer | 12th–13th c. | 1486 | 63 |
+| **Total** | | **33479** | **1232** |
+
+The treebank's annotations align with the Universal Dependencies (UD) specifications, allowing for greater consistency and compatibility with other UD treebanks. Although the tokenization and segmentation principles of the original GLC corpus differ slightly from those of the UD, the UD_Old_Georgian-GLC treebank adopts UD-compliant tokenization and segmentation principles, including the treatment of multiword tokens.
 
 Morpho-syntactic annotations, as discussed in Lobzhanidze (2022), have been automatically adapted to UD requirements. This includes annotations for lemmas (LEMMA), part-of-speech categories (UPOS; XPOS), morphological features (FEATS), transliteration, and tokenization issues (MISC). Furthermore, heads of words (HEADS), dependency relations (DEPREL), and enhanced dependency graphs (DEPS) were automatically converted and then reviewed and manually corrected.
 
-The current version of the UD_Georgian-GLC treebank includes 151 utterances (sentences) consisting of 5809 tokens. These sentences served as a training set, enriching the treebank and offering a more comprehensive representation of the Old Georgian language. The primary objective is to provide a more comprehensive and representative dataset for training and analysis purposes.
+The current treebank is divided into three datasets for training, development, and evaluation, following the Universal Dependencies framework.
 
+Training set (train): 734 sentences, 20937 syntactic words.
+
+Development set (dev): 122 sentences, 2577 syntactic words.
+
+Test set (test): 376 sentences, 10116 syntactic words.
+
+
+# Contributors
+
+The development, annotation, expansion, and refinement of the Old Georgian UD Treebank have been carried out by the following contributors: Prof. Dr. Nino Doborjginidze, Natia Dundua (PhD), Anamaria Glonti (PhD student) and Prof. Dr. Irina Lobzhanidze
 
 # Acknowledgments
 
-The UD_Georgian-GLC release is based on the data from the Georgian Language Corpus (GLC) developed with the financial support of the Shota Rustaveli National Science Foundation (Project Nos. DP2016_23, LE/17/1-30/13, AR/320/4-105/11, Y-04-10).
+The UD_Old_Georgian-GLC release is based on the data from the Georgian Language Corpus (GLC) developed with the financial support of the Shota Rustaveli National Science Foundation (Project Nos. DP2016_23, LE/17/1-30/13, AR/320/4-105/11, Y-04-10).
 
-Special gratitudes goes to Prof. Dr. Dan Zeman for his invaluable contributions in making the dataset available on GitHub and offering valuable suggestions.
+Special gratitudes goes to Prof. Dr. Dan Zeman for his invaluable contributions in making the language and dataset available on GitHub and offering valuable suggestions.
 
 ## References
 
@@ -30,6 +52,10 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 
 
 # Changelog
+
+* 2026-30-10 v2.19
+  * Update to README.md
+  * Addition of 1232 utterances 
 
 * 2026-14-18 v2.18
   * Update to README.md
